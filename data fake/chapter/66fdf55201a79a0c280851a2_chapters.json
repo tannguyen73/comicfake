@@ -1,0 +1,797 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "66fe17de01a79a122431c764",
+            "Name": "Chương 132: 132: Ngoại Truyện 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17dc01a79a122431c762",
+            "Name": "Chương 131: 131: Ngoại Truyện 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17da01a79a122431c760",
+            "Name": "Chương 130: 130: Ngoại Truyện 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17d801a79a122431c75e",
+            "Name": "Chương 129: 129: Ngoại Truyện 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17d501a79a122431c75c",
+            "Name": "Chương 128: 128: Ngoại Truyện 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17d301a79a122431c75a",
+            "Name": "Chương 127: 127: Ngoại Truyện 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17d001a79a122431c758",
+            "Name": "Chương 126: 126: Ngoại Truyện 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17ce01a79a122431c756",
+            "Name": "Chương 125: 125: Ngoại Truyện 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17cc01a79a122431c754",
+            "Name": "Chương 124: 124: Ngoại Truyện 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17c901a79a122431c752",
+            "Name": "Chương 123: 123: Hoàn Chính Văn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17c701a79a122431c750",
+            "Name": "Chương 122: Chương 122",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17c501a79a122431c74e",
+            "Name": "Chương 121: Chương 121",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17c301a79a122431c74c",
+            "Name": "Chương 120: Chương 120",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17c001a79a122431c74a",
+            "Name": "Chương 119: Chương 119",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17be01a79a122431c748",
+            "Name": "Chương 118: Chương 118",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17bb01a79a122431c746",
+            "Name": "Chương 117: Chương 117",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17b901a79a122431c744",
+            "Name": "Chương 116: Chương 116",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17b601a79a122431c742",
+            "Name": "Chương 115: Chương 115",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17b401a79a122431c740",
+            "Name": "Chương 114: Chương 114",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17b101a79a122431c73e",
+            "Name": "Chương 113: Chương 113",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17af01a79a122431c73c",
+            "Name": "Chương 112: Chương 112",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17ad01a79a122431c73a",
+            "Name": "Chương 111: Chương 111",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17aa01a79a122431c738",
+            "Name": "Chương 110: Chương 110",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17a701a79a122431c736",
+            "Name": "Chương 109: Chương 109",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17a501a79a122431c734",
+            "Name": "Chương 108: Chương 108",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17a301a79a122431c732",
+            "Name": "Chương 107: Chương 107",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe17a101a79a122431c730",
+            "Name": "Chương 106: Chương 106",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179e01a79a122431c72e",
+            "Name": "Chương 105: Chương 105",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179c01a79a122431c72c",
+            "Name": "Chương 104: Chương 104",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179901a79a122431c72a",
+            "Name": "Chương 103: Chương 103",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179701a79a122431c728",
+            "Name": "Chương 102: Chương 102",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179501a79a122431c726",
+            "Name": "Chương 101: Chương 101",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe179201a79a122431c724",
+            "Name": "Chương 100: Chương 100",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178f01a79a122431c722",
+            "Name": "Chương 99: Chương 99",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178d01a79a122431c720",
+            "Name": "Chương 98: Chương 98",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178b01a79a122431c71e",
+            "Name": "Chương 97: Chương 97",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178801a79a122431c71c",
+            "Name": "Chương 96: Chương 96",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178601a79a122431c71a",
+            "Name": "Chương 95: Chương 95",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178401a79a122431c718",
+            "Name": "Chương 94: Chương 94",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe178201a79a122431c716",
+            "Name": "Chương 93: Chương 93",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177f01a79a122431c714",
+            "Name": "Chương 92: Chương 92",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177d01a79a122431c712",
+            "Name": "Chương 91: Chương 91",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177a01a79a122431c710",
+            "Name": "Chương 90: Chương 90",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177801a79a122431c70e",
+            "Name": "Chương 89: Chương 89",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177501a79a122431c70c",
+            "Name": "Chương 88: Chương 88",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177301a79a122431c70a",
+            "Name": "Chương 87: Chương 87",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe177101a79a122431c708",
+            "Name": "Chương 86: Chương 86",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176e01a79a122431c706",
+            "Name": "Chương 85: Chương 85",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176c01a79a122431c704",
+            "Name": "Chương 84: Chương 84",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176a01a79a122431c702",
+            "Name": "Chương 83: Chương 83",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176701a79a122431c700",
+            "Name": "Chương 82: Chương 82",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176501a79a122431c6fe",
+            "Name": "Chương 81: Chương 81",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176301a79a122431c6fc",
+            "Name": "Chương 80: Chương 80",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe176001a79a122431c6fa",
+            "Name": "Chương 79: Chương 79",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175e01a79a122431c6f8",
+            "Name": "Chương 78: Chương 78",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175b01a79a122431c6f6",
+            "Name": "Chương 77: Chương 77",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175901a79a122431c6f4",
+            "Name": "Chương 76: Chương 76",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175601a79a122431c6f2",
+            "Name": "Chương 75: Chương 75",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175401a79a122431c6f0",
+            "Name": "Chương 74: Chương 74",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe175201a79a122431c6ee",
+            "Name": "Chương 73: Chương 73",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174f01a79a122431c6ec",
+            "Name": "Chương 72: Chương 72",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174d01a79a122431c6ea",
+            "Name": "Chương 71: Chương 71",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174a01a79a122431c6e8",
+            "Name": "Chương 70: Chương 70",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174801a79a122431c6e6",
+            "Name": "Chương 69: Chương 69",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174501a79a122431c6e4",
+            "Name": "Chương 68: Chương 68",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174301a79a122431c6e2",
+            "Name": "Chương 67: Chương 67",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe174101a79a122431c6e0",
+            "Name": "Chương 66: Chương 66",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173f01a79a122431c6de",
+            "Name": "Chương 65: Chương 65",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173c01a79a122431c6dc",
+            "Name": "Chương 64: Chương 64",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173901a79a122431c6da",
+            "Name": "Chương 63: Chương 63",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173701a79a122431c6d8",
+            "Name": "Chương 62: Chương 62",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173301a79a122431c6d6",
+            "Name": "Chương 61: Chương 61",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe173001a79a122431c6d4",
+            "Name": "Chương 60: Chương 60",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe172d01a79a122431c6d2",
+            "Name": "Chương 59: Chương 59",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe172b01a79a122431c6d0",
+            "Name": "Chương 58: Chương 58",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe172601a79a122431c6ce",
+            "Name": "Chương 57: Chương 57",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe172401a79a122431c6cc",
+            "Name": "Chương 56: Chương 56",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe172101a79a122431c6ca",
+            "Name": "Chương 55: Chương 55",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171f01a79a122431c6c8",
+            "Name": "Chương 54: Chương 54",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171b01a79a122431c6c6",
+            "Name": "Chương 53: Chương 53",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171801a79a122431c6c4",
+            "Name": "Chương 52: Chương 52",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171501a79a122431c6c2",
+            "Name": "Chương 51: Chương 51",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171301a79a122431c6c0",
+            "Name": "Chương 50: Chương 50",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe171101a79a122431c6be",
+            "Name": "Chương 49: Chương 49",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170e01a79a122431c6bc",
+            "Name": "Chương 48: Chương 48",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170c01a79a122431c6ba",
+            "Name": "Chương 47: Chương 47",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170a01a79a122431c6b8",
+            "Name": "Chương 46: Chương 46",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170701a79a122431c6b6",
+            "Name": "Chương 45: Chương 45",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170501a79a122431c6b4",
+            "Name": "Chương 44: Chương 44",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170201a79a122431c6b2",
+            "Name": "Chương 43: Chương 43",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe170001a79a122431c6b0",
+            "Name": "Chương 42: Chương 42",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16fd01a79a122431c6ae",
+            "Name": "Chương 41: Chương 41",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16fb01a79a122431c6ac",
+            "Name": "Chương 40: Chương 40",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16f901a79a122431c6aa",
+            "Name": "Chương 39: Chương 39",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16f601a79a122431c6a8",
+            "Name": "Chương 38: Chương 38",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16f401a79a122431c6a6",
+            "Name": "Chương 37: Chương 37",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16f201a79a122431c6a4",
+            "Name": "Chương 36: Chương 36",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16ef01a79a122431c6a2",
+            "Name": "Chương 35: Chương 35",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16ed01a79a122431c6a0",
+            "Name": "Chương 34: Chương 34",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16eb01a79a122431c69e",
+            "Name": "Chương 33: Chương 33",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16e901a79a122431c69c",
+            "Name": "Chương 32: Chương 32",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16e601a79a122431c69a",
+            "Name": "Chương 31: Chương 31",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16e401a79a122431c698",
+            "Name": "Chương 30: Chương 30",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16e201a79a122431c696",
+            "Name": "Chương 29: Chương 29",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16df01a79a122431c694",
+            "Name": "Chương 28: Chương 28",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16dd01a79a122431c692",
+            "Name": "Chương 27: Chương 27",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16db01a79a122431c690",
+            "Name": "Chương 26: Chương 26",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16d901a79a122431c68e",
+            "Name": "Chương 25: Chương 25",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16d701a79a122431c68c",
+            "Name": "Chương 24: Chương 24",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16d401a79a122431c68a",
+            "Name": "Chương 23: Chương 23",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16d201a79a122431c688",
+            "Name": "Chương 22: Chương 22",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16d001a79a122431c686",
+            "Name": "Chương 21: Chương 21",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16ce01a79a122431c684",
+            "Name": "Chương 20: Chương 20",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16cb01a79a122431c682",
+            "Name": "Chương 19: Chương 19",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16c901a79a122431c680",
+            "Name": "Chương 18: Chương 18",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16c701a79a122431c67e",
+            "Name": "Chương 17: Chương 17",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16c501a79a122431c67c",
+            "Name": "Chương 16: Chương 16",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16c201a79a122431c67a",
+            "Name": "Chương 15: Chương 15",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16c001a79a122431c678",
+            "Name": "Chương 14: Chương 14",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16be01a79a122431c676",
+            "Name": "Chương 13: Chương 13",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16bb01a79a122431c674",
+            "Name": "Chương 12: Chương 12",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16b901a79a122431c672",
+            "Name": "Chương 11: Chương 11",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16b701a79a122431c670",
+            "Name": "Chương 10: Chương 10",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16b501a79a122431c66e",
+            "Name": "Chương 9: Chương 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16b201a79a122431c66c",
+            "Name": "Chương 8: Chương 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16b001a79a122431c66a",
+            "Name": "Chương 7: Chương 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16ae01a79a122431c668",
+            "Name": "Chương 6: Chương 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16ac01a79a122431c666",
+            "Name": "Chương 5: Chương 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16a901a79a122431c664",
+            "Name": "Chương 4: Chương 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16a701a79a122431c662",
+            "Name": "Chương 3: Chương 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16a501a79a122431c660",
+            "Name": "Chương 2: Chương 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "66fe16a301a79a122431c65e",
+            "Name": "Chương 1: Chương 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

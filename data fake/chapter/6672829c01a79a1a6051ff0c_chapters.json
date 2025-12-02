@@ -1,0 +1,4763 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "667286c601a79a1a60520226",
+            "Name": "Chương 793 – Livestream khám phá linh hồn – kết 86",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520225",
+            "Name": "Chương 792 – Livestream khám phá linh hồn 85",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520224",
+            "Name": "Chương 791 – Livestream khám phá linh hồn 84",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520223",
+            "Name": "Chương 790 – Livestream khám phá linh hồn 83",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520222",
+            "Name": "Chương 789 – Livestream khám phá linh hồn 82",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520221",
+            "Name": "Chương 788 – Livestream khám phá linh hồn 81",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520220",
+            "Name": "Chương 787 – Livestream khám phá linh hồn 80",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021f",
+            "Name": "Chương 786 – Livestream khám phá linh hồn 79",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021e",
+            "Name": "Chương 785 – Livestream khám phá linh hồn 78",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021d",
+            "Name": "Chương 784 – Livestream khám phá linh hồn 77",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021c",
+            "Name": "Chương 783 – Livestream khám phá linh hồn 76",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021b",
+            "Name": "Chương 782 – Livestream khám phá linh hồn 75",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052021a",
+            "Name": "Chương 781 – Livestream khám phá linh hồn 74",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520219",
+            "Name": "Chương 780 – Livestream khám phá linh hồn 73",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520218",
+            "Name": "Chương 779 – Livestream khám phá linh hồn 72",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520217",
+            "Name": "Chương 778 – Livestream khám phá linh hồn 71",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520216",
+            "Name": "Chương 777 – Livestream khám phá linh hồn 70",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520215",
+            "Name": "Chương 776 – Livestream khám phá linh hồn 69",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520214",
+            "Name": "Chương 775 – Livestream khám phá linh hồn 68",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520213",
+            "Name": "Chương 774 – Livestream khám phá linh hồn 67",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520212",
+            "Name": "Chương 773 – Livestream khám phá linh hồn 66",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520211",
+            "Name": "Chương 772 – Livestream khám phá linh hồn 65",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520210",
+            "Name": "Chương 771 – Livestream khám phá linh hồn 64",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020f",
+            "Name": "Chương 770 – Livestream khám phá linh hồn 63",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020e",
+            "Name": "Chương 769 – Livestream khám phá linh hồn 62",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020d",
+            "Name": "Chương 768 – Livestream khám phá linh hồn 61",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020c",
+            "Name": "Chương 767 – Livestream khám phá linh hồn 60",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020b",
+            "Name": "Chương 766 – Livestream khám phá linh hồn 59",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052020a",
+            "Name": "Chương 765 – Livestream khám phá linh hồn 58",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520209",
+            "Name": "Chương 764 – Livestream khám phá linh hồn 57",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520208",
+            "Name": "Chương 763 – Livestream khám phá linh hồn 56",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520207",
+            "Name": "Chương 762 – Livestream khám phá linh hồn 55",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520206",
+            "Name": "Chương 761 – Livestream khám phá linh hồn 54",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520205",
+            "Name": "Chương 760 – Livestream khám phá linh hồn 53",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520204",
+            "Name": "Chương 759 – Livestream khám phá linh hồn 52",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520203",
+            "Name": "Chương 758 – Livestream khám phá linh hồn 51",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520202",
+            "Name": "Chương 757 – Livestream khám phá linh hồn 50",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520201",
+            "Name": "Chương 756 – Livestream khám phá linh hồn 49",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520200",
+            "Name": "Chương 755 – Livestream khám phá linh hồn 48",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ff",
+            "Name": "Chương 754 – Livestream khám phá linh hồn 47",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201fe",
+            "Name": "Chương 753 – Livestream khám phá linh hồn 46",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201fd",
+            "Name": "Chương 752 – Livestream khám phá linh hồn 45",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201fc",
+            "Name": "Chương 751 – Livestream khám phá linh hồn 44",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201fb",
+            "Name": "Chương 750 – Livestream khám phá linh hồn 43",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201fa",
+            "Name": "Chương 749 – Livestream khám phá linh hồn 42",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f9",
+            "Name": "Chương 748 – Livestream khám phá linh hồn 41",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f8",
+            "Name": "Chương 747 – Livestream khám phá linh hồn 40",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f7",
+            "Name": "Chương 746 – Livestream khám phá linh hồn 39",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f6",
+            "Name": "Chương 745 – Livestream khám phá linh hồn 38",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f5",
+            "Name": "Chương 744 – Livestream khám phá linh hồn 37",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f4",
+            "Name": "Chương 743 – Livestream khám phá linh hồn 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f3",
+            "Name": "Chương 742 – Livestream khám phá linh hồn 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f2",
+            "Name": "Chương 741 – Livestream khám phá linh hồn 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f1",
+            "Name": "Chương 740 – Livestream khám phá linh hồn 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201f0",
+            "Name": "Chương 739 – Livestream khám phá linh hồn 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ef",
+            "Name": "Chương 738 – Livestream khám phá linh hồn 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ee",
+            "Name": "Chương 737 – Livestream khám phá linh hồn 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ed",
+            "Name": "Chương 736 – Livestream khám phá linh hồn 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ec",
+            "Name": "Chương 735 – Livestream khám phá linh hồn 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201eb",
+            "Name": "Chương 734 – Livestream khám phá linh hồn 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ea",
+            "Name": "Chương 733 – Livestream khám phá linh hồn 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e9",
+            "Name": "Chương 732 – Livestream khám phá linh hồn 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e8",
+            "Name": "Chương 731 – Livestream khám phá linh hồn 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e7",
+            "Name": "Chương 730 – Livestream khám phá linh hồn 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e6",
+            "Name": "Chương 729 – Livestream khám phá linh hồn 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e5",
+            "Name": "Chương 728 – Livestream khám phá linh hồn 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e4",
+            "Name": "Chương 727 – Livestream khám phá linh hồn 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e3",
+            "Name": "Chương 726 – Livestream khám phá linh hồn 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e2",
+            "Name": "Chương 725 – Livestream khám phá linh hồn 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e1",
+            "Name": "Chương 724 – Livestream khám phá linh hồn 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201e0",
+            "Name": "Chương 723 – Livestream khám phá linh hồn 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201df",
+            "Name": "Chương 722 – Livestream khám phá linh hồn 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201de",
+            "Name": "Chương 721 – Livestream khám phá linh hồn 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201dd",
+            "Name": "Chương 720 – Livestream khám phá linh hồn 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201dc",
+            "Name": "Chương 719 – Livestream khám phá linh hồn 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201db",
+            "Name": "Chương 718 – Livestream khám phá linh hồn 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201da",
+            "Name": "Chương 717 – Livestream khám phá linh hồn 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d9",
+            "Name": "Chương 716 – Livestream khám phá linh hồn 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d8",
+            "Name": "Chương 715 – Livestream khám phá linh hồn 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d7",
+            "Name": "Chương 714 – Livestream khám phá linh hồn 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d6",
+            "Name": "Chương 713 – Livestream khám phá linh hồn 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d5",
+            "Name": "Chương 712 – Livestream khám phá linh hồn 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d4",
+            "Name": "Chương 711 – Livestream khám phá linh hồn 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d3",
+            "Name": "Chương 710 – Livestream khám phá linh hồn 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d2",
+            "Name": "Chương 709 – Livestream khám phá linh hồn 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d1",
+            "Name": "Chương 708 – Phó bản nhập vai: Livestream khám phá linh hồn 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201d0",
+            "Name": "Chương 707 – Cuộc chiến sinh tồn trong mê cung – kết 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201cf",
+            "Name": "Chương 706 – Cuộc chiến sinh tồn trong mê cung 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ce",
+            "Name": "Chương 705 – Cuộc chiến sinh tồn trong mê cung 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201cd",
+            "Name": "Chương 704 – Cuộc chiến sinh tồn trong mê cung 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201cc",
+            "Name": "Chương 703 – Cuộc chiến sinh tồn trong mê cung 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201cb",
+            "Name": "Chương 702 – Cuộc chiến sinh tồn trong mê cung 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ca",
+            "Name": "Chương 701 – Cuộc chiến sinh tồn trong mê cung 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c9",
+            "Name": "Chương 700 – Cuộc chiến sinh tồn trong mê cung 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c8",
+            "Name": "Chương 699 – Cuộc chiến sinh tồn trong mê cung 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c7",
+            "Name": "Chương 698 – Cuộc chiến sinh tồn trong mê cung 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c6",
+            "Name": "Chương 697 – Cuộc chiến sinh tồn trong mê cung 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c5",
+            "Name": "Chương 696 – Cuộc chiến sinh tồn trong mê cung 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c4",
+            "Name": "Chương 695 – Cuộc chiến sinh tồn trong mê cung 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c3",
+            "Name": "Chương 694 – Cuộc chiến sinh tồn trong mê cung 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c2",
+            "Name": "Chương 693 – Phó bản thường: Cuộc chiến sinh tồn trong mê cung 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c1",
+            "Name": "Chương 692 – Bộ phim tuyệt vọng – kết 56",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201c0",
+            "Name": "Chương 691 – Bộ phim tuyệt vọng 55",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201bf",
+            "Name": "Chương 690 – Bộ phim tuyệt vọng 54",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201be",
+            "Name": "Chương 689 – Bộ phim tuyệt vọng 53",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201bd",
+            "Name": "Chương 688 – Bộ phim tuyệt vọng 52",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201bc",
+            "Name": "Chương 687 – Bộ phim tuyệt vọng 51",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201bb",
+            "Name": "Chương 686 – Bộ phim tuyệt vọng 50",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ba",
+            "Name": "Chương 685 – Bộ phim tuyệt vọng 49",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b9",
+            "Name": "Chương 684 – Bộ phim tuyệt vọng 48",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b8",
+            "Name": "Chương 683 – Bộ phim tuyệt vọng 47",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b7",
+            "Name": "Chương 682 – Bộ phim tuyệt vọng 46",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b6",
+            "Name": "Chương 681 – Bộ phim tuyệt vọng 45",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b5",
+            "Name": "Chương 680 – Bộ phim tuyệt vọng 44",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b4",
+            "Name": "Chương 679 – Bộ phim tuyệt vọng 43",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b3",
+            "Name": "Chương 678 – Bộ phim tuyệt vọng 42",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b2",
+            "Name": "Chương 677 – Bộ phim tuyệt vọng 41",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b1",
+            "Name": "Chương 676 – Bộ phim tuyệt vọng 40",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201b0",
+            "Name": "Chương 675 – Bộ phim tuyệt vọng 39",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201af",
+            "Name": "Chương 674 – Bộ phim tuyệt vọng 38",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ae",
+            "Name": "Chương 673 – Bộ phim tuyệt vọng 37",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ad",
+            "Name": "Chương 672 – Bộ phim tuyệt vọng 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ac",
+            "Name": "Chương 671 – Bộ phim tuyệt vọng 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201ab",
+            "Name": "Chương 670 – Bộ phim tuyệt vọng 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201aa",
+            "Name": "Chương 669 – Bộ phim tuyệt vọng 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a9",
+            "Name": "Chương 668 – Bộ phim tuyệt vọng 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a8",
+            "Name": "Chương 667 – Bộ phim tuyệt vọng 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a7",
+            "Name": "Chương 666 – Bộ phim tuyệt vọng 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a6",
+            "Name": "Chương 665 – Bộ phim tuyệt vọng 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a5",
+            "Name": "Chương 664 – Bộ phim tuyệt vọng 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a4",
+            "Name": "Chương 663 – Bộ phim tuyệt vọng 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a3",
+            "Name": "Chương 662 – Bộ phim tuyệt vọng 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a2",
+            "Name": "Chương 661 – Bộ phim tuyệt vọng 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a1",
+            "Name": "Chương 660 – Bộ phim tuyệt vọng 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a605201a0",
+            "Name": "Chương 659 – Bộ phim tuyệt vọng 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019f",
+            "Name": "Chương 658 – Bộ phim tuyệt vọng 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019e",
+            "Name": "Chương 657 – Bộ phim tuyệt vọng 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019d",
+            "Name": "Chương 656 – Bộ phim tuyệt vọng 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019c",
+            "Name": "Chương 655 – Bộ phim tuyệt vọng 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019b",
+            "Name": "Chương 654 – Bộ phim tuyệt vọng 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052019a",
+            "Name": "Chương 653 – Bộ phim tuyệt vọng 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520199",
+            "Name": "Chương 652 – Bộ phim tuyệt vọng 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520198",
+            "Name": "Chương 651 – Bộ phim tuyệt vọng 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520197",
+            "Name": "Chương 650 – Bộ phim tuyệt vọng 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520196",
+            "Name": "Chương 649 – Bộ phim tuyệt vọng 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520195",
+            "Name": "Chương 648 – Bộ phim tuyệt vọng 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520194",
+            "Name": "Chương 647 – Bộ phim tuyệt vọng 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520193",
+            "Name": "Chương 646 – Bộ phim tuyệt vọng 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520192",
+            "Name": "Chương 645 – Bộ phim tuyệt vọng 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520191",
+            "Name": "Chương 644 – Bộ phim tuyệt vọng 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520190",
+            "Name": "Chương 643 – Bộ phim tuyệt vọng 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018f",
+            "Name": "Chương 642 – Bộ phim tuyệt vọng 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018e",
+            "Name": "Chương 641 – Bộ phim tuyệt vọng 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018d",
+            "Name": "Chương 640 – Bộ phim tuyệt vọng 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018c",
+            "Name": "Chương 639 – Bộ phim tuyệt vọng 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018b",
+            "Name": "Chương 638 – Bộ phim tuyệt vọng 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a6052018a",
+            "Name": "Chương 637 – Bộ phim tuyệt vọng 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520189",
+            "Name": "Chương 636 – Phó bản nhập vai: Bộ phim tuyệt vọng 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520188",
+            "Name": "Chương 635 – Sẵn sàng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520187",
+            "Name": "Chương 634 – Đọc thư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520186",
+            "Name": "Chương 633 – Suy tư về đạo cụ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286c601a79a1a60520185",
+            "Name": "Chương 632 – Nhân viên ngủ thử khách sạn – kết 42",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520184",
+            "Name": "Chương 631 – Nhân viên ngủ thử khách sạn 41",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520183",
+            "Name": "Chương 630 – Nhân viên ngủ thử khách sạn 40",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520182",
+            "Name": "Chương 629 – Nhân viên ngủ thử khách sạn 39",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520181",
+            "Name": "Chương 628 – Nhân viên ngủ thử khách sạn 38",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520180",
+            "Name": "Chương 627 – Nhân viên ngủ thử khách sạn 37",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017f",
+            "Name": "Chương 626 – Nhân viên ngủ thử khách sạn 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017e",
+            "Name": "Chương 625 – Nhân viên ngủ thử khách sạn 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017d",
+            "Name": "Chương 624 – Nhân viên ngủ thử khách sạn 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017c",
+            "Name": "Chương 623 – Nhân viên ngủ thử khách sạn 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017b",
+            "Name": "Chương 622 – Nhân viên ngủ thử khách sạn 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052017a",
+            "Name": "Chương 621 – Nhân viên ngủ thử khách sạn 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520179",
+            "Name": "Chương 620 – Nhân viên ngủ thử khách sạn 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520178",
+            "Name": "Chương 619 – Nhân viên ngủ thử khách sạn 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520177",
+            "Name": "Chương 618 – Nhân viên ngủ thử khách sạn 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520176",
+            "Name": "Chương 617 – Nhân viên ngủ thử khách sạn 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520175",
+            "Name": "Chương 616 – Nhân viên ngủ thử khách sạn 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520174",
+            "Name": "Chương 615 – Nhân viên ngủ thử khách sạn 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520173",
+            "Name": "Chương 614 – Nhân viên ngủ thử khách sạn 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520172",
+            "Name": "Chương 613 – Nhân viên ngủ thử khách sạn 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520171",
+            "Name": "Chương 612 – Nhân viên ngủ thử khách sạn 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520170",
+            "Name": "Chương 611 – Nhân viên ngủ thử khách sạn 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016f",
+            "Name": "Chương 610 – Nhân viên ngủ thử khách sạn 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016e",
+            "Name": "Chương 609 – Nhân viên ngủ thử khách sạn 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016d",
+            "Name": "Chương 608 – Nhân viên ngủ thử khách sạn 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016c",
+            "Name": "Chương 607 – Nhân viên ngủ thử khách sạn 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016b",
+            "Name": "Chương 606 – Nhân viên ngủ thử khách sạn 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052016a",
+            "Name": "Chương 605 – Nhân viên ngủ thử khách sạn 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520169",
+            "Name": "Chương 604 – Nhân viên ngủ thử khách sạn 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520168",
+            "Name": "Chương 603 – Nhân viên ngủ thử khách sạn 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520167",
+            "Name": "Chương 602 – Nhân viên ngủ thử khách sạn 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520166",
+            "Name": "Chương 601 – Nhân viên ngủ thử khách sạn 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520165",
+            "Name": "Chương 600 – Nhân viên ngủ thử khách sạn 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520164",
+            "Name": "Chương 599 – Nhân viên ngủ thử khách sạn 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520163",
+            "Name": "Chương 598 – Nhân viên ngủ thử khách sạn 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520162",
+            "Name": "Chương 597 – Nhân viên ngủ thử khách sạn 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520161",
+            "Name": "Chương 596 – Nhân viên ngủ thử khách sạn 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520160",
+            "Name": "Chương 595 – Nhân viên ngủ thử khách sạn 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015f",
+            "Name": "Chương 594 – Nhân viên ngủ thử khách sạn 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015e",
+            "Name": "Chương 593 – Nhân viên ngủ thử khách sạn 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015d",
+            "Name": "Chương 592 – Nhân viên ngủ thử khách sạn 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015c",
+            "Name": "Chương 591 – Nhân viên ngủ thử khách sạn 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015b",
+            "Name": "Chương 590 – Phó bản linh dị: Nhân viên ngủ thử khách sạn 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052015a",
+            "Name": "Chương 589 – Đại hội thể thao học đường – kết 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520159",
+            "Name": "Chương 588 – Đại hội thể thao học đường 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520158",
+            "Name": "Chương 587 – Đại hội thể thao học đường 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520157",
+            "Name": "Chương 586 – Đại hội thể thao học đường 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520156",
+            "Name": "Chương 585 – Đại hội thể thao học đường 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520155",
+            "Name": "Chương 584 – Đại hội thể thao học đường 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520154",
+            "Name": "Chương 583 – Đại hội thể thao học đường 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520153",
+            "Name": "Chương 582 – Đại hội thể thao học đường 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520152",
+            "Name": "Chương 581 – Đại hội thể thao học đường 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520151",
+            "Name": "Chương 580 – Đại hội thể thao học đường 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520150",
+            "Name": "Chương 579 – Đại hội thể thao học đường 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014f",
+            "Name": "Chương 578 – Đại hội thể thao học đường 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014e",
+            "Name": "Chương 577 – Đại hội thể thao học đường 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014d",
+            "Name": "Chương 576 – Đại hội thể thao học đường 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014c",
+            "Name": "Chương 575 – Đại hội thể thao học đường 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014b",
+            "Name": "Chương 574 – Đại hội thể thao học đường 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052014a",
+            "Name": "Chương 573 – Đại hội thể thao học đường 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520149",
+            "Name": "Chương 572 – Đại hội thể thao học đường 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520148",
+            "Name": "Chương 571 – Đại hội thể thao học đường 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520147",
+            "Name": "Chương 570 – Đại hội thể thao học đường 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520146",
+            "Name": "Chương 569 – Đại hội thể thao học đường 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520145",
+            "Name": "Chương 568 – Đại hội thể thao học đường 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520144",
+            "Name": "Chương 567 – Đại hội thể thao học đường 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520143",
+            "Name": "Chương 566 – Phó bản linh dị: Đại hội thể thao học đường 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520142",
+            "Name": "Chương 565 – Khởi động lại hội Minh Dương 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520141",
+            "Name": "Chương 564 – Khởi động lại hội Minh Dương 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520140",
+            "Name": "Chương 563 – Dấu vết cuộc đời cha mẹ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013f",
+            "Name": "Chương 562 – Thừa kế căn phòng 4666",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013e",
+            "Name": "Chương 561 – Du thuyền bán nguyệt – kết 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013d",
+            "Name": "Chương 560 – Du thuyền bán nguyệt 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013c",
+            "Name": "Chương 559 – Du thuyền bán nguyệt 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013b",
+            "Name": "Chương 558 – Du thuyền bán nguyệt 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052013a",
+            "Name": "Chương 557 – Du thuyền bán nguyệt 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520139",
+            "Name": "Chương 556 – Du thuyền bán nguyệt 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520138",
+            "Name": "Chương 555 – Du thuyền bán nguyệt 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520137",
+            "Name": "Chương 554 – Du thuyền bán nguyệt 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520136",
+            "Name": "Chương 553 – Du thuyền bán nguyệt 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520135",
+            "Name": "Chương 552 – Du thuyền bán nguyệt 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520134",
+            "Name": "Chương 551 – Du thuyền bán nguyệt 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520133",
+            "Name": "Chương 550 – Du thuyền bán nguyệt 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520132",
+            "Name": "Chương 549 – Du thuyền bán nguyệt 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520131",
+            "Name": "Chương 548 – Du thuyền bán nguyệt 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520130",
+            "Name": "Chương 547 – Du thuyền bán nguyệt 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012f",
+            "Name": "Chương 546 – Du thuyền bán nguyệt 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012e",
+            "Name": "Chương 545 – Du thuyền bán nguyệt 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012d",
+            "Name": "Chương 544 – Du thuyền bán nguyệt 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012c",
+            "Name": "Chương 543 – Du thuyền bán nguyệt 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012b",
+            "Name": "Chương 542 – Du thuyền bán nguyệt 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052012a",
+            "Name": "Chương 541 – Du thuyền bán nguyệt 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520129",
+            "Name": "Chương 540 – Du thuyền bán nguyệt 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520128",
+            "Name": "Chương 539 – Du thuyền bán nguyệt 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520127",
+            "Name": "Chương 538 – Du thuyền bán nguyệt 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520126",
+            "Name": "Chương 537 – Du thuyền bán nguyệt 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520125",
+            "Name": "Chương 536 – Du thuyền bán nguyệt 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520124",
+            "Name": "Chương 535 – Du thuyền bán nguyệt 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520123",
+            "Name": "Chương 534 – Du thuyền bán nguyệt 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520122",
+            "Name": "Chương 533 – Du thuyền bán nguyệt 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520121",
+            "Name": "Chương 532 – Du thuyền bán nguyệt 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520120",
+            "Name": "Chương 531 – Phó bản bình thường: Du thuyền bán nguyệt 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011f",
+            "Name": "Chương 530 – Lỗi trò chơi 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011e",
+            "Name": "Chương 529 – Lỗi trò chơi 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011d",
+            "Name": "Chương 528 – Lỗi trò chơi 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011c",
+            "Name": "Chương 527 – Lỗi trò chơi 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011b",
+            "Name": "Chương 526 – Lỗi trò chơi 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052011a",
+            "Name": "Chương 525 – Lỗi trò chơi 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520119",
+            "Name": "Chương 524 – Lỗi trò chơi 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520118",
+            "Name": "Chương 523 – Kỳ thi cuối cùng của hộ lý – kết 46",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520117",
+            "Name": "Chương 522 – Kỳ thi cuối cùng của hộ lý 45",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520116",
+            "Name": "Chương 521 – Kỳ thi cuối cùng của hộ lý 44",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520115",
+            "Name": "Chương 520 – Kỳ thi cuối cùng của hộ lý 43",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520114",
+            "Name": "Chương 519 – Kỳ thi cuối cùng của hộ lý 42",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520113",
+            "Name": "Chương 518 – Kỳ thi cuối cùng của hộ lý 41",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520112",
+            "Name": "Chương 517 – Kỳ thi cuối cùng của hộ lý 40",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520111",
+            "Name": "Chương 516 – Kỳ thi cuối cùng của hộ lý 39",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520110",
+            "Name": "Chương 515 – Kỳ thi cuối cùng của hộ lý 38",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010f",
+            "Name": "Chương 514 – Kỳ thi cuối cùng của hộ lý 37",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010e",
+            "Name": "Chương 513 – Kỳ thi cuối cùng của hộ lý 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010d",
+            "Name": "Chương 512 – Kỳ thi cuối cùng của hộ lý 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010c",
+            "Name": "Chương 511 – Kỳ thi cuối cùng của hộ lý 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010b",
+            "Name": "Chương 510 – Kỳ thi cuối cùng của hộ lý 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a6052010a",
+            "Name": "Chương 509 – Kỳ thi cuối cùng của hộ lý 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520109",
+            "Name": "Chương 508 – Kỳ thi cuối cùng của hộ lý 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520108",
+            "Name": "Chương 507 – Kỳ thi cuối cùng của hộ lý 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520107",
+            "Name": "Chương 506 – Kỳ thi cuối cùng của hộ lý 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520106",
+            "Name": "Chương 505 – Kỳ thi cuối cùng của hộ lý 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520105",
+            "Name": "Chương 504 – Kỳ thi cuối cùng của hộ lý 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520104",
+            "Name": "Chương 503 – Kỳ thi cuối cùng của hộ lý 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520103",
+            "Name": "Chương 502 – Kỳ thi cuối cùng của hộ lý 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520102",
+            "Name": "Chương 501 – Kỳ thi cuối cùng của hộ lý 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520101",
+            "Name": "Chương 500 – Kỳ thi cuối cùng của hộ lý 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a60520100",
+            "Name": "Chương 499 – Kỳ thi cuối cùng của hộ lý 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ff",
+            "Name": "Chương 498 – Kỳ thi cuối cùng của hộ lý 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200fe",
+            "Name": "Chương 497 – Kỳ thi cuối cùng của hộ lý 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200fd",
+            "Name": "Chương 496 – Kỳ thi cuối cùng của hộ lý 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200fc",
+            "Name": "Chương 495 – Kỳ thi cuối cùng của hộ lý 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200fb",
+            "Name": "Chương 494 – Kỳ thi cuối cùng của hộ lý 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200fa",
+            "Name": "Chương 493 – Kỳ thi cuối cùng của hộ lý 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f9",
+            "Name": "Chương 492 – Kỳ thi cuối cùng của hộ lý 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f8",
+            "Name": "Chương 491 – Kỳ thi cuối cùng của hộ lý 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f7",
+            "Name": "Chương 490 – Kỳ thi cuối cùng của hộ lý 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f6",
+            "Name": "Chương 489 – Kỳ thi cuối cùng của hộ lý 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f5",
+            "Name": "Chương 488 – Kỳ thi cuối cùng của hộ lý 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f4",
+            "Name": "Chương 487 – Kỳ thi cuối cùng của hộ lý 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f3",
+            "Name": "Chương 486 – Kỳ thi cuối cùng của hộ lý 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f2",
+            "Name": "Chương 485 – Kỳ thi cuối cùng của hộ lý 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f1",
+            "Name": "Chương 484 – Kỳ thi cuối cùng của hộ lý 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200f0",
+            "Name": "Chương 483 – Kỳ thi cuối cùng của hộ lý 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ef",
+            "Name": "Chương 482 – Kỳ thi cuối cùng của hộ lý 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ee",
+            "Name": "Chương 481 – Kỳ thi cuối cùng của hộ lý 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ed",
+            "Name": "Chương 480 – Kỳ thi cuối cùng của hộ lý 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ec",
+            "Name": "Chương 479 – Kỳ thi cuối cùng của hộ lý 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200eb",
+            "Name": "Chương 478 – Phó bản nhập vai: Kỳ thi cuối cùng của hộ lý 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200ea",
+            "Name": "Chương 477 – Thoát khỏi đô thị – kết 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e9",
+            "Name": "Chương 476 – Thoát khỏi đô thị 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e8",
+            "Name": "Chương 475 – Thoát khỏi đô thị 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e7",
+            "Name": "Chương 474 – Thoát khỏi đô thị 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e6",
+            "Name": "Chương 473 – Thoát khỏi đô thị 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e5",
+            "Name": "Chương 472 – Thoát khỏi đô thị 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "667286b101a79a1a605200e4",
+            "Name": "Chương 471 – Thoát khỏi đô thị 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200e3",
+            "Name": "Chương 470 – Thoát khỏi đô thị 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200e2",
+            "Name": "Chương 469 – Thoát khỏi đô thị 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200e1",
+            "Name": "Chương 468 – Phó bản bình thường: Thoát khỏi đô thị 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200e0",
+            "Name": "Chương 467 – Lôi kéo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200df",
+            "Name": "Chương 466 – Họp hội 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200de",
+            "Name": "Chương 465 – Họp hội 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200dd",
+            "Name": "Chương 464 – Trả giá",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200dc",
+            "Name": "Chương 463 – Dạ vũ đeo mặt nạ – kết 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200db",
+            "Name": "Chương 462 – Dạ vũ đeo mặt nạ 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200da",
+            "Name": "Chương 461 – Dạ vũ đeo mặt nạ 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d9",
+            "Name": "Chương 460 – Dạ vũ đeo mặt nạ 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d8",
+            "Name": "Chương 459 – Dạ vũ đeo mặt nạ 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d7",
+            "Name": "Chương 458 – Dạ vũ đeo mặt nạ 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d6",
+            "Name": "Chương 457 – Dạ vũ đeo mặt nạ 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d5",
+            "Name": "Chương 456 – Dạ vũ đeo mặt nạ 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d4",
+            "Name": "Chương 455 – Dạ vũ đeo mặt nạ 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d3",
+            "Name": "Chương 454 – Dạ vũ đeo mặt nạ 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d2",
+            "Name": "Chương 453 – Dạ vũ đeo mặt nạ 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d1",
+            "Name": "Chương 452 – Dạ vũ đeo mặt nạ 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200d0",
+            "Name": "Chương 451 – Dạ vũ đeo mặt nạ 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200cf",
+            "Name": "Chương 450 – Dạ vũ đeo mặt nạ 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ce",
+            "Name": "Chương 449 – Dạ vũ đeo mặt nạ 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200cd",
+            "Name": "Chương 448 – Dạ vũ đeo mặt nạ 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200cc",
+            "Name": "Chương 447 – Phó bản linh dị: Dạ vũ đeo mặt nạ 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200cb",
+            "Name": "Chương 446 – Hội Hàn Thiên 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ca",
+            "Name": "Chương 445 – Hội Hàn Thiên 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c9",
+            "Name": "Chương 444 – Sự báo thù của Thụ Bạch Dật – kết 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c8",
+            "Name": "Chương 443 – Sự báo thù của Thụ Bạch Dật 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c7",
+            "Name": "Chương 442 – Sự báo thù của Thụ Bạch Dật 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c6",
+            "Name": "Chương 441 – Sự báo thù của Thụ Bạch Dật 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c5",
+            "Name": "Chương 440 – Ngó sen mặt người – Kết 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c4",
+            "Name": "Chương 439 – Ngó sen mặt người 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c3",
+            "Name": "Chương 438 – Ngó sen mặt người 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c2",
+            "Name": "Chương 437 – Ngó sen mặt người 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c1",
+            "Name": "Chương 436 – Ngó sen mặt người 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200c0",
+            "Name": "Chương 435 – Ngó sen mặt người 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200bf",
+            "Name": "Chương 434 – Ngó sen mặt người 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200be",
+            "Name": "Chương 433 – Ngó sen mặt người 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200bd",
+            "Name": "Chương 432 – Ngó sen mặt người 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200bc",
+            "Name": "Chương 431 – Ngó sen mặt người 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200bb",
+            "Name": "Chương 430 – Ngó sen mặt người 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ba",
+            "Name": "Chương 429 – Ngó sen mặt người 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b9",
+            "Name": "Chương 428 – Ngó sen mặt người 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b8",
+            "Name": "Chương 427 – Ngó sen mặt người 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b7",
+            "Name": "Chương 426 – Ngó sen mặt người 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b6",
+            "Name": "Chương 425 – Ngó sen mặt người 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b5",
+            "Name": "Chương 424 – Ngó sen mặt người 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b4",
+            "Name": "Chương 423 – Ngó sen mặt người 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b3",
+            "Name": "Chương 422 – Ngó sen mặt người 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b2",
+            "Name": "Chương 421 – Ngó sen mặt người 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b1",
+            "Name": "Chương 420 – Ngó sen mặt người 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200b0",
+            "Name": "Chương 419 – Ngó sen mặt người 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200af",
+            "Name": "Chương 418 – Ngó sen mặt người 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ae",
+            "Name": "Chương 417 – Ngó sen mặt người 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ad",
+            "Name": "Chương 416 – Ngó sen mặt người 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ac",
+            "Name": "Chương 415 – Ngó sen mặt người 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200ab",
+            "Name": "Chương 414 – Ngó sen mặt người 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200aa",
+            "Name": "Chương 413 – Ngó sen mặt người 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a9",
+            "Name": "Chương 412 – Ngó sen mặt người 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a8",
+            "Name": "Chương 411 – Ngó sen mặt người 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a7",
+            "Name": "Chương 410 – Ngó sen mặt người 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a6",
+            "Name": "Chương 409 – Ngó sen mặt người 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a5",
+            "Name": "Chương 408 – Ngó sen mặt người 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a4",
+            "Name": "Chương 407 – Ngó sen mặt người 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a3",
+            "Name": "Chương 406 – Ngó sen mặt người 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a2",
+            "Name": "Chương 405 – Phó bản nhập vai: Ngó sen mặt người 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a1",
+            "Name": "Chương 404 – Ghi nhớ tên của mình 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a605200a0",
+            "Name": "Chương 403 – Ghi nhớ tên của mình 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009f",
+            "Name": "Chương 402 – Ngụy trang đạo cụ cất trữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009e",
+            "Name": "Chương 401 – Nhật ký ngày mưa axit – kết 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009d",
+            "Name": "Chương 400 – Nhật ký ngày mưa axit 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009c",
+            "Name": "Chương 399 – Nhật ký ngày mưa axit 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009b",
+            "Name": "Chương 398 – Nhật ký ngày mưa axit 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052009a",
+            "Name": "Chương 397 – Nhật ký ngày mưa axit 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520099",
+            "Name": "Chương 396 – Nhật ký ngày mưa axit 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520098",
+            "Name": "Chương 395 – Nhật ký ngày mưa axit 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520097",
+            "Name": "Chương 394 – Nhật ký ngày mưa axit 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520096",
+            "Name": "Chương 393 – Nhật ký ngày mưa axit 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520095",
+            "Name": "Chương 392 – Nhật ký ngày mưa axit 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520094",
+            "Name": "Chương 391 – Nhật ký ngày mưa axit 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520093",
+            "Name": "Chương 390 – Phó bản bình thường: Nhật ký ngày mưa axit 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520092",
+            "Name": "Chương 389 – Lá thư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520091",
+            "Name": "Chương 388 – Tứ giác – kết 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520090",
+            "Name": "Chương 387 – Tứ giác 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008f",
+            "Name": "Chương 386 – Tứ giác 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008e",
+            "Name": "Chương 385 – Tứ giác 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008d",
+            "Name": "Chương 384 – Tứ giác 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008c",
+            "Name": "Chương 383 – Tứ giác 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008b",
+            "Name": "Chương 382 – Tứ giác 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052008a",
+            "Name": "Chương 381 – Tứ giác 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520089",
+            "Name": "Chương 380 – Tứ giác 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520088",
+            "Name": "Chương 379 – Phó bản linh dị: Tứ giác 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520087",
+            "Name": "Chương 378 – Xe buýt tuyến 144 – kết 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520086",
+            "Name": "Chương 377 – Xe buýt tuyến 144 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520085",
+            "Name": "Chương 376 – Xe buýt tuyến 144 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520084",
+            "Name": "Chương 375 – Xe buýt tuyến 144 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520083",
+            "Name": "Chương 374 – Xe buýt tuyến 144 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520082",
+            "Name": "Chương 373 – Xe buýt tuyến 144 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520081",
+            "Name": "Chương 372 – Xe buýt tuyến 144 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520080",
+            "Name": "Chương 371 – Xe buýt tuyến 144 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007f",
+            "Name": "Chương 370 – Xe buýt tuyến 144 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007e",
+            "Name": "Chương 369 – Xe buýt tuyến 144 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007d",
+            "Name": "Chương 368 – Xe buýt tuyến 144 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007c",
+            "Name": "Chương 367 – Xe buýt tuyến 144 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007b",
+            "Name": "Chương 366 – Xe buýt tuyến 144 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052007a",
+            "Name": "Chương 365 – Xe buýt tuyến 144 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520079",
+            "Name": "Chương 364 – Xe buýt tuyến 144 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520078",
+            "Name": "Chương 363 – Xe buýt tuyến 144 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520077",
+            "Name": "Chương 362 – Xe buýt tuyến 144 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520076",
+            "Name": "Chương 361 – Phó bản linh dị: Xe buýt tuyến 144 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520075",
+            "Name": "Chương 360 – Thăm dò 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520074",
+            "Name": "Chương 359 – Thăm dò 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520073",
+            "Name": "Chương 358 – Lễ tế Long Vương-kết 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520072",
+            "Name": "Chương 357 – Lễ tế Long Vương 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520071",
+            "Name": "Chương 356 – Lễ tế Long Vương 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520070",
+            "Name": "Chương 355 – Lễ tế Long Vương 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006f",
+            "Name": "Chương 354 – Lễ tế Long Vương 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006e",
+            "Name": "Chương 353 – Lễ tế Long Vương 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006d",
+            "Name": "Chương 352 – Lễ tế Long Vương 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006c",
+            "Name": "Chương 351 – Lễ tế Long Vương 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006b",
+            "Name": "Chương 350 – Lễ tế Long Vương 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052006a",
+            "Name": "Chương 349 – Lễ tế Long Vương 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520069",
+            "Name": "Chương 348 – Lễ tế Long Vương 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520068",
+            "Name": "Chương 347 – Lễ tế Long Vương 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520067",
+            "Name": "Chương 346 – Lễ tế Long Vương 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520066",
+            "Name": "Chương 345 – Lễ tế Long Vương 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520065",
+            "Name": "Chương 344 – Lễ tế Long Vương 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520064",
+            "Name": "Chương 343 – Lễ tế Long Vương 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520063",
+            "Name": "Chương 342 – Lễ tế Long Vương 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520062",
+            "Name": "Chương 341 – Lễ tế Long Vương 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520061",
+            "Name": "Chương 340 – Lễ tế Long Vương 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520060",
+            "Name": "Chương 339 – Lễ tế Long Vương 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005f",
+            "Name": "Chương 338 – Lễ tế Long Vương 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005e",
+            "Name": "Chương 337 – Lễ tế Long Vương 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005d",
+            "Name": "Chương 336 – Lễ tế Long Vương 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005c",
+            "Name": "Chương 335 – Lễ tế Long Vương 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005b",
+            "Name": "Chương 334 – Lễ tế Long Vương 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052005a",
+            "Name": "Chương 333 – Lễ tế Long Vương 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520059",
+            "Name": "Chương 332 – Lễ tế Long Vương 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520058",
+            "Name": "Chương 331 – Phó bản linh dị: Lễ tế Long Vương 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520057",
+            "Name": "Chương 330 – Phó bản 444 điểm tích lũy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520056",
+            "Name": "Chương 329 – Ký sinh trùng-kết 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520055",
+            "Name": "Chương 328 – Ký sinh trùng 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520054",
+            "Name": "Chương 327 – Ký sinh trùng 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520053",
+            "Name": "Chương 326 – Phó bản bình thường: Ký sinh trùng 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520052",
+            "Name": "Chương 325 – Phó bản 5 người: 444 điểm tích lũy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520051",
+            "Name": "Chương 324 – Suối nước nóng- kết 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520050",
+            "Name": "Chương 323 – Phó bản bình thường: Suối nước nóng 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004f",
+            "Name": "Chương 322: Búp bê- kết 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004e",
+            "Name": "Chương 321: Búp bê 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004d",
+            "Name": "Chương 320: Búp bê  19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004c",
+            "Name": "Chương 319 – Búp bê 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004b",
+            "Name": "Chương 318 – Búp bê 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052004a",
+            "Name": "Chương 317 – Búp bê 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520049",
+            "Name": "Chương 316 – Búp bê 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520048",
+            "Name": "Chương 315 – Búp bê 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520047",
+            "Name": "Chương 314 – Búp bê 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520046",
+            "Name": "Chương 313 – Búp bê 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520045",
+            "Name": "Chương 312 – Búp bê 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520044",
+            "Name": "Chương 311 – Búp bê 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520043",
+            "Name": "Chương 310 – Búp bê 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520042",
+            "Name": "Chương 309 – Búp bê 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520041",
+            "Name": "Chương 308 – Búp bê 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a60520040",
+            "Name": "Chương 307 – Búp bê 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052003f",
+            "Name": "Chương 306 – Búp bê 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052003e",
+            "Name": "Chương 305 – Búp bê 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052003d",
+            "Name": "Chương 304 – Búp bê 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869b01a79a1a6052003c",
+            "Name": "Chương 303 – Búp bê 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a6052003b",
+            "Name": "Chương 302 – Phó bản linh dị: Búp bê 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a6052003a",
+            "Name": "Chương 301 – Lá thư chúc phúc 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a60520039",
+            "Name": "Chương 300 – Lá thư chúc phúc 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a60520038",
+            "Name": "Chương 299 – Bút tiên- kết 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a60520037",
+            "Name": "Chương 298 – Bút tiên 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672869a01a79a1a60520036",
+            "Name": "Chương 297 – Bút tiên 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520035",
+            "Name": "Chương 296 – Bút tiên 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520034",
+            "Name": "Chương 295 – Bút tiên 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520033",
+            "Name": "Chương 294 – Bút tiên 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520032",
+            "Name": "Chương 293 – Bút tiên 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520031",
+            "Name": "Chương 292 – Bút tiên 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520030",
+            "Name": "Chương 291 – Bút tiên 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002f",
+            "Name": "Chương 290 – Phó bản linh dị: Bút tiên 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002e",
+            "Name": "Chương 289 – Sinh nhật ngọt ngào của Điềm Điềm-kết 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002d",
+            "Name": "Chương 288 – Sinh nhật ngọt ngào của Điềm Điềm 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002c",
+            "Name": "Chương 287 – Sinh nhật ngọt ngào của Điềm Điềm 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002b",
+            "Name": "Chương 286 – Sinh nhật ngọt ngào của Điềm Điềm 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052002a",
+            "Name": "Chương 285 – Sinh nhật ngọt ngào của Điềm Điềm 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520029",
+            "Name": "Chương 284 – Sinh nhật ngọt ngào của Điềm Điềm 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520028",
+            "Name": "Chương 283 – Sinh nhật ngọt ngào của Điềm Điềm 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520027",
+            "Name": "Chương 282 – Sinh nhật ngọt ngào của Điềm Điềm 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520026",
+            "Name": "Chương 281 – Sinh nhật ngọt ngào của Điềm Điềm 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520025",
+            "Name": "Chương 280 – Sinh nhật ngọt ngào của Điềm Điềm 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520024",
+            "Name": "Chương 279 – Sinh nhật ngọt ngào của Điềm Điềm 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520023",
+            "Name": "Chương 278 – Sinh nhật ngọt ngào của Điềm Điềm 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520022",
+            "Name": "Chương 277 – Sinh nhật ngọt ngào của Điềm Điềm 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520021",
+            "Name": "Chương 276 – Sinh nhật ngọt ngào của Điềm Điềm 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520020",
+            "Name": "Chương 275 – Sinh nhật ngọt ngào của Điềm Điềm 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001f",
+            "Name": "Chương 274 – Phó bản linh dị: Sinh nhật ngọt ngào của Điềm Điềm 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001e",
+            "Name": "Chương 273 – Lễ hội diễu hành-kết 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001d",
+            "Name": "Chương 272 – Lễ hội diễu hành 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001c",
+            "Name": "Chương 271 – Lễ hội diễu hành 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001b",
+            "Name": "Chương 270 – Lễ hội diễu hành 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052001a",
+            "Name": "Chương 269 – Lễ hội diễu hành 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520019",
+            "Name": "Chương 268 – Lễ hội diễu hành 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520018",
+            "Name": "Chương 267 – Lễ hội diễu hành 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520017",
+            "Name": "Chương 266 – Lễ hội diễu hành 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520016",
+            "Name": "Chương 265 – Lễ hội diễu hành 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520015",
+            "Name": "Chương 264 – Lễ hội diễu hành 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520014",
+            "Name": "Chương 263 – Lễ hội diễu hành 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520013",
+            "Name": "Chương 262 – Lễ hội diễu hành 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520012",
+            "Name": "Chương 261 – Lễ hội diễu hành 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520011",
+            "Name": "Chương 260 – Lễ hội diễu hành 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520010",
+            "Name": "Chương 259 – Lễ hội diễu hành 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000f",
+            "Name": "Chương 258 – Lễ hội diễu hành 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000e",
+            "Name": "Chương 257 – Lễ hội diễu hành 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000d",
+            "Name": "Chương 256 – Lễ hội diễu hành 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000c",
+            "Name": "Chương 255 – Lễ hội diễu hành 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000b",
+            "Name": "Chương 254 – Lễ hội diễu hành 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6052000a",
+            "Name": "Chương 253 – Phó bản linh dị: Lễ hội diễu hành 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520009",
+            "Name": "Chương 252 – Bạch Tiểu Hoa 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520008",
+            "Name": "Chương 251 – Bạch Tiểu Hoa 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520007",
+            "Name": "Chương 250 – Bạch Tiểu Hoa 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520006",
+            "Name": "Chương 249 – Bạch Tiểu Hoa 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520005",
+            "Name": "Chương 248 – Di cư trên hoang mạc 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520004",
+            "Name": "Chương 247 – Di cư trên hoang mạc 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520003",
+            "Name": "Chương 246 – Di cư trên hoang mạc 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520002",
+            "Name": "Chương 245 – Di cư trên hoang mạc 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520001",
+            "Name": "Chương 244 – Di cư trên hoang mạc 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a60520000",
+            "Name": "Chương 243 – Di cư trên hoang mạc 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffff",
+            "Name": "Chương 242 – Phó bản bình thường: Di cư trên hoang mạc 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fffe",
+            "Name": "Chương 241 – Khách sạn bán đảo, thảm họa rắn 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fffd",
+            "Name": "Chương 240 – Phó bản bình thường: Khách sạn bán đảo, thảm họa rắn 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fffc",
+            "Name": "Chương 239 – Cập nhật trạm trung chuyển 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fffb",
+            "Name": "Chương 238 – Cập nhật trạm trung chuyển 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fffa",
+            "Name": "Chương 237 – Thiên thạch tấn công 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff9",
+            "Name": "Chương 236 – Thiên thạch tấn công 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff8",
+            "Name": "Chương 235 – Thiên thạch tấn công 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff7",
+            "Name": "Chương 234 – Thiên thạch tấn công 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff6",
+            "Name": "Chương 233 – Phó bản bình thường: Thiên thạch tấn công 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff5",
+            "Name": "Chương 232 – Quỷ thai 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff4",
+            "Name": "Chương 231 – Quỷ thai 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff3",
+            "Name": "Chương 230 – Quỷ thai 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff2",
+            "Name": "Chương 229 – Quỷ thai 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff1",
+            "Name": "Chương 228 – Quỷ thai 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051fff0",
+            "Name": "Chương 227 – Quỷ thai 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffef",
+            "Name": "Chương 226 – Quỷ thai 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffee",
+            "Name": "Chương 225 – Quỷ thai 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffed",
+            "Name": "Chương 224 – Quỷ thai 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffec",
+            "Name": "Chương 223 – Quỷ thai 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffeb",
+            "Name": "Chương 222 – Quỷ thai 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffea",
+            "Name": "Chương 221 – Quỷ thai 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe9",
+            "Name": "Chương 220 – Quỷ thai 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe8",
+            "Name": "Chương 219 – Quỷ thai 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe7",
+            "Name": "Chương 218 – Quỷ thai 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe6",
+            "Name": "Chương 217 – Quỷ thai 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe5",
+            "Name": "Chương 216 – Quỷ thai 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe4",
+            "Name": "Chương 215 – Quỷ thai 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe3",
+            "Name": "Chương 214 – Quỷ thai 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe2",
+            "Name": "Chương 213 – Quỷ thai 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe1",
+            "Name": "Chương 212: Quỷ thai 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffe0",
+            "Name": "Chương 211: Quỷ thai 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffdf",
+            "Name": "Chương 210: Quỷ thai 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffde",
+            "Name": "Chương 209: Phó bản linh dị: Quỷ thai 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffdd",
+            "Name": "Chương 208: Thành phố sụp đổ- kết 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffdc",
+            "Name": "Chương 207: Thành phố sụp đổ 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffdb",
+            "Name": "Chương 206: Thành phố sụp đổ 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffda",
+            "Name": "Chương 205: Phó bản bình thường: Thành phố sụp đổ 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd9",
+            "Name": "Chương 204: Hội Hỗ Trợ Minh Dương 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd8",
+            "Name": "Chương 203: Hội Hỗ Trợ Minh Dương 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd7",
+            "Name": "Chương 202: Hội Hỗ Trợ Minh Dương 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd6",
+            "Name": "Chương 201: Hội Hỗ Trợ Minh Dương 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd5",
+            "Name": "Chương 200 – Nhân viên xuất sắc nhất 37",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd4",
+            "Name": "Chương 199 – Nhân viên xuất sắc nhất 36",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd3",
+            "Name": "Chương 198 – Nhân viên xuất sắc nhất 35",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd2",
+            "Name": "Chương 197 – Nhân viên xuất sắc nhất 34",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd1",
+            "Name": "Chương 196 – Nhân viên xuất sắc nhất 33",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffd0",
+            "Name": "Chương 195 – Nhân viên xuất sắc nhất 32",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffcf",
+            "Name": "Chương 194 – Nhân viên xuất sắc nhất 31",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffce",
+            "Name": "Chương 193 – Nhân viên xuất sắc nhất 30",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffcd",
+            "Name": "Chương 192 – Nhân viên xuất sắc nhất 29",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffcc",
+            "Name": "Chương 191 – Nhân viên xuất sắc nhất 28",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffcb",
+            "Name": "Chương 190: Nhân viên xuất sắc nhất 27",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffca",
+            "Name": "Chương 189 – Nhân viên xuất sắc nhất 26",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc9",
+            "Name": "Chương 188 – Nhân viên xuất sắc nhất 25",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc8",
+            "Name": "Chương 187 – Nhân viên xuất sắc nhất 24",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc7",
+            "Name": "Chương 186 – Nhân viên xuất sắc nhất 23",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc6",
+            "Name": "Chương 185 – Nhân viên xuất sắc nhất 22",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc5",
+            "Name": "Chương 184 – Nhân viên xuất sắc nhất 21",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc4",
+            "Name": "Chương 183 – Nhân viên xuất sắc nhất 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc3",
+            "Name": "Chương 182 – Nhân viên xuất sắc nhất 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc2",
+            "Name": "Chương 181 – Nhân viên xuất sắc nhất 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc1",
+            "Name": "Chương 180 – Nhân viên xuất sắc nhất 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffc0",
+            "Name": "Chương 179 – Nhân viên xuất sắc nhất 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffbf",
+            "Name": "Chương 178 – Nhân viên xuất sắc nhất 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffbe",
+            "Name": "Chương 177 – Nhân viên xuất sắc nhất 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffbd",
+            "Name": "Chương 176 – Nhân viên xuất sắc nhất 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffbc",
+            "Name": "Chương 175 – Nhân viên xuất sắc nhất 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffbb",
+            "Name": "Chương 174 – Nhân viên xuất sắc nhất 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffba",
+            "Name": "Chương 173 – Nhân viên xuất sắc nhất 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb9",
+            "Name": "Chương 172 – Nhân viên xuất sắc nhất 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb8",
+            "Name": "Chương 171 – Nhân viên xuất sắc nhất 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb7",
+            "Name": "Chương 170 – Nhân viên xuất sắc nhất 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb6",
+            "Name": "Chương 169 – Nhân viên xuất sắc nhất 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb5",
+            "Name": "Chương 168 – Nhân viên xuất sắc nhất 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb4",
+            "Name": "Chương 167 – Nhân viên xuất sắc nhất 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb3",
+            "Name": "Chương 166 – Nhân viên xuất sắc nhất 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb2",
+            "Name": "Chương 165 – Nhân viên xuất sắc nhất 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb1",
+            "Name": "Chương 164 – Phó bản linh dị: Nhân viên xuất sắc nhất 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffb0",
+            "Name": "Chương 163 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffaf",
+            "Name": "Chương 162 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffae",
+            "Name": "Chương 161 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffad",
+            "Name": "Chương 160 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffac",
+            "Name": "Chương 159 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffab",
+            "Name": "Chương 158 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffaa",
+            "Name": "Chương 157 – Phó bản bình thường: Nhà máy Sinh vật kỳ lạ 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa9",
+            "Name": "Chương 156: Phó bản bình thường: Mộ vàng 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa8",
+            "Name": "Chương 155: Phó bản bình thường: Mộ vàng 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa7",
+            "Name": "Chương 154: Phó bản bình thường: Mộ vàng 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa6",
+            "Name": "Chương 153 – Phó bản bình thường: Mộ vàng 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa5",
+            "Name": "Chương 152 – Phó bản bình thường: Mộ vàng 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa4",
+            "Name": "Chương 151 – Phó bản bình thường: Mộ vàng 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa3",
+            "Name": "Chương 150 – Phó bản bình thường: Mộ vàng 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa2",
+            "Name": "Chương 149 – Phó bản bình thường: Mộ vàng 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa1",
+            "Name": "Chương 148 – Phó bản bình thường: Mộ vàng 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ffa0",
+            "Name": "Chương 147 – Phó bản bình thường: Mộ vàng 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9f",
+            "Name": "Chương 146 – Phó bản bình thường: Mộ vàng 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9e",
+            "Name": "Chương 145 – Phó bản bình thường: Mộ vàng 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9d",
+            "Name": "Chương 144 – Phó bản bình thường: Mộ vàng 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9c",
+            "Name": "Chương 143 – Phó bản bình thường: Bãi biển sóng thần 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9b",
+            "Name": "Chương 142 – Phó bản bình thường: Bãi biển sóng thần 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff9a",
+            "Name": "Chương 141 – Phó bản bình thường: Bãi biển sóng thần 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff99",
+            "Name": "Chương 140 – Phó bản bình thường: Bãi biển sóng thần 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff98",
+            "Name": "Chương 139 – Phó bản bình thường: Bãi biển sóng thần 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff97",
+            "Name": "Chương 138 – Phó bản bình thường: Đuổi bắt khắp thành phố 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff96",
+            "Name": "Chương 137 – Phó bản bình thường: Đuổi bắt khắp thành phố 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff95",
+            "Name": "Chương 136 – Phó bản bình thường: Đuổi bắt khắp thành phố 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff94",
+            "Name": "Chương 135 – Phó bản bình thường: Đuổi bắt khắp thành phố 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff93",
+            "Name": "Chương 134 – Phó bản bình thường: Đuổi bắt khắp thành phố 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff92",
+            "Name": "Chương 133 – Phó bản bình thường: Đuổi bắt khắp thành phố 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff91",
+            "Name": "Chương 132 – Phó bản bình thường: Đuổi bắt khắp thành phố 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff90",
+            "Name": "Chương 131 – Phó bản bình thường: Đuổi bắt khắp thành phố 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8f",
+            "Name": "Chương 130: Phó bản bình thường: Đuổi bắt khắp thành phố 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8e",
+            "Name": "Chương 129: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8d",
+            "Name": "Chương 128: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8c",
+            "Name": "Chương 127: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8b",
+            "Name": "Chương 126: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff8a",
+            "Name": "Chương 125: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff89",
+            "Name": "Chương 124: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff88",
+            "Name": "Chương 123: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff87",
+            "Name": "Chương 122: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff86",
+            "Name": "Chương 121: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff85",
+            "Name": "Chương 120: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff84",
+            "Name": "Chương 119: Phó bản linh dị: Chuyến dạo chơi sau khi tốt nghiệp tiểu học 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff83",
+            "Name": "Chương 118: Phó bản linh dị: xe lửa giết chóc 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff82",
+            "Name": "Chương 117: Phó bản linh dị: xe lửa giết chóc 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff81",
+            "Name": "Chương 116: Phó bản linh dị: xe lửa giết chóc 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff80",
+            "Name": "Chương 115: Phó bản linh dị: xe lửa giết chóc 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7f",
+            "Name": "Chương 114: Phó bản linh dị: xe lửa giết chóc 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7e",
+            "Name": "Chương 113: Phó bản linh dị: xe lửa giết chóc 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7d",
+            "Name": "Chương 112: Phó bản linh dị: xe lửa giết chóc 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7c",
+            "Name": "Chương 111: Phó bản linh dị: xe lửa giết chóc 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7b",
+            "Name": "Chương 110: Phó bản bình thường: Hái nấm 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff7a",
+            "Name": "Chương 109: Phó bản bình thường: Hái nấm 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff79",
+            "Name": "Chương 108: Phó bản bình thường: Đảo tang thi 20",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff78",
+            "Name": "Chương 107: Phó bản bình thường: Đảo tang thi 19",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff77",
+            "Name": "Chương 106: Phó bản bình thường: Đảo tang thi 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff76",
+            "Name": "Chương 105: Phó bản bình thường: Đảo tang thi 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff75",
+            "Name": "Chương 104: Phó bản bình thường: Đảo tang thi 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff74",
+            "Name": "Chương 103: Phó bản bình thường: Đảo tang thi 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff73",
+            "Name": "Chương 102: Phó bản bình thường: Đảo tang thi 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff72",
+            "Name": "Chương 101: Phó bản bình thường: Đảo tang thi 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff71",
+            "Name": "Chương 100: Phó bản bình thường: Đảo tang thi 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff70",
+            "Name": "Chương 99: Phó bản bình thường: Đảo tang thi 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6f",
+            "Name": "Chương 98: Phó bản bình thường: Đảo tang thi 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6e",
+            "Name": "Chương 97: Phó bản bình thường: Đảo tang thi 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6d",
+            "Name": "Chương 96: Phó bản bình thường: Đảo tang thi 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6c",
+            "Name": "Chương 95: Phó bản bình thường: Đảo tang thi 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6b",
+            "Name": "Chương 94: Phó bản bình thường: Đảo tang thi 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff6a",
+            "Name": "Chương 93: Phó bản bình thường: Đảo tang thi 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff69",
+            "Name": "Chương 92: Phó bản bình thường: Đảo tang thi 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff68",
+            "Name": "Chương 91: Phó bản bình thường: Đảo tang thi 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff67",
+            "Name": "Chương 90: Phó bản bình thường: Đảo tang thi 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff66",
+            "Name": "Chương 89: Phó bản bình thường: Đảo tang thi 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff65",
+            "Name": "Chương 88: Phó bản bình thường: Thoát khỏi vòng độc 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff64",
+            "Name": "Chương 87: Phó bản bình thường: Thoát khỏi vòng độc 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff63",
+            "Name": "Chương 86: Phó bản bình thường: Thoát khỏi vòng độc 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff62",
+            "Name": "Chương 85: Phó bản bình thường: Thoát khỏi vòng độc 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff61",
+            "Name": "Chương 84: Phó bản bình thường: Thoát khỏi vòng độc 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff60",
+            "Name": "Chương 83: Phó bản bình thường: Thoát khỏi vòng độc 6",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff5f",
+            "Name": "Chương 82: Phó bản bình thường: Thoát khỏi vòng độc 5",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff5e",
+            "Name": "Chương 81: Phó bản bình thường: Thoát khỏi vòng độc 4",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672868101a79a1a6051ff5d",
+            "Name": "Chương 80: Phó bản bình thường: Thoát khỏi vòng độc 3",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6672864201a79a1a6051ff5c",
+            "Name": "Chương 79: Phó bản bình thường: Thoát khỏi vòng độc 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff5b",
+            "Name": "Chương 78: Phó bản bình thường: Thoát khỏi vòng độc 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff5a",
+            "Name": "Chương 77: Phó bản bình thường: Đường đi bộ thủy tinh 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff59",
+            "Name": "Chương 76: Phó bản bình thường: Đường đi bộ thủy tinh 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff58",
+            "Name": "Chương 75: Phó bản bình thường: Đường đi bộ thủy tinh 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff57",
+            "Name": "Chương 74: Phó bản bình thường: Đường đi bộ thủy tinh 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff56",
+            "Name": "Chương 73: Phó bản bình thường: Vườn địa đàng 11",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff55",
+            "Name": "Chương 72: Phó bản bình thường: Vườn địa đàng 10",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff54",
+            "Name": "Chương 71: Phó bản bình thường: Vườn địa đàng 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff53",
+            "Name": "Chương 70: Phó bản bình thường: Vườn địa đàng 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff52",
+            "Name": "Chương 69: Phó bản bình thường: Vườn địa đàng 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff51",
+            "Name": "Chương 68: Phó bản bình thường: Vườn địa đàng 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff50",
+            "Name": "Chương 67: Phó bản bình thường: Vườn địa đàng 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4f",
+            "Name": "Chương 66: Phó bản bình thường: Vườn địa đàng 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4e",
+            "Name": "Chương 65: Phó bản bình thường: Vườn địa đàng 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4d",
+            "Name": "Chương 64: Phó bản bình thường: Vườn địa đàng 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4c",
+            "Name": "Chương 63: Phó bản bình thường: Vườn địa đàng 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4b",
+            "Name": "Chương 62: Phó bản bình thường: Lũ quét khu dã ngoại 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff4a",
+            "Name": "Chương 61: Phó bản bình thường: Lũ quét khu dã ngoại 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff49",
+            "Name": "Chương 60: Phó bản bình thường: Công viên khủng long 16",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff48",
+            "Name": "Chương 59: Phó bản bình thường: Công viên khủng long 15",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff47",
+            "Name": "Chương 58: Phó bản bình thường: Công viên khủng long 14",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff46",
+            "Name": "Chương 57: Phó bản bình thường: Công viên khủng long 13",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff45",
+            "Name": "Chương 56: Phó bản bình thường: Công viên khủng long 12",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff44",
+            "Name": "Chương 55: Phó bản bình thường: Công viên khủng long 11",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff43",
+            "Name": "Chương 54: Phó bản bình thường: Công viên khủng long 10",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff42",
+            "Name": "Chương 53: Phó bản bình thường: Công viên khủng long 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff41",
+            "Name": "Chương 52: Phó bản bình thường: Công viên khủng long 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff40",
+            "Name": "Chương 51: Phó bản bình thường: Công viên khủng long 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3f",
+            "Name": "Chương 50: Phó bản bình thường: Công viên khủng long 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3e",
+            "Name": "Chương 49: Phó bản bình thường: Công viên khủng long 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3d",
+            "Name": "Chương 48: Phó bản bình thường: Công viên khủng long 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3c",
+            "Name": "Chương 47: Phó bản bình thường: Công viên khủng long 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3b",
+            "Name": "Chương 46: Phó bản bình thường: Công viên khủng long 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff3a",
+            "Name": "Chương 45: Phó bản bình thường: Công viên khủng long 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff39",
+            "Name": "Chương 44: Phó bản phòng thí nghiệm đấu thú 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff38",
+            "Name": "Chương 43: Phó bản phòng thí nghiệm đấu thú 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff37",
+            "Name": "Chương 42: Phó bản phòng thí nghiệm đấu thú 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff36",
+            "Name": "Chương 41: Phó bản phòng thí nghiệm đấu thú 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff35",
+            "Name": "Chương 40: Phó bản phòng thí nghiệm đấu thú 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff34",
+            "Name": "Chương 39: Phó bản phòng thí nghiệm đấu thú 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff33",
+            "Name": "Chương 38: Phó bản phòng thí nghiệm đấu thú 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff32",
+            "Name": "Chương 37: Phó bản phòng thí nghiệm đấu thú 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff31",
+            "Name": "Chương 36: Phó bản bình thường: khuôn viên zombie 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff30",
+            "Name": "Chương 35: Phó bản bình thường: khuôn viên zombie 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2f",
+            "Name": "Chương 34: Phó bản bình thường: khuôn viên zombie 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2e",
+            "Name": "Chương 33: Phó bản bình thường trăn rừng nhiệt đới 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2d",
+            "Name": "Chương 32: Phó bản bình thường trăn rừng nhiệt đới 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2c",
+            "Name": "Chương 31: Phó bản bình thường trăn rừng nhiệt đới 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2b",
+            "Name": "Chương 30: Phó bản bình thường trăn rừng nhiệt đới 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff2a",
+            "Name": "Chương 29: Phó bản bình thường trăn rừng nhiệt đới 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff29",
+            "Name": "Chương 28: Phó bản bình thường trăn rừng nhiệt đới 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff28",
+            "Name": "Chương 27 – Máy bay hiến tế-kết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff27",
+            "Name": "Chương 26: Phó bản bình thường: Máy bay hiến tế 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff26",
+            "Name": "Chương 25: Phó bản bình thường: Máy bay hiến tế 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff25",
+            "Name": "Chương 24: Phó bản bình thường: Chìm tàu du lịch 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff24",
+            "Name": "Chương 23: Phó bản bình thường: Chìm tàu du lịch 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff23",
+            "Name": "Chương 22: Phó bản bình thường: Chìm tàu du lịch 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff22",
+            "Name": "Chương 21: Phó bản: Sát thủ trên xe lửa 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff21",
+            "Name": "Chương 20: Phó bản: Sát thủ trên xe lửa 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff20",
+            "Name": "Chương 19: Phó bản: Sát thủ xe lửa 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1f",
+            "Name": "Chương 18: Phó bản: Sát thủ xe lửa 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1e",
+            "Name": "Chương 17: Phó bản: Sát thủ xe lửa 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1d",
+            "Name": "Chương 16: Phó bản: Sát thủ xe lửa 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1c",
+            "Name": "Chương 15: Phó bản: Sát thủ xe lửa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1b",
+            "Name": "Chương 14: Phó bản bình thường: Thoát khỏi lũ lụt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff1a",
+            "Name": "Chương 13: Phó bản núi lửa phun trào 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff19",
+            "Name": "Chương 12: Phó bản núi lửa phun trào 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff18",
+            "Name": "Chương 11: Phó bản thang máy mất kiểm soát",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff17",
+            "Name": "Chương 10: Gói trị liệu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff16",
+            "Name": "Chương 9: Túi trị liệu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff15",
+            "Name": "Chương 8: Kinh nghiệm 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff14",
+            "Name": "Chương 7: Kinh nghiệm 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff13",
+            "Name": "Chương 6: Phó bản xe buýt rơi xuống nước 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff12",
+            "Name": "Chương 5: Phó bản xe buýt rơi xuống nước 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff11",
+            "Name": "Chương 4: Siêu thị xuyên tới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff10",
+            "Name": "Chương 3: Đại sảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff0f",
+            "Name": "Chương 2 – Phó bản khách sạn bốc cháy",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6672864201a79a1a6051ff0e",
+            "Name": "Chương 1 – Xuyên không",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

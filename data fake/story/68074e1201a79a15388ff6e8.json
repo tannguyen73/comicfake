@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Tôi Mang Theo Đám Nhãi Con Ở Nhà Trẻ Đi Cầu Sinh",
+            "StoryImage": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh.jpg",
+            "StoryDescription": "<b>Thích Mê</b> là giáo viên mầm non lớp Đậu Đinh, lúc cô vừa mới chuẩn bị đưa trẻ tan trường thì bầu trời bỗng tối sầm lại. Thế giới họ mới đến này lạnh lẽo không có ánh sáng, một số người giống như con búp bê sứ, vừa chạm đã vỡ tan, số khác lại biến thành quái vật…<p>Còn gì tệ hơn việc phải dắt theo một đứa trẻ đang gào khóc đòi ăn đến tận thế?</p><p>Có chứ! Chính là phải dắt theo rất nhiều đứa trẻ! Tổng cộng mười đứa!</p><p>...</p><p>Nhóc 1: Cô ơi, cô đang cầm gì đấy ạ?&nbsp;</p><p><b>Thích Mê</b>: Chỉ là một quả bóng bị hỏng thôi à~</p><p>Nói xong, Thích Mê ném hộp sọ trên tay đi.</p><p>...</p><p>Nhóc 2: Cô ơi thứ đỏ đỏ trên tay cô là gì thế ạ?</p><p><b>Thích M</b>ê: Cô không cẩn thận dính phải chút sơn đỏ ấy mà, cô giáo đang bận làm đồ chơi mới cho các bạn đó~</p><p>Nói xong, cô quay người rửa sạch vết máu trên tay.</p><p>...</p><p>Nhóc ba, bốn, năm, sáu, bảy…</p><p>Nhiều trẻ con, nhiều vấn đề, ai cũng nghĩ họ sẽ không sống được quá ba ngày.</p><p>Nhưng rồi ba ngày trôi qua... một tuần trôi qua… rồi một tháng trôi qua...</p><p>Lớp học Đậu Đinh không những không thiếu một ai mà còn trở thành những ngọn đèn quý giá thắp sáng thế giới đen tối khắc nghiệt, các bé vẫn lên lớp, vẫn ăn ngủ bình thường, thỉnh thoảng còn ra ngoài dạo chơi dưới sự bảo vệ của giáo viên.</p><p><b>Thích Mê</b>: Không hỏi, chỉ thắc mắc tại sao người chơi game tận thế đã nghỉ chơi rồi lại bị mời quay lại.</p><p>——</p><p>Tiến triển:</p><p>[Thế giới đêm địa cực đã hoàn thành]</p><p>[Thế giới vẽ nguệch ngoạc đã hoàn thành: ở đây bầu trời màu vàng và cây màu đỏ. Bạn muốn tìm phù thủy thật giữa những thông tin sai?]</p><p>[Thế giới của xác sống-ing: Người sống sống dưới lòng đất, người giấy sống trên mặt đất, phá vỡ quy tắc sẽ mất mạng?]</p><p>Hướng dẫn đọc: Vô hạn lưu, xuyên không vào trò chơi tận thế, các bé con đều rất ngoan ngoãn, cốt truyện phá ải là chính.</p>",
+            "StoryUpdateTime": "2025-04-22T08:46:37.0628817Z",
+            "StoryUpdateTimeTick": 638809060024068853,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 321,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Lưu Lãng Hàm Chi Sĩ",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "68074e3201a79a15389005d5",
+                    "MongoId": "68074e3201a79a15389005d5"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 321: HOÀN",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Giới",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-gioi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f124d01a79a0e30fce5fc",
+                    "MongoId": "655f124d01a79a0e30fce5fc"
+                },
+                {
+                    "TenTheLoai": "Mạt Thế",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "mat-the",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9200b15c3c512383c2fce",
+                    "MongoId": "61d9200b15c3c512383c2fce"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh-chuong-321",
+            "Keyword": "tôi mang theo đám nhãi con ở nhà trẻ đi cầu sinh toi mang theo dam nhai con o nha tre di cau sinh",
+            "StoryView": 612,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 612,
+            "StoryViewInWeek": 612,
+            "StoryViewInMonth": 612,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh-chuong-1",
+            "StoryIDFirstChap": "680753f201a79a15389041ae",
+            "SoChuong": 321,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Gấp! Mang theo mười đứa bé đến tận thế thì phải làm thế nào đây?",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "68074e1201a79a15388ff6e8",
+            "MongoId": "68074e1201a79a15388ff6e8"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "68074e1201a79a15388ff6e8",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "680753f201a79a15389041ae",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-so-voi-ta-hieu-pokemon.jpg",
+                "StoryName": "Hắn So Với Ta Hiểu Pokemon",
+                "StoryTitleLastChap": "Chương 1479 Ràng buộc chi lực, lửa mạnh!",
+                "StoryID": "67ee3a9a01a79a1598255677",
+                "StoryUpdateTime": "4/25/2025 7:03:18 AM",
+                "StoryNameK": "han-so-voi-ta-hieu-pokemon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680756ae01a79a1538907f38",
+                "Name": "Chương 321: HOÀN",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756ac01a79a1538907f37",
+                "Name": "Chương 320: Chương 320",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756a901a79a1538907f36",
+                "Name": "Chương 319: Chương 319",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756a701a79a1538907f35",
+                "Name": "Chương 318: Chương 318",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756a501a79a1538907f34",
+                "Name": "Chương 317: Chương 317",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756a301a79a1538907f33",
+                "Name": "Chương 316: Chương 316",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "680756a101a79a1538907f32",
+                "Name": "Chương 315: Chương 315",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807569e01a79a1538907f31",
+                "Name": "Chương 314: Chương 314",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807569c01a79a1538907f30",
+                "Name": "Chương 313: Chương 313",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807569a01a79a1538907f2f",
+                "Name": "Chương 312: Chương 312",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

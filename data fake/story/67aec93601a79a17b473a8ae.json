@@ -1,0 +1,324 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Xuyên Sách Xuyên Thành Bạn Giường Của Nam Chủ",
+            "StoryImage": "xuyen-sach-xuyen-thanh-ban-giuong-cua-nam-chu.jpg",
+            "StoryDescription": "<b>Xuyên Sách Xuyên Thành Bạn Giường Của Nam Chủ&nbsp;</b><p>Tác giả: <b>Vấn Nhân Túy&nbsp;</b></p><p><br></p><p>Sau khi xuyên sách, vì để ngăn cản nam chủ cấm dục sụp đổ, cứu vớt cốt truyện tɧác ɭoạи, nữ phụ trà xanh trở thành bạn giường của anh, chịu đựng ham muốn tìиɧ ɖu͙© bệnh hoạn và kèm theo sự quấn quýt đến si mê.&nbsp;</p><p>Văn án cốt truyện: <b>Hứa Nguyện</b> xuyên thành phụ nữ trà xanh xinh đẹp ngọt ngào, trời sinh lại mang dáng vẻ thảo mai giả tạo. Mang danh nghĩa là vợ chưa cưới của <b>Thẩm Chiếu</b>- vị thiếu gia cao quý của nhà họ Thẩm, cô lại chân đạp hai thuyền cấu kết làm bậy với bạn trai, bắt nạt chị họ Hứa Vi. Cuối cùng bị Thẩm Chiếu từ hôn, gia đình sa sút, lưu lạc đầu đường xó chợ, thành công tìm đường chết cho chính mình, trở thành bia đỡ đạn ngược tra.&nbsp;</p><p>Mọi người ai cũng biết Thẩm Chiếu tính tình vốn lạnh lùng xa cách, nhưng lại nhìn chị họ của Hứa Nguyện là Hứa Vi sống ở thành phố kế bên bằng con mắt khác. Anh ghét nhất chính là loại phụ nữ ngực lớn ngu ngốc như Hứa Nguyện.&nbsp;</p><p>Trong phòng thí nghiệm, đám đông đã giải tán. Thẩm Chiếu rửa đi rửa lại đôi tay bị Hứa Vi chạm vào, mắt lạnh nhìn chằm chằm dáng vẻ không sao cả của Hứa Nguyện, đôi mắt chậm rãi đỏ lên.&nbsp;</p><p>\"Em có thể.... đừng bắt tôi chạm vào cô ta hay không.\"&nbsp;</p><p>\"Chỉ là nắm tay thôi, anh đã phản ứng lớn như vậy, người ta vừa mới đυ.ng vào ngón út anh liền tránh né, muốn tôi giải thích cái gì cho anh?\"</p><p>#NgônTình #ĐiềnVăn #ĐôThị #Sủng</p>",
+            "StoryUpdateTime": "2025-02-14T07:31:25.2470608Z",
+            "StoryUpdateTimeTick": 638751048224173984,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 284,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Vấn Nhân Túy",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67aecb5601a79a17b473a8ea",
+                    "MongoId": "67aecb5601a79a17b473a8ea"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 284: HOÀN CHÍNH VĂN",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "xuyen-sach-xuyen-thanh-ban-giuong-cua-nam-chu-chuong-284",
+            "Keyword": "xuyên sách xuyên thành bạn giường của nam chủ xuyen sach xuyen thanh ban giuong cua nam chu",
+            "StoryView": 2829,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "xuyen-sach-xuyen-thanh-ban-giuong-cua-nam-chu",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2829,
+            "StoryViewInWeek": 256,
+            "StoryViewInMonth": 1659,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "truyen-chu-moi-chuong-1",
+            "StoryIDFirstChap": "67aec9bb01a79a17b473a8af",
+            "SoChuong": 284,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 1,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Hứa Nguyện xuyên thành nữ phụ trà xanh, mang danh nghĩa vợ chưa cưới của Thẩm Chiếu nhưng lại cấu kết với bạn trai, bắt nạt chị họ. Cuối cùng, Thẩm Chiếu lạnh lùng xa cách và ghét bỏ Hứa Nguyện vì cô ta chạm vào người khác, đặc biệt là chị họ của cô.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67aec93601a79a17b473a8ae",
+            "MongoId": "67aec93601a79a17b473a8ae"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67aec93601a79a17b473a8ae",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67aec9bb01a79a17b473a8af",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sinh-hoat-binh-thuong-cua-tiep-dan-gia.jpg",
+                "StoryName": "Sinh Hoạt Bình Thường Của Tiếp Dẫn Giả",
+                "StoryTitleLastChap": "Chương 1527: Ngoại truyện 57: Mau Mau Lớn Lên. HẾT.",
+                "StoryID": "65a504b701a79a0db072b40d",
+                "StoryUpdateTime": "1/18/2024 4:27:20 AM",
+                "StoryNameK": "sinh-hoat-binh-thuong-cua-tiep-dan-gia"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dinh-nui-nha-toi-thong-nien-dai.jpg",
+                "StoryName": "Đỉnh Núi Nhà Tôi Thông Niên Đại",
+                "StoryTitleLastChap": "Chương 905: Kết phiên ngoại 7-toàn văn hoàn",
+                "StoryID": "6576c65801a79a05c8ae9bdd",
+                "StoryUpdateTime": "12/11/2023 9:20:44 AM",
+                "StoryNameK": "dinh-nui-nha-toi-thong-nien-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau.jpg",
+                "StoryName": "Xuyên Thành Nha Hoàn Của Nữ Chính, Ta Nằm Yên Làm Giàu (Dịch)",
+                "StoryTitleLastChap": "Chương 670: Phiên ngoại 16. HẾT.",
+                "StoryID": "65b86df401a79a1118f69209",
+                "StoryUpdateTime": "8/20/2024 9:36:01 AM",
+                "StoryNameK": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bia-do-dan-phan-cong.jpg",
+                "StoryName": "Bia Đỡ Đạn Phản Công",
+                "StoryTitleLastChap": "Chương 1350: Thanh mai trúc mã 18 end",
+                "StoryID": "66558dcf01a79a0eb8f73730",
+                "StoryUpdateTime": "5/28/2024 9:47:15 AM",
+                "StoryNameK": "bia-do-dan-phan-cong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chan-nuoi-toan-nhan-loai.jpg",
+                "StoryName": "Chăn Nuôi Toàn Nhân Loại",
+                "StoryTitleLastChap": "Chương 967 - Tin Tức Đáng Sợ 2",
+                "StoryID": "6669412b01a79a1adc17ac1b",
+                "StoryUpdateTime": "6/12/2024 7:33:04 AM",
+                "StoryNameK": "chan-nuoi-toan-nhan-loai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-me-ke-xinh-dep-(dich.jpg",
+                "StoryName": "Thập Niên 70: Mẹ Kế Xinh Đẹp (Dịch)",
+                "StoryTitleLastChap": "Chương 1560: Toàn văn hoàn",
+                "StoryID": "66bda8a701a79a0728fe51c3",
+                "StoryUpdateTime": "8/15/2024 9:55:14 AM",
+                "StoryNameK": "thap-nien-70-me-ke-xinh-dep-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-90-trong-sinh-treu-gheo-nam-than-(dich.jpg",
+                "StoryName": "Thập Niên 90: Trọng Sinh Trêu Ghẹo Nam Thần (Dịch)",
+                "StoryTitleLastChap": "Chương 1741 Hứa yêu em ba kiếp 5 [Hoàn Truyện]",
+                "StoryID": "66c05ff801a79a0fdc6a21ff",
+                "StoryUpdateTime": "8/17/2024 9:42:30 AM",
+                "StoryNameK": "thap-nien-90-trong-sinh-treu-gheo-nam-than-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho.jpg",
+                "StoryName": "Ngẫu Nhiên Bày Quầy Bán Hàng, Khách Hàng Đuổi Theo Tôi Mười Con Phố (Dịch)",
+                "StoryTitleLastChap": "Chương 1040: Đại kết cục",
+                "StoryID": "65f0131d01a79a0534006e62",
+                "StoryUpdateTime": "11/28/2024 10:14:21 AM",
+                "StoryNameK": "ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tro-choi-doi-khat-cau-sinh.jpg",
+                "StoryName": "Trò Chơi Đói Khát Cầu Sinh",
+                "StoryTitleLastChap": "Chương 444: Sống lại 22. Hết",
+                "StoryID": "657966e601a79a0b387a2471",
+                "StoryUpdateTime": "1/8/2024 7:52:26 AM",
+                "StoryNameK": "tro-choi-doi-khat-cau-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-gia-dinh-cuc-pham-(dich.jpg",
+                "StoryName": "Thập Niên 70: Gia Đình Cực Phẩm (Dịch)",
+                "StoryTitleLastChap": "Chương 1182 - Ngoại truyện 4",
+                "StoryID": "66b08d1301a79a0f1801a040",
+                "StoryUpdateTime": "8/5/2024 10:28:24 AM",
+                "StoryNameK": "thap-nien-70-gia-dinh-cuc-pham-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trong-sinh-tieu-dia-chu.jpg",
+                "StoryName": "Trọng Sinh Tiểu Địa Chủ",
+                "StoryTitleLastChap": "Chương 1023: Phiên ngoại 8",
+                "StoryID": "664d9d6701a79a0ee04ee895",
+                "StoryUpdateTime": "5/22/2024 8:57:22 AM",
+                "StoryNameK": "trong-sinh-tieu-dia-chu"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67cac9ac01a79a157c95d44d",
+                "Name": "Chương 284: HOÀN CHÍNH VĂN",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d44c",
+                "Name": "Chương 283: Không có em anh liền lập tức đi tìm chết",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d44b",
+                "Name": "Chương 282: \"Anh biết...\"",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d44a",
+                "Name": "Chương 281: Trừ khi anh ấy không cần con nữa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d449",
+                "Name": "Chương 280: Nhân lúc còn sớm hãy chia xa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d448",
+                "Name": "Chương 279: Thẩm Chiếu không tin cô yêu anh rất nhiều.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d447",
+                "Name": "Chương 278: Khủng hoảng khi không thấy Nguyện Nguyện",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d446",
+                "Name": "Chương 277: Vu Phần đi đâu rồi?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d445",
+                "Name": "Chương 276: Ngày mai liền đi lãnh chứng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67cac9ac01a79a157c95d444",
+                "Name": "Chương 275: Sợ hãi/ Đi chợ mua cá",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Nữ Phụ Và Phản Diện HE",
+            "StoryImage": "nu-phu-va-phan-dien-he.jpg",
+            "StoryDescription": "Nữ Phụ và Phản Diện HE – một tác phẩm ngôn tình đầy bất ngờ và hài hước đến từ cây bút Đường Mật.<p>Truyện kể về những câu chuyện tình yêu giữa những nhân vật nữ phụ và phản diện trong các thế giới khác nhau.&nbsp;</p><p>Từ bạo quân tàn ác đến yêu nữ ma giáo, từ nam thần giải trí đến quái vật vườn trường, tất cả đều có những câu chuyện tình yêu độc đáo và đầy cảm xúc.</p><p>Mỗi câu chuyện là một màu sắc riêng, một góc nhìn khác về tình yêu.&nbsp;</p><p>Đôi khi là tình yêu vượt qua mọi ranh giới, đôi khi là tình yêu đầy trắc trở, nhưng tất cả đều có một kết thúc viên mãn.&nbsp;</p><p>Với lối viết nhẹ nhàng, hài hước và lãng mạn, tác giả Đường Mật đã tạo ra một thế giới đầy màu sắc và hấp dẫn, nơi mà tình yêu luôn chiến thắng tất cả.</p>",
+            "StoryUpdateTime": "2025-02-19T02:21:13.4612572Z",
+            "StoryUpdateTimeTick": 638754648723349299,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 159,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Đường Mật",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67b4482001a79a1348ce2f58",
+                    "MongoId": "67b4482001a79a1348ce2f58"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 160",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Thanh Xuân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "thanh-xuan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6578278601a79a1344387628",
+                    "MongoId": "6578278601a79a1344387628"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nu-phu-va-phan-dien-he-chuong-159",
+            "Keyword": "nữ phụ và phản diện he nu phu va phan dien he",
+            "StoryView": 955,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "nu-phu-va-phan-dien-he",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 955,
+            "StoryViewInWeek": 26,
+            "StoryViewInMonth": 674,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "nu-phu-va-phan-dien-he-chuong-1",
+            "StoryIDFirstChap": "67b53fc801a79a0d2806596e",
+            "SoChuong": 159,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Truyện kể về những câu chuyện tình yêu giữa những nhân vật nữ phụ và phản diện trong các thế giới khác nhau. \r\nTừ bạo quân tàn ác đến yêu nữ ma giáo, từ nam thần giải trí đến quái vật vườn trường, tất cả đều có những câu chuyện tình yêu độc đáo và đầy cảm xúc.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67b447a801a79a1348ce2f57",
+            "MongoId": "67b447a801a79a1348ce2f57"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67b447a801a79a1348ce2f57",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67b53fc801a79a0d2806596e",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-(dich.jpg",
+                "StoryName": "Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường (Dịch)",
+                "StoryTitleLastChap": "Chương 996 Không muộn",
+                "StoryID": "67441ba501a79a10e8dcef37",
+                "StoryUpdateTime": "4/25/2025 2:56:00 AM",
+                "StoryNameK": "ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-linh-chu-lanh-dia-cua-ta-co-the-vo-han-tien-hoa.jpg",
+                "StoryName": "Toàn Dân Lĩnh Chủ: Lãnh Địa Của Ta Có Thể Vô Hạn Tiến Hóa",
+                "StoryTitleLastChap": "Chương 1693: Đại kết cục",
+                "StoryID": "67ad5fae01a79a05c8c5bb6b",
+                "StoryUpdateTime": "4/4/2025 8:20:14 AM",
+                "StoryNameK": "toan-dan-linh-chu-lanh-dia-cua-ta-co-the-vo-han-tien-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-cap-dai-ma-dau-(dich.jpg",
+                "StoryName": "Thần Cấp Đại Ma Đầu (Dịch)",
+                "StoryTitleLastChap": "Chương 3522: Ác Quỷ Và Yêu Nghiệt",
+                "StoryID": "674fc8d301a79a07f05d7e40",
+                "StoryUpdateTime": "12/4/2024 7:48:51 AM",
+                "StoryNameK": "than-cap-dai-ma-dau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-chuc-nghe-thuat-gia-(dich.jpg",
+                "StoryName": "Toàn Chức Nghệ Thuật Gia (Dịch)",
+                "StoryTitleLastChap": "Chương 1897: Toàn chức nghệ thuật gia",
+                "StoryID": "6753c62e01a79a17586c94b7",
+                "StoryUpdateTime": "12/7/2024 6:27:29 AM",
+                "StoryNameK": "toan-chuc-nghe-thuat-gia-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-ly-hon-ta-ke-thua-tai-san-trong-game-(dich.jpg",
+                "StoryName": "Sau Khi Ly Hôn, Ta Kế Thừa Tài Sản Trong Game (Dịch)",
+                "StoryTitleLastChap": "Chương 961: Cuộc đời như vậy còn cầu gì hơn (Đại kết cục) (2)",
+                "StoryID": "6748185f01a79a06bc0b156a",
+                "StoryUpdateTime": "2/19/2025 6:04:19 AM",
+                "StoryNameK": "sau-khi-ly-hon-ta-ke-thua-tai-san-trong-game-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-tai-trong-phong-tro-nhat-duoc-mot-tram-trieu.jpg",
+                "StoryName": "Bắt Đầu Tại Trong Phòng Trọ Nhặt Được Một Trăm Triệu",
+                "StoryTitleLastChap": "Chương 1998:  Anjou · Prince kinh hỉ",
+                "StoryID": "678a2f4701a79b10e83b29e5",
+                "StoryUpdateTime": "1/27/2025 5:37:22 AM",
+                "StoryNameK": "bat-dau-tai-trong-phong-tro-nhat-duoc-mot-tram-trieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gia-toc-quat-khoi-tu-moi-ngay-tinh-bao-bat-dau.jpg",
+                "StoryName": "Gia Tộc Quật Khởi: Từ Mỗi Ngày Tình Báo Bắt Đầu",
+                "StoryTitleLastChap": "Chương 895 tặng bảo, huyết mạch mở, Thái Âm Luyện Hình (3)",
+                "StoryID": "677902d801a79a249cecae8f",
+                "StoryUpdateTime": "4/15/2025 8:16:59 AM",
+                "StoryNameK": "gia-toc-quat-khoi-tu-moi-ngay-tinh-bao-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-ton-cau-den-vo-dich-vo-han-phan-than-che-ba-tien-gioi.jpg",
+                "StoryName": "Bản Tôn Cẩu Đến Vô Địch, Vô Hạn Phân Thân Xưng Bá Tiên Giới",
+                "StoryTitleLastChap": "Chương 1518: Đường lui? Bảo tháp mở cửa!",
+                "StoryID": "6787110101a79a094cf4dec0",
+                "StoryUpdateTime": "4/24/2025 2:37:29 PM",
+                "StoryNameK": "ban-ton-cau-den-vo-dich-vo-han-phan-than-xung-ba-tien-gioi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truot-dai-hoc-ta-quyet-dinh-di-tru-than-(dich.jpg",
+                "StoryName": "Trượt Đại Học, Ta Quyết Định Đi Tru Thần (Dịch)",
+                "StoryTitleLastChap": "Chương 771: Chẳng phải ngại chết người sao?",
+                "StoryID": "67458af601a79a10e8e890d9",
+                "StoryUpdateTime": "11/26/2024 10:08:56 AM",
+                "StoryNameK": "truot-dai-hoc-ta-quyet-dinh-di-tru-than-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khi-bac-si-mo-hack.jpg",
+                "StoryName": "Khi Bác Sĩ Mở Hack",
+                "StoryTitleLastChap": "CHƯƠNG 2174: KẾT THÚC - TIỀN MỪNG TUỔI (2)",
+                "StoryID": "675bb47a01a79b126cd112c4",
+                "StoryUpdateTime": "12/13/2024 12:52:28 PM",
+                "StoryNameK": "khi-bac-si-mo-hack"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67b53ff301a79a0d28065a0c",
+                "Name": "Chương 160",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a0b",
+                "Name": "Chương 159",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a0a",
+                "Name": "Chương 158",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a09",
+                "Name": "Chương 157",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a08",
+                "Name": "Chương 156",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a07",
+                "Name": "Chương 155",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a06",
+                "Name": "Chương 154",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a05",
+                "Name": "Chương 153",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a04",
+                "Name": "Chương 152",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b53ff301a79a0d28065a03",
+                "Name": "Chương 151",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

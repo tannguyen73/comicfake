@@ -1,0 +1,4025 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "6603e51201a79a14d8276c52",
+            "Name": "Chương 670: Phiên ngoại 16. HẾT.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c51",
+            "Name": "Chương 669: Phiên ngoại 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c50",
+            "Name": "Chương 668: Phiên ngoại 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4f",
+            "Name": "Chương 667: Phiên ngoại 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4e",
+            "Name": "Chương 666: Phiên ngoại 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4d",
+            "Name": "Chương 665: Phiên ngoại 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4c",
+            "Name": "Chương 664: Phiên ngoại 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4b",
+            "Name": "Chương 663: Phiên ngoại 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c4a",
+            "Name": "Chương 662: Phiên ngoại 8",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c49",
+            "Name": "Chương 661: Phiên ngoại 7",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c48",
+            "Name": "Chương 660:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c47",
+            "Name": "Chương 659:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c46",
+            "Name": "Chương 658:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c45",
+            "Name": "Chương 657:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c44",
+            "Name": "Chương 656:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c43",
+            "Name": "Chương 655:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c42",
+            "Name": "Chương 654:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c41",
+            "Name": "Chương 653:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c40",
+            "Name": "Chương 652:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3f",
+            "Name": "Chương 651:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3e",
+            "Name": "Chương 650:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3d",
+            "Name": "Chương 649:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3c",
+            "Name": "Chương 648:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3b",
+            "Name": "Chương 647:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c3a",
+            "Name": "Chương 646:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c39",
+            "Name": "Chương 645:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c38",
+            "Name": "Chương 644:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c37",
+            "Name": "Chương 643:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c36",
+            "Name": "Chương 642:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c35",
+            "Name": "Chương 641:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c34",
+            "Name": "Chương 640:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c33",
+            "Name": "Chương 639:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c32",
+            "Name": "Chương 638:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c31",
+            "Name": "Chương 637:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c30",
+            "Name": "Chương 636:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2f",
+            "Name": "Chương 635:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2e",
+            "Name": "Chương 634:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2d",
+            "Name": "Chương 633:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2c",
+            "Name": "Chương 632:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2b",
+            "Name": "Chương 631:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c2a",
+            "Name": "Chương 630:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c29",
+            "Name": "Chương 629:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c28",
+            "Name": "Chương 628:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c27",
+            "Name": "Chương 627:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c26",
+            "Name": "Chương 626:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c25",
+            "Name": "Chương 625:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c24",
+            "Name": "Chương 624:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c23",
+            "Name": "Chương 623:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c22",
+            "Name": "Chương 622:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c21",
+            "Name": "Chương 621:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c20",
+            "Name": "Chương 620:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1f",
+            "Name": "Chương 619:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1e",
+            "Name": "Chương 618:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1d",
+            "Name": "Chương 617:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1c",
+            "Name": "Chương 616:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1b",
+            "Name": "Chương 615:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c1a",
+            "Name": "Chương 614:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c19",
+            "Name": "Chương 613:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c18",
+            "Name": "Chương 612:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c17",
+            "Name": "Chương 611:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c16",
+            "Name": "Chương 610:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c15",
+            "Name": "Chương 609:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c14",
+            "Name": "Chương 608:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c13",
+            "Name": "Chương 607:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c12",
+            "Name": "Chương 606:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c11",
+            "Name": "Chương 605:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c10",
+            "Name": "Chương 604:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0f",
+            "Name": "Chương 603:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0e",
+            "Name": "Chương 602:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0d",
+            "Name": "Chương 601:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0c",
+            "Name": "Chương 600:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0b",
+            "Name": "Chương 599:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c0a",
+            "Name": "Chương 598:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c09",
+            "Name": "Chương 597:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c08",
+            "Name": "Chương 596:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c07",
+            "Name": "Chương 595:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c06",
+            "Name": "Chương 594:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c05",
+            "Name": "Chương 593:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c04",
+            "Name": "Chương 592:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c03",
+            "Name": "Chương 591:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c02",
+            "Name": "Chương 590:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c01",
+            "Name": "Chương 589:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276c00",
+            "Name": "Chương 588:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bff",
+            "Name": "Chương 587:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bfe",
+            "Name": "Chương 586:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bfd",
+            "Name": "Chương 585:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bfc",
+            "Name": "Chương 584:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bfb",
+            "Name": "Chương 583:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bfa",
+            "Name": "Chương 582:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf9",
+            "Name": "Chương 581:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf8",
+            "Name": "Chương 580:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf7",
+            "Name": "Chương 579:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf6",
+            "Name": "Chương 578:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf5",
+            "Name": "Chương 577:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf4",
+            "Name": "Chương 576:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf3",
+            "Name": "Chương 575:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf2",
+            "Name": "Chương 574:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf1",
+            "Name": "Chương 573:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bf0",
+            "Name": "Chương 572:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bef",
+            "Name": "Chương 571:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bee",
+            "Name": "Chương 570:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bed",
+            "Name": "Chương 569:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bec",
+            "Name": "Chương 568:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276beb",
+            "Name": "Chương 567:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bea",
+            "Name": "Chương 566:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be9",
+            "Name": "Chương 565:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be8",
+            "Name": "Chương 564:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be7",
+            "Name": "Chương 563:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be6",
+            "Name": "Chương 562:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be5",
+            "Name": "Chương 561:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be4",
+            "Name": "Chương 560:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be3",
+            "Name": "Chương 559:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be2",
+            "Name": "Chương 558:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be1",
+            "Name": "Chương 557:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276be0",
+            "Name": "Chương 556:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bdf",
+            "Name": "Chương 555:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bde",
+            "Name": "Chương 554:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bdd",
+            "Name": "Chương 553:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bdc",
+            "Name": "Chương 552:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bdb",
+            "Name": "Chương 551:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bda",
+            "Name": "Chương 550:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd9",
+            "Name": "Chương 549:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd8",
+            "Name": "Chương 548:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd7",
+            "Name": "Chương 547:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd6",
+            "Name": "Chương 546:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd5",
+            "Name": "Chương 545:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd4",
+            "Name": "Chương 544:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd3",
+            "Name": "Chương 543:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd2",
+            "Name": "Chương 542:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd1",
+            "Name": "Chương 541:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bd0",
+            "Name": "Chương 540:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bcf",
+            "Name": "Chương 539:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bce",
+            "Name": "Chương 538:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bcd",
+            "Name": "Chương 537:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bcc",
+            "Name": "Chương 536:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bcb",
+            "Name": "Chương 535:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bca",
+            "Name": "Chương 534:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc9",
+            "Name": "Chương 533:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc8",
+            "Name": "Chương 532:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc7",
+            "Name": "Chương 531:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc6",
+            "Name": "Chương 530:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc5",
+            "Name": "Chương 529:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc4",
+            "Name": "Chương 528:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc3",
+            "Name": "Chương 527:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc2",
+            "Name": "Chương 526:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc1",
+            "Name": "Chương 525:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bc0",
+            "Name": "Chương 524:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bbf",
+            "Name": "Chương 523:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bbe",
+            "Name": "Chương 522:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bbd",
+            "Name": "Chương 521:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bbc",
+            "Name": "Chương 520:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bbb",
+            "Name": "Chương 519:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bba",
+            "Name": "Chương 518:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb9",
+            "Name": "Chương 517:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb8",
+            "Name": "Chương 516:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb7",
+            "Name": "Chương 515:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb6",
+            "Name": "Chương 514:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb5",
+            "Name": "Chương 513:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb4",
+            "Name": "Chương 512:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb3",
+            "Name": "Chương 511:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb2",
+            "Name": "Chương 510:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb1",
+            "Name": "Chương 509:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bb0",
+            "Name": "Chương 508:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276baf",
+            "Name": "Chương 507:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bae",
+            "Name": "Chương 506:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bad",
+            "Name": "Chương 505:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bac",
+            "Name": "Chương 504:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276bab",
+            "Name": "Chương 503:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276baa",
+            "Name": "Chương 502:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba9",
+            "Name": "Chương 501:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba8",
+            "Name": "Chương 500:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba7",
+            "Name": "Chương 499:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba6",
+            "Name": "Chương 498:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba5",
+            "Name": "Chương 497:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba4",
+            "Name": "Chương 496:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba3",
+            "Name": "Chương 495:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba2",
+            "Name": "Chương 494:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba1",
+            "Name": "Chương 493:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276ba0",
+            "Name": "Chương 492:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276b9f",
+            "Name": "Chương 491:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e51201a79a14d8276b9e",
+            "Name": "Chương 490:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b9d",
+            "Name": "Chương 489:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b9c",
+            "Name": "Chương 488:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b9b",
+            "Name": "Chương 487:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b9a",
+            "Name": "Chương 486:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b99",
+            "Name": "Chương 485:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b98",
+            "Name": "Chương 484:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b97",
+            "Name": "Chương 483:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b96",
+            "Name": "Chương 482:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b95",
+            "Name": "Chương 481:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b94",
+            "Name": "Chương 480:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b93",
+            "Name": "Chương 479:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b92",
+            "Name": "Chương 478:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b91",
+            "Name": "Chương 477:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b90",
+            "Name": "Chương 476:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8f",
+            "Name": "Chương 475:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8e",
+            "Name": "Chương 474:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8d",
+            "Name": "Chương 473:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8c",
+            "Name": "Chương 472:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8b",
+            "Name": "Chương 471:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b8a",
+            "Name": "Chương 470:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b89",
+            "Name": "Chương 469:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b88",
+            "Name": "Chương 468:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b87",
+            "Name": "Chương 467:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b86",
+            "Name": "Chương 466:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b85",
+            "Name": "Chương 465:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b84",
+            "Name": "Chương 464:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b83",
+            "Name": "Chương 463:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b82",
+            "Name": "Chương 462:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b81",
+            "Name": "Chương 461:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b80",
+            "Name": "Chương 460:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7f",
+            "Name": "Chương 459:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7e",
+            "Name": "Chương 458:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7d",
+            "Name": "Chương 457:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7c",
+            "Name": "Chương 456:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7b",
+            "Name": "Chương 455:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b7a",
+            "Name": "Chương 454:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b79",
+            "Name": "Chương 453:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b78",
+            "Name": "Chương 452:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b77",
+            "Name": "Chương 451:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b76",
+            "Name": "Chương 450:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b75",
+            "Name": "Chương 449:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b74",
+            "Name": "Chương 448:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b73",
+            "Name": "Chương 447:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b72",
+            "Name": "Chương 446:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b71",
+            "Name": "Chương 445:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b70",
+            "Name": "Chương 444:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6f",
+            "Name": "Chương 443:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6e",
+            "Name": "Chương 442:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6d",
+            "Name": "Chương 441:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6c",
+            "Name": "Chương 440:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6b",
+            "Name": "Chương 439:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b6a",
+            "Name": "Chương 438:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b69",
+            "Name": "Chương 437:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b68",
+            "Name": "Chương 436:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b67",
+            "Name": "Chương 435:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b66",
+            "Name": "Chương 434:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b65",
+            "Name": "Chương 433:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b64",
+            "Name": "Chương 432:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b63",
+            "Name": "Chương 431:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b62",
+            "Name": "Chương 430:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b61",
+            "Name": "Chương 429:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b60",
+            "Name": "Chương 428:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5f",
+            "Name": "Chương 427:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5e",
+            "Name": "Chương 426:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5d",
+            "Name": "Chương 425:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5c",
+            "Name": "Chương 424:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5b",
+            "Name": "Chương 423:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b5a",
+            "Name": "Chương 422:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b59",
+            "Name": "Chương 421:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b58",
+            "Name": "Chương 420:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b57",
+            "Name": "Chương 419:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b56",
+            "Name": "Chương 418:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b55",
+            "Name": "Chương 417:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b54",
+            "Name": "Chương 416:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b53",
+            "Name": "Chương 415:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b52",
+            "Name": "Chương 414:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b51",
+            "Name": "Chương 413:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b50",
+            "Name": "Chương 412:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4f",
+            "Name": "Chương 411:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4e",
+            "Name": "Chương 410:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4d",
+            "Name": "Chương 409:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4c",
+            "Name": "Chương 408:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4b",
+            "Name": "Chương 407:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b4a",
+            "Name": "Chương 406:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b49",
+            "Name": "Chương 405:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b48",
+            "Name": "Chương 404:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b47",
+            "Name": "Chương 403:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b46",
+            "Name": "Chương 402:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b45",
+            "Name": "Chương 401:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b44",
+            "Name": "Chương 400:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b43",
+            "Name": "Chương 399:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b42",
+            "Name": "Chương 398:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b41",
+            "Name": "Chương 397:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b40",
+            "Name": "Chương 396:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3f",
+            "Name": "Chương 395:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3e",
+            "Name": "Chương 394:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3d",
+            "Name": "Chương 393:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3c",
+            "Name": "Chương 392:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3b",
+            "Name": "Chương 391:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b3a",
+            "Name": "Chương 390:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b39",
+            "Name": "Chương 389:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b38",
+            "Name": "Chương 388:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b37",
+            "Name": "Chương 387:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b36",
+            "Name": "Chương 386:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b35",
+            "Name": "Chương 385:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b34",
+            "Name": "Chương 384:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b33",
+            "Name": "Chương 383:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b32",
+            "Name": "Chương 382. -",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b31",
+            "Name": "Chương 381:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b30",
+            "Name": "Chương 380:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2f",
+            "Name": "Chương 379:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2e",
+            "Name": "Chương 378:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2d",
+            "Name": "Chương 377:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2c",
+            "Name": "Chương 376:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2b",
+            "Name": "Chương 375:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b2a",
+            "Name": "Chương 374:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b29",
+            "Name": "Chương 373:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b28",
+            "Name": "Chương 372:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b27",
+            "Name": "Chương 371:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b26",
+            "Name": "Chương 370:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b25",
+            "Name": "Chương 369:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b24",
+            "Name": "Chương 368:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b23",
+            "Name": "Chương 367:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b22",
+            "Name": "Chương 366:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b21",
+            "Name": "Chương 365:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b20",
+            "Name": "Chương 364:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1f",
+            "Name": "Chương 363:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1e",
+            "Name": "Chương 362:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1d",
+            "Name": "Chương 361:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1c",
+            "Name": "Chương 360:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1b",
+            "Name": "Chương 359:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b1a",
+            "Name": "Chương 358:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e50101a79a14d8276b19",
+            "Name": "Chương 357:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b18",
+            "Name": "Chương 356:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b17",
+            "Name": "Chương 355:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b16",
+            "Name": "Chương 354:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b15",
+            "Name": "Chương 353:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b14",
+            "Name": "Chương 352:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b13",
+            "Name": "Chương 351:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b12",
+            "Name": "Chương 350:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b11",
+            "Name": "Chương 349:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b10",
+            "Name": "Chương 348:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0f",
+            "Name": "Chương 347:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0e",
+            "Name": "Chương 346:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0d",
+            "Name": "Chương 345:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0c",
+            "Name": "Chương 344:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0b",
+            "Name": "Chương 343:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b0a",
+            "Name": "Chương 342:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b09",
+            "Name": "Chương 341:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b08",
+            "Name": "Chương 340:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b07",
+            "Name": "Chương 339:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b06",
+            "Name": "Chương 338:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b05",
+            "Name": "Chương 337:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b04",
+            "Name": "Chương 336:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b03",
+            "Name": "Chương 335:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b02",
+            "Name": "Chương 334:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b01",
+            "Name": "Chương 333:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276b00",
+            "Name": "Chương 332:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276aff",
+            "Name": "Chương 331:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276afe",
+            "Name": "Chương 330:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276afd",
+            "Name": "Chương 329:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276afc",
+            "Name": "Chương 328:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276afb",
+            "Name": "Chương 327:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276afa",
+            "Name": "Chương 326:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276af9",
+            "Name": "Chương 325:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276af8",
+            "Name": "Chương 324:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e50101a79a14d8276af7",
+            "Name": "Chương 323:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af6",
+            "Name": "Chương 322:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af5",
+            "Name": "Chương 321:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af4",
+            "Name": "Chương 320:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af3",
+            "Name": "Chương 319:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af2",
+            "Name": "Chương 318:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af1",
+            "Name": "Chương 317:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276af0",
+            "Name": "Chương 316:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aef",
+            "Name": "Chương 315:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aee",
+            "Name": "Chương 314:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aed",
+            "Name": "Chương 313:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aec",
+            "Name": "Chương 312:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aeb",
+            "Name": "Chương 311:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aea",
+            "Name": "Chương 310:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae9",
+            "Name": "Chương 309:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae8",
+            "Name": "Chương 308:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae7",
+            "Name": "Chương 307:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae6",
+            "Name": "Chương 306:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae5",
+            "Name": "Chương 305:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae4",
+            "Name": "Chương 304:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae3",
+            "Name": "Chương 303:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae2",
+            "Name": "Chương 302:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae1",
+            "Name": "Chương 301:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ae0",
+            "Name": "Chương 300:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276adf",
+            "Name": "Chương 299:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ade",
+            "Name": "Chương 298:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276add",
+            "Name": "Chương 297:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276adc",
+            "Name": "Chương 296:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276adb",
+            "Name": "Chương 295:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ada",
+            "Name": "Chương 294:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad9",
+            "Name": "Chương 293:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad8",
+            "Name": "Chương 292:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad7",
+            "Name": "Chương 291:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad6",
+            "Name": "Chương 290:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad5",
+            "Name": "Chương 289:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad4",
+            "Name": "Chương 288:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad3",
+            "Name": "Chương 287:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad2",
+            "Name": "Chương 286:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad1",
+            "Name": "Chương 285:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ad0",
+            "Name": "Chương 284:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276acf",
+            "Name": "Chương 283:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ace",
+            "Name": "Chương 282:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276acd",
+            "Name": "Chương 281:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276acc",
+            "Name": "Chương 280:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276acb",
+            "Name": "Chương 279:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aca",
+            "Name": "Chương 278:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac9",
+            "Name": "Chương 277:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac8",
+            "Name": "Chương 276:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac7",
+            "Name": "Chương 275:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac6",
+            "Name": "Chương 274:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac5",
+            "Name": "Chương 273:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac4",
+            "Name": "Chương 272:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac3",
+            "Name": "Chương 271:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac2",
+            "Name": "Chương 270:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac1",
+            "Name": "Chương 269:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ac0",
+            "Name": "Chương 268:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276abf",
+            "Name": "Chương 267:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276abe",
+            "Name": "Chương 266:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276abd",
+            "Name": "Chương 265:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276abc",
+            "Name": "Chương 264:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276abb",
+            "Name": "Chương 263:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aba",
+            "Name": "Chương 262:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab9",
+            "Name": "Chương 261:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab8",
+            "Name": "Chương 260:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab7",
+            "Name": "Chương 259:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab6",
+            "Name": "Chương 258:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab5",
+            "Name": "Chương 257:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab4",
+            "Name": "Chương 256:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab3",
+            "Name": "Chương 255:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab2",
+            "Name": "Chương 254:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab1",
+            "Name": "Chương 253:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276ab0",
+            "Name": "Chương 252:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aaf",
+            "Name": "Chương 251:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aae",
+            "Name": "Chương 250:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aad",
+            "Name": "Chương 249:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aac",
+            "Name": "Chương 248:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aab",
+            "Name": "Chương 247:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aaa",
+            "Name": "Chương 246:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa9",
+            "Name": "Chương 245:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa8",
+            "Name": "Chương 244:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa7",
+            "Name": "Chương 243:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa6",
+            "Name": "Chương 242:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa5",
+            "Name": "Chương 241:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa4",
+            "Name": "Chương 240:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa3",
+            "Name": "Chương 239:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa2",
+            "Name": "Chương 238:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa1",
+            "Name": "Chương 237:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276aa0",
+            "Name": "Chương 236:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9f",
+            "Name": "Chương 235:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9e",
+            "Name": "Chương 234:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9d",
+            "Name": "Chương 233:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9c",
+            "Name": "Chương 232:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9b",
+            "Name": "Chương 231:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a9a",
+            "Name": "Chương 230:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a99",
+            "Name": "Chương 229:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a98",
+            "Name": "Chương 228:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a97",
+            "Name": "Chương 227:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a96",
+            "Name": "Chương 226:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a95",
+            "Name": "Chương 225:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a94",
+            "Name": "Chương 224:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a93",
+            "Name": "Chương 223:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a92",
+            "Name": "Chương 222:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a91",
+            "Name": "Chương 221:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a90",
+            "Name": "Chương 220:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8f",
+            "Name": "Chương 219:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8e",
+            "Name": "Chương 218:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8d",
+            "Name": "Chương 217:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8c",
+            "Name": "Chương 216:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8b",
+            "Name": "Chương 215:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a8a",
+            "Name": "Chương 214:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a89",
+            "Name": "Chương 213:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a88",
+            "Name": "Chương 212:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a87",
+            "Name": "Chương 211:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a86",
+            "Name": "Chương 210:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a85",
+            "Name": "Chương 209:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a84",
+            "Name": "Chương 208:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a83",
+            "Name": "Chương 207:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a82",
+            "Name": "Chương 206:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a81",
+            "Name": "Chương 205:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a80",
+            "Name": "Chương 204:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7f",
+            "Name": "Chương 203:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7e",
+            "Name": "Chương 202:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7d",
+            "Name": "Chương 201:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7c",
+            "Name": "Chương 200:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7b",
+            "Name": "Chương 199:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a7a",
+            "Name": "Chương 198:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a79",
+            "Name": "Chương 197:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a78",
+            "Name": "Chương 196:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a77",
+            "Name": "Chương 195:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a76",
+            "Name": "Chương 194:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a75",
+            "Name": "Chương 193:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a74",
+            "Name": "Chương 192:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a73",
+            "Name": "Chương 191:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a72",
+            "Name": "Chương 190:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a71",
+            "Name": "Chương 189:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a70",
+            "Name": "Chương 188:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6f",
+            "Name": "Chương 187:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6e",
+            "Name": "Chương 186:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6d",
+            "Name": "Chương 185:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6c",
+            "Name": "Chương 184:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6b",
+            "Name": "Chương 183:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a6a",
+            "Name": "Chương 182:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a69",
+            "Name": "Chương 181:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a68",
+            "Name": "Chương 180:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a67",
+            "Name": "Chương 179:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a66",
+            "Name": "Chương 178:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a65",
+            "Name": "Chương 177:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a64",
+            "Name": "Chương 176:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a63",
+            "Name": "Chương 175:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a62",
+            "Name": "Chương 174:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a61",
+            "Name": "Chương 173:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a60",
+            "Name": "Chương 172:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5f",
+            "Name": "Chương 171:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5e",
+            "Name": "Chương 170:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5d",
+            "Name": "Chương 169:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5c",
+            "Name": "Chương 168:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5b",
+            "Name": "Chương 167:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a5a",
+            "Name": "Chương 166:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a59",
+            "Name": "Chương 165:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a58",
+            "Name": "Chương 164:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a57",
+            "Name": "Chương 163:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a56",
+            "Name": "Chương 162:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a55",
+            "Name": "Chương 161:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a54",
+            "Name": "Chương 160:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a53",
+            "Name": "Chương 159:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a52",
+            "Name": "Chương 158:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a51",
+            "Name": "Chương 157:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a50",
+            "Name": "Chương 156:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4f",
+            "Name": "Chương 155:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4e",
+            "Name": "Chương 154:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4d",
+            "Name": "Chương 153:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4c",
+            "Name": "Chương 152:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4b",
+            "Name": "Chương 151:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a4a",
+            "Name": "Chương 150:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a49",
+            "Name": "Chương 149:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a48",
+            "Name": "Chương 148:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a47",
+            "Name": "Chương 147:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a46",
+            "Name": "Chương 146:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a45",
+            "Name": "Chương 145:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a44",
+            "Name": "Chương 144:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a43",
+            "Name": "Chương 143:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a42",
+            "Name": "Chương 142:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a41",
+            "Name": "Chương 141:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a40",
+            "Name": "Chương 140:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3f",
+            "Name": "Chương 139:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3e",
+            "Name": "Chương 138:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3d",
+            "Name": "Chương 137:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3c",
+            "Name": "Chương 136:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3b",
+            "Name": "Chương 135:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a3a",
+            "Name": "Chương 134:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a39",
+            "Name": "Chương 133:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a38",
+            "Name": "Chương 132:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a37",
+            "Name": "Chương 131:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a36",
+            "Name": "Chương 130:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a35",
+            "Name": "Chương 129:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a34",
+            "Name": "Chương 128:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a33",
+            "Name": "Chương 127:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a32",
+            "Name": "Chương 126:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a31",
+            "Name": "Chương 125:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a30",
+            "Name": "Chương 124:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2f",
+            "Name": "Chương 123:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2e",
+            "Name": "Chương 122:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2d",
+            "Name": "Chương 121:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2c",
+            "Name": "Chương 120:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2b",
+            "Name": "Chương 119:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a2a",
+            "Name": "Chương 118:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a29",
+            "Name": "Chương 117:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a28",
+            "Name": "Chương 116:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a27",
+            "Name": "Chương 115:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a26",
+            "Name": "Chương 114:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a25",
+            "Name": "Chương 113:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a24",
+            "Name": "Chương 112:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a23",
+            "Name": "Chương 111:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a22",
+            "Name": "Chương 110:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a21",
+            "Name": "Chương 109:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a20",
+            "Name": "Chương 108:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1f",
+            "Name": "Chương 107:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1e",
+            "Name": "Chương 106:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1d",
+            "Name": "Chương 105:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1c",
+            "Name": "Chương 104:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1b",
+            "Name": "Chương 103:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a1a",
+            "Name": "Chương 102:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a19",
+            "Name": "Chương 101:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4f001a79a14d8276a18",
+            "Name": "Chương 100:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a17",
+            "Name": "Chương 99:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a16",
+            "Name": "Chương 98:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a15",
+            "Name": "Chương 97:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a14",
+            "Name": "Chương 96:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a13",
+            "Name": "Chương 95:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a12",
+            "Name": "Chương 94:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a11",
+            "Name": "Chương 93:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a10",
+            "Name": "Chương 92:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0f",
+            "Name": "Chương 91:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0e",
+            "Name": "Chương 90:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0d",
+            "Name": "Chương 89:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0c",
+            "Name": "Chương 88:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0b",
+            "Name": "Chương 87:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a0a",
+            "Name": "Chương 86:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a09",
+            "Name": "Chương 85:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a08",
+            "Name": "Chương 84:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a07",
+            "Name": "Chương 83:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a06",
+            "Name": "Chương 82:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a05",
+            "Name": "Chương 81:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a04",
+            "Name": "Chương 80:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a03",
+            "Name": "Chương 79:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a02",
+            "Name": "Chương 78:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a01",
+            "Name": "Chương 77:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d8276a00",
+            "Name": "Chương 76:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ff",
+            "Name": "Chương 75:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769fe",
+            "Name": "Chương 74:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769fd",
+            "Name": "Chương 73:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769fc",
+            "Name": "Chương 72:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769fb",
+            "Name": "Chương 71:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769fa",
+            "Name": "Chương 70:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f9",
+            "Name": "Chương 69:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f8",
+            "Name": "Chương 68:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f7",
+            "Name": "Chương 67:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f6",
+            "Name": "Chương 66:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f5",
+            "Name": "Chương 65:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f4",
+            "Name": "Chương 64:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f3",
+            "Name": "Chương 63:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f2",
+            "Name": "Chương 62:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f1",
+            "Name": "Chương 61:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769f0",
+            "Name": "Chương 60:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ef",
+            "Name": "Chương 59:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ee",
+            "Name": "Chương 58:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ed",
+            "Name": "Chương 57:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ec",
+            "Name": "Chương 56:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769eb",
+            "Name": "Chương 55:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ea",
+            "Name": "Chương 54:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e9",
+            "Name": "Chương 53:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e8",
+            "Name": "Chương 52:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e7",
+            "Name": "Chương 51:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e6",
+            "Name": "Chương 50:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e5",
+            "Name": "Chương 49:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e4",
+            "Name": "Chương 48:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e3",
+            "Name": "Chương 47:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e2",
+            "Name": "Chương 46:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e1",
+            "Name": "Chương 45:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769e0",
+            "Name": "Chương 44:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769df",
+            "Name": "Chương 43:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769de",
+            "Name": "Chương 42:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769dd",
+            "Name": "Chương 41:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769dc",
+            "Name": "Chương 40:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769db",
+            "Name": "Chương 39:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769da",
+            "Name": "Chương 38:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d9",
+            "Name": "Chương 37:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d8",
+            "Name": "Chương 36:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d7",
+            "Name": "Chương 35:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d6",
+            "Name": "Chương 34:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d5",
+            "Name": "Chương 33:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d4",
+            "Name": "Chương 32:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d3",
+            "Name": "Chương 31:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d2",
+            "Name": "Chương 30:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d1",
+            "Name": "Chương 29:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769d0",
+            "Name": "Chương 28:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769cf",
+            "Name": "Chương 27:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ce",
+            "Name": "Chương 26:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769cd",
+            "Name": "Chương 25:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769cc",
+            "Name": "Chương 24:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769cb",
+            "Name": "Chương 23:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ca",
+            "Name": "Chương 22:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c9",
+            "Name": "Chương 21:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c8",
+            "Name": "Chương 20:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c7",
+            "Name": "Chương 19:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c6",
+            "Name": "Chương 18:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c5",
+            "Name": "Chương 17:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c4",
+            "Name": "Chương 16:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c3",
+            "Name": "Chương 15:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c2",
+            "Name": "Chương 14:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c1",
+            "Name": "Chương 13:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769c0",
+            "Name": "Chương 12:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769bf",
+            "Name": "Chương 11:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769be",
+            "Name": "Chương 10:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769bd",
+            "Name": "Chương 9:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769bc",
+            "Name": "Chương 8:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769bb",
+            "Name": "Chương 7:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769ba",
+            "Name": "Chương 6:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769b9",
+            "Name": "Chương 5:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769b8",
+            "Name": "Chương 4:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769b7",
+            "Name": "Chương 3:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769b6",
+            "Name": "Chương 2:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6603e4a101a79a14d82769b5",
+            "Name": "Chương 1:",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

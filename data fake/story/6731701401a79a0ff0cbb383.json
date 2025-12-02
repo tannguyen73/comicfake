@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thập Niên 90: Tổ Đối Chiếu Trong Văn Niên Đại Lựa Chọn Nằm Thắng",
+            "StoryImage": "thap-nien-90-to-doi-chieu-trong-van-nien-dai-lua-chon-nam-thang.jpg",
+            "StoryDescription": "<b>Ôn Chỉ Văn</b>, một cô gái hiện đại, vô tình #Xuyên Không vào một cuốn tiểu thuyết và trở thành tổ đối chiếu của nữ chính. Thay vì ghen tuông và gây sự như trong nguyên tác, cô lại chọn cách tận hưởng cuộc sống của một bà vợ giàu có.<p>Trong khi nữ chính bận rộn với việc chăm sóc gia đình, Ôn Chỉ Văn lại thảnh thơi đi mua sắm, làm đẹp. Cô tận hưởng cuộc sống sung túc mà không cần phải lo lắng về bất cứ điều gì. Tuy nhiên, cuộc sống của cô không hề nhàm chán. Những tình huống hài hước và oái oăm liên tục xảy ra khiến cuộc sống của cô trở nên đầy màu sắc.</p><p>Qua những tình huống đó, Ôn Chỉ Văn dần nhận ra rằng cuộc sống không chỉ có hưởng thụ mà còn cần phải có trách nhiệm. Cô bắt đầu quan tâm đến gia đình, đến người chồng của mình. Và rồi, cô nhận ra rằng mình đã yêu Vu Hoài Ngạn từ lúc nào không hay.</p><p>Liệu Ôn Chỉ Văn có thể thay đổi bản thân để trở thành một người vợ tốt? Và tình cảm giữa cô và Vu Hoài Ngạn sẽ đi đến đâu? Hãy cùng theo dõi <b>Thập Niên 90: Tổ Đối Chiếu Trong Văn Niên Đại Lựa Chọn Nằm Thắng</b> để tìm ra câu trả lời.</p>",
+            "StoryUpdateTime": "2024-11-11T04:26:21.6115538Z",
+            "StoryUpdateTimeTick": 638668900049687422,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 247,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Hòa Độ",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6731705801a79a0ff0cbb384",
+                    "MongoId": "6731705801a79a0ff0cbb384"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 247: Ngoại Truyện: Lần Sau Cô Vẫn Dám",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "thap-nien-90-to-doi-chieu-trong-van-nien-dai-lua-chon-nam-thang-chuong-247",
+            "Keyword": "thập niên 90: tổ đối chiếu trong văn niên đại lựa chọn nằm thắng thap nien 90: to doi chieu trong van nien dai lua chon nam thang",
+            "StoryView": 3933,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "thap-nien-90-to-doi-chieu-trong-van-nien-dai-lua-chon-nam-thang",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3933,
+            "StoryViewInWeek": 54,
+            "StoryViewInMonth": 678,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "thap-nien-90-to-doi-chieu-trong-van-nien-dai-lua-chon-nam-thang-chuong-1",
+            "StoryIDFirstChap": "67317f7601a79a0ff0cbb38d",
+            "SoChuong": 247,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Ôn Chỉ Văn, một cô gái hiện đại, xuyên không vào một cuốn tiểu thuyết và trở thành tổ đối chiếu của nữ chính. Thay vì ghen tuông và gây sự như trong nguyên tác, cô lại chọn cách tận hưởng cuộc sống của một bà vợ giàu có. Tình cảm giữa cô và Vu Hoài Ngạn sẽ đi đến đâu?",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "6731701401a79a0ff0cbb383",
+            "MongoId": "6731701401a79a0ff0cbb383"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6731701401a79a0ff0cbb383",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67317f7601a79a0ff0cbb38d",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-sat-than.jpg",
+                "StoryName": "Vô Thượng Sát Thần",
+                "StoryTitleLastChap": "Chương 5399: 5399: Phá giải",
+                "StoryID": "663340c501a79a059c737e45",
+                "StoryUpdateTime": "10/26/2024 8:37:18 AM",
+                "StoryNameK": "vo-thuong-sat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-luyen-dinh-phong.jpg",
+                "StoryName": "Võ Luyện Đỉnh Phong",
+                "StoryTitleLastChap": "Chương 6006: Tương lai ( đại kết cục )",
+                "StoryID": "6557161201a79a03c44addef",
+                "StoryUpdateTime": "11/17/2023 8:47:53 AM",
+                "StoryNameK": "vo-luyen-dinh-phong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-ba.jpg",
+                "StoryName": "Đế Bá",
+                "StoryTitleLastChap": "Chương 7196: Đại Kết Cục",
+                "StoryID": "65081e9701a79a0d5c4826a2",
+                "StoryUpdateTime": "11/8/2024 8:53:40 AM",
+                "StoryNameK": "de-ba"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-dao-dan-ton.jpg",
+                "StoryName": "Thần Đạo Đan Tôn",
+                "StoryTitleLastChap": "Chương 5343: Cuộc Chiến Cấp Thứ Nhất",
+                "StoryID": "65081e4801a79a0d5c482647",
+                "StoryUpdateTime": "9/27/2023 10:00:30 PM",
+                "StoryNameK": "than-dao-dan-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vu-thien-ha.jpg",
+                "StoryName": "Linh Vũ Thiên Hạ",
+                "StoryTitleLastChap": "Chương 5024: Đại kết cục",
+                "StoryID": "65081e4f01a79a0d5c482650",
+                "StoryUpdateTime": "12/19/2023 1:55:54 AM",
+                "StoryNameK": "linh-vu-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vu-than-chua-te.jpg",
+                "StoryName": "Vũ Thần Chúa Tể",
+                "StoryTitleLastChap": "Chương 5196: Hoá thân hắc ám",
+                "StoryID": "6634874001a79a0678ac3e76",
+                "StoryUpdateTime": "5/4/2024 7:11:59 AM",
+                "StoryNameK": "vu-than-chua-te"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-chuc-phap-su.jpg",
+                "StoryName": "Toàn Chức Pháp Sư",
+                "StoryTitleLastChap": "Chương 3136: Cấm chú, anh linh tháp",
+                "StoryID": "656d83fe01a79a0e984a2f9a",
+                "StoryUpdateTime": "12/11/2023 3:02:38 AM",
+                "StoryNameK": "toan-chuc-phap-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//doc-ton-tam-gioi.jpg",
+                "StoryName": "Độc Tôn Tam Giới",
+                "StoryTitleLastChap": "Chương 3612: Đại thế giới truyền thuyết",
+                "StoryID": "650822e501a79a0d5c482d98",
+                "StoryUpdateTime": "5/3/2024 6:58:36 AM",
+                "StoryNameK": "doc-ton-tam-gioi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-tan-dan-dien.jpg",
+                "StoryName": "Vô Tận Đan Điền",
+                "StoryTitleLastChap": "Chương 3633: 100 châu",
+                "StoryID": "650823b701a79a0d5c482e58",
+                "StoryUpdateTime": "9/24/2023 7:07:27 AM",
+                "StoryNameK": "vo-tan-dan-dien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//phi-thien.jpg",
+                "StoryName": "Phi Thiên",
+                "StoryTitleLastChap": "Chương 3912: Trẫm hứa đời này ngươi vừa lòng thỏa ý (1)",
+                "StoryID": "6508233501a79a0d5c482de0",
+                "StoryUpdateTime": "9/24/2023 9:44:17 AM",
+                "StoryNameK": "phi-thien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-chong-giau-co-nhu-nhuoc-cua-toi.jpg",
+                "StoryName": "Người Chồng Giàu Có Nhu Nhược Của Tôi",
+                "StoryTitleLastChap": "Chương 10: Chương 10 (Hoàn)",
+                "StoryID": "67f9f1a901a79c10ec346b1c",
+                "StoryUpdateTime": "4/12/2025 5:08:30 AM",
+                "StoryNameK": "nguoi-chong-giau-co-nhu-nhuoc-cua-toi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "673181bf01a79a0ff0cbb995",
+                "Name": "Chương 247: Ngoại Truyện: Lần Sau Cô Vẫn Dám",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181bd01a79a0ff0cbb994",
+                "Name": "Chương 246: Ngoại Truyện: Em Chơi Đủ Chưa?",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181ba01a79a0ff0cbb993",
+                "Name": "Chương 245: Ngoại Truyện: Em Ở Đây Luôn Được Không?",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181b801a79a0ff0cbb992",
+                "Name": "Chương 244: Ngoại Truyện: Thực Sự Mang Thai!",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181b601a79a0ff0cbb991",
+                "Name": "Chương 243: Ngoại Truyện: Kỳ Kinh Lần Trước Của Em Là Ngày Mấy?",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181b401a79a0ff0cbb990",
+                "Name": "Chương 242: Kết Thúc Chính Văn",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181b101a79a0ff0cbb98f",
+                "Name": "Chương 241: Thêm Quảng Cáo Vào Trò Chơi?",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181af01a79a0ff0cbb98e",
+                "Name": "Chương 240: Chiếc Điện Thoại Di Động Đầu Tiên",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181ad01a79a0ff0cbb98d",
+                "Name": "Chương 239: Tưởng Bở",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "673181aa01a79a0ff0cbb98c",
+                "Name": "Chương 238: Em Có Đi Công Tác Chung Với Anh Không?",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

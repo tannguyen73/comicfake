@@ -1,0 +1,3821 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "680a4ddc01a79a07c0e3e305",
+            "Name": "Chương 636 Vào nghề thôi mà, đơn giản ấy mà, trực tiếp xây một tòa nhà máy chẳng phải tốt hơn sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680a4ddc01a79a07c0e3e304",
+            "Name": "Chương 635 Bộ phận nhập chức? Toàn viên nhập chức!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680906f001a79a16f00d3ce2",
+            "Name": "Chương 634 Mã Quang nổi điên, rốt cuộc Lâm Mặc đang làm cái gì?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680906f001a79a16f00d3ce1",
+            "Name": "Chương 633 Lâm Mặc và tình thương của cha, Cao Chính cảm động rơi lệ, muốn gọi \"Ba ba!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68085c0301a79a1538957ae9",
+            "Name": "Chương 632 Lời thuyết phục khiến Vương Thắng hưng phấn tột độ, đánh cược toàn bộ gia sản!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68085c0301a79a1538957ae8",
+            "Name": "Chương 631 Điều kiện tốt đến kinh người, vượt quá dự kiến của Vương Thắng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680701ed01a79a166ce05177",
+            "Name": "Chương 630 Lấy đổi kiêm cứu tế, lưỡng nan tự giải!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6805ba9801a79a166cda2b01",
+            "Name": "Chương 629 Cao Chính: \"Ta thật là đáng chết a!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6805ba9801a79a166cda2b00",
+            "Name": "Chương 628 Giờ phút này Cao Chính mới nhận ra mình và Lâm Mặc khác nhau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6805ba9801a79a166cda2aff",
+            "Name": "Chương 627 Mâu thuẫn nổi bật: Công việc quái đản của Lâm Mặc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6805ba9801a79a166cda2afe",
+            "Name": "Chương 626 Ma huyễn xí nghiệp văn hóa cùng vấn đề dân sinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68030f2f01a79a170c63dac9",
+            "Name": "Chương 625 Luật sở xếp hạng tăng vọt, như mặt trời ban trưa! Đám người: Nghỉ? Kháng mệnh tăng ca!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68030f2f01a79a170c63dac8",
+            "Name": "Chương 624 Lý tưởng lửa đốt tương lai",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68030f2f01a79a170c63dac7",
+            "Name": "Chương 623 Lý tưởng và phán quyết tử hình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6801c46901a79a170c5fd692",
+            "Name": "Chương 622 Tà ác đầu nguồn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68007a4c01a79a1aec6696b2",
+            "Name": "Chương 621 Vậy ta hỏi ngươi, nô lệ có phải hay không còn muốn cảm tạ chủ nô?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68007a4c01a79a1aec6696b1",
+            "Name": "Chương 620 Cuối cùng trần thuật, Thi Văn Bác đánh cược lần cuối!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff272e01a79a01f406f55d",
+            "Name": "Chương 619 Đúc quỳ giống, để tiếng xấu muôn đời!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff272e01a79a01f406f55c",
+            "Name": "Chương 618 Áp bách",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe125501a79a16845875cc",
+            "Name": "Chương 617 Trước hết giết heo đồng đội a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe125501a79a16845875cb",
+            "Name": "Chương 616 Thu hình lại trình lên, chiến tranh phiến?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fb58ea01a79a14fc3963fe",
+            "Name": "Chương 615 Mới tăng mười hạng tội danh! Rung động toàn trường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9d71101a79a10ec452c91",
+            "Name": "Chương 614 Săn giết thời khắc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9d71101a79a10ec452c90",
+            "Name": "Chương 613 Về nhà!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9d71101a79a10ec452c8f",
+            "Name": "Chương 612 Phá được nhà máy tinh luyện, thu hoạch chứng cứ mấu chốt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9d71001a79a10ec452c8e",
+            "Name": "Chương 611 Gia thuộc nhóm chờ đợi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f74a1c01a79a1234ff948c",
+            "Name": "Chương 610 Dương rác rưởi tinh luyện nhà máy, mấu chốt tuyệt sát chứng cứ?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f74a1c01a79a1234ff948b",
+            "Name": "Chương 609 Thi Văn Bác điên rồi? Ngay cả hình ảnh quan phương cũng dám bôi đen?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5f44101a79a0338ac2e67",
+            "Name": "Chương 608 Hoàn toàn là nhân viên ngu muội! Cùng tương lai công ty chúng ta chẳng liên quan gì!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5f44001a79a0338ac2e66",
+            "Name": "Chương 607 Cơ mật bị phá giải?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4d9c201a79a0338a867f3",
+            "Name": "Chương 606 Thuần thục thắng được dư luận chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4d9c201a79a0338a867f2",
+            "Name": "Chương 605 Lại công kích hệ thống tư pháp?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3726501a79a1af47f1780",
+            "Name": "Chương 604 Thi Văn Bác: \"Chúng ta mới là người bị hại!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3726501a79a1af47f177f",
+            "Name": "Chương 603 Chủ động mở phiên tòa, Thi Văn Bác tuyệt địa phản kích?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f2265201a79a16502ca416",
+            "Name": "Chương 602 Tổ chức thần bí đến giúp, Thi Văn Bác: \"Chúng ta được cứu rồi!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f2265201a79a16502ca415",
+            "Name": "Chương 601 Lệnh đại luật sư nhóm khiếp sợ tình báo thu thập năng lực, bức bách hắc thủ phía sau màn hiện thân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ec9f9201a79a10fce580d0",
+            "Name": "Chương 600 Tử hình, đã không còn là hi vọng xa vời!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67eb530201a79a18a4ae4c72",
+            "Name": "Chương 599 Rùng mình cực hạn nghiền ép công thức!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67eb530201a79a18a4ae4c71",
+            "Name": "Chương 598 Hoàn toàn không tuân thủ, súc sinh không bằng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ea517b01a79a0cfc186874",
+            "Name": "Chương 597 Khai trừ rồi mới mắc bệnh, liên quan gì đến chúng ta?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ea517b01a79a0cfc186873",
+            "Name": "Chương 596 Bạo liệt chứng cứ rung động toàn trường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e8c9e401a79a191c302438",
+            "Name": "Chương 595 Lâm Mặc: \"Ta chỉ là đơn thuần muốn cho các ngươi chết mà thôi.\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e8c9e401a79a191c302437",
+            "Name": "Chương 594 Khổng thẩm phán không những không phạm pháp, còn muốn được khen ngợi?! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e8c9e301a79a191c302436",
+            "Name": "Chương 593 Khổng thẩm phán không những không phạm pháp, còn muốn ngợi khen?! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e7c32801a79a1bd47b0798",
+            "Name": "Chương 592 Ta Lâm Mặc không cho phép các ngươi pháp viện lùi bước!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e7c32801a79a1bd47b0797",
+            "Name": "Chương 591 Pháp viện nguy cơ?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e7c32801a79a1bd47b0796",
+            "Name": "Chương 590 Ma pháp đối oanh, Thi Văn Bác biểu diễn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e4c88b01a79a18603a90f0",
+            "Name": "Chương 589 Khống cáo Lâm Mặc doạ dẫm bắt chẹt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e4c88b01a79a18603a90ef",
+            "Name": "Chương 588 Bác bỏ đầu hàng? Cao trào tiếp tục?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e3a11e01a79a155c290a74",
+            "Name": "Chương 587 Mở phiên tòa liền đầu hàng, ghi vào luật chính sử sách",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e3a11e01a79a155c290a73",
+            "Name": "Chương 586 Lại là tử hình? Toàn trường kinh hãi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e11b3201a79a1378e7c221",
+            "Name": "Chương 585 Chẳng lẽ pháp viện là Lâm Mặc mở?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e11b3201a79a1378e7c220",
+            "Name": "Chương 584 Mở phiên tòa trước, suýt nữa bị đánh chết, trong lịch sử là lần đầu.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e11b3201a79a1378e7c21f",
+            "Name": "Chương 583 Quan phương đài truyền hình tuyên truyền, cơ hội đột phá?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e11b3201a79a1378e7c21e",
+            "Name": "Chương 582 Mở phiên tòa ngày, Thuận Hòa luật sở thành danh chi chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67de33a201a79a177c39eb64",
+            "Name": "Chương 581 Thi Văn Bác tiểu diệu chiêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67de33a201a79a177c39eb63",
+            "Name": "Chương 580 Điều giải đình, thẩm phán này thật ngang tàng! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67de33a201a79a177c39eb62",
+            "Name": "Chương 579 Điều giải đình, thẩm phán này thật ngang tàng! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67dd7be701a79a177c37f500",
+            "Name": "Chương 578 Khởi tố chúng ta tội giết người? Lâm Mặc điên rồi?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67dd7be701a79a177c37f4ff",
+            "Name": "Chương 577 Tin tức tốt cùng tin tức xấu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67daf0a101a79a0354b36243",
+            "Name": "Chương 576 Vụ án lộ sáng, leo lên top tìm kiếm, lập án thành công!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67daf0a101a79a0354b36242",
+            "Name": "Chương 575 Nhân viên có thể nghiền ép giá trị cực hạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67daf0a101a79a0354b36241",
+            "Name": "Chương 574 Mấu chốt chứng cứ tới tay, lại là nhân thể thí nghiệm số liệu?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67daf0a101a79a0354b36240",
+            "Name": "Chương 573 Nghịch thiên tư duy, là Lâm Mặc phong cách a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6c52801a79a13f815c670",
+            "Name": "Chương 572 Lão Vương a, chính viện dài vị trí cũng đến lượt ngươi ngồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6c52801a79a13f815c66f",
+            "Name": "Chương 571 Pháp viện mở xây, Mã Quang lần đầu bối rối! (chương tiết hai hợp một)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6c52801a79a13f815c66e",
+            "Name": "Chương 570 Lão đại, nhà mình chùy làm pháp chùy việc này… Ngài nhìn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6c52801a79a13f815c66d",
+            "Name": "Chương 569 Những chi tiết này cùng giết người không khác!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d3f38c01a79a105cee97b5",
+            "Name": "Chương 568 Ung thư máu (bệnh bạch huyết) - thảm kịch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d3f38c01a79a105cee97b4",
+            "Name": "Chương 567 Chứng minh tai nạn lao động khó khăn, khởi tố cố ý giết người càng chẳng dễ dàng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d2b8e001a79a0a70fa67c5",
+            "Name": "Chương 566 Ba tháng sau mới xử án, đến lúc đó người ta chết hết rồi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d2b8e001a79a0a70fa67c4",
+            "Name": "Chương 565 Bệnh bạch huyết lại đòi công ty bồi thường?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d2b8e001a79a0a70fa67c3",
+            "Name": "Chương 564 Bệnh bạch huyết nhà máy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d157ad01a79a14984e13b3",
+            "Name": "Chương 563 Cao Chính khu trưởng, bao ngươi thoải mái nha!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d157ad01a79a14984e13b2",
+            "Name": "Chương 562 Thu hoạch ngoài dự đoán, hạ thấp tư thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cec45001a79a18d0acd4bc",
+            "Name": "Chương 561 Lâm Mặc một câu, thu về bốn ngàn vạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cec45001a79a18d0acd4bb",
+            "Name": "Chương 560 Vừa nãy nịnh nọt hăng lắm nhỉ, giờ sao không cười nữa?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cec45001a79a18d0acd4ba",
+            "Name": "Chương 559 Cái gì vuốt mông ngựa? Ta Lâm Mặc muốn thẳng, ngươi dám không cho?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cec45001a79a18d0acd4b9",
+            "Name": "Chương 558 Đại hội vuốt mông ngựa, một núi này cao hơn một núi kia!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cc080d01a79a16fc094df6",
+            "Name": "Chương 557 Thăm dò Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cc080d01a79a16fc094df5",
+            "Name": "Chương 556 Luật sư chỉ giúp người nghèo kiện tụng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67caccfb01a79a157c960ce3",
+            "Name": "Chương 555 Danh lợi trường, thiên tài luật sư – cố vấn Viện Lập pháp đế đô!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67caccfb01a79a157c960ce2",
+            "Name": "Chương 554 Giang Đông – Sân chơi danh lợi của giới luật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67caccfb01a79a157c960ce1",
+            "Name": "Chương 553 Vương Chính Hoa: \"Cái gì? Ngươi muốn lập một \"pháp viện\" sao?!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67caccfb01a79a157c960ce0",
+            "Name": "Chương 552 Luật sở tăng cường quân bị, toàn diện chiến đấu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6cf2101a79a180c0196e8",
+            "Name": "Chương 551 Tôn Tuyền: \"Tấn công mạnh lão bà hắn!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6cf2101a79a180c0196e7",
+            "Name": "Chương 550 Cái gì!? Tất cả những ông chủ lòng dạ hiểm độc kia, đều là thuộc hạ của Mã Quang!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c5aedc01a79a0440b1e1b9",
+            "Name": "Chương 549 Chân tướng khu Công Xưởng! Ký sinh thú xuất hiện? (Hai chương hợp nhất)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c5aedc01a79a0440b1e1b8",
+            "Name": "Chương 548 Hạ Linh trở về, tin tức trọng yếu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c419c101a79a141cd0c58b",
+            "Name": "Chương 547 Một câu, khiến khu trưởng Cao khóc vì tôi bán cao ốc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c419c101a79a141cd0c58a",
+            "Name": "Chương 546 Cao khu trưởng: Công xưởng khu nát thành thế này, ngươi làm sao không tự xem xét lại mình?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c419c001a79a141cd0c589",
+            "Name": "Chương 545 Thần nhân Cao Khu trưởng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c419c001a79a141cd0c588",
+            "Name": "Chương 544 Kịch trong kịch, mới gặp cẩu quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c1b8f501a79a154890df33",
+            "Name": "Chương 543 Một ngàn vạn bồi thường – đủ rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c0731601a79a16b494a85d",
+            "Name": "Chương 542 Viên đạn bọc đường! Chọn sai liền xong đời!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c0731601a79a16b494a85c",
+            "Name": "Chương 541 Kếch xù bồi thường, ít nhất một trăm vạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bf24f401a79a14d899b642",
+            "Name": "Chương 540 Đảo khách thành chủ, Mã Quang phô diễn tài năng diễn xuất hạng nhất.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bf24f301a79a14d899b641",
+            "Name": "Chương 539 Dấu vết để lại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bd926001a79a00ecca407a",
+            "Name": "Chương 538 Âm dương hợp đồng, ác ý tiền phạt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bd925701a79a00ecca4079",
+            "Name": "Chương 537 Thu hoạch một viên nhỏ mê đệ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bc753601a79a01b81ad04b",
+            "Name": "Chương 536 Phân tích báo cáo xã hội các cấp độ khu vực Công Hán",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bc753601a79a01b81ad04a",
+            "Name": "Chương 535 Hiền lành gặp phải súc sinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67bac6e101a79a1214ebd5b5",
+            "Name": "Chương 534 Còn sống (hai hợp một)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b9a27f01a79a1214e9ba39",
+            "Name": "Chương 533 Tất cả đều chết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b9a27f01a79a1214e9ba38",
+            "Name": "Chương 532 Sinh viên xuất sắc nhất làng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b8398201a79a079c4f906c",
+            "Name": "Chương 531 Nghị viên Mã Quang thích chơi trò tương phản?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b8398201a79a079c4f906b",
+            "Name": "Chương 530 Ba phải, ác ý giam lương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b6f86101a79a15fc489086",
+            "Name": "Chương 529 Trắng đến cực hạn chính là Đen?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b6f86101a79a15fc489085",
+            "Name": "Chương 528 Thủ đoạn của ngươi vẫn còn quá ôn nhu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b6f86101a79a15fc489084",
+            "Name": "Chương 527 Phạm pháp quy mô lớn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b6f86101a79a15fc489083",
+            "Name": "Chương 526 Vượt qua trời đông giá rét",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1289",
+            "Name": "Chương 525 Phát tiền kiểu cướp bóc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1288",
+            "Name": "Chương 524 Thảm liệt hiện trường (hai hợp một)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1287",
+            "Name": "Chương 523 Linh hồn khảo vấn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1286",
+            "Name": "Chương 522 Lâm Mặc vẫn là bá đạo tổng giám đốc?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1285",
+            "Name": "Chương 521 Thần vì quân chết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4877c01a79a1348cf1284",
+            "Name": "Chương 520 Lâm luật sư, cầu người làm con rể ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b07fe401a79a084c69e21e",
+            "Name": "Chương 519 Hợp pháp doạ dẫm, Triệu Cừu không chịu nổi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b07fe401a79a084c69e21d",
+            "Name": "Chương 518 Ta hy vọng các ngươi tạm dừng điều tra",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b07fe401a79a084c69e21c",
+            "Name": "Chương 517 Khốn cảnh tài chính",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b07fe401a79a084c69e21b",
+            "Name": "Chương 516 Thiên tài họa sĩ Tiểu Tuyết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c60190",
+            "Name": "Chương 515 Ăn miếng trả miếng, gấp mười trả lại!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018f",
+            "Name": "Chương 514 Chân tướng luôn vượt ngoài dự đoán của mọi người.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018e",
+            "Name": "Chương 513 Kinh thiên cướp đoạt, hợp pháp toàn tập!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018d",
+            "Name": "Chương 512 Cướp đoạt phương thức vì “Ký sinh”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018c",
+            "Name": "Chương 511 Ai mới là quan phương nhân viên a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018b",
+            "Name": "Chương 510 Đội ngũ chuyên nghiệp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c6018a",
+            "Name": "Chương 509 Ăn tuyệt hậu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656d01a79a05c8c60189",
+            "Name": "Chương 508 Gặp mặt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ad656c01a79a05c8c60188",
+            "Name": "Chương 507 Về nhà! Mẹ chờ con.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a7123201a79a17dc4f6d89",
+            "Name": "Chương 506 Vô tội, được thả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a7123201a79a17dc4f6d88",
+            "Name": "Chương 505 Bỏ mạng ở tòa án?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a7123201a79a17dc4f6d87",
+            "Name": "Chương 504 Vì chân tướng, trở thành “đệ nhất thế giới xã chết nam”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a7123201a79a17dc4f6d86",
+            "Name": "Chương 503 Suy luận về vụ án giết người của Triệu Cừu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a7123201a79a17dc4f6d85",
+            "Name": "Chương 502 Ngô Hải cảm động, Triệu Cừu, ngươi mới là hung thủ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9288",
+            "Name": "Chương 501 Thư tín đưa ra, chứng minh tình yêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9287",
+            "Name": "Chương 500 Toàn trường kinh hãi, Lâm Mặc nhìn ra được thế nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9286",
+            "Name": "Chương 499 Luật sư Triệu Cừu, cảm ơn ngài đã cung cấp chứng cứ (Chúc mừng năm mới!)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9285",
+            "Name": "Chương 498 Tông sư múa rối",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9284",
+            "Name": "Chương 497 Lần nữa đoán sai, Hạ Linh \"đóng băng\" não bộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9283",
+            "Name": "Chương 496 Não đại động mở, họa trong họa sáo oa?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9282",
+            "Name": "Chương 495 Video 20 năm, áp lực đè nặng Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9281",
+            "Name": "Chương 494 Triệu Cừu tung bằng chứng quyết định, Lâm Mặc, ngươi dựa vào đâu mà đấu với ta?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9280",
+            "Name": "Chương 493 Bằng chứng bất thường, “Mì hoành thánh” cũng có thể là manh mối quan trọng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927f",
+            "Name": "Chương 492 Báo cáo nghiên cứu sinh vật học của Triệu Cừu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927e",
+            "Name": "Chương 491 Vô tội biện hộ, Triệu Cừu và Ngô Hải - sự trùng hợp kinh người?! (Hai chương hợp nhất)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927d",
+            "Name": "Chương 490 Phiên tòa chính thức bắt đầu – Một vụ án… khá \"giàu có\"!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927c",
+            "Name": "Chương 489 Đình tiền đánh cờ, Lâm Mặc, ngươi dựa vào cái gì mà vênh váo tự đắc ở đây thế này?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927b",
+            "Name": "Chương 488 Phiên tòa biến thành hiện trường đưa tang?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf927a",
+            "Name": "Chương 487 Trời đông giá rét chẳng mấy chốc sẽ qua đi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9279",
+            "Name": "Chương 486 Trước ngày mở phiên tòa, Triệu Cừu có thể là hung thủ.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9278",
+            "Name": "Chương 485 Kiểm sát sảnh đại nội gian —— Tô Dương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9277",
+            "Name": "Chương 484 Thế lực hùng hậu của Triệu Cừu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9276",
+            "Name": "Chương 483 Toàn mạng chấn kinh, Lâm Mặc muốn giúp Ngô Hải sửa án oan?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9275",
+            "Name": "Chương 482 Xin thông qua, phúc thẩm khởi động!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9274",
+            "Name": "Chương 481 Chứng cứ hoàn mỹ, khởi động lại phiên tòa thẩm vấn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9273",
+            "Name": "Chương 480 Chân tướng! Mâu thuẫn gay gắt, lợi dụng pháp luật để cướp đoạt tài sản",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9272",
+            "Name": "Chương 479 Học đi đôi với hành, cộng đồng nắm giữ kỹ thuật, hướng tới cộng đồng giàu mạnh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9271",
+            "Name": "Chương 478 Yến Hoa: \"Đừng để ta thất vọng.\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9270",
+            "Name": "Chương 477 Đặc công Tôn Tuyền tái xuất!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926f",
+            "Name": "Chương 476 Các người không muốn cướp danh tiếng của ta sao!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926e",
+            "Name": "Chương 475 Bộ trưởng Hạ Linh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926d",
+            "Name": "Chương 474 Khởi động tái thẩm - chẳng là vấn đề gì",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926c",
+            "Name": "Chương 473 Vì cộng đồng mộng tưởng, nên ta nhận tội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926b",
+            "Name": "Chương 472 Yến Hoa nổi loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf926a",
+            "Name": "Chương 471 Một trận bỏ trốn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9269",
+            "Name": "Chương 470 Sự thật được phơi bày",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9268",
+            "Name": "Chương 469 Bị bức bách",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9267",
+            "Name": "Chương 468 Ngôi nhà lạnh lẽo của Ngô Hải, ta không bán con gái!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9266",
+            "Name": "Chương 467 Kiểm tra thi thể báo cáo có vấn đề",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9265",
+            "Name": "Chương 466 Ngô Hải - kẻ tình nghi hàng đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9264",
+            "Name": "Chương 465 Kỳ án Ngô Hải",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9263",
+            "Name": "Chương 464 Pháp luật giới và chàng trai trẻ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9262",
+            "Name": "Chương 463 Vô tư kính dâng, chết thì mới thôi làm luật sư, vọng tưởng làm anh hùng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9261",
+            "Name": "Chương 462 Tiến lên! Tiến lên! Tiến lên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf9260",
+            "Name": "Chương 461 Nhiệm vụ hoàn thành, công năng ẩn giấu được kích hoạt, oan ức được giải?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf925f",
+            "Name": "Chương 460 Không phải Lâm Mặc, là cảnh sát, chúng ta được cứu rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf925e",
+            "Name": "Chương 459 Chính diện giao chiến, trong ngoài kết hợp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf925d",
+            "Name": "Chương 458 Đến cùng có bao nhiêu người?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba401a79a0ea4bf925c",
+            "Name": "Chương 457 Lâm Mặc, Chân Thần Tiên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf925b",
+            "Name": "Chương 456 Tin tức về Lâm Mặc! Bộ chỉ huy khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf925a",
+            "Name": "Chương 455 Hóa thân ác ma thực thụ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9259",
+            "Name": "Chương 454 Không nói pháp luật, giảng vũ lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9258",
+            "Name": "Chương 453 Thân phận bại lộ, chúng ta sẽ tra tấn Lâm Mặc thế nào đây?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9257",
+            "Name": "Chương 452 Nhà các ngươi ai bị ta đưa vào đây? (Chúc mừng năm mới!)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9256",
+            "Name": "Chương 451 Siêu nhân giác quan, phục kích gió lốc – Kế hoạch cứu viện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9255",
+            "Name": "Chương 450 Lên đường T nước! Pháo đón lấy, chiêng trống Chấn Thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9254",
+            "Name": "Chương 449 Sụp đổ đám cảnh sát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9253",
+            "Name": "Chương 448 Liên minh báo thù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a45ba301a79a0ea4bf9252",
+            "Name": "Chương 447 Thử thách huấn luyện viên – Huấn luyện thực chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd7",
+            "Name": "Chương 446 Súng ống đại sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd6",
+            "Name": "Chương 445 Thích ứng thân thể mới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd5",
+            "Name": "Chương 444 Cấp S kỹ năng —— Siêu nhân thể chất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd4",
+            "Name": "Chương 443 Pháp luật máy móc —— Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd3",
+            "Name": "Chương 442 Ta không có tư cách để người khác thay ta chết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd2",
+            "Name": "Chương 441 Lộ ra một tia manh mối",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd1",
+            "Name": "Chương 440 Bảo hộ ngươi là vì chính nghĩa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabd0",
+            "Name": "Chương 439 Manh mối toàn đoạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabcf",
+            "Name": "Chương 438 Lật cái úp sấp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabce",
+            "Name": "Chương 437 Không chết không thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabcd",
+            "Name": "Chương 436 Khắp thế gian đều kinh ngạc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabcc",
+            "Name": "Chương 435 Hạ Linh trúng đạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabcb",
+            "Name": "Chương 434 Dự thính tịch tiếng súng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabca",
+            "Name": "Chương 433 30 vạn so với 1400 vạn, ta tại sao muốn đoạt của Từ Hàn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc9",
+            "Name": "Chương 432 Quỷ nghèo giáo sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc8",
+            "Name": "Chương 431 Ăn ý",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc7",
+            "Name": "Chương 430 Khởi tố Đại học Công nghiệp Giang Nam!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc6",
+            "Name": "Chương 429 Hạ Linh câm như hến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc5",
+            "Name": "Chương 428 Bán ngươi, ngươi còn phải cùng ta xin lỗi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc4",
+            "Name": "Chương 427 Bị Lâm Mặc bán, còn giúp kiếm tiền...",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc3",
+            "Name": "Chương 426 Cung viện trưởng, ngài nhất định phải ký hợp đồng lao động!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc2",
+            "Name": "Chương 425 Lâm Mặc bị tiền tài hủ thực sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc1",
+            "Name": "Chương 424 Muốn nhìn thấy nhiều áp lực hơn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3101a79a14f0afabc0",
+            "Name": "Chương 423 Lâm Mặc rốt cuộc đã làm thế nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabbf",
+            "Name": "Chương 422 Bọn chúng cũng muốn trở thành bệnh nhân tâm thần, nên…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabbe",
+            "Name": "Chương 421 Hóa thân siêu cấp lớn lắc lư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabbd",
+            "Name": "Chương 420 Để lại cho ngươi thời gian không nhiều",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabbc",
+            "Name": "Chương 419 Lâm Mặc quả là kỳ tài!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabbb",
+            "Name": "Chương 418 Chân tướng rõ ràng, Lục Kỳ rơi lệ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabba",
+            "Name": "Chương 417 Tạ Ba thanh lý môn hộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb9",
+            "Name": "Chương 416 Chuẩn bị bắt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb8",
+            "Name": "Chương 415 Bảo an hỏng một nồi đại cục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb7",
+            "Name": "Chương 414 Vớt hoàng kim",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb6",
+            "Name": "Chương 413 Mấu chốt manh mối",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb5",
+            "Name": "Chương 412 Bí mật kinh thiên của Tô Dương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb4",
+            "Name": "Chương 411 Nắm Tô Dương, chưởng khống Tô Dương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb3",
+            "Name": "Chương 410 Tạ Ba: \"Ta giết hết các ngươi!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb2",
+            "Name": "Chương 409 Càng ngày càng khó hiểu, Lâm Mặc khiến Tạ Ba ăn bảo vệ?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb1",
+            "Name": "Chương 408 Lâm Mặc tà ác tiếu dung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabb0",
+            "Name": "Chương 407 Trường trung học thỏa hiệp nhượng bộ, hành động chính thức bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabaf",
+            "Name": "Chương 406 Tạ Ba công khai lộ diện, vô tội! Lâm Mặc xuất sắc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabae",
+            "Name": "Chương 405 Từ Hàn cũng là người bị ép",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabad",
+            "Name": "Chương 404 Hung thủ thật sự!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabac",
+            "Name": "Chương 403 Ngươi có chết hay không quản ta chuyện gì?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabab",
+            "Name": "Chương 402 Phán quyết: Vô tội, được thả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afabaa",
+            "Name": "Chương 401 Bị quyền lợi che đậy – Tô Dương kiểm sát trưởng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba9",
+            "Name": "Chương 400 Chứng cứ không đủ, bị cáo Tạ Ba vô tội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba8",
+            "Name": "Chương 399 Chi tiết quyết định thành bại! Phòng thí nghiệm có tạp âm?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba7",
+            "Name": "Chương 398 Gián tiếp miểu sát Giang Hải pháp viện các cao tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba6",
+            "Name": "Chương 397 Ta có nói qua ta là kiểm sát trưởng sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba5",
+            "Name": "Chương 396 Lâm Mặc cũng dám mạo xưng kiểm sát trưởng?! Quá tốt rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba4",
+            "Name": "Chương 395 Ngươi Lâm Mặc, ngay cả cảnh sát cũng hoài nghi sao?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba3",
+            "Name": "Chương 394 Tám tuổi có thể làm chứng nhân? Còn có thể bác bỏ chứng cứ của ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba2",
+            "Name": "Chương 393 Bị lật đổ, ta xem ngươi Lâm Mặc còn có thể có mánh khóe gì!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba1",
+            "Name": "Chương 392 Mở phiên tòa, vượt quá mọi dự đoán – Thẩm phán không công khai!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afaba0",
+            "Name": "Chương 391 Thành Ba, thính giác xử lý chướng ngại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9f",
+            "Name": "Chương 390 Giỏi về phát hiện chi tiết - Thám tử Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9e",
+            "Name": "Chương 389 Có mánh khóe, có lẽ có thể lật đổ toàn bộ chứng cứ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9d",
+            "Name": "Chương 388 Giả mạo kiểm sát trưởng?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9c",
+            "Name": "Chương 387 Tâm tình rất phức tạp của người góa bụa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9b",
+            "Name": "Chương 386 Con của ngươi trong tay ta",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab9a",
+            "Name": "Chương 385 Ta muốn thấy ngươi có thể làm được trình độ gì",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab99",
+            "Name": "Chương 384 Vương Chính Hoa: “Ta cảm thấy mình sắp xong rồi…”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab98",
+            "Name": "Chương 383 Tối cao pháp viện cấp đại pháp quan giáng lâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab97",
+            "Name": "Chương 382 Lâm Mặc: “Ta thật không ngờ mọi chuyện lại lớn đến thế này!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab96",
+            "Name": "Chương 381 Một câu \"Không thể nào, không thể nào\" chọc giận tất cả mọi người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab95",
+            "Name": "Chương 380 Chẳng lẽ tám tuổi liền không thể làm chứng nhân?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab94",
+            "Name": "Chương 379 Các giáo sư sợ hãi, các ngươi kiểm tra bệnh trầm cảm là muốn làm gì!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab93",
+            "Name": "Chương 378 Đây là chướng nhãn pháp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab92",
+            "Name": "Chương 377 Lâm Mặc nghịch thiên quỷ biện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab91",
+            "Name": "Chương 376 Giết người cấp cứu, tránh hiểm?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab90",
+            "Name": "Chương 375 Ta xin bên ta người trong cuộc ngậm miệng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8f",
+            "Name": "Chương 374 Mở phiên tòa! Thần muốn chết chiến, bệ hạ cớ gì trước hàng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8e",
+            "Name": "Chương 373 Để người thân bị hại làm chứng cho hung thủ? Địa ngục độ khó!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8d",
+            "Name": "Chương 372 Lâm Mặc: \"Ta sẽ khiến lũ giáo sư ngạo mạn kia phải sợ hãi!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8c",
+            "Name": "Chương 371 Chắp vá bằng chứng? Tạ Ba vô tội?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8b",
+            "Name": "Chương 370 Lựa chọn ngành kỹ thuật chính là lựa chọn gian khổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab8a",
+            "Name": "Chương 369 Vụ án giết người của thiên tài gây sốt mạng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab89",
+            "Name": "Chương 368 Ngươi coi như muốn chết, cũng không thể chết trong tay ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab88",
+            "Name": "Chương 367 Thiên tài giảm hình phạt biện pháp?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab87",
+            "Name": "Chương 366 Biết giết người hậu quả sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab86",
+            "Name": "Chương 365 Một lòng muốn chết phạm nhân, làm sao biện hộ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab85",
+            "Name": "Chương 364 Tiểu Linh linh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab84",
+            "Name": "Chương 363 Trở về!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab83",
+            "Name": "Chương 362 Tiểu kim mao",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab82",
+            "Name": "Chương 361 Nhược điểm duy nhất của Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab81",
+            "Name": "Chương 360 Nhẹ nhõm một ngày",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab80",
+            "Name": "Chương 359 Ngày mai thuốc sẽ có, đủ dùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc3001a79a14f0afab7f",
+            "Name": "Chương 358 Chúng hắn là tội phạm giết người sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab7e",
+            "Name": "Chương 357 Phạm tội tập đoàn đại phán quyết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab7d",
+            "Name": "Chương 356 Du Cao – vị cục trưởng tốt bụng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab7c",
+            "Name": "Chương 355 Đối phương luật sư cũng phải vào cuộc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab7b",
+            "Name": "Chương 354 Ngô Ngôn Tổ, Hạt ca điên cuồng, tiếng chất vấn lại lớn một điểm a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab7a",
+            "Name": "Chương 353 Bằng chứng như núi. Hùng Phi: “Con mẹ nó chứ, lại là Joker?!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab79",
+            "Name": "Chương 352 Tôn Trùng lĩnh án chung thân? Hùng Phi trợn mắt há hốc mồm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab78",
+            "Name": "Chương 351 Mở phiên tòa, ta đề nghị phạt tiền mười tỷ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab77",
+            "Name": "Chương 350 Lại là một trận miểu sát tại tòa án? Khóe miệng muốn méo hết cả rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab76",
+            "Name": "Chương 349 Mở phiên tòa phong bạo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab75",
+            "Name": "Chương 348 Cho Lâm Mặc đội mũ “Bại hoại dân tộc”!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab74",
+            "Name": "Chương 347 Cừu nhân hùng hổ xuất hiện, ta nhất định đoạt lại tất cả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab73",
+            "Name": "Chương 346 Chính thức khởi tố!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab72",
+            "Name": "Chương 345 Lâm Mặc chết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab71",
+            "Name": "Chương 344 Rốt cuộc tìm được tuyệt sát chứng cứ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab70",
+            "Name": "Chương 343 Ta yêu ngươi, Lâm Mặc (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1e01a79a14f0afab6f",
+            "Name": "Chương 342 Ta yêu ngươi, Lâm Mặc (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab6e",
+            "Name": "Chương 341 Ta cưỡng gian lão bà của ta?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab6d",
+            "Name": "Chương 340 Max điểm nam nhân – Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab6c",
+            "Name": "Chương 339 Không thích hợp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab6b",
+            "Name": "Chương 338 Đẹp trai nhất nam nhân - Lâm Mặc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab6a",
+            "Name": "Chương 337 Điểm mẫu nam tốt, đến điểm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab69",
+            "Name": "Chương 336 Manh muội tử là chúng ta luật sở vương bài đặc công",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab68",
+            "Name": "Chương 335 Lâm luật sư luôn để mắt đến chúng ta",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab67",
+            "Name": "Chương 334 Đến Thuận Hòa luật sở",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab66",
+            "Name": "Chương 333 Lấy mạng đổi tiền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab65",
+            "Name": "Chương 332 Hạ Linh MVP",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab64",
+            "Name": "Chương 331 Chó gian thương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab63",
+            "Name": "Chương 330 Dư luận đảo chiều, Cao Minh tẩy trắng thủ đoạn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab62",
+            "Name": "Chương 329 Tôn Trùng ra tay, chiếm lĩnh hot search, che giấu âm mưu?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab61",
+            "Name": "Chương 328 Lâm luật sư nói đúng! Hắn thật sự quyên góp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab60",
+            "Name": "Chương 327 Ác ý đấu giá, ân oán chuyện cũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5f",
+            "Name": "Chương 326 Là thắng lợi đêm trước sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5e",
+            "Name": "Chương 325 Cốt cách kinh kỳ, vết thương nhẹ báo cáo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5d",
+            "Name": "Chương 324 Hạ Linh vẫn là cái diễn viên xuất sắc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5c",
+            "Name": "Chương 323 Tiểu Linh, không nên đánh người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5b",
+            "Name": "Chương 322 Ủy thác từ Cục Bảo hiểm Y tế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab5a",
+            "Name": "Chương 321 Gian thương Tôn Trùng làm giàu sử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab59",
+            "Name": "Chương 320 Ngươi là người giúp ta lâu nhất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab58",
+            "Name": "Chương 319 Phán quyết! Đường Xích trong sạch vô tội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab57",
+            "Name": "Chương 318 Trừng phạt? Bằng lái chụp 3 được phân cho",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab56",
+            "Name": "Chương 317 Tôn Trùng: “Lâm Mặc, ngươi bị bệnh thần kinh rồi!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab55",
+            "Name": "Chương 316 Cao Trì: \"Ta chỉ muốn tiền, chứ không muốn chết!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab54",
+            "Name": "Chương 315 Giả nhân giả nghĩa thôi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab53",
+            "Name": "Chương 314 Sẽ không nói cái gì \"Ưu thế tại ta\" mê sảng đi?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab52",
+            "Name": "Chương 313 Lâm Mặc – Thiên tài thao tác?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab51",
+            "Name": "Chương 312 Đều bị dắt mũi, ta lại là luật sư bào chữa cho bị cáo a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab50",
+            "Name": "Chương 311 Xem ra mọi người đều bị ta lừa rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4f",
+            "Name": "Chương 310 Biết cái gì là khí cười sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4e",
+            "Name": "Chương 309 Cao Trì điên rồi, sơ bộ thành công!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4d",
+            "Name": "Chương 308 Toàn bộ đều điên rồi, tòa án này không có người bình thường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4c",
+            "Name": "Chương 307 Vụ án này quả thật điên rồ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4b",
+            "Name": "Chương 306 Kém chút bị Lâm Mặc hại thảm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab4a",
+            "Name": "Chương 305 Điên rồi! Lâm Mặc: \"Ta cho rằng ta chính là đang xử lý một vụ án tử hình.\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab49",
+            "Name": "Chương 304 Nghịch thiên ngôn luận, Đường Xích là trùm ma túy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab48",
+            "Name": "Chương 303 Xử bắn một lần cùng xử bắn mười, khác nhau ở chỗ nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab47",
+            "Name": "Chương 302 Mở phiên tòa, vô tội biện hộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab46",
+            "Name": "Chương 301 Phương pháp lấy độc công độc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab45",
+            "Name": "Chương 300 Vụ án gây bão mạng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab44",
+            "Name": "Chương 299 Chính án, Lâm Mặc công nhiên uy hiếp ta a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab43",
+            "Name": "Chương 298 Học tập cho giỏi, hảo hảo chữa bệnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab42",
+            "Name": "Chương 297 Thế nhân đều khổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab41",
+            "Name": "Chương 296 Ta Lâm Mặc chính là đại ác ma!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab40",
+            "Name": "Chương 295 Trực tiếp mắng lên, các ngươi ngay cả heo cũng không bằng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3f",
+            "Name": "Chương 294 Tiểu Linh đừng sợ, là ta.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3e",
+            "Name": "Chương 293 Buôn lậu thuốc phiện?! Lâm Mặc giật mình bật dậy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3d",
+            "Name": "Chương 292 Là mưu kế?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3c",
+            "Name": "Chương 291 Hạ Linh, thủ quy củ siêu nhân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3b",
+            "Name": "Chương 290 Hạ Linh đang cố gắng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab3a",
+            "Name": "Chương 289 Ưu thế thuộc về ta! Lâm Mặc đến cũng phải thua!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab39",
+            "Name": "Chương 288 Nhập khẩu thuốc, lợi nhuận khổng lồ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab38",
+            "Name": "Chương 287 Vụ án này không đơn giản như vậy.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab37",
+            "Name": "Chương 286 Sáu trăm vạn ủy thác phí?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab36",
+            "Name": "Chương 285 Buôn lậu thuốc là tội?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab35",
+            "Name": "Chương 284 Chứng động kinh phát tác ở bọn trẻ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab34",
+            "Name": "Chương 283 Uể oải Hạ Linh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab33",
+            "Name": "Chương 282 Hoàn mỹ kết cục, cho ngươi ta thẻ đen",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab32",
+            "Name": "Chương 281 Nghe ta chủ động xuất kích, trực tiếp cùng nàng hẹn hò",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc1d01a79a14f0afab31",
+            "Name": "Chương 280 Chung Diễm: “Lão nương ta chính là yêu đương não!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab30",
+            "Name": "Chương 279 Đây là năng lực của một người phụ nữ trưởng thành sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2f",
+            "Name": "Chương 278 Nam nhân chân chính sẽ không để người mình quan tâm phải lo lắng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2e",
+            "Name": "Chương 277 Chung thẩm phán, ngươi bị ta xem thấu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2d",
+            "Name": "Chương 276 Phán quyết! Chính án xin lỗi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2c",
+            "Name": "Chương 275 Thẩm phán bị chửi thành lợn chết…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2b",
+            "Name": "Chương 274 Thẩm phán đại nhân, ngươi đang dạy người phạm tội đấy!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab2a",
+            "Name": "Chương 273 Liễu Tô luật sư, người cứ chiều họ đi…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab29",
+            "Name": "Chương 272 Lâm Mặc điên rồi, ngay cả chính án cũng dám mắng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab28",
+            "Name": "Chương 271 Dương Hán, ngươi là người đàn ông chân chính.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab27",
+            "Name": "Chương 270 Người thành thật bị ép thật chặt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab26",
+            "Name": "Chương 269 Sẽ chỉ vung đao hướng người thành thật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab25",
+            "Name": "Chương 268 Thiếu niên cùng tự ti thường bạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab24",
+            "Name": "Chương 267 Phán quyết này thật là vô lý!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab23",
+            "Name": "Chương 266 Bản án lạ, không hợp lẽ thường! Cái này cũng đòi nam bồi thường tiền?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab22",
+            "Name": "Chương 265 Liễu Tô: \"Lâm Mặc, ngươi có thể hay không làm bạn trai ta?\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab21",
+            "Name": "Chương 264 Tăng ca phải phạt khoản!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab20",
+            "Name": "Chương 263 Các ngươi là người, không phải trâu ngựa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1f",
+            "Name": "Chương 262 Lâm Mặc – Chiêu trò khoe khoang!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1e",
+            "Name": "Chương 261 Vì để nhân viên không phải tăng ca mà tốn tâm tư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1d",
+            "Name": "Chương 260 Nhân tài nhiều lắm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1c",
+            "Name": "Chương 259 bận rộn công việc, đi lên trước.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1b",
+            "Name": "Chương 258 Hệ thống thăng cấp, thu hoạch chức năng mới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab1a",
+            "Name": "Chương 257 Chung thân tù tội, danh vọng tăng vọt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab19",
+            "Name": "Chương 256 Cạn kiệt mọi thủ đoạn và sức lực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab18",
+            "Name": "Chương 255 vì trước đây bị các luật sở khác từ chối nên rất coi trọng công việc này, cố gắng hết sức, sợ Lâm Mặc không hài lòng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab17",
+            "Name": "Chương 254 tự giới thiệu.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab16",
+            "Name": "Chương 253 Lại gặp nhân tài cấp S!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab15",
+            "Name": "Chương 252 Lửa giận công tâm, Dương Điền Công toà án thổ huyết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab14",
+            "Name": "Chương 251 Tính quyết định tác dụng! Lâm Mặc “trưng tài” tại tòa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab13",
+            "Name": "Chương 250 Làm tòa bắt được!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab12",
+            "Name": "Chương 249 Cái này khác gì với phế vật?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab11",
+            "Name": "Chương 248 Chân tướng mới là khoái đao!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab10",
+            "Name": "Chương 247 Làm sao tạo nên tổn thương thực sự?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0f",
+            "Name": "Chương 246 Không ngờ ta lại văn chép « Kinh Thi · Kià Dương »",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0e",
+            "Name": "Chương 245 Chính hắn tự nhục mình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0d",
+            "Name": "Chương 244 Ngươi như lúc mặt trời mới mọc, tươi đẹp rạng rỡ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0c",
+            "Name": "Chương 243 Thu luật sư, ngươi vì vụ án này nỗ lực nhiều lắm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0b",
+            "Name": "Chương 242 Lần nữa mở phiên tòa, ta chỉ là một kẻ ngốc nghếch mà thôi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab0a",
+            "Name": "Chương 241 Thu Anh: \"Thật sự để ta tùy ý phát huy sao?!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab09",
+            "Name": "Chương 240 Lâm Mặc: “Ta cơm chùa miễn cưỡng ăn!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab08",
+            "Name": "Chương 239 Liễu Tô lão sư, ngươi cũng quá giỏi nói đi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab07",
+            "Name": "Chương 238 Có gan thì cởi quần ngay tại đây!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab06",
+            "Name": "Chương 237 Là bệnh – Rối loạn nhân cách dạng thụ ngược",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab05",
+            "Name": "Chương 236 Hạ Linh đánh càng hung ác, Dương Thủ Nghĩa càng thoải mái!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab04",
+            "Name": "Chương 235 Hạ Linh là võ lâm cao thủ, chuyện này ai cũng biết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab03",
+            "Name": "Chương 234 Chẳng lẽ là bởi vì yêu sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab02",
+            "Name": "Chương 233 Mở phiên tòa, phản cáo đối phương mưu sát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab01",
+            "Name": "Chương 232 Nghịch thiên Logic, Dương Thủ Nghĩa là thụ ngược đãi cuồng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afab00",
+            "Name": "Chương 231 Dương Thủ Nghĩa mới là kẻ mưu sát, Hạ Linh là người đáng thương bị hại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaff",
+            "Name": "Chương 230 Tiêu Thư khai báo, tội ác tày trời của Dương Điền Công! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaafe",
+            "Name": "Chương 229 Tiêu Thư mở miệng, tội ác tày trời của Dương Điền Công! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaafd",
+            "Name": "Chương 228 Ngươi toàn bộ sư cướp chúng ta hình sự trinh sát sống?! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaafc",
+            "Name": "Chương 227 Tiêu Thư mở miệng, Dương Điền Công tội ác tày trời!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaafb",
+            "Name": "Chương 226 Ngươi tưởng cướp hết công lao của chúng ta hình sự trinh sát sao?! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaafa",
+            "Name": "Chương 225 Ngươi toàn bộ sư cướp chúng ta hình sự trinh sát cơm ăn sao?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf9",
+            "Name": "Chương 224 Tiến vào hội sở, ta liền muốn nàng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf8",
+            "Name": "Chương 223 Bi tình nam nhân, đây là ta cho bạn gái ta đồ cưới.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf7",
+            "Name": "Chương 222 Nữ kỹ sư nhóm bi thảm tao ngộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf6",
+            "Name": "Chương 221 Thu Anh: \"Ngươi muốn lấy tiền của luật sở đi chơi à?!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf5",
+            "Name": "Chương 220 Thuận Hòa luật sở, cường độ công việc khủng bố như vậy?! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf4",
+            "Name": "Chương 219 Thuận Hòa luật sở – Công việc cường độ khủng bố như vậy?! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dc0b01a79a14f0afaaf3",
+            "Name": "Chương 218 Liễu lão sư thủ hạ cũng toàn là nhân tài a! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaf2",
+            "Name": "Chương 217 Liễu lão sư thủ hạ cũng toàn là nhân tài a! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaf1",
+            "Name": "Chương 216",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaf0",
+            "Name": "Chương 215 Lâm Mặc: \"Nếu như ta nói, Đại Lực ủng hộ các ngươi khởi tố Hạ Linh thì sao?\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaef",
+            "Name": "Chương 214 Lâm Mặc cẩu tặc, đưa ta lão bà!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaee",
+            "Name": "Chương 213 Phái Thu Anh ra trận, chắc thắng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaed",
+            "Name": "Chương 212 Hạ Linh: \"Các ngươi ăn chúng ta Huyết Man Đầu! Ô ô ô...\"  Đây là chuyện tốt sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaec",
+            "Name": "Chương 211 Xui khiến xưng tội, bỉ ổi tội không thành lập?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaeb",
+            "Name": "Chương 210 Cái gì đỏ vòng chỗ, ta trực tiếp khởi tố!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaea",
+            "Name": "Chương 209 Lâm Mặc: \"Ta và luật sư Liễu Tô đã trao đổi rồi.\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae9",
+            "Name": "Chương 208 Ta làm việc, làm sao chỉ cần một lời xin lỗi?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae8",
+            "Name": "Chương 207 Hạ Linh có ý định giết người? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae7",
+            "Name": "Chương 206 Hạ Linh có ý định giết người? (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae6",
+            "Name": "Chương 205 Không có tiếc nuối, Liễu Tô chính thức gia nhập Thuận Hòa luật sở! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae5",
+            "Name": "Chương 204 Không có tiếc nuối, Liễu Tô chính thức gia nhập Thuận Hòa luật sở! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae4",
+            "Name": "Chương 203 Chấp hành tử hình! Đối Liễu Tô sư phụ dục cầm cố túng (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae3",
+            "Name": "Chương 202 Chấp hành tử hình! Đối Liễu Tô lão sư dục cầm cố túng (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae2",
+            "Name": "Chương 201 Tử hình hạch chuẩn! Tội ác tày trời!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae0",
+            "Name": "Chương 199 Thẩm phán thật sự mắc lừa?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaae1",
+            "Name": "Chương 199 Bao nhiêu tiền có thể mua mệnh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaadf",
+            "Name": "Chương 198 Tâm lý học ám chỉ vận dụng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaade",
+            "Name": "Chương 197 Chính án muốn đánh người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaadd",
+            "Name": "Chương 196 Luật sư Chu Đà, bậc thầy tâm lý học?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaadc",
+            "Name": "Chương 195 Chưa kịp bắt đầu đã phải đình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaadb",
+            "Name": "Chương 194 Chính án, ta đều là vì tốt cho ngươi a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaada",
+            "Name": "Chương 193 Ta có dị nghị, toàn thể thẩm phán nhất định phải né tránh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad9",
+            "Name": "Chương 192 Ngày mở phiên tòa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad8",
+            "Name": "Chương 191 Tiêu Huy thẩm phán ngày xưa phá sự",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad7",
+            "Name": "Chương 190: Kháng tụng thành công! Cái này quá chuyên nghiệp a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad6",
+            "Name": "Chương 189: Mặc kệ tốn bao nhiêu tiền, cũng phải khiến Lâm Mặc nhận kháng cáo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad5",
+            "Name": "Chương 188: Cái này phán quyết có vấn đề!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad4",
+            "Name": "Chương 187: Lợi dụng kháng tụng, khởi động tái thẩm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad3",
+            "Name": "Chương 186: Lâm Mặc nộ khí!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad2",
+            "Name": "Chương 185: Chinh phục Liễu Tô – Tình tiết vụ án suy luận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad1",
+            "Name": "Chương 184: Hạ Linh ổn định phát huy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaad0",
+            "Name": "Chương 183: Liễu luật sư, ngươi cũng không muốn thua trận kiện tụng này chứ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaacf",
+            "Name": "Chương 182: Nguyên lai là nữ thần của mình, lão sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaace",
+            "Name": "Chương 181: Cái chết kinh hoàng khiến người phẫn nộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaacd",
+            "Name": "Chương 180: Tình tiết vụ án trải qua",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaacc",
+            "Name": "Chương 179: Đây là thống khổ hiện thực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaacb",
+            "Name": "Chương 178: Lửa nóng Hạ Linh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaca",
+            "Name": "Chương 177: Lâm Mặc và nữ giáo sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac9",
+            "Name": "Chương 176: Nguyên nhân Hạ Linh thực sự quan tâm đến tiền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac8",
+            "Name": "Chương 175: Luật sở đối tác đẳng cấp, luật sư thăng chức chế độ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac7",
+            "Name": "Chương 174: Kế hoạch mở rộng luật sở, ta sắp mệt chết mất…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac6",
+            "Name": "Chương 173: Một đợt kiếm đậm! Tài khoản luật sở toàn là tiền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac5",
+            "Name": "Chương 172: Chim cánh cụt tổng giám đốc nổi giận!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac4",
+            "Name": "Chương 171: Chim cánh cụt cổ phiếu bốc hơi trên trăm tỷ, Lưu Họa Đằng: “Đến cùng xảy ra chuyện gì?!”",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac3",
+            "Name": "Chương 170: Nam Sơn Pizza Hut kết thúc, thắng lợi reo hò!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac2",
+            "Name": "Chương 169: Siêu Cự Ngạch Bồi Thường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac1",
+            "Name": "Chương 168: Bản án duy nhất nan đề: \"Chim cánh cụt nên bồi thường bao nhiêu tiền?\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaac0",
+            "Name": "Chương 167: Biết đau khổ rồi chứ? Nên làm gì thì làm đi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaabf",
+            "Name": "Chương 166: Chim cánh cụt: \"Chúng ta bị đánh cướp rồi?!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaabe",
+            "Name": "Chương 165: Muốn bị miểu sát rồi? Tuyệt vọng cả một nhóm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaabd",
+            "Name": "Chương 164: Bộ mặt trước thẩm phán",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaabc",
+            "Name": "Chương 163: Mở phiên tòa, một kế hoạch \"giây\" pháp vụ của Chim Cánh Cụt?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaabb",
+            "Name": "Chương 162: Lấy được tiền bồi thường, ta sẽ khởi tố các ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaaba",
+            "Name": "Chương 161: Độc quyền xin thành công! Điều giải trong phòng luật sư ngạo kiều.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaab9",
+            "Name": "Chương 160: Yêu cầu chim cánh cụt bồi thường một trăm triệu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaab8",
+            "Name": "Chương 159: Bước đầu tiên, toàn bộ đạo văn chim cánh cụt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaab7",
+            "Name": "Chương 158: Pháp lý “bia vịt”, chẳng khác nào cướp bóc Chim Cánh Cụt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf801a79a14f0afaab6",
+            "Name": "Chương 157: Dùng chiêu thức chim cánh cụt, đánh bại chim cánh cụt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab5",
+            "Name": "Chương 156: Biết được chân tướng, Tôn Tuyền \"phá phòng\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab4",
+            "Name": "Chương 155: Tôn Tuyền: \"Thuận Hòa luật sở lão bản nhất định lai lịch không nhỏ!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab3",
+            "Name": "Chương 154: Tôn Tuyền về nước: \"Cái này bức ta thật không chịu nổi!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab2",
+            "Name": "Chương 153: Đạo văn đại thành chi tác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab1",
+            "Name": "Chương 152: Chim cánh cụt pháp vụ: \"Xem chúng ta làm sao \"treo lên đánh\" hắn cho xong việc!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaab0",
+            "Name": "Chương 151: Làm trò chơi cách chơi biến thành độc quyền, các hạ nên như thế nào ứng đối?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaaf",
+            "Name": "Chương 150: Lâm luật sư, ngươi thắng không nổi vụ kiện này.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaae",
+            "Name": "Chương 149: Tuyệt vọng công ty hiện trạng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaad",
+            "Name": "Chương 148: Cáo trạng chim cánh cụt! Nam Sơn Pizza Hut ra sân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaac",
+            "Name": "Chương 147: Chất vấn Thuận Hòa luật sở, số tiền này sao lại phải đưa cho nhóm các ngươi?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaab",
+            "Name": "Chương 146: Vấn đề nghiêm trọng tại Vĩnh Thắng Thể dục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbf701a79a14f0afaaaa",
+            "Name": "Chương 145: Cho Vĩnh Thắng thể dục một cái lễ gặp mặt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa7",
+            "Name": "Chương 144: Chúng ta có thể gia nhập Thuận Hòa luật sở?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa6",
+            "Name": "Chương 143: Lâm Mặc chính là chúa cứu thế của Vĩnh Thắng thể dục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa5",
+            "Name": "Chương 142: Danh vọng giá trị gia tăng, Vĩnh Thắng thể dục đại hợp làm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa4",
+            "Name": "Chương 141: Mục đích của ta không phải trọng phạt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa3",
+            "Name": "Chương 140: Phán quyết có hiệu lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa2",
+            "Name": "Chương 139: Cuối cùng trần thuật!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa1",
+            "Name": "Chương 138: Mấu chốt chứng cứ – Học bất tử, liền hướng chết mà học!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaaa0",
+            "Name": "Chương 137: Tiện nhân Hoàng Kiên Thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9f",
+            "Name": "Chương 136: Nghe nói qua bạo lực tinh thần PUA của cha mẹ không? (hai hợp một đại chương)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9e",
+            "Name": "Chương 135: Giang Thư Huyên và Trần An Dân gặp lại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9d",
+            "Name": "Chương 134: Uy tín lâu năm, luật sư phát uy! Kình địch chân chính!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9c",
+            "Name": "Chương 133: Sinh cơ bừng bừng, vạn vật cạnh phát cảnh giới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9b",
+            "Name": "Chương 132: Lần đầu tiên gặp gỡ cửu tinh đại luật sư?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa9a",
+            "Name": "Chương 131: giam cầm trái phép - Tội danh có thể thành lập?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa99",
+            "Name": "Chương 130: Ngay cả ăn uống cũng khác biệt hẳn với phạm nhân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa98",
+            "Name": "Chương 129: Giáo dục người làm việc triệt để phá phòng...",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa97",
+            "Name": "Chương 128: Nghịch thiên so sánh, Giang Hải Nhất Cao so với ngục giam còn phản nhân loại?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa96",
+            "Name": "Chương 127: Nhìn như não tàn, thực tế toàn lực ứng phó.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa95",
+            "Name": "Chương 126: Ta giết chính ta?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa94",
+            "Name": "Chương 125: Hạ Linh mãnh mà tính, ưu thế bắt đầu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa93",
+            "Name": "Chương 124: Giam cầm trái phép, ngược đãi, điên cuồng triệt để!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa92",
+            "Name": "Chương 123: Mở phiên tòa! Vẫn như cũ khởi tố cố ý giết người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa91",
+            "Name": "Chương 122: Đáng thương Lâm Mặc luật sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa90",
+            "Name": "Chương 121: Gian kế thành công?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa8f",
+            "Name": "Chương 120: Uy tín lâu năm, luật sư thủ đoạn ác liệt, luật sở lâm nguy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa8e",
+            "Name": "Chương 119: Hoàng Kiên Thành: \"Ta muốn tại tòa án bên trên ấn chết Lâm Mặc!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa8c",
+            "Name": "Chương 118: Không chỉ trường học, ngay cả cha mẹ tôi cũng sẽ cùng nhau bị kiện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa8b",
+            "Name": "Chương 117: Mấu chốt chứng cứ tới tay!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa8a",
+            "Name": "Chương 116: Khó đánh? Ta tiếp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa89",
+            "Name": "Chương 115: Nàng muốn kiện cha mẹ vì tội giết người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa88",
+            "Name": "Chương 114: Ngay cả áp lực học tập cũng không chịu nổi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa87",
+            "Name": "Chương 113: Hắn cũng chỉ là một thiếu niên mười sáu tuổi mà thôi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa86",
+            "Name": "Chương 112: Thiếu niên phản kháng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa85",
+            "Name": "Chương 111: Quan hệ yêu đương? Khai trừ học tịch!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa84",
+            "Name": "Chương 110: Nát chính là tâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa83",
+            "Name": "Chương 109: Giang Hải đệ nhất cao trung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa82",
+            "Name": "Chương 108: Động lực hạt nhân con lừa —— Trương Hậu Tài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa81",
+            "Name": "Chương 107: Ích lợi, cái thứ nhất: hợp đồng dài hạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa80",
+            "Name": "Chương 106: Tưởng Ngũ, cũng là trọng hình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7f",
+            "Name": "Chương 105: Trọng hình phán quyết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7e",
+            "Name": "Chương 104: Cuối cùng khởi tố! Trước thắng lợi tịch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7d",
+            "Name": "Chương 103: Vật lý tiêu diệt đối phương, luật sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7c",
+            "Name": "Chương 102: Chứng cứ đầy đủ, bắt Hạnh Phúc Địa Sản!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7b",
+            "Name": "Chương 101: Giang thẩm phán kiên trì",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa7a",
+            "Name": "Chương 100: Ngươi giả bệnh tâm thần, tất cả đều là sơ hở!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa79",
+            "Name": "Chương 99: \"Cháo\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa78",
+            "Name": "Chương 98: Dương mưu, ngươi không ăn, ngươi chính là tử hình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa77",
+            "Name": "Chương 97: Rung động cả nước – Quá trình giám định cứng rắn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa76",
+            "Name": "Chương 96: Tưởng cha Tưởng mẫu sơ thể nghiệm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa75",
+            "Name": "Chương 95: Lại là cái chết tiệt bệnh tâm thần cứu cánh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa74",
+            "Name": "Chương 94: Hạ Linh nghịch thiên phát biểu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa73",
+            "Name": "Chương 93: Cho ăn? Uy hiếp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa72",
+            "Name": "Chương 92: Xảo diệu thiết kế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa71",
+            "Name": "Chương 91: Ngọa tào, Lâm Mặc chạy thế nào nơi này?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa70",
+            "Name": "Chương 90: Luật sư đoàn phát uy, phản kích không kẽ hở",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6f",
+            "Name": "Chương 89: Đớp cứt chuyển đổi nhân cách? Lâm Mặc nghịch thiên phát biểu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6e",
+            "Name": "Chương 88: Mở phiên tòa! Lâm Mặc muốn đồng thời đánh ba trận kiện cáo?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6d",
+            "Name": "Chương 87: La Đại Tường: \"Lần này ta tự mình ra trận cũng không chắc thắng!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6c",
+            "Name": "Chương 86: Toàn diện khai chiến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6b",
+            "Name": "Chương 85: Đây không phải kết quả chúng ta muốn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa6a",
+            "Name": "Chương 84: Thu Anh: \"Ta? Đem Hạnh Phúc Địa Sản cáo phá sinh?\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa69",
+            "Name": "Chương 83: Chứng cứ kinh hoàng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa68",
+            "Name": "Chương 82: Hạ Linh, trâu ngựa?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa67",
+            "Name": "Chương 81: Chuẩn bị khởi tố, lợi dụng trọng hình đảo ngược bức bách!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa66",
+            "Name": "Chương 80: Kế hoạch chém đầu? Bạo loạn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa65",
+            "Name": "Chương 79: Thần chỉ sẽ biết sợ đồ thần người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe501a79a14f0afaa64",
+            "Name": "Chương 78: Tinh thần phân liệt cũng có cách đối phó",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe401a79a14f0afaa63",
+            "Name": "Chương 77: Ngươi thật biết a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbe401a79a14f0afaa62",
+            "Name": "Chương 76: Kinh khủng! Chân tướng vụ án? Tiến về Viện kiểm sát Bằng Thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd401a79a14f0afaa61",
+            "Name": "Chương 75: Hạ Linh lại là nhân tài cấp SSS?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd401a79a14f0afaa60",
+            "Name": "Chương 74: Chế phục người mới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd401a79a14f0afaa5f",
+            "Name": "Chương 73: Hệ thống xác định và đánh giá, nhân tài cấp S!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd401a79a14f0afaa5e",
+            "Name": "Chương 72: Người bị giết, ngươi bảo người ta rộng lượng sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd401a79a14f0afaa5d",
+            "Name": "Chương 71: Kinh khủng bệnh tâm thần giám định quá trình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa5c",
+            "Name": "Chương 70: Thảm án bệnh tâm thần giết người, lại là thử thách Địa Ngục?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa5b",
+            "Name": "Chương 69: Luật sở sát nhập, giấc mộng của ngươi ta đến ủng hộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa5a",
+            "Name": "Chương 68: Luật sở tương lai – đỉnh cao danh vọng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa59",
+            "Name": "Chương 67: Nàng có lối suy nghĩ khác người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa58",
+            "Name": "Chương 66: Sướng rồi, luật sư bên kia cũng bị phán quyết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa57",
+            "Name": "Chương 65: Phán quyết vô tội! Tòa tuyên bố tha bổng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa56",
+            "Name": "Chương 64: Trúng tuyển chỉ đạo tính án lệ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa55",
+            "Name": "Chương 63: Đao thứ nhất liền chết, hoàn toàn không cấu thành tội cố ý giết người.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa54",
+            "Name": "Chương 62: Truy sát cũng là phòng vệ chính đáng! Thiên tài giải thích!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0dbd301a79a14f0afaa53",
+            "Name": "Chương 61: Xơ cứng cứng nhắc thứ hai mươi đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa52",
+            "Name": "Chương 60: Giết người, cũng là hắn quyền lợi!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa51",
+            "Name": "Chương 59: Công tố viên vu cáo? Uông Thông nổi giận!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa50",
+            "Name": "Chương 58: Lâm luật sư hoàn toàn điên rồ! Ngay cả phía công tố cũng dám chỉ trích!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4f",
+            "Name": "Chương 57: Chân chính cao cấp đối đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4e",
+            "Name": "Chương 56: Mở phiên tòa! Tuyệt đối nghịch cảnh?!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4d",
+            "Name": "Chương 55: Lại cho Lâm Mặc gia tăng một chút khó khăn!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4c",
+            "Name": "Chương 54: Vương Hạo: \"Ta sẽ bị vô tội phóng thích?\"",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4b",
+            "Name": "Chương 53: Vương Hạo lại giết hai người?!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa4a",
+            "Name": "Chương 52: Đừng sợ, ta mang cứu binh tới.",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa49",
+            "Name": "Chương 51: Vô tội biện hộ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa48",
+            "Name": "Chương 50: Án mạng Vương Hạo, người đến đánh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa47",
+            "Name": "Chương 49: \"Ta đánh chết các ngươi đều tính phòng vệ chính đáng!\"",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa46",
+            "Name": "Chương 48: Người nghèo cũng xứng có được công bằng?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa45",
+            "Name": "Chương 47: Có tiền, ta đổi luật sở!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa44",
+            "Name": "Chương 46: Vụ án nhục mẫu đau lòng! Giống như đã từng quen biết?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa43",
+            "Name": "Chương 45: Nhục mẫu án giết người!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa42",
+            "Name": "Chương 44: Vương Đào: \"Ta thật muốn đi làm mẫu nam rồi?\"",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa41",
+            "Name": "Chương 43: Đừng làm luật sư, ngươi đi làm mẫu nam đi.",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa40",
+            "Name": "Chương 42: Con trai ngươi muốn trực tiếp ăn cứt à!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3f",
+            "Name": "Chương 41: Đối phương luật sư bị xử phạt! Sử thượng hiếm thấy!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3e",
+            "Name": "Chương 40: Trần thuật cuối cùng, tấn công mạnh mẽ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3d",
+            "Name": "Chương 39: Bệnh tâm thần vô tội? Tội càng nặng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3c",
+            "Name": "Chương 38: Lừa đảo thành lập! Những tội danh khác thì sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3b",
+            "Name": "Chương 37: Thẩm phán mộng bức: \"Ta mạch suy nghĩ cũng đều loạn a!\"",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa3a",
+            "Name": "Chương 36: Quỷ tài mạch suy nghĩ, đưa đối phương luật sư vào tròng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa39",
+            "Name": "Chương 35: Tập soái nhóm, sợ cưới!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa38",
+            "Name": "Chương 34: Tội tổ chức tà giáo! Luật sư bên kia cũng muốn bị kiện?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa37",
+            "Name": "Chương 33: Còn dám xen vào đúng không?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa36",
+            "Name": "Chương 32: Chia cắt tài sản!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa35",
+            "Name": "Chương 31: Lâm luật sư đối mặt thử thách mới, chấn động giới pháp lý",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa34",
+            "Name": "Chương 30: Luật sư Lâm Mặc, đàn ông chúng ta cũng cần ngài bảo vệ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa33",
+            "Name": "Chương 29: Điều kiện hòa giải bất thường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa32",
+            "Name": "Chương 28: Ly hôn kiện cáo, ngươi cáo ta lường gạt? Ngươi có bệnh à!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa31",
+            "Name": "Chương 27: Mấu chốt chứng cứ tới tay",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa30",
+            "Name": "Chương 26: Thục nữ ngự tỷ Hạ Linh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2f",
+            "Name": "Chương 25: Đem nàng đưa vào tù không được sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2e",
+            "Name": "Chương 24: Pháp luật là hiện đại võ công!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2d",
+            "Name": "Chương 23: Chiêu luật sư trợ lý, trước hết phải đánh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2c",
+            "Name": "Chương 22: Hôm nay, cả nước học sinh bị bắt nạt đều khóc!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2b",
+            "Name": "Chương 21: Chống lại chủ nghĩa bá quyền - Hành động chính thức bắt đầu, kinh động trung ương!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa2a",
+            "Name": "Chương 20: Võng hồng bị lừa cưới, buộc ga-rô!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa29",
+            "Name": "Chương 19: La Đại Tường đánh giá! Lâm Mặc là quỷ tài!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa28",
+            "Name": "Chương 18: Lâm Mặc nổi giận thật sự!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa27",
+            "Name": "Chương 17: Qua loa? Bây giờ trả lại cho các ngươi!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa26",
+            "Name": "Chương 16: Đây là pháp luật!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa25",
+            "Name": "Chương 15: Muốn kết tội luật sư luôn?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa24",
+            "Name": "Chương 14: Ngươi làm mẹ nó luật sư!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa23",
+            "Name": "Chương 13: Làm tòa tuyên án",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93f01a79a14f0afaa22",
+            "Name": "Chương 12: Xin tử hình hạch chuẩn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa21",
+            "Name": "Chương 11: Kinh thiên nghịch chuyển",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa20",
+            "Name": "Chương 10: Một Lần Cuối Cùng Cảnh Cáo",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1f",
+            "Name": "Chương 09: Kiện cáo muốn thua?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1e",
+            "Name": "Chương 08: Lại thêm một đống lớn?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1d",
+            "Name": "Chương 07: Mở phiên tòa!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1c",
+            "Name": "Chương 06: Chuẩn bị khởi tố, cho các ngươi cơ hội cuối cùng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1b",
+            "Name": "Chương 05: Phí bảo hộ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa1a",
+            "Name": "Chương 04: Nhập thất cướp bóc?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa19",
+            "Name": "Chương 03: Nếu như là tử hình đâu?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa18",
+            "Name": "Chương 02: Bản án đến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67a0d93e01a79a14f0afaa17",
+            "Name": "Chương 01: Cầm kịch bản \"Trương Vĩ\"? Địa ngục độ khó bắt đầu!",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

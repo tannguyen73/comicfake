@@ -1,0 +1,3323 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "680af70001a79a07c0e64959",
+            "Name": "Chương 538: Quỷ dị huyết tế đàn! Rốt cuộc thứ gì bị phong ấn trong thạch quan?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6809ac5901a79a16f00eb3d9",
+            "Name": "Chương 537: Dưới Lòng Đất, Bên Trong Hố Sâu – Thanh Đồng Cự Môn! Tiêu Huyền Bước Vào Hành Lang!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6808694501a79a1538970f63",
+            "Name": "Chương 536: Tại Thanh Nguyên chiến khu, trong sở chỉ huy, tướng quân Trần Hưng Thịnh đang tự hỏi: \"Hai vị kỳ nhân mà ngươi nhắc tới là ai?\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6806fa1401a79a166cdf9e46",
+            "Name": "Chương 535: Đối kháng chi pháp, Đạo Tổ lão nhân gia đến tột cùng chuẩn bị những gì phía sau?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6805aef001a79a166cd9597e",
+            "Name": "Chương 534: Quỷ dị bản nguyên lực lượng! Vô số đại thế giới gặp phải lượng kiếp?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680473ed01a79a17e8c702e4",
+            "Name": "Chương 533: Quy tắc bổn nguyên chi lực! Thiên đạo nhìn chăm chú!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68031c0e01a79a170c656c8d",
+            "Name": "Chương 532: Quỷ dị đỏ tươi chi thụ! Tiêu Huyền tra xét.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6801bd4001a79a170c5f252c",
+            "Name": "Chương 531: Đại tiểu thư khí tràng toàn bộ triển khai, nữ nhi của ta, người nào dám chọc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6800751401a79a1aec65b8b0",
+            "Name": "Chương 530: Tím tiểu thư đều có bé con? Lĩnh ngộ tinh quang cơ hội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff1d4201a79a01f405bfa5",
+            "Name": "Chương 529: Trần Hưng Thịnh lựa chọn, có thể cứu Đại Hạ, chỉ có cái kia hai vị tiên thần!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0bd501a79a1684579a76",
+            "Name": "Chương 528: Kế hoạch 0182, pháo đài tị nạn dưới lòng đất!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fcd8da01a79a168452c1fb",
+            "Name": "Chương 527: Sóng âm khuếch tán, tận thế muốn giáng lâm?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fb611401a79a14fc3ab227",
+            "Name": "Chương 526: Tình thế đột biến, quỷ dị sóng âm giáng lâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9ced901a79a10ec446176",
+            "Name": "Chương 525: Tiểu công chúa mang bé con về nhà, Tử Chấn Tinh và cây dâm bụt đều đã tê rần.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f886a101a79a13f4b521e8",
+            "Name": "Chương 524: Tử Thi Linh: Muốn để ta gọi ngươi ca ca vẫn là chủ nhân?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f73b6401a79a1234fe74aa",
+            "Name": "Chương 523: Mèo con tất đen, trang phục hầu gái, không giống Tiểu công chúa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5ecdf01a79a0338ab5778",
+            "Name": "Chương 522: Tử vong quyến tộc ý đồ, vượt qua thời gian gặp nhau.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3793901a79a1af48052ea",
+            "Name": "Chương 521: Trong cõi u minh vận mệnh, Tiểu công chúa cùng sinh mệnh Linh Tộc trói buộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e9",
+            "Name": "Chương 520: Sinh mệnh Linh Tộc cùng chết Vong Linh tộc, Tiểu công chúa kinh hãi Thiên Cơ duyên manh mối.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e8",
+            "Name": "Chương 519: Tiểu cô nương, không phải nhân loại? Hoàng thất dày đặc ghi chép.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e7",
+            "Name": "Chương 518: Trong màn đêm tiểu viện, bị dọa sợ hài tử.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e6",
+            "Name": "Chương 517: Đặc thù tiểu cô nương, là vận mệnh trói buộc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e5",
+            "Name": "Chương 516: Tiểu công chúa xuyên tất đen là cái gì thể nghiệm? Tử Thi Linh trang phục hầu gái.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e4",
+            "Name": "Chương 515: Thế giới ngầm ngăn trở bình chướng, cùng Tiểu công chúa du lịch tự lái.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e3",
+            "Name": "Chương 514: Thượng Cổ tân bí, thế giới chân tướng, cơ duyên đến tột cùng giấu ở phương nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e2",
+            "Name": "Chương 513: Chúc mừng chúng ta tuần trăng mật lữ hành, ban đêm trong căn hộ, Tiêu Huyền mang Tiểu công chúa tuốt xiên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e1",
+            "Name": "Chương 512: Siêu Tự nhiên hiện tượng, cây dâm bụt: Khuê nữ ngươi sợ là muốn đi nhà nam sinh ngủ lại…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052e0",
+            "Name": "Chương 511: Tu luyện giả? Ta cùng bạn trai ta không hi vọng bị quấy rầy!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052df",
+            "Name": "Chương 510: Trần Hưng Thịnh khác thường thái độ, nhà mình Linh Nhi đến cùng phạm vào chuyện gì? Tử Chấn Tinh cùng cây dâm bụt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052de",
+            "Name": "Chương 509: Quốc an đại lão tới chơi, ngạc nhiên Tử Chấn Tinh cùng Cây Dâm Bụt.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052dd",
+            "Name": "Chương 508: Tiểu công chúa yêu đương não? « Lần đầu hẹn hò chỉ nam, truy nam thần quyển sách ».",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052dc",
+            "Name": "Chương 507: Quốc an tra ra chân tướng, người thần bí vậy mà một cái nữ sinh lớp 12!?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052db",
+            "Name": "Chương 506: Rung động, Siêu Tự Nhiên năng lực! Đây là Thần Minh thủ đoạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052da",
+            "Name": "Chương 505: An Toàn Cục oanh động! Vô hình bình chướng! Thần Minh lực lượng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d9",
+            "Name": "Chương 504: Thu hoạch tinh quang khí lưu! Dị biến chân tướng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d8",
+            "Name": "Chương 503: Tiêu Huyền xuất thủ, Thần Minh đến thế gian?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d7",
+            "Name": "Chương 502: Hang động đá vôi hạ dị biến! Toàn thể cảnh giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d6",
+            "Name": "Chương 501: Côn Lôn Sơn hạ quân doanh! Dị thường ba động nơi phát ra!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d5",
+            "Name": "Chương 500: Tiểu công chúa trở thành nhà giàu nhất chi nữ? Tiêu Huyền tín nhiệm yêu đương đối tượng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d4",
+            "Name": "Chương 499: Tử Kinh Thánh Quốc tiên tổ! Thời gian đài chịu hắn chưởng khống?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d3",
+            "Name": "Chương 498: Tìm tới Tiêu Huyền, tiên nữ hạ phàm?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d2",
+            "Name": "Chương 497: Tiểu công chúa sợ ngây người, đây là phàm nhân quốc gia sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d1",
+            "Name": "Chương 496: Lại về Lam Tinh, tọa độ năm 2034.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052d0",
+            "Name": "Chương 495: Tiểu công chúa cửa đá hình ảnh! Xuyên qua thời gian!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052cf",
+            "Name": "Chương 494: Thời gian đài, trọng điệp vạn cổ tuế nguyệt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052ce",
+            "Name": "Chương 493: Cửa đá dị tượng, đó là. . . . Lam Tinh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052cd",
+            "Name": "Chương 492: Trấn quốc trong vương phủ Huyền Cơ! Kim thìa cùng hòn non bộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052cc",
+            "Name": "Chương 491: Đêm tân hôn, Tiểu công chúa đỏ mặt.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052cb",
+            "Name": "Chương 490: Ngày đại hôn! Phụ mã gia say rượu rồi hả?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052ca",
+            "Name": "Chương 489: Tiêu Huyền Phong Vương! Tử Kinh Thánh Quốc -- Trấn Quốc vương!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c9",
+            "Name": "Chương 488: Cởi ra khăn che mặt, Tiểu công chúa khuynh thế dung nhan, Thánh Tử Thánh Nữ nhóm oanh động.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c8",
+            "Name": "Chương 487: Oanh động! Mười hai núi rơi, kim thìa ra! Tiêu Huyền vì giai nhân tháo xuống khăn che mặt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c7",
+            "Name": "Chương 486: Đệ tam phân thân lần đầu bộc lộ quan điểm! Trong thời gian ngắn, lên đỉnh mười hai núi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c6",
+            "Name": "Chương 485: Thái Cực Chi Đạo lần đầu hiển lộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c5",
+            "Name": "Chương 484: Tiêu Huyền Thần Quốc! Cửu Thải vòng ánh sáng bảo vệ vây quanh đỉnh núi! Đại hòa thượng sắp chua chết mất…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c4",
+            "Name": "Chương 483: Tử Thi Linh kích động khóc? Ta phụ mã gia, ngươi vẫn luôn là niềm kiêu hãnh của ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c3",
+            "Name": "Chương 482: Vạn nguyên Tiên Tông vạn cổ tội nhân! Cửu Thanh không nói hai lời, trực tiếp chạy trốn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c2",
+            "Name": "Chương 481: Tiểu Công chúa mê man cùng suy đoán, chẳng lẽ linh khí của mình xảy ra vấn đề?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c1",
+            "Name": "Chương 480: Tử Thơ Hải lăng loạn, tình huống gì… Tiêu Huyền lại là một hơi thở xông núi?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052c0",
+            "Name": "Chương 479: Tiêu Huyền du sơn! Vạn chúng chú mục, đệ nhất núi, một hơi thở liền qua!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052bf",
+            "Name": "Chương 478: Đại hôn, điềm mỹ động lòng người. Đường Mộng Mộng, Toa Sa lười biếng không bị cản trở, yêu tinh Na Na vớ đen.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052be",
+            "Name": "Chương 477: Đệ tử ký danh? Tử Chấn Tinh: Ta Thánh Quốc hôm nay, mở mười hai núi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052bd",
+            "Name": "Chương 476: Kim Ngọc Các thượng cấp người nhìn xa, Nguyên Giới đẹp nhất tiên tử, đại hôn, mở màn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052bc",
+            "Name": "Chương 475: Mười hai núi mở, các lão tổ trong miệng quái thai! Hỉ khí dương dương Thánh Quốc hoàng cung!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052bb",
+            "Name": "Chương 474: Thánh Quốc chân chính nội tình, hoàng cung ở chỗ sâu trong, mời lão tổ mở phía sau Tam Sơn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052ba",
+            "Name": "Chương 473: Tử Thi Linh tính toán nhỏ nhặt, Mộc Hoàng phi chắc chắn suy đoán, cách cục nhỏ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b9",
+            "Name": "Chương 472: Nguyên giới trăm năm thịnh hội! Tử Kinh hoàng thành, Thánh Địa chi chủ tới đông đủ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b8",
+            "Name": "Chương 471: Nguyên Tinh trụ! Tu luyện! Liên tiếp đột phá! Ngày đại hôn đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b7",
+            "Name": "Chương 470: Thánh Hoàng lệnh: Từ nay về sau, Tiêu Huyền tu hành cần toàn bộ tài nguyên, hoàng thất miễn phí cung cấp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b6",
+            "Name": "Chương 469: Gì? Cho ta đi canh Tiêu Huyền phòng ngừa hắn đào hôn? Tử Phong Lăng hoàn toàn mộng bức.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b5",
+            "Name": "Chương 468: Tử Phong Lăng vào Kim Loan Điện, Tiêu Huyền chọc phụ hoàng sinh khí? Từ hôn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b4",
+            "Name": "Chương 467: Cửu Thanh nghi hoặc: Ai ở sau lưng nhắc tới Bản Chân Nhân? Vạn Nguyên Tiên Tông ý đồ kéo về Tiêu Huyền?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790901a79a1af48052b3",
+            "Name": "Chương 466: Cắt tỉa toàn cục, Tử Chấn Tinh suy luận, Vạn Nguyên Tiên Tông có mưu đồ gì?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052b2",
+            "Name": "Chương 465: Chí cao đại đạo cho hấp thụ ánh sáng! Tiêu Huyền lại tiếp cận Truyền Thuyết cấp?! Bình Hải Vương cùng…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052b1",
+            "Name": "Chương 464: Lại tới rồi! Tử Chấn Tinh kinh ngạc, Bình Hải Vương trợn mắt há hốc mồm, ngộ đạo ngũ trọng?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052b0",
+            "Name": "Chương 463: Đột nhiên tăng mạnh! Ngộ đạo ngũ trọng! Kinh hãi nguyên giới tốc độ tu luyện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052af",
+            "Name": "Chương 462: Não bổ… Càng chạy càng sai lệch… Tử Chấn Tinh có chút vui mừng, Tiêu Huyền cái này hài tử, có lò luyện.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052ae",
+            "Name": "Chương 461: Ánh mắt chủ nhân! Tử Chấn Tinh vấn đề mấu chốt! Tiêu Huyền lập kế hoạch, đường đường Thánh Hoàng bị dao động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052ad",
+            "Name": "Chương 460: Độ Kiếp giả tái hiện! Tử Chấn Tinh cùng Bình Hải Vương kích động, rốt cuộc tìm được ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052ac",
+            "Name": "Chương 459: Đại đạo cánh hoa ngưng kết, kinh khủng lực lượng, đến từ thiên đạo nhìn kỹ! Độ Kiếp giả tái hiện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052ab",
+            "Name": "Chương 458: Tử Thi Linh – người người ngưỡng mộ, Tử Phong Lăng – giễu cợt, nhị hoàng tử – người người tê dại.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3790801a79a1af48052aa",
+            "Name": "Chương 457: Tử Phong Lăng nghi hoặc, Tử Thơ Hải cùng Nhị Hoàng Tử mưu đồ bí mật.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf5",
+            "Name": "Chương 456: Khoa trương Nguyên Tinh, Thiết Huyết Công Chúa, Tử Phong Lăng! Thăm dò cùng giao phong!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf4",
+            "Name": "Chương 455: Anko lặng lẽ nói: “Thánh Địa thám tử? Tử Thi Linh tặng tài nguyên.”  Đại đạo Kim Liên đã ngưng tụ thân rễ.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf3",
+            "Name": "Chương 454: Ngộ đạo Cửu Cảnh, Tiêu Huyền ngưng tụ đại đạo Kim Liên! Tốc độ khủng bố tuyệt luân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf2",
+            "Name": "Chương 453: Thần bí Độ Kiếp giả. Tử Thi Linh nhao nhao muốn thử, A Cửu trầm mặc. Mộc Hoàng phi khóe miệng thoáng vẻ cười khổ.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf1",
+            "Name": "Chương 452: Nắm giữ đã đủ uy hiếp được năng lực của Thiên Đạo! Tiêu Huyền mới mã giáp…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bf0",
+            "Name": "Chương 451: Ảnh chi chủ A Cửu… Hôm nay, ngã xuống? Tử Thi Linh mê hoặc cùng hiếu kỳ.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bef",
+            "Name": "Chương 450: Kiếp lôi tan biến… Độ kiếp giả đâu mà chưa hiện thân? Tử Chấn Tinh bối rối…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bee",
+            "Name": "Chương 449: Vô Thượng Chí Bảo, kim sắc vỏ rùa! Cùng trời chống lại vật!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bed",
+            "Name": "Chương 448: Cướp Lôi Thành hình! Quy tắc tầng diện giết chết, hoàng thành con dân bái phục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bec",
+            "Name": "Chương 447: Ngạnh hám thiên đạo! Thánh Quốc chi chủ, Tử Chấn Tinh khí phách tuyên ngôn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5beb",
+            "Name": "Chương 446: Hệ thống Thái Cực hoàn toàn mới! Phân thân Hỗn Độn đáng sợ mà lại cường đại!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bea",
+            "Name": "Chương 445: Đệ tam phân thân dung hợp, khởi nguyên từ Quy Khư thần kỳ biến hóa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be9",
+            "Name": "Chương 444: Không phải Lôi Kiếp! Đây là Thiên Đạo sát kiếp! Tử Chấn Tinh lựa chọn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be8",
+            "Name": "Chương 443: Kiếp lôi không thôi, chấn động không ngừng! Bình Hải Vương hãi nhiên phát hiện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be7",
+            "Name": "Chương 442: Tử Chấn Tinh hứng thú dâng trào, một giây kế tiếp, đạo kiếp lôi thứ hai giáng thế!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be6",
+            "Name": "Chương 441: Thương khung kinh biến! Tử sắc Lôi Long hàng thế! Thứ sáu hải sôi trào!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be5",
+            "Name": "Chương 440: Hấp thu phân thân! Vô thượng cơ duyên! Hướng về Hỗn Độn Chi Khu cải tạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be4",
+            "Name": "Chương 439: Phân thân đạt đến! Hắc Miêu trịnh trọng cảnh cáo! Ngàn vạn lần không nên bại lộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be3",
+            "Name": "Chương 438: Đột biến, bị tập trung! Tiêu Huyền trong lòng cảnh báo vang lên! Có vật gì đang lao xuống!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be2",
+            "Name": "Chương 437: Hôn một luồng bản nguyên khí hơi thở, Mộc Hoàng phi nhạy cảm phát hiện! Ngươi có cảm giác mình đang ở bang T?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be1",
+            "Name": "Chương 436: Tiêu Huyền bị cường hôn!? Điểm đáng ngờ trùng điệp, Tử Thi Linh mặt đỏ ửng, tại sao lại chủ động như vậy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5be0",
+            "Name": "Chương 435: Rơi vào khốn cục Quy Khư cùng khởi nguyên, Tử Thi Linh biểu hiện khác thường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bdf",
+            "Name": "Chương 434: Hồng Mông sơ khai, thiên địa hỗn độn! Đệ tam phân thân, danh viết Hỗn Độn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bde",
+            "Name": "Chương 433: Đạo Tổ tuyệt thế lễ vật! Tiêu Huyền đệ tam phân thân! Cuối cùng hiện thế!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bdd",
+            "Name": "Chương 432: Thiên kiêu Công chúa, mười tám tuổi xông đệ bát núi! Tiêu Huyền quyết tâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bdc",
+            "Name": "Chương 431: Tử Thi Linh: Ta cùng ngươi chiến đấu với nhau!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bdb",
+            "Name": "Chương 430: Quy Khư cùng khởi nguyên, Thái Cực thăng hoa đường! Tâm khóa tấn thăng thu hoạch!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bda",
+            "Name": "Chương 429: Đạo lữ đồng tâm, kinh hỉ đột nhiên! Hồng Loan trưởng lão sửng sốt đến mức toàn thân tê dại… Hai thanh khóa nhỏ bằng thủy tinh đột nhiên phát ra những gợn sóng lớn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd9",
+            "Name": "Chương 428: Tử Thi Linh: Ngươi sẽ theo ta sao? Tâm linh liên thông, tâm khóa thăng cấp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd8",
+            "Name": "Chương 427: Tử Thi Linh giảng đạo, Đại đạo Kim Liên! Con đường tu hành tương lai!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd7",
+            "Name": "Chương 426: Thứ chín dưới biển thần bí: Quả trứng và khí tức của Tiêu Huyền?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd6",
+            "Name": "Chương 425: Biến mất Thứ Chín Hải! Dĩ nhiên xuất hiện ở Chồng Chất Thế Giới?! Hỗn loạn cùng Hy Vọng chi Hải!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd5",
+            "Name": "Chương 424: Cửa đá sau lưng Thần Bí Hải! Hắc Miêu khiếp sợ! Hơi thở kia, sao quen thuộc như thế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd4",
+            "Name": "Chương 423: Đạo Giới Cửu Thiên, khôi phục!  Kinh biến chợt hiện, đằng sau cánh cửa đá thứ mười rốt cuộc tồn tại cái gì?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd3",
+            "Name": "Chương 422: Đệ nhất đại lục tám giới khôi phục! Đệ Cửu Giới, Thượng Cổ đạo môn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd2",
+            "Name": "Chương 421: Tử Thi Linh: Ta phụ mã gia, ngươi dự định như thế nào cưới ta?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd1",
+            "Name": "Chương 420: Liên tâm khóa! Lẫn nhau thế giới linh hồn, Hồng Loan trưởng lão khiếp sợ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bd0",
+            "Name": "Chương 419: Huyền diệu giao cảm phương pháp, mười ngón tay tương khấu, Tử Thi Linh có phần ngượng ngùng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bcf",
+            "Name": "Chương 418: Hồng Loan truyền đạo song tu pháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bce",
+            "Name": "Chương 417: Lại về Tiểu công chúa tẩm cung, thật chỉ là làm dáng một chút? Tiêu Huyền trong lòng vạn phần quấn quýt.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bcd",
+            "Name": "Chương 416: Linh hồn giao cảm, nữ nhi sắp xuất giá, Mộc Hoàng phi tâm sự cùng Tiêu Huyền.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bcc",
+            "Name": "Chương 415: Mới gặp gỡ Mộc Hoàng phi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bcb",
+            "Name": "Chương 414: Minh đạo giả! Pháp tắc thuật! Biên giới – Chỗ kinh khủng thực sự!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bca",
+            "Name": "Chương 413: Tuế nguyệt hành lang! Mai táng vạn cổ bí mật! Đại năng giả tu hành cảm ngộ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc9",
+            "Name": "Chương 412: Song tu và thành hôn! Là bằng hữu? Hay là đạo lữ? Đàm phán bước vào hồi kết.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc8",
+            "Name": "Chương 411: Thấy rõ Tử Thi Linh, Tiêu Huyền phản kích, nắm giữ mệnh mạch!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc7",
+            "Name": "Chương 410: Khuôn mặt diễm lệ, một nụ cười khiến người say đắm, tiểu công chúa dung nhan tuyệt thế.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc6",
+            "Name": "Chương 409: Công Chúa thức tỉnh, Tiêu Huyền sơ nhập tẩm cung, Tử Thi Linh chân thực dung nhan.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc5",
+            "Name": "Chương 408: Đối chọi gay gắt! Tiêu Huyền nhận kỳ bảo, Tử Thơ Hải tức giận.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc4",
+            "Name": "Chương 407: Tử Thơ Hải Tâm đầu bách chuyển thiên hồi, xuất thủ, bức Tiêu Huyền biết khó mà lui!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc3",
+            "Name": "Chương 406: Vào Hoàng thành, Tử Kinh Thánh Hoàng hôn sự an bài! Mười Sáu Hoàng tử xuất thủ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc2",
+            "Name": "Chương 405: Thánh Quốc Bắc Vực 786 thành! Tử Kinh Thánh Hoàng ra oai phủ đầu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc1",
+            "Name": "Chương 404: Hồng Loan trưởng lão nói rõ sự thật! Cơ hội với hệ thống Thái Cực hoàn toàn mới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bc0",
+            "Name": "Chương 403: Nguyên giới thứ sáu hải! Trong truyền thuyết tuế nguyệt trường hà!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bbf",
+            "Name": "Chương 402: Cuối cùng thời khắc, chân tướng Đại Bạch! Tiêu Huyền chí cao đại đạo! Ta Cửu Thanh, thẹn với tiên môn liệt tổ liệt tông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bbe",
+            "Name": "Chương 401: Năm kẻ ngu xuẩn? Cửu Thanh chân nhân bối rối, Tiêu Huyền đã đối kháng với Khởi Nguyên như thế nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bbd",
+            "Name": "Chương 400: Các trưởng lão nghi ngờ dâng lên, tâu trình tông chủ! Tử Thi Linh không phải bị Tiêu Huyền đánh trọng thương.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bbc",
+            "Name": "Chương 399: Cửu Thanh tông chủ: Gọi năm tên đệ tử kia đến đây, bần đạo muốn hỏi chút tình hình ngộ đạo…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2501a79a1980fa5bbb",
+            "Name": "Chương 398: Mới trở về, đã bị lôi đến làm rể ? Tiêu Huyền mười vạn câu hỏi tại sao…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bba",
+            "Name": "Chương 397: Tiêu Huyền cuối cùng trở về! Ừ ? Chờ đã! Sao Thánh Hoàng lại nhìn chằm chằm vào ta thế này?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb9",
+            "Name": "Chương 396: Câm như hến các đệ tử! Tử Kinh Thánh Hoàng quả nhiên đang đợi Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb8",
+            "Name": "Chương 395: Hắc Miêu sợ ngây người. Tiêu Huyền, tân lãnh tụ của Nguyên Thiên nhất mạch, đã bị chính tông chủ mình bán đi rồi.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb7",
+            "Name": "Chương 394: Đệ Cửu Vực, Đường Mộng Mộng và điện linh Hắc Miêu! Hắc Miêu nhìn về phía Tinh Hà, Tiêu Huyền thì sao?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb6",
+            "Name": "Chương 393: Kinh hoàng! Tử Thi Linh muốn cùng Tiêu Huyền kết thành đạo lữ? Tử Kinh Thánh Hoàng lựa chọn cuối cùng...",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb5",
+            "Name": "Chương 392: Đệ bát hải hồng gia hậu nhân! Cửu Thanh chân nhân du thuyết, Tử Chấn Tinh lưỡng lự!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb4",
+            "Name": "Chương 391: Oanh động! Tiêu Huyền lộ thân phận, hấp thụ ánh sáng! Uyển Linh, Thanh Không sững sờ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb3",
+            "Name": "Chương 390: Vạn Nguyên Tiên Tông chưởng môn thỏa hiệp? Chẳng lẽ muốn giao Tiêu Huyền cho Tử Kinh Thánh Quốc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb2",
+            "Name": "Chương 389: Chân tướng! Hung thủ làm Tử Thi Linh trọng thương hôn mê, lại là Tiên Tông đệ tử?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb1",
+            "Name": "Chương 388: Tinh thần pháp tắc kinh sợ! Tử Kinh Thánh Hoàng âm thầm ra tay! Chân tướng hé lộ manh mối!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bb0",
+            "Name": "Chương 387: Kinh đào nổi lên bốn phía! Chẳng lẽ là Tử Thi Linh tự mình mở ra phong ấn? Thánh Hoàng phát hiện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5baf",
+            "Name": "Chương 386: Công chúa hôn mê! Thánh Hoàng nổi giận: Việc này, các ngươi phải trình báo cho Bản Hoàng ngay lập tức!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bae",
+            "Name": "Chương 385: Thánh Hoàng: Ta nữ thơ linh, tương lai chắc chắn lóng lánh thế gian! Sau một khắc, kinh biến nảy sinh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bad",
+            "Name": "Chương 384: Cửu Thanh tông chủ thở dài, Tiên Tông ta, khi nào mới có thể xuất hiện một vị tuyệt đại thiên kiêu như Tử Thi Linh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bac",
+            "Name": "Chương 383: Bị Tiêu Huyền phát cáu, linh hồn băng tán? Các đệ tử luống cuống:  Đừng để nàng chết ở đây!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5bab",
+            "Name": "Chương 382: Tử Thi Linh hỗn loạn… Rõ ràng cùng nhau lĩnh ngộ chí cao đại đạo! Tiêu Huyền làm sao lại…?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5baa",
+            "Name": "Chương 381: Chí cao biên giới xuất thế! Quy Khư pháp tắc bị Tiêu Huyền tiêu diệt! Công chúa sắp điên…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba9",
+            "Name": "Chương 380: Trong tuyệt vọng, Tử Thi Linh! Ngộ đạo chi đạo tụ biến! Tất cả, đều là vì Tiêu Huyền?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba8",
+            "Name": "Chương 379: Dị tượng đầy trời! Điên cuồng! Chí cao đại đạo đản sinh pháp tắc biên giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba7",
+            "Name": "Chương 378: Thời khắc tối hậu! Quy Khư pháp tắc một lần nữa hàng lâm! Huyền quang và thanh khí bỗng dâng lên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba6",
+            "Name": "Chương 377: Tái ông mất ngựa, yên tri phi phúc! Tiêu Huyền xây dựng hoàn toàn mới Thái Cực hệ thống!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba5",
+            "Name": "Chương 376: Chí cao đại đạo hình thức ban đầu! Tuyệt cảnh dưới Tử Thi Linh! Tử chiến đến cùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba4",
+            "Name": "Chương 375: Khởi nguyên, vạn sự vạn vật trở về nguyên điểm! Âm Dương Ngũ Hành pháp tắc phân giải!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba3",
+            "Name": "Chương 374: Tử Kinh Công chúa bạo phát! Phong ấn giải trừ! Chí cao đại đạo hàng lâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba2",
+            "Name": "Chương 373: Ép vỡ Quy Khư pháp tắc, lực lượng thần bí! Tiêu Huyền kiên định, nửa bước không lùi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba1",
+            "Name": "Chương 372: Tử Thi Linh kinh hãi! Chẳng lẽ… Tiêu Huyền đã lĩnh ngộ Âm Dương Dung Hợp Chi Đạo…?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5ba0",
+            "Name": "Chương 371: Tiêu Huyền khủng bố dị tượng, đệ tử Tiên Tông rối loạn, âm dương quái dị, chẳng lẽ là quy túc cù?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9f",
+            "Name": "Chương 370: Ngũ Hành hóa khí, Âm Dương vì ngư! Chí Cao Thần quang hiện ra",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9e",
+            "Name": "Chương 369: Di chuyển mà sinh dương, tĩnh mà sinh âm! Cơ hội dung hợp chí cao!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9d",
+            "Name": "Chương 368: Cơ hội Minh đạo! Bảy loại đại đạo hội tụ, Tử Thi Linh nghi vấn…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9c",
+            "Name": "Chương 367: Âm Dương Ngũ Hành! Tử Thi Linh không nói, ngộ đạo ở chỗ tinh, chứ không ở chỗ nhiều chủng loại!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9b",
+            "Name": "Chương 366: Cơ hội ngộ đạo cuối cùng! Âm luật chi đạo? Tiêu Huyền Dương chi ngôn hàng lâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b9a",
+            "Name": "Chương 365: Điên rồi sao?! Các đệ tử đều sợ đến tê dại, Tiêu Huyền lại đem Tinh Hà lỗ đen dùng để minh tưởng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b99",
+            "Name": "Chương 364: Chấn động! Hóa ra là tuyệt phẩm đỉnh cấp đại đạo! Bước tiếp theo, dung hợp Âm Dương!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1dc2401a79a1980fa5b98",
+            "Name": "Chương 363: Dẫn dắt đại đạo! Tử Thi Linh muốn thanh tràng ngộ đạo chi địa? Tình cảm quần chúng của đệ tử Tiên Tông xúc động.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd8c",
+            "Name": "Chương 362: Thánh Quốc công chúa mục tiêu! Quy Khư đại đạo! Tiêu Huyền lần đầu nếm thử dung hợp Ngũ Hành!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd8b",
+            "Name": "Chương 361: Tử Thi Linh! Hy vọng của Tử Kinh Thánh Quốc! Đại đạo chí cao. Khởi nguyên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd8a",
+            "Name": "Chương 360: Tiêu Huyền thanh tràng! Bắt đầu thăng hoa Ngũ Hành đỉnh cấp đại đạo! Nội môn trưởng lão thân truyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd89",
+            "Name": "Chương 359: Ngũ Hành đại đạo tề tụ! Tuyệt vọng bao phủ ngộ đạo chi địa, hắn... làm sao lại nhanh như vậy!!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd88",
+            "Name": "Chương 358: Hổn hển dưới, trăm người liên thủ vây công Tiêu Huyền! Nhưng mà...",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd87",
+            "Name": "Chương 357: Phạm vào nhiều người tức giận… Các đệ tử tại chỗ tức điên! Gã này lại muốn độc chiếm!?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd86",
+            "Name": "Chương 356: Tiêu Huyền kinh thế danh tác! Đạo chi quang đoàn? Không có ý tứ, ta tất cả đều muốn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd85",
+            "Name": "Chương 355: Nhất tinh thuần pháp tắc cảm ngộ! Tiêu Huyền lĩnh ngộ đại đạo! Bước tiếp theo! Kim Mộc Thổ đại đạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd84",
+            "Name": "Chương 354: Trợn mắt hốc mồm các đệ tử! Cái gia hỏa này",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd83",
+            "Name": "Chương 353: Tình thế đột biến! Tiêu Huyền: Dưới một cái, hỏa chi đại đạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd82",
+            "Name": "Chương 352: Nguyên La Thiên Kinh tuyệt đối chưởng khống lực! Các đệ tử kinh hoảng! Gia hỏa này là Thủy Thần thể?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd81",
+            "Name": "Chương 351: Đại đạo tranh! Mục tiêu đầu tiên của Tiêu Huyền: Thủy chi đại đạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd80",
+            "Name": "Chương 350: Vô ngân Tinh Hà! Ngộ đạo chi địa! Nhất Hoa Nhất Thế Giới! Đại đạo hiển hóa ánh sáng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7f",
+            "Name": "Chương 349: Tử Kinh Thánh Quốc, chiếm giữ một vùng núi một biển, Thánh Địa khủng bố!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7e",
+            "Name": "Chương 348: Đột biến! Cá chép trên không! Nữ tử thần bí hàng lâm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7d",
+            "Name": "Chương 347: Ngộ đạo – Chính thức mở ra! Thần Tông khách đến thăm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7c",
+            "Name": "Chương 346: Ngày khảo hạch! Truyền thuyết chi địa, Vạn Đạo Nhai! Khán giả vô số!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7b",
+            "Name": "Chương 345: Thần bí nhân tại chỗ thổ huyết! Lão tử ngủ đông hai trăm năm, lại phải thay Tiêu Huyền làm giá y!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd7a",
+            "Name": "Chương 344: Đạp phá thiết hài vô mịch xử, mới Ngọc Bài hiện thân! Tiêu Huyền hoàng tước tại hậu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd79",
+            "Name": "Chương 343: Tiêu Huyền sợ ngây người, Thiên Đạo và nam tử thần bí trở mặt thành thù! Ngồi thu ngư ông thủ lợi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd78",
+            "Name": "Chương 342: Vô tâm thành sự, ta chỉ muốn xem náo nhiệt thôi…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd77",
+            "Name": "Chương 341: Ngọc Bài tái hiện! Lần đầu dung hợp đỉnh cấp đại đạo! Tiêu Huyền gian khổ…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd76",
+            "Name": "Chương 340: Thiên Đạo thật gấp gáp! Tiêu sư huynh! Xin mở cửa một lần thôi a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd75",
+            "Name": "Chương 339: Quyết định điên cuồng! Mấy triệu năm, chưa từng có ai đạt được kỳ tích vĩ đại ấy, cho đến hôm nay…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd74",
+            "Name": "Chương 338: Năm ấy, Đạo Tổ ở nguyên giới đệ tứ núi lưu lại Truyền Thuyết! Tiên Phẩm chi đạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd73",
+            "Name": "Chương 337: Thiên đạo mưu tính, bụi bặm lắng xuống! Tê… Chờ đã, nụ cười của Tiêu Huyền có vẻ không ổn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd72",
+            "Name": "Chương 336: Trần Thiên Đạo mưu đồ! Thật không ngờ, Lưỡng Đại Phân Thân đã âm thầm theo dõi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd71",
+            "Name": "Chương 335: Đỉnh cấp đại đạo! Ngũ Hành dung hợp, Âm Dương Hợp Nhất! Tương lai của Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd70",
+            "Name": "Chương 334: Uyển Linh giải thích nghi hoặc, đại đạo cũng có cao thấp tôn ti! Cơ sở nói cùng hi hữu nói!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6f",
+            "Name": "Chương 333: Vạn đạo nhai trước Tọa Vong Đạo! Này Thiên đạo dĩ nhiên không có hảo ý?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6e",
+            "Name": "Chương 332: Thiên Đạo khiếp sợ! Ngoại môn khảo hạch, chính là tìm hiểu đại đạo và cơ duyên Thiên Cơ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6d",
+            "Name": "Chương 331: Cùng Thiên Đạo làm hàng xóm? Nguyên giới hệ thống tu luyện phân chia! Nguyên tu cùng ngộ đạo giả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6c",
+            "Name": "Chương 330: Gặp mặt Tiên Tông trưởng lão! Nguyên Thiên Nhất Phái thân phận, hấp thụ ánh sáng! Lại muốn làm lớn chuyện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6b",
+            "Name": "Chương 329: Tường vân dã hạc, tiên tuyền chảy nhỏ giọt, Đạo Cảnh Tề sư tỷ, cuối cùng đến Vạn Nguyên Tiên Tông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd6a",
+            "Name": "Chương 328: Lấy Sơn Hải làm ranh giới! Thánh Địa danh hiệu! Cường giả như vậy, mà chỉ là đệ tử nội môn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd69",
+            "Name": "Chương 327: Nguyên giới khởi nguyên! Cửu Sơn tám hải! Xây dựng Thiên Địa Vạn Pháp vạn đạo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd68",
+            "Name": "Chương 326: Đệ tứ núi cùng tinh không Tiểu Thế Giới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd67",
+            "Name": "Chương 325: Bạch y thiếu nữ Kiếm Tiên, \"Sư huynh, mời theo tiểu muội tới ~\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd66",
+            "Name": "Chương 324: Nguyên giới đệ tứ núi! Hùng vĩ cự phong! Vạn đạo chi nguyên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd65",
+            "Name": "Chương 323: Năm xưa tân bí! Đạo Tổ dĩ nhiên bước lên con đường của mình! Nguyên thiên điện linh phép khích tướng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd64",
+            "Name": "Chương 322: Thời đại này, điện linh còn muốn tạo phản?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd63",
+            "Name": "Chương 321: Đột phá, nửa bước Đạo Cảnh! Trong điện kinh hiện Hắc Miêu! Cái gì, ngươi là điện linh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd62",
+            "Name": "Chương 320: Lần đầu tiếp xúc Đại Đạo Pháp Tắc! Thái Cực Đồ huyền diệu cộng minh chi lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd61",
+            "Name": "Chương 319: Tìm hiểu Nguyên La Thiên Kinh! Tiêu Huyền tuyển định đệ nhất nói! Thái Cực Âm Dương!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd60",
+            "Name": "Chương 318: Khủng bố tốc độ tăng lên! Tiêu Huyền thành đạo đường! Nhìn thấy Đại Đạo Pháp Tắc cơ hội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5f",
+            "Name": "Chương 317: Khủng bố dị tượng! Cửu Đại Chí Tôn bản thể hàng lâm! Đại Đạo Bổn Nguyên thần lực hiện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5e",
+            "Name": "Chương 316: Ta đường đường Thánh Tử, thực lực biết yếu? Chỉ là Tiêu Huyền tên kia quá kinh khủng mà thôi.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5d",
+            "Name": "Chương 315: Con em hạ gia mộng bức… Vì sao Tiêu Huyền lại nói ta có muội muội tốt như vậy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5c",
+            "Name": "Chương 314: Các ngươi còn không chạy? Chạy chậm sẽ bị Tiêu Huyền bắt làm nô lệ đấy!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5b",
+            "Name": "Chương 313: Vô địch Tiêu Huyền! Điên rồi sao? Thánh Tử Thánh Nữ cùng nhau ra tay còn không đỡ được hắn một chiêu?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd5a",
+            "Name": "Chương 312: Trên đường đi, gặp Thánh Tử Thánh Nữ bỏ chạy, bọn họ dường như gặp phải nhân vật khủng bố nào đó!?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd59",
+            "Name": "Chương 311: Bán tín bán nghi lão tổ… Cổ tiểu yêu tinh du thuyết, tổ đội đồng hành!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd58",
+            "Name": "Chương 310: Kim Long lão tổ đại hỉ: Cái gì, đệ nhất đại lục của chúng ta còn có viện quân!?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd57",
+            "Name": "Chương 309: Đường Mộng Mộng tam nữ đến nơi, Kim Long lão tổ khí thế hung hăng…mộng bức…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd56",
+            "Name": "Chương 308: Gặp qua thiên tài chân chính sao? Kim Long lão tổ bất tiết nhất cố, Tiêu Huyền? Tiểu mao hài mà thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd55",
+            "Name": "Chương 307: Tiếp theo giới, Lôi Vực! Toa Sa đối thoại với Cổ Kim Long! Hạ Tiểu Đoàn ngồi không yên...",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd54",
+            "Name": "Chương 306: Thần Thú giới triệt để khôi phục! Hạ Tiểu Đoàn chấn động! Kim Long hiện thân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4c01a79a1b94c7dd53",
+            "Name": "Chương 305: Đạo kiếm cuối cùng hiện năm xưa Thần Uy! Chí Tôn Thánh Binh? Không phải, sợ rằng còn hơn thế nữa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4101a79a1b94c7dd52",
+            "Name": "Chương 304: Cùng đường, Thu Trúc: \"Vãn bối vô năng, mời các trưởng lão trách phạt!\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4101a79a1b94c7dd51",
+            "Name": "Chương 303: Ôm đầu chuột chuỗi Chí Tôn thế lực! Tiêu Huyền, vô địch tượng trưng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd50",
+            "Name": "Chương 302: Nghiêng về một phía – Chiến đấu nghiền ép! Trước mặt Tiêu Huyền, Thánh Tử Thánh Nữ đều chẳng khác nào chó…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4f",
+            "Name": "Chương 301: Cuối cùng quyết chiến! Thánh Tử Thánh Nữ nhóm sợ hãi đến mức… Tiêu Huyền sao lại mạnh đến vậy??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4e",
+            "Name": "Chương 300: Nguyên Thiên Điện chân chính lai lịch! Thánh Nữ thật sự đã chết rồi sao? Tiêu Huyền nghĩ mãi không thông.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4d",
+            "Name": "Chương 299: Nguyên lực bạo tăng! Chính thức bước vào U Cổ kỳ! Kiếm Tuyệt Sơn Chí Tôn bí bảo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4c",
+            "Name": "Chương 298: Ngọc Đào tỷ muội bị trói gô! Tiên tử nhóm sợ tê dại rồi!… Đây chính là tốc độ hắn hấp thu Linh Nguyên?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4b",
+            "Name": "Chương 297: Thu phục Kiếm Tuyệt Sơn Thánh Tử! Miểu Vân tông tiên tử cũng bị bắt? Đoạt lại chiến lợi phẩm.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd4a",
+            "Name": "Chương 296: Thánh Tử Tào Uyển cùng đường, Tiêu Huyền thu lưới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd49",
+            "Name": "Chương 295: Nguyên thiên điện – Khủng bố tuyệt luân lực phòng ngự! Thánh Tử nhóm há hốc mồm… Đồ chơi này, quả là…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd48",
+            "Name": "Chương 294: Một đấu mười tám! Vô Song thiên kiêu nhóm liên tục bại lui! Nhắm vào phân thân của hắn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd47",
+            "Name": "Chương 293: A, đường đường Thánh Tử Thánh Nữ, lại đánh không lại một phân thân của Tiêu mỗ sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd46",
+            "Name": "Chương 292: Tinh Không Đỉnh Truyền Thuyết! Nhất Khí Hóa Tam Thanh! Danh chấn bát phương đại lục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd45",
+            "Name": "Chương 291: Đại chiến bùng nổ! Tam đại thế lực cấp Thánh xuất thủ! Vô địch Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd44",
+            "Name": "Chương 290: Bảy thuộc tính nguyên lực hấp thụ ánh sáng! Chư phương thế lực sôi trào! Đường Mộng Mộng sửng sốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd43",
+            "Name": "Chương 289: Kinh biến! Hoàng tử Tần Xuyên Thần Quốc bạo khởi đánh lén, lại bị Tiêu Huyền phất tay trấn áp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd42",
+            "Name": "Chương 288: Mười hai thế lực Chí Tôn vây công! Tiêu Huyền: Chỉ bằng các ngươi, xứng sao mơ ước Nguyên Thiên Điện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd41",
+            "Name": "Chương 287: Vô Thượng Chí Bảo! Nguyên Thiên Điện! Khắp nơi Chí Tôn thế lực triệt để điên cuồng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd40",
+            "Name": "Chương 286: Tòa đại điện kia, hiển nhiên là chứa đựng Vô Thượng Chí Bảo khiến cả Đệ Nhất Đại Lục tan biến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3f",
+            "Name": "Chương 285: Nửa năm sau, Thương Hải biến sắc! Đường Nhuyễn Manh, Hàn hoa khôi, tiểu yêu tinh cuối cùng…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3e",
+            "Name": "Chương 284: Tiêu Huyền khủng bố chiến ý! Bát phương đại lục Thánh tử Thánh nữ nhóm sợ ngây người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3d",
+            "Name": "Chương 283: Kế hoạch cuối cùng của Mệnh Thiên Đảo! Hàn Mộc Cẩn lập kế hoạch, Đường Mộng Mộng nghi hoặc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3c",
+            "Name": "Chương 282: Điên cuồng thực lực! Tiêu Huyền cuối cùng phá vỡ tam cảnh Cổ! Đại năng U Cổ kỳ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3b",
+            "Name": "Chương 282: Điên cuồng thực lực! Tiêu Huyền cuối cùng phá vỡ ba cảnh Cổ! Đại năng U Cổ kỳ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd3a",
+            "Name": "Chương 281: Miểu Vân tông tiên tử tuyên cáo đoàn diệt, Chí Tôn Thánh Binh, Chí Tôn Thánh Khải tới tay!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd39",
+            "Name": "Chương 280: Hình vòm trong cửa lớn – chân tướng! Tào huynh, ngươi mau đưa tiên tử nhóm lừa dối què rồi…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd38",
+            "Name": "Chương 279: Tiêu Huyền cuối cùng mưu đồ! Cái gì? Kiếm Tuyệt Sơn Thánh Tử trá thi?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd37",
+            "Name": "Chương 278: Tiêu Huyền: Đám tiên tử này, mỗi người đều có đến tám trăm cái ý tưởng! Ngọc Đào quyết định cuối cùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd36",
+            "Name": "Chương 277: Tiêu Huyền lấy lui làm tiến! Lưỡng Đại Phân Thân bão đùa giỡn thời khắc! Hàn Tiên Tử lựa chọn cuối cùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd35",
+            "Name": "Chương 276: Thánh Nữ vs Tiêu Huyền! Ta biết ngươi là đệ nhất đại lục dư nghiệt? Con bài chưa lật! Chí Tôn bí bảo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd34",
+            "Name": "Chương 275: Đại oan ập đến! Tiêu Huyền lập kế hoạch hoàn hảo! Hai phân thân phối hợp ăn ý!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd33",
+            "Name": "Chương 274: Miểu Vân tông tiên tử tới đông đủ! Nguyên thiên điện cùng hình vòm Cự Môn rốt cuộc đại diện cho điều gì?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd32",
+            "Name": "Chương 273: Kiểm kê chiến lợi phẩm! Thực lực điên cuồng đột phá! Huyền Tổ cảnh đỉnh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd31",
+            "Name": "Chương 272: Kiếm Tuyệt Sơn đệ tử toàn bộ bị trấn áp! Nguyên thiên điện bên trong, chỉ còn hắn, Tiêu Huyền.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd30",
+            "Name": "Chương 271: Thánh Tử đại nhân bị dao động què rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2f",
+            "Name": "Chương 270: Tiêu Huyền tất sát chi cục! Vạn sự đã chuẩn bị, chỉ đợi gậy ông đập lưng ông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2e",
+            "Name": "Chương 269: Cổ Kỳ Thánh Tử cầm trong tay Chí Tôn Thánh Kiếm, lại phá không phải Khai Nguyên Thiên Điện đại môn?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2d",
+            "Name": "Chương 268: Cái gì? Hình vòm cửa đá chính là sát trận, nguyên thiên điện mới là cửa vào thế giới chân chính?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2c",
+            "Name": "Chương 267: Kiếm Tuyệt Sơn Thánh Tử đến nơi! Nguyên thiên điện hàng lâm! Cùng Giới Thạch cửa dung hợp chấm dứt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2b",
+            "Name": "Chương 266: Hạ Tiểu Đoàn là Chú Binh Đại sư? Ba giờ sau, kiếm của ngươi gần trở thành Chí Tôn Thánh Khí!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd2a",
+            "Name": "Chương 265: Cái gì? Đạo kiếm lại không phải Đạo Cảnh Thần Binh? Mà là…?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd29",
+            "Name": "Chương 264: Tuế nguyệt trường hà tế đàn đại trận! Thần Thú giới bắt đầu khôi phục! Lưỡng Đại Phân Thân hội hợp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd28",
+            "Name": "Chương 263: Chiến lực tăng mạnh lần hai! Phát hiện kinh thiên hai phân thân! Đạo kiếm sắp được chữa trị hoàn toàn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd27",
+            "Name": "Chương 262: Ba vị Mệnh Tinh nữ cao quý! Giằng co giữa các truyền nhân thế lực đỉnh cao! Và đương nhiên là chuyện của Đường Mộng Mộng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd26",
+            "Name": "Chương 261: Truyền nhân của thế lực Chí Tôn đỉnh cấp! Tề tụ Cửu Vực! Chiến lực 30 triệu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd25",
+            "Name": "Chương 260: Lấy ra tuế nguyệt trường hà chi lực! Triệt để phục hồi Tô Thần Thú Giới! Phương này Thánh Tử gần đến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd24",
+            "Name": "Chương 259: Đạo Tổ vạn cổ bố cục chân tướng! Nguyên lực bị ô nhiễm? Hạ Tiểu Đoàn khiếp sợ…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd23",
+            "Name": "Chương 258: Bát phương Phong Vân bắt đầu! Chí Tôn dồn dập xuất quan! Mục tiêu: Đệ Cửu Vực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd22",
+            "Name": "Chương 257: Kéo dài qua vô số tinh hà, thiên địa dị tượng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679edf4001a79a1b94c7dd21",
+            "Name": "Chương 256: Toa Sa là Tiếp Dẫn giả? Kết giới tiêu thất! Hôm nay, sợ rằng phải thay đổi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e25",
+            "Name": "Chương 255: Hóa thân cổ xưa Toa Sa! Chúng ta sợ rằng sắp làm nên một việc kinh thiên động địa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e24",
+            "Name": "Chương 254: Thực lực lần thứ hai tăng vọt! Cuối cùng đột phá cảnh giới bán tổ! Gần 600 vạn chiến lực khủng bố!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e23",
+            "Name": "Chương 253: Tuyên chiến với toàn bộ Linh Viện! 40 tích nguyên lực nhập trướng! Con bài cuối cùng của Desimone!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e22",
+            "Name": "Chương 252: Hạ Tiểu Đoàn – con bài chưa lật! Hoàng Kim Cung điện! Tiêu Huyền tàn sát toàn trường tinh anh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e21",
+            "Name": "Chương 251: Kết giới bình chướng ngăn cản đệ nhất đại lục trở lại thế gian, ngay cả Chí Tôn cấp cũng không thể phá tan?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e20",
+            "Name": "Chương 250: Bí ẩn trên người Toa Sa! Tinh thạch biến dị! Khóa bí mật mở ra cuối cùng chìa khóa của đất thần?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1f",
+            "Name": "Chương 249: Không ai bì nổi đế Huyên điện hạ, bị Tiêu Huyền một kích miểu sát? Linh Nguyên mới nhập trướng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1e",
+            "Name": "Chương 248: Chọc thủng trời, tinh anh sinh phong tỏa hiện trường! Tiêu Huyền đạt đến đệ nhất Lục Trầm ngủ chi địa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1d",
+            "Name": "Chương 247: Ẩn nấp hư không mấy vạn năm, đệ nhất đại lục trọng lâm thế gian! Thần Long, Thần Hoàng, Kỳ Lân hiện thân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1c",
+            "Name": "Chương 246: Quỷ dị hôi vụ, sương mù thú đột kích! Tiêu Huyền dưới màn ánh sáng bảy màu, tuyệt đối an toàn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1b",
+            "Name": "Chương 245: Linh Nguyên thạch, cổ kỳ linh binh! 160 tích nguyên lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e1a",
+            "Name": "Chương 244: Bối rối… Cướp sạch toàn bộ tân sinh côn đồ, lại là Tiêu Huyền?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e19",
+            "Name": "Chương 243: Tinh anh sinh xôn xao, chuyện gì đã xảy ra với các tân sinh? Lục tinh tinh anh sinh Desimone!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e18",
+            "Name": "Chương 242: Tiêu Huyền sắp tìm thấy cửa vào Tổ cảnh! Đế Huyên và những người khác liệu có phải là cơ hội?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e17",
+            "Name": "Chương 241: Thượng Cổ trận chiến cuối cùng - Chân tướng! Đạo Tổ vạn cổ bố cục, thì ra là thế!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e16",
+            "Name": "Chương 240: Toa Sa thân phận thật sự? Lam Tinh, gặp lại Huyền Lục! Đường Mộng Mộng, Hàn Mộc Cẩn, Cổ Nguyệt Na tụ hội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e15",
+            "Name": "Chương 239: Điên cuồng thôn phệ Linh Nguyên, chiến lực siêu việt 3 triệu! Thực lực Tiêu Huyền kinh khủng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e14",
+            "Name": "Chương 238: Thái Cực Đồ tái hiện! Toàn trường bị diệt! Linh Viện viện trưởng muốn đích thân mời Tiêu Huyền?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e13",
+            "Name": "Chương 237: Bi thương Mạnh Thu Thu, Đạo Cảnh Thần Giáp tới tay! Cực hạn lực phòng ngự!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e12",
+            "Name": "Chương 236: Tiêu Huyền xuất thủ! Giao ra đạo giáp, ta có thể thả ngươi đi! Một chỉ, miểu sát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e11",
+            "Name": "Chương 235: Tranh đấu giữa Đạo giáp và Đỉnh cấp Đạo Binh! Linh đan bí ẩn của Băng Hà Cốc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e10",
+            "Name": "Chương 234: Học sinh Linh Viện phản kích, Đại tiểu thư Mạnh gia, sở hữu Đạo Cảnh Thần Giáp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0f",
+            "Name": "Chương 233: Tiêu Huyền hấp thụ ánh sáng bằng nguyên lực thất thải! Trần lão điên cuồng, nhất định phải báo cáo với Linh Viện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0e",
+            "Name": "Chương 232: 132 triệu chiến lực, kinh khủng Tiêu Huyền! Mục tiêu: Chữa trị đạo kiếm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0d",
+            "Name": "Chương 231: Linh Viện lão sư môn sợ ngây người, những viên Linh Nguyên thạch tốt đẹp ấy, đến tay Tiêu Huyền lại thành…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0c",
+            "Name": "Chương 230: Đánh bại Hạ Tiểu Đoàn! Khủng bố đề thăng chưa từng có! Chiến lực phá trăm vạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0b",
+            "Name": "Chương 229: Đạo Binh quyết đấu! Đạo kiếm cùng Hạ gia thương! Tiêu Huyền: Cũng không gì hơn cái này mà thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e0a",
+            "Name": "Chương 228: Quả nhiên là tiểu thư giàu có? Xuất thủ liền là năm miếng Linh Nguyên thạch? Cơ hội tăng cường thực lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e09",
+            "Name": "Chương 227: Thứ chín đại lục Thần Quốc, Tiểu La Lỵ lại xuất từ Chí Tôn Hạ gia! Linh Viện lão sư môn lạnh run!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e08",
+            "Name": "Chương 226: Thay đổi bản thần thuật! Ngũ Hành tương hợp, gia trì Thái Cực! Thái Cực luân chuyển, ẩn vào Ngũ Hành!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e07",
+            "Name": "Chương 225: Xuất thần nhập hóa nguyên lực thao túng! Ba màu huyền thương!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e06",
+            "Name": "Chương 224: Nguyên lực gấp bội! Linh Viện lão sư bối rối, nhất định có chuyện! Ai lại đi giữ những phế Linh Nguyên?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e05",
+            "Name": "Chương 223: Linh Viện Tổ cảnh lão sư quan tâm! Tiêu Huyền, tên thổ dân này có điểm khác lạ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e04",
+            "Name": "Chương 222: Đệ tam đại lục Ly gia, Hoa gia! Tiêu Huyền - mục tiêu thứ nhất!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e03",
+            "Name": "Chương 221: Thu hoạch Linh Nguyên khối nhanh nhất phương thức! Linh Viện thiên kiêu? Đợi làm thịt dê béo mà thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e02",
+            "Name": "Chương 220: Siêu việt bát đại lục cực hạn, Tiêu Huyền khai sáng nguyên lực dòng chảy mới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e01",
+            "Name": "Chương 219: Dung hợp nguyên lực, học sinh Linh Viện sợ tê dại rồi! Linh Nguyên bị Tiêu Huyền chơi choáng váng…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48e00",
+            "Name": "Chương 218: Thay Tử Linh ngẫu! Toa Sa cầu phúc, Tiêu Huyền rốt cuộc muốn dung hợp mấy thuộc tính?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dff",
+            "Name": "Chương 217: Bao la vạn tượng! Dã tâm của Tiêu Huyền, nguyên lực đa thuộc tính chưa từng thấy!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dfe",
+            "Name": "Chương 216: Chấn động thăng cấp! Một giây bảy miếng Linh Nguyên! Cái này… quả thực điên rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dfd",
+            "Name": "Chương 215: Thượng Cổ bí ẩn cuối cùng được phá! Lai lịch thực sự của Thần Bí Không Gian! Cơ hội siêu thoát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dfc",
+            "Name": "Chương 214: Tiêu Huyền tuyệt thế kỳ ngộ! Thượng Cổ đệ nhất chí bảo! Nguyên Thiên Điện!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dfb",
+            "Name": "Chương 213: Linh Viện thiên kiêu dọa phát sợ! Cái quỷ gì… Một giây ngưng kết nguyên lực?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48dfa",
+            "Name": "Chương 212: « Nguyên La Thiên trải qua »! Trong không gian thần bí ẩn chứa tuyệt thế chí bảo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df9",
+            "Name": "Chương 211: Tiêu Huyền kinh khủng tốc độ lĩnh ngộ! Siêu việt đệ tam lịch sử đại lục!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df8",
+            "Name": "Chương 210: Thần Bí Không Gian chẳng lẽ không phải Đạo Tổ truyền thừa? Mà là…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df7",
+            "Name": "Chương 209: Khủng bố! Tăng phúc chiến lực gấp vạn lần! Pháp tu luyện Linh Nguyên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df6",
+            "Name": "Chương 208: Dưới trời sao, lực lượng hoàn mỹ nhất! Thời đại tu hành nguyên lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df5",
+            "Name": "Chương 207: Linh Viện khủng bố bối cảnh, đệ tam đại Lục Đạo kỳ tồn tại!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df4",
+            "Name": "Chương 206: Dị giới thiên kiêu? Ha ha, bất quá là Tiêu mỗ tù binh mà thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df3",
+            "Name": "Chương 205: Tiêu Huyền: Ngươi gọi ta thổ dân? Có ý tứ... Các ngươi không sợ chết sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df2",
+            "Name": "Chương 204: Thí luyện giả và người giám sát! Kế hoạch săn giết của Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df1",
+            "Name": "Chương 203: Nàng không thuộc về phương này tinh không! Tầm bảo giả huyệt động, thần bí địa phương đại loạn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48df0",
+            "Name": "Chương 202: Lưỡng Đại Phân Thân chí bảo, Đế Huyên thực lực chân chính! Trăm vạn cấp chiến lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4101a79a0edcc48def",
+            "Name": "Chương 201: Pháp tu luyện chưa từng thấy! Đế Huyên bạo phát, thế không thể đỡ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48dee",
+            "Name": "Chương 200: Vương đối vương! Lưỡng Đại Phân Thân đấu Đế Huyên! Toa Sa tiểu thư sợ ngây người…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48ded",
+            "Name": "Chương 199: Đế Huyên Công Chúa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48dec",
+            "Name": "Chương 198: Hai đại Thánh Tổ thân hàng lâm! Mấy trăm ngàn minh tu cuộn trào mãnh liệt mà ra!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48deb",
+            "Name": "Chương 197: Lạt mềm buộc chặt, Tinh Quyết gần đắc thủ, chờ (các loại), Đế Huyên phát hiện?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48dea",
+            "Name": "Chương 196: Tinh Quyết, lá bài tẩy cuối cùng! Đế Huyên Công chúa thực sự trúng kế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48de9",
+            "Name": "Chương 195: Sơ nhập thần bí địa phương! Thần Vũ quân hướng đi, Tiêu Huyền quả nhiên chủ động nhường quyền rồi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48de8",
+            "Name": "Chương 194: Tiến nhập thần bí địa phương! Tiêu Huyền vs Đế Huyên Nữ Vương!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679b9f4001a79a0edcc48de7",
+            "Name": "Chương 193: Cường thế Nữ Vương Đế Huyên Công chúa, bi thương Tina: Ngàn vạn lần chớ chọc ta tỷ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc64297c",
+            "Name": "Chương 192: Ẩn dấu đế quốc bên trong nhà thám hiểm hậu duệ, đến tột cùng là ai?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc64297b",
+            "Name": "Chương 191: Đạo hoàng kinh thế thủ bút! Vô Thượng Chí Bảo dĩ nhiên tại Tổ Tinh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc64297a",
+            "Name": "Chương 190: Bí mật phía trên Cổ Tân, chân tướng của đại lục số một! Đế Hoàng: Hóa ra chúng ta đều là người lưu đày!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc642979",
+            "Name": "Chương 189: Đế Quốc khách đến thăm, bên kia tinh không Công Chúa điện hạ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc642978",
+            "Name": "Chương 188: Đất Phong Kiến Thiết, Đế Đô Võ Đại Hoa Khôi và Quý Tộc Tiểu Thư Toa Sa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1601a79a0cdc642977",
+            "Name": "Chương 187: Tiêu Huyền quy hoạch đất phong! Con đường quật khởi của Võ Huyền Quân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642976",
+            "Name": "Chương 186: Trở về Bắc Cực Tinh Quang, cuối cùng đã gặp Ngũ sư tỷ! Tình hình gần đây trên Lam Tinh.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642975",
+            "Name": "Chương 185: Đế Quốc Thịnh điển, Tiêu Huyền được phong Thần Võ Quân Tổng soái! Tinh gia còn đang âm mưu gì?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642974",
+            "Name": "Chương 184: Đạp vô tận Tinh Lộ! Tầm Đạo tổ bước tiến! Tiêu Huyền, mục tiêu tiếp theo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642973",
+            "Name": "Chương 183: Tiêu Huyền cực hạn đột phá, khủng bố chiến lực, Võ Hoàng kỳ trung kỳ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642972",
+            "Name": "Chương 182: Toa Sa như chết lặng… Chồng ta vừa ra cửa, bên ngoài liền rung chuyển dữ dội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642971",
+            "Name": "Chương 181: Cái gì? Tiêu Huyền đột phá, Đế Đô xảy ra động đất?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642970",
+            "Name": "Chương 180: Tỉnh dậy, Linh trị đột phá? Cơ hội đột phá cảnh giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296f",
+            "Name": "Chương 179: Toa Sa vớ đen",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296e",
+            "Name": "Chương 178: Nhất Khí Hóa Tam Thanh! Đạo thứ ba phân thân, nguyên lai ở đây!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296d",
+            "Name": "Chương 177: Cùng đường bí lối, Tinh gia truy sát, muốn trốn đến bộ lạc Đồ Đằng? Đối mặt vấn đề nan giải của Đường Mộng Mộng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296c",
+            "Name": "Chương 176: Điểu gia xuất thủ chấn động Tổ Tinh, cắt đoạn trường hà thời gian, cắt đứt hai giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296b",
+            "Name": "Chương 175: Tối nay, chỉ vì Tiêu Huyền, Đế Quốc cả đêm không ngủ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64296a",
+            "Name": "Chương 174: Thần tính đồ đằng! Tổ cảnh chiến lực công kích! Tinh gia diệt vong!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642969",
+            "Name": "Chương 173: Tinh cảng hủy diệt, căn cứ bị san phẳng, Tinh Lôi tại chỗ phun máu ba lần!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642968",
+            "Name": "Chương 172: Minh thần hàng lâm! Tinh gia tai họa ngập đầu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642967",
+            "Name": "Chương 171: Bán tổ Cự Nhân hiện thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642966",
+            "Name": "Chương 170: Giận dữ tinh gia gia chủ, chiến đấu tinh hạm tạo đội hình khởi hành! Mục tiêu: Khu 18!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642965",
+            "Name": "Chương 169: Ngươi đang uy hiếp ta? Vạch mặt! Tiêu Huyền phản kích!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642964",
+            "Name": "Chương 168: Bạch Du Nhiên kinh ngạc đến chết lặng, tiểu sư đệ ta lại có thêm mã giáp mới rồi?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642963",
+            "Name": "Chương 167: Tinh gia mưu đồ khu 18? Tiêu Huyền kinh thế danh tác! Lưỡng Đại Phân Thân hung hãn phản kích!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642962",
+            "Name": "Chương 166: Chân tướng Đại Bạch, Bạch Du Nhiên sửng sốt, độc thần… lại là tiểu sư đệ?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642961",
+            "Name": "Chương 165: Cái gì! Ngô Hoa Đạo đầu nhập vào Đệ Cửu Vực rồi sao? Hoàn thành nhiệm vụ chó săn độc thần?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642960",
+            "Name": "Chương 164: Ngô Hoa Đạo hùng khởi rồi hả? Bạch Du Nhiên dẫn đội lẻn vào Bắc Cực Tinh Quang công ty!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295f",
+            "Name": "Chương 163: Thứ cho ta nói thẳng, độc thần đại nhân há là các ngươi có thể trêu chọc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295e",
+            "Name": "Chương 162: Đạt đến khu 18, độc thần đại nhân Tư Quân hàng lâm! Sư tỷ hù chạy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295d",
+            "Name": "Chương 161: Tam Hoàng tề tụ, đại vân bất hủ, quân viễn chinh khởi hành!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295c",
+            "Name": "Chương 160: Lam Tinh tổ chức liên minh, 4000 Võ Tông cường giả chờ xuất phát! Mục tiêu: Khu vực thứ mười tám!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295b",
+            "Name": "Chương 159: Thăm dò đội toàn thể kinh ngạc đến ngây người. Ta góp, độc thần đại nhân lại chính là đại vân Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64295a",
+            "Name": "Chương 158: Lạc phách đồng hương Quý Hoa: Cái gì? Độc thần đại nhân muốn riêng gọi chúng ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642959",
+            "Name": "Chương 157: Đất phong phân chia! Hai triệu Tư Quân, Tiêu Huyền thị sát lãnh địa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642958",
+            "Name": "Chương 156: Một buổi sáng thành danh, thiên hạ biết Tiêu Huyền! Vô địch tượng trưng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642957",
+            "Name": "Chương 155: Thiên chi kiêu tử toàn bộ chịu thua, Tiêu Huyền: Mới tỉnh ngủ, ta thành quán quân rồi hả?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642956",
+            "Name": "Chương 154: Thất thải cối xay tái hiện, năng lượng phòng ngự tráo trong nháy mắt bị nghiền nát, sân so tài trở nên hỗn loạn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642955",
+            "Name": "Chương 153: Tiêu Huyền Truyền Thuyết, độc diệt vạn vật sinh linh! Tinh gia âm thầm rắp tâm.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642954",
+            "Name": "Chương 152: Bạch y phiêu dật, kiếm khí xuất thần, sân đấu chấn động!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642953",
+            "Name": "Chương 151: Trận chung kết, Tiêu Huyền thề sống chết thoát khỏi danh hiệu Độc Vương! Các học tỷ tổ chức thành đoàn thể ủng hộ.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642952",
+            "Name": "Chương 150: Tiêu Huyền giận dữ, đối thủ trực tiếp…bốc hơi?  Đội thăm dò có tân chủ nhân rồi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642951",
+            "Name": "Chương 149: Tiêu Huyền, Thiên Sát Độc Thể hấp thụ ánh sáng! Thiên cổ đệ nhất Độc Thể? Toàn bộ mạng xã hội đều là fan của hắn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc642950",
+            "Name": "Chương 148: Tiêu Huyền ngôn xuất pháp tùy! Rõ ràng tròn tròn bị đánh bối rối:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64294f",
+            "Name": "Chương 147: Thi đấu ủy hội xuất thủ, Tiêu Huyền đấu với tiểu thư tài chính đại thần!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679a1d1501a79a0cdc64294e",
+            "Name": "Chương 146: Dị tộc Cửu Dời Núi, Tiêu Huyền lần này cả tay đều không đánh, trực tiếp… ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a65",
+            "Name": "Chương 145: Tiêu Huyền xuất thủ oanh động, tân thần thuật hình thức ban đầu, khổ bức Fix",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a64",
+            "Name": "Chương 144: Tiêu Huyền xuất thủ, miểu sát! Khán giả sửng sốt, giả thi đấu! Đây là giả thi đấu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a63",
+            "Name": "Chương 143: Lam Tinh thăm dò đội toàn bộ nhân viên đều kinh ngạc, vị đại nhân vật lợi hại này không thể nào là Tiêu Huyền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a62",
+            "Name": "Chương 142: Ngọa tào, Tiêu Huyền, chuyên gia đặc tịch của viện khoa học kỹ thuật, lại là tiềm lực cấp SSS?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a61",
+            "Name": "Chương 141: Lệnh động viên của Đế Quốc? Đội thám hiểm sắp trở thành Thần Chi Tử Tư Quân rồi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a60",
+            "Name": "Chương 140: Toa Sa đặt cược toàn bộ tài sản vào Tiêu Huyền thắng? Đội thăm dò đến Đệ Cửu Vực! Bị bắt quả tang?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5f",
+            "Name": "Chương 139: Đột phá! Lại phá cực hạn! Chiến lực Võ Vương cảnh hậu kỳ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5e",
+            "Name": "Chương 138: Tiêu Huyền thủ bút, lệnh động viên! Thần Tử đứng đầu, thần vũ quân đại soái!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5d",
+            "Name": "Chương 137: Đế Đô võ đại, Đường Mộng Mộng, Hàn Mộc Cẩn, Cổ Nguyệt Na, Nữ Thần giáo hoa oanh động!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5c",
+            "Name": "Chương 136: Thông đạo dị biến, Lam Tinh báo nguy! Tìm Tiêu Huyền cô bạn gái nhỏ, mời Điểu gia tới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5b",
+            "Name": "Chương 135: Đế Quốc vạn năm nghiên cứu khoa học thành quả, Tiêu Huyền: Lão tử trực tiếp trộm nhà!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a5a",
+            "Name": "Chương 134: Tim đập thình thịch, ánh nến múa của tiểu thư quý tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a59",
+            "Name": "Chương 133: Kinh hoàng! Tiêu Huyền được phong làm chuyên gia đặc biệt của Viện Khoa học Kỹ thuật Đế quốc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a58",
+            "Name": "Chương 132: Bảy thuộc tính dung hợp! Các đại lão Viện Khoa học Kỹ thuật điên cuồng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a57",
+            "Name": "Chương 131: Tiêu Huyền kỳ ngộ thần thuật, Âm Dương Ngũ Hành Thiên Địa cái cối xay!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a56",
+            "Name": "Chương 130: Tiêu Huyền ngữ xuất kinh nhân, oanh động, phó viện trưởng và các chuyên gia hàng đầu đổ xô tới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a55",
+            "Name": "Chương 129: Tina Công chúa xuất thủ, ngàn năm không gặp tài, Tiêu Huyền:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a54",
+            "Name": "Chương 128: Đế Quốc Linh Năng Viện Khoa học Kỹ thuật, dẫn dắt Lam Tinh nhảy vọt cơ hội!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a53",
+            "Name": "Chương 127: Đạt đến khoa học kỹ thuật Đế Đô! Công chúa Tina, nhiều thuộc tính năng lượng dung hợp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a52",
+            "Name": "Chương 126: Các tiểu tỷ tỷ ngây người, thần bí đại cổ đông hoá ra là Tiêu Huyền?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a51",
+            "Name": "Chương 125: Bí mật phía sau tinh thạch? Kiều Thu Thủy, đại cổ đông muốn đích thân triệu kiến các ngươi.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a50",
+            "Name": "Chương 124: Căng vọt thực lực! Võ Vương kỳ chiến lực! Toa Sa sợ choáng váng…",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4f",
+            "Name": "Chương 123: Đột phá cảnh giới dễ như ăn cháo, ngươi không tin? Ta đây chứng minh ngay!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4e",
+            "Name": "Chương 122: Hạn định múa ba-lê phục? Toa Sa điên rồi, lão nương muốn quyết đấu với ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4d",
+            "Name": "Chương 121: Thực lực tăng vọt, 4 vạn thẻ khí huyết, Võ Hầu đỉnh phong chiến lực!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4c",
+            "Name": "Chương 120: Thiên hữu ta Hổ Tổ bộ lạc! Thánh Tổ chuyển thế thân gần lại lên đỉnh phong?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4b",
+            "Name": "Chương 119: Nguyên lai chí bảo hóa ra là nó! Cơ hội chữa trị Đạo kiếm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a4a",
+            "Name": "Chương 118: Dám ngăn trở ta đón Thánh Tổ chuyển thế, tất diệt cả nhà ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a49",
+            "Name": "Chương 117: Lười biếng tiểu thư quý tộc, cái gì, tặng công ty ta cổ phần?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a48",
+            "Name": "Chương 116: Đội trưởng Cổ Đức khóc ròng, miếu nhỏ chúng ta không thể hầu hạ nổi tôn thần này!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a47",
+            "Name": "Chương 115: Trắc thí! Tiêu Huyền, bình định SSS nhân tài đặc thù, trong nháy mắt oanh động!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a46",
+            "Name": "Chương 114: Nữ thư ký Emilia, người mặc trang phục công sở, danh ngạch bị hội nghị thu hồi.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a45",
+            "Name": "Chương 113: Lẻn vào kế hoạch! Tiêu Huyền, hai đại phân thân là Thánh Tổ chuyển thế?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a44",
+            "Name": "Chương 112: Tiêu Huyền thiên danh tác, thật đem Thiên Đạo cho mời tới??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a43",
+            "Name": "Chương 111: Thượng Cổ Thần truyền Cửu Tự bí mật! Chữ Binh hiện, chấn động thương khung!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a42",
+            "Name": "Chương 110: Bản đồ Đệ Cửu Vực, nơi Tiêu Huyền đóng quân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a41",
+            "Name": "Chương 109: Cường thịnh đồ đằng bộ lạc, Tiêu Huyền là lão tổ tông của bọn chúng??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6798b60e01a79a09c8db1a40",
+            "Name": "Chương 108: Điểu gia thổ lộ bí ẩn Thượng Cổ, đại thế! Trăm đạo tranh hùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffec",
+            "Name": "Chương 107: Luyện hóa bảy Linh Chủng, Âm Dương Ngũ Hành tề tụ! Thực lực tăng vọt mạnh mẽ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffeb",
+            "Name": "Chương 106: Ngũ Hành tổ thuật tới tay! Song trọng kinh hỉ, chí bảo Băng Phượng linh nhãn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffea",
+            "Name": "Chương 105: Tiêu Huyền và chiến lực kinh khủng! Đạo hoàng sững sờ, nói xong thì biết xấu hổ, vậy sau đó thì sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe9",
+            "Name": "Chương 104: Đột phá! Xưa nay chưa từng có Võ Trưởng cảnh! Hổ Tổ tinh huyết hai lần hấp thu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe8",
+            "Name": "Chương 103: Trong nháy mắt, Vinh Vân Nghiên khỏi hẳn! Thậm chí đột phá Võ Vương cảnh ??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe7",
+            "Name": "Chương 102: Vinh Vân Nghiên lâm chung uỷ thác? Tiêu Huyền: Ai nói Vinh Di ngươi sẽ chết?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe6",
+            "Name": "Chương 101: Trở về Vinh gia tổ trạch, đây là nhà ai chim chết, lại dám gọi Đạo Hoàng là Song Túc Thú??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe5",
+            "Name": "Chương 100: Thực lực điên cuồng tăng vọt! Võ Tông cảnh! Thần bí quang đoàn lần thứ hai thăng cấp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe4",
+            "Name": "Chương 99: Phân thân tái hiện! Điểu gia điên cuồng, Tiêu Huyền sẽ không phải là con tư sinh của Đạo Tổ chứ ??",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe3",
+            "Name": "Chương 98: Vô thượng cơ duyên! Ta Tiêu mỗ tất cả đều muốn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe2",
+            "Name": "Chương 97: Thiên Đạo lời thề, thu phục Tổ cảnh đại năng! Ba giọt tinh huyết, cơ hội lột xác!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe1",
+            "Name": "Chương 96: Đạo kiếm lộ chân dung! Kiếm ra thiên địa biến! Vỡ vụn thương khung!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffe0",
+            "Name": "Chương 95: Vinh gia người sợ ngây người, Linh Nguyên bắt đầu khởi động, nguyên lai đây mới là đạo kiếm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffdf",
+            "Name": "Chương 94: Đạo kiếm đã dấy lên dục vọng, sinh vật bí ẩn? Có thể chịu nổi một kiếm của ta hay không?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffde",
+            "Name": "Chương 93: Lưu quang cổ thành! Cái gì, hắn rốt cuộc đã trở về?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffdd",
+            "Name": "Chương 92: Thái Cực Huyền Môn kiếm thứ hai, đại thành! Cửu thành chiến lực tăng phúc kinh người!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffdc",
+            "Name": "Chương 91: Manh mối của sinh vật quý hiếm! Áo giáp huyết gấu hung bạo! Cơ hội thứ hai của Thái Cực Huyền Môn kiếm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffdb",
+            "Name": "Chương 90: Lưu quang bí cảnh! Xu cát tị hung, Hàn hoa khôi hóa thân tiểu Thần Côn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffda",
+            "Name": "Chương 89: Đạo Hoàng tọa hạ, Lục đệ tử, cơ hội đột phá cực hạn võ tướng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd9",
+            "Name": "Chương 88: Võ Hầu kỳ đỉnh phong? Tiêu Huyền kiếm ra, đầu người rơi, Vinh gia phụ tử, vẫn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd8",
+            "Name": "Chương 87: Nguyên Thủy tinh khí biến thành phân thân? Đạo Hoàng tại chỗ thất thố!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd7",
+            "Name": "Chương 86: Đường Vạn Sơn dứt khoát, thanh âm thần bí vang lên! Thời Gian Tĩnh Chỉ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd6",
+            "Name": "Chương 85: Giành cổ phù, Vinh gia dám giam lỏng danh sách giả?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd5",
+            "Name": "Chương 84: Đến Vinh gia, Đại Vân đệ nhất hoàng muốn thu đồ rồi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd4",
+            "Name": "Chương 83: Nghịch loạn thời không, sinh vật khủng bố, lại bị đạo kiếm hù chạy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67971c8001a79a1afcbcffd3",
+            "Name": "Chương 82: Hàn giáo hoa, vớ đen, và Tiểu Cao – Ba người đồng hành, tốt nghiệp tụ hội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7fb",
+            "Name": "Chương 81: Chiến thắng trở về, lại về Vân Sơn, các đại lão xếp hàng nghênh tiếp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7fa",
+            "Name": "Chương 80: Danh sách giả! Hàng thứ nhất: Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f9",
+            "Name": "Chương 79: Lưu lão sắp điên, Tiêu Huyền nhất định có thể trọng chấn đạo môn Thượng Cổ vinh quang!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f8",
+            "Name": "Chương 78: Toàn quốc khán giả sôi trào! Phân thân xuất hiện! Áp đảo toàn trường!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f7",
+            "Name": "Chương 77: Các tuyển thủ đang run rẩy, Tiêu Huyền xuất kiếm! Thái Cực hiện, trấn quần hùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f6",
+            "Name": "Chương 76: Liên quân mai phục Tiêu Huyền! Nghĩ mai phục ta ư? Vừa lúc bắt các ngươi thử kiếm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f5",
+            "Name": "Chương 75: Linh quang! Đốn ngộ! Âm Dương Chi Đạo! Thái Cực Huyền Môn đệ nhất kiếm, thành!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f4",
+            "Name": "Chương 74: Đại Ma Vương áp lực khủng bố, Đồ Long Dũng Sĩ tập kết hoàn tất!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f3",
+            "Name": "Chương 73: Cái gì? Chậm cửu trực tiếp đầu hàng Tiêu Đại Ma Vương! Chặt đứt liên quân Tiêu gia!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f2",
+            "Name": "Chương 72: Trần Thần rất ngưu sao? Một chưởng miểu sát! Phát sóng trực tiếp nổ tung!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f1",
+            "Name": "Chương 71: Xung đột lần thứ hai thăng cấp, Tiêu Huyền giá hổ ngự phong mà đến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7f0",
+            "Name": "Chương 70: Hoa Thiên Minh bị đánh thành chó chết? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6795ef6601a79a170cc6e7ef",
+            "Name": "Chương 70: Cổ nữ hiệp khí phách cứu nguy (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d2a",
+            "Name": "Chương 69: Hai đại hoa khôi bị vây công, Hoa Thiên Minh dương oai diễu võ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d29",
+            "Name": "Chương 68: Cái gì!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d28",
+            "Name": "Chương 67: Vậy con cự hổ ăn thịt người, hóa ra là thú cưỡi của Tiêu Huyền? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d27",
+            "Name": "Chương 67: Các tuyển thủ sợ ngây người! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d26",
+            "Name": "Chương 66: Quyền ra, vỡ vụn không gian! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d25",
+            "Name": "Chương 66: Thực lực điên cuồng tăng vọt! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d24",
+            "Name": "Chương 65: Thượng Cổ thất phẩm linh đan! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d23",
+            "Name": "Chương 65: Cổ Đan Các phế tích, cơ duyên! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d22",
+            "Name": "Chương 64: Tiêu Huyền là võ giả nhị trọng? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d21",
+            "Name": "Chương 64: Săn bắn thi đấu khai mạc! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d20",
+            "Name": "Chương 63: Tiêu Huyền xuất thủ, một quyền trọng thương! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a101a79a12ec702d1f",
+            "Name": "Chương 63: Thăm dò hay khiêu khích? (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a001a79a12ec702d1e",
+            "Name": "Chương 62: Bên người nhiều một tiểu yêu tinh? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a001a79a12ec702d1d",
+            "Name": "Chương 62: Tiêu Huyền: Tỉnh dậy! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a001a79a12ec702d1c",
+            "Name": "Chương 61: Tiểu yêu tinh chủ động tới cửa (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a001a79a12ec702d1b",
+            "Name": "Chương 61: Huyền Lục – Thân phận thật sự! Săn bắn thi đấu, sáu đại đứng đầu giành giải quán quân hạt giống! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679454a001a79a12ec702d1a",
+            "Name": "Chương 60: Lý hội trưởng: Cẩu nhật Lưu Châu Quang! Ngươi đập ta bãi! ! ! (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6794549f01a79a12ec702d19",
+            "Name": "Chương 60: Tiêu Huyền khóa tỉnh Đả Quán! Trấn áp toàn trường! (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "679453c601a79a12ec702d18",
+            "Name": "Chương 59: Ngươi một cái tát liền cho nó bay luôn ??? (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d17",
+            "Name": "Chương 59: Cái kia tmd là tam giai hung thú! (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d16",
+            "Name": "Chương 58: Tổ thuật Thái Cực Huyền Môn Kiếm quyết! (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d15",
+            "Name": "Chương 58: Tiêu Huyền – Cơ duyên tuyệt thế! (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d14",
+            "Name": "Chương 57: Đường Mộng Mộng và Hàn Mộc Cẩn muốn bỏ cuộc? (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d13",
+            "Name": "Chương 57: Siêu việt lịch sử, cực hạn Võ Giả! (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d12",
+            "Name": "Chương 56: Tiêu Huyền – Quá mạnh! (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d11",
+            "Name": "Chương 56: Lưu Phá Lôi cùng đường cùng! (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d10",
+            "Name": "Chương 55: Giây lát thông quan! Cổ Nguyệt Na sửng sốt. (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0f",
+            "Name": "Chương 55: Lưỡng Đại Phân Thân lần đầu ra trận! (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0e",
+            "Name": "Chương 54: Tiêu Huyền xông tới! Chờ đã, hắn chỉ là một Võ Giả tam trọng mà lại muốn xông cửa sao? Đệ bát di chuyển đài.",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0d",
+            "Name": "Chương 53: Tiêu Huyền đột phá! Võ Giả cảnh đỉnh phong!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0c",
+            "Name": "Chương 52: Đệ Bát Di chuyển đài, bi thảm thế gia các đệ tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0b",
+            "Name": "Chương 51: Hoa Thiên Minh? Có tin ta hay không, một quyền gọi ngươi đi nằm viện?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d0a",
+            "Name": "Chương 50: Khủng bố đề thăng! Văn Tam Xuyên sợ ngây người: Ngươi làm sao lên được?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d09",
+            "Name": "Chương 49: Thế gia tông môn nội tình, truyền công đạo bồ! Gần vượt qua thử thách đề thăng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d08",
+            "Name": "Chương 48: Lên đảo! Mê vụ nấc thang Huyền Cơ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d07",
+            "Name": "Chương 47: Sương mù thiên đảo - Cơ duyên kinh thiên! Tiêu Huyền bị tiểu yêu tinh hành hạ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d06",
+            "Name": "Chương 46: Tiêu Huyền vắng mặt, Hoa Thiên Minh lại nổi bật hơn!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d05",
+            "Name": "Chương 45: Huyền Lục hiện thân lần nữa. Cái gì? Ngươi có thể giúp ta trở thành người vô địch cùng thế hệ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d04",
+            "Name": "Chương 44: Khánh công yến! Tiêu Huyền, ngươi chính là thần của chúng ta!  Lưu Châu Quang nói.",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d03",
+            "Name": "Chương 43: Tập huấn doanh điên cuồng, chưa từng thấy tưởng thưởng phong phú!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d02",
+            "Name": "Chương 42: Điên rồi! Khắp nơi đại lão điên cuồng tranh đoạt Tiêu Huyền!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d01",
+            "Name": "Chương 41: Đăng đường cấp? Không phải… Tuyệt đối không chỉ! Tiêu Huyền là khai sáng cổ Chiến Kỹ a!!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702d00",
+            "Name": "Chương 40: Ta thấy ánh mắt Hoa Thiên Minh, sao lại giống như đang xem tiền rác vậy?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c601a79a12ec702cff",
+            "Name": "Chương 39: Hoa Thiên Minh đại thành cấp, Tiêu Huyền sắp ra trận!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cfe",
+            "Name": "Chương 38: Hai đại hoa khôi xuất trận! Học sinh nghênh chiến đệ tử thế gia!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cfd",
+            "Name": "Chương 37: Khảo hạch bắt đầu! Ưu việt thế gia đệ tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cfc",
+            "Name": "Chương 36: Võ hiệp đại lão đến doanh trại tập huấn, Tiêu Huyền sẽ là người dẫn đầu sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cfb",
+            "Name": "Chương 35: Hàn Hoa Khôi ở phòng Tiêu Huyền qua đêm?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cfa",
+            "Name": "Chương 34: Lý huấn luyện viên đáng sợ phỏng đoán, Tiêu Huyền sẽ không phải là…",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf9",
+            "Name": "Chương 33: Truyền thuyết đăng đường cấp! Tiêu Huyền chỉ điểm học viên!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf8",
+            "Name": "Chương 32: Mới Tạo Hóa chi quả! Đột phá! Lại đột phá lần nữa!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf7",
+            "Name": "Chương 31: Kinh khủng tốc độ lĩnh ngộ! Tiểu thành cấp! Đường mềm manh: Tiêu Huyền dắt tay ta lạp ~",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf6",
+            "Name": "Chương 30: Thần Bí Không Gian thăng cấp! Tạo Hóa cổ thụ! Thiên Cách phân thân chân chính năng lực!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf5",
+            "Name": "Chương 29: Hắc Bạch Huyền Quả, năng lực thiên phú chiều sâu giác tỉnh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf4",
+            "Name": "Chương 28: Hoa Thiên Minh Chiến Kỹ tiểu thành, tại chỗ khiêu khích!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf3",
+            "Name": "Chương 27: Lớp tinh anh khóa thứ nhất, quân bộ Chiến Kỹ: Long Hổ Quyền!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf2",
+            "Name": "Chương 26: Ngoan ngoãn, trại trưởng đại nhân bị Tiêu Huyền tiểu đệ dọa cho từ chức?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf1",
+            "Name": "Chương 25: Không ai bì nổi Hoa Thiên Minh, Huyền Lục: Tiêu Huyền là ta đại ca!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cf0",
+            "Name": "Chương 24: Tiêu Huyền, Võ Giả nhị trọng cảnh! Trấn áp thế gia đệ tử!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cef",
+            "Name": "Chương 23: Thế gia đệ tử khủng bố, áp lực đè nặng! Hàn hoa khôi đang mong đợi điều gì?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cee",
+            "Name": "Chương 22: Trại trưởng Vương Đức Đạo! Khảo hạch trắc thí!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ced",
+            "Name": "Chương 21: Tinh anh tập huấn doanh! Hàn môn vòng lôi kéo",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cec",
+            "Name": "Chương 20: Kẻ lang thang bí ẩn gõ cửa, người liên quan đến “Cổ”!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ceb",
+            "Name": "Chương 19: Tế hiến truyền công Đạo Bồ! Thực lực lần thứ hai tăng vọt!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cea",
+            "Name": "Chương 18: Máy bay tư nhân, thẳng tiến doanh trại huấn luyện tinh anh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce9",
+            "Name": "Chương 17: Cái gì mới gọi là hào phóng vô nhân tính? Các thân thích kinh ngạc há hốc mồm… Lễ gặp mặt trị giá hai trăm triệu!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce8",
+            "Name": "Chương 16: Ùn ùn kéo đến! Đường hoa khôi mang theo thủ phủ lão cha!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce7",
+            "Name": "Chương 15: Hàn hoa khôi mang theo hội trưởng võ hiệp hội tới cửa!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce6",
+            "Name": "Chương 14: Nhảy như thế mừng rỡ? Ta nói, có lẽ còn chưa hết đâu!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce5",
+            "Name": "Chương 13: Học lên tiệc rượu? Biểu ca: Ta năm thứ hai đại học trước khi vào học tất thành Võ Giả!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce4",
+            "Name": "Chương 12: Tiêu Huyền thiên phú kinh khủng! Cha Hàn hoa khôi đã sốt ruột",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce3",
+            "Name": "Chương 11: Ta thành Võ Giả, các ngươi tới hỏi han ân cần rồi hả? Xin lỗi, ta người này tâm địa hiểm ác.",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce2",
+            "Name": "Chương 10: Lam Phi dọa đái ra, ta tố cáo! Tiêu Huyền đang ăn gian!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce1",
+            "Name": "Chương 09: Tiêu Huyền xuất trận, Võ Giả cảnh! Chấn động toàn trường!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702ce0",
+            "Name": "Chương 08: Hai đại hoa khôi lên sân khấu, đại tẩu, Huyền ca có thể tu luyện!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cdf",
+            "Name": "Chương 07: Khí huyết kiểm tra! Có kẻ tự nhận là tôn tử đến cửa?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cde",
+            "Name": "Chương 06: Đường hoa khôi mê người bạch ti JK",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cdd",
+            "Name": "Chương 05: Giây tốc độ đột phá Võ Giả cảnh! Ba mẹ, các ngươi mua vé số trúng độc đắc?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cdc",
+            "Name": "Chương 04: Phú bà vạn tuế, này đạo bồ là treo bức a!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cdb",
+            "Name": "Chương 03: Đạo môn tổ thuật, ngộ thành Nhất Khí Hóa Tam Thanh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cda",
+            "Name": "Chương 02: Cẩu cường đạo lại tới trộm khí huyết!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "679453c501a79a12ec702cd9",
+            "Name": "Chương 01: Bắt đầu đã bị cử đi võ đại?",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "6800b57601a79a1aec6863f8",
+            "Name": "Chương 8: HOÀN",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f7",
+            "Name": "Chương 7:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f6",
+            "Name": "Chương 6:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f5",
+            "Name": "Chương 5:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f4",
+            "Name": "Chương 4:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f3",
+            "Name": "Chương 3:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57601a79a1aec6863f2",
+            "Name": "Chương 2:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6800b57501a79a1aec6863f1",
+            "Name": "Chương 1:",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

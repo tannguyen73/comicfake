@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "68079abb01a79a1538932092",
+            "Name": "Chương 9: Hoàn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079ab901a79a1538932091",
+            "Name": "Chương 8: Chương 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079ab701a79a1538932090",
+            "Name": "Chương 7: Chương 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079ab401a79a153893208f",
+            "Name": "Chương 6: Chương 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079ab201a79a153893208e",
+            "Name": "Chương 5: Chương 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079aae01a79a153893119a",
+            "Name": "Chương 4: Chương 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079aac01a79a1538931199",
+            "Name": "Chương 3: Chương 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079aaa01a79a1538931198",
+            "Name": "Chương 2: Chương 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079aa801a79a1538931197",
+            "Name": "Chương 1: Chương 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

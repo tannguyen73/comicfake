@@ -1,0 +1,304 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Sống Sót Trong Trò Chơi Với Tư Cách Một Barbarian",
+            "StoryImage": "song-sot-trong-tro-choi-voi-tu-cach-mot-barbarian.jpg",
+            "StoryDescription": "\"Tôi thậm chí không thể hoàn thành phiên bản trò chơi 2D của thế giới này, mà bây giờ lại phải hoàn thành nó trong hiện thực sao ?\"\r\n\r\nMột người chơi kỳ cựu phát hiện ra mình bị mắc kẹt trong chính tựa game mình đang chơi , Dungeon and Stone dưới hình dạng một người Barbarian hoang dã. Để giữ kín bí mật của mình, anh ấy phải thể hiện sự hoang dã và dũng mãnh hơn bất kỳ ai khác, hình tượng của chủng tộc Barbarian trong mắt cả thế giới.\r\nTrong căn phòng tối nơi anh ấy biến mất, chiếc máy tính mất nguồn điện đột nhiên tiếp tục chạy, những dòng chữ lại lần nữa xuất hiện trên màn hình điều khiển...",
+            "StoryUpdateTime": "2025-03-27T07:59:15.0542024Z",
+            "StoryUpdateTimeTick": 638784985890881072,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 153,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 152: Mục tiêu mới",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Du Hí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "du-hi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61e69c310631ad2d4cad1225",
+                    "MongoId": "61e69c310631ad2d4cad1225"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xây Dựng Thế Lực",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại thuần xây dựng thế lực, đánh chiếm địa bàn",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xay-dung-the-luc",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b36101a79b106c650459",
+                    "MongoId": "6561b36101a79b106c650459"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "song-sot-trong-tro-choi-voi-tu-cach-mot-barbarian-chuong-153",
+            "Keyword": "sống sót trong trò chơi với tư cách một barbarian song sot trong tro choi voi tu cach mot barbarian",
+            "StoryView": 1750,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "song-sot-trong-tro-choi-voi-tu-cach-mot-barbarian",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 1750,
+            "StoryViewInWeek": 94,
+            "StoryViewInMonth": 1208,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "song-sot-trong-tro-choi-voi-tu-cach-mot-barbarian-chuong-1",
+            "StoryIDFirstChap": "67e299aa01a79a16301ea446",
+            "SoChuong": 153,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Một người chơi kỳ cựu phát hiện ra mình bị mắc kẹt trong chính tựa game mình đang chơi , Dungeon and Stone dưới hình dạng một người Barbarian hoang dã. Để giữ kín bí mật của mình, anh ấy phải thể hiện sự hoang dã và dũng mãnh hơn bất kỳ ai khác, hình tượng của chủng tộc Barbarian trong mắt cả thế giới.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67e2921d01a79a16301e7894",
+            "MongoId": "67e2921d01a79a16301e7894"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67e2921d01a79a16301e7894",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67e299aa01a79a16301ea446",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-so-voi-ta-hieu-pokemon.jpg",
+                "StoryName": "Hắn So Với Ta Hiểu Pokemon",
+                "StoryTitleLastChap": "Chương 1479 Ràng buộc chi lực, lửa mạnh!",
+                "StoryID": "67ee3a9a01a79a1598255677",
+                "StoryUpdateTime": "4/25/2025 7:03:18 AM",
+                "StoryNameK": "han-so-voi-ta-hieu-pokemon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67e5054e01a79a18603bdff3",
+                "Name": "Chương 152: Mục tiêu mới",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054e01a79a18603bdff2",
+                "Name": "Chương 151: Đồng đội thứ hai - Abman Urichfried",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054e01a79a18603bdff1",
+                "Name": "Chương 150: Kết thúc của Đội Halfling",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdff0",
+                "Name": "Chương 149: Tàn nhẫn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfef",
+                "Name": "Chương 148: Vận may của Amelia",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfee",
+                "Name": "Chương 147: Thánh Tích",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfed",
+                "Name": "Chương 146: Món tiền thưởng từ Giáo đường",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfec",
+                "Name": "Chương 145: Di sản vĩ đại",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfeb",
+                "Name": "Chương 144: Quyết tâm của kẻ lạc lối",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e5054d01a79a18603bdfea",
+                "Name": "Chương 143: Chết trong vinh quang",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

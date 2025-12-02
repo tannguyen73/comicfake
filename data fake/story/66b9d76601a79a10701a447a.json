@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Sau Khi Lưu Đày, Địa Vị Của Ta Cực Cao (Dịch)",
+            "StoryImage": "sau-khi-luu-day-dia-vi-cua-ta-cuc-cao-(dich.jpg",
+            "StoryDescription": "Trong một thế giới đầy âm mưu và tranh đấu, <b>Mộc Vãn Tình</b>, một pháo hôi nữ xứng, đã chứng minh rằng cuộc đời không chỉ có một con đường.&nbsp;<p>Thay vì đắm chìm trong sự hận thù và tranh giành quyền lực như nữ chính, cô chọn một lối đi riêng, một cuộc sống bình yên và hạnh phúc.&nbsp;</p><p>Với những kiến thức hiện đại, Mộc Vãn Tình đã biến vùng đất hoang tàn thành một nơi phồn hoa thịnh vượng, khiến cho nữ chính và những kẻ thù của cô phải kinh ngạc.</p>",
+            "StoryUpdateTime": "2024-08-13T06:39:02.0158887Z",
+            "StoryUpdateTimeTick": 638590521345213209,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Quan Oánh Oánh",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65dea5b001a79a08c8f219d4",
+                    "MongoId": "65dea5b001a79a08c8f219d4"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1110. Phiên ngoại 3",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Dị Giới",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-gioi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f124d01a79a0e30fce5fc",
+                    "MongoId": "655f124d01a79a0e30fce5fc"
+                },
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "sau-khi-luu-day-dia-vi-cua-ta-cuc-cao-dich-chuong-1110-phien-ngoai-3",
+            "Keyword": "sau khi lưu đày, địa vị của ta cực cao (dịch) sau khi luu day, dia vi cua ta cuc cao (dich)",
+            "StoryView": 11327,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "sau-khi-luu-day-dia-vi-cua-ta-cuc-cao-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 11327,
+            "StoryViewInWeek": 73,
+            "StoryViewInMonth": 1378,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "sau-khi-luu-day-dia-vi-cua-ta-cuc-cao-dich-chuong-1-",
+            "StoryIDFirstChap": "66bafea401a79a156cee3223",
+            "SoChuong": 1109,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66b9d76601a79a10701a447a",
+            "MongoId": "66b9d76601a79a10701a447a"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66b9d76601a79a10701a447a",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66bafea401a79a156cee3223",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban.jpg",
+                "StoryName": "Từ Hôn Về Sau, Tu Tiên Nữ Phụ Dựa Vào Mưa Đạn Lật Bàn",
+                "StoryTitleLastChap": "Chương 487: Vị diện chúa tể (Đại kết cục)",
+                "StoryID": "67b6aa7701a79a15fc461966",
+                "StoryUpdateTime": "2/20/2025 4:41:38 AM",
+                "StoryNameK": "tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-tien-nu-phu-muon-thuong-thien.jpg",
+                "StoryName": "Tu Tiên Nữ Phụ Muốn Thượng Thiên",
+                "StoryTitleLastChap": "Chương 99: Cực phẩm linh tủy",
+                "StoryID": "67b58fbc01a79a0d2808300d",
+                "StoryUpdateTime": "2/19/2025 9:37:14 AM",
+                "StoryNameK": "tu-tien-nu-phu-muon-thuong-thien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-tien-nu-phu-cu-tuyet-kich-ban-lam-phao-hoi.jpg",
+                "StoryName": "Tu Tiên Nữ Phụ Cự Tuyệt Kịch Bản Làm Pháo Hôi",
+                "StoryTitleLastChap": "Chương 69: Bạch Hổ bí cảnh (41)",
+                "StoryID": "67b55fd701a79a0d280761c7",
+                "StoryUpdateTime": "2/19/2025 5:00:28 AM",
+                "StoryNameK": "tu-tien-nu-phu-cu-tuyet-kich-ban-lam-phao-hoi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-phu-va-phan-dien-he.jpg",
+                "StoryName": "Nữ Phụ Và Phản Diện HE",
+                "StoryTitleLastChap": "Chương 160",
+                "StoryID": "67b447a801a79a1348ce2f57",
+                "StoryUpdateTime": "2/19/2025 2:21:13 AM",
+                "StoryNameK": "nu-phu-va-phan-dien-he"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-cua-nguyen-phoi-phao-hoi.jpg",
+                "StoryName": "Cuộc Sống Của Nguyên Phối Pháo Hôi",
+                "StoryTitleLastChap": "Chương 576: Đại Kết Cục",
+                "StoryID": "67afed8901a79a17b475e89c",
+                "StoryUpdateTime": "2/15/2025 2:25:24 AM",
+                "StoryNameK": "cuoc-song-cua-nguyen-phoi-phao-hoi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-den-van-me-ke-len-game-show-cham-con-bao-hong.jpg",
+                "StoryName": "Xuyên Đến Văn Mẹ Kế, Lên Game Show Chăm Con Bạo Hồng",
+                "StoryTitleLastChap": "Chương 255: Phiên Ngoại",
+                "StoryID": "670f7fbd01a79a06f8a5968a",
+                "StoryUpdateTime": "10/16/2024 10:31:52 AM",
+                "StoryNameK": "xuyen-den-van-me-ke-len-game-show-cham-con-bao-hong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-tay-sinh-ton-danh-cho-nu-phu-o-mat-the.jpg",
+                "StoryName": "Sổ Tay Sinh Tồn Dành Cho Nữ Phụ Ở Mạt Thế",
+                "StoryTitleLastChap": "Chương 137: Kết cục (Hoàn chính văn)",
+                "StoryID": "66fca07801a79a0c280792be",
+                "StoryUpdateTime": "10/2/2024 4:36:20 AM",
+                "StoryNameK": "so-tay-sinh-ton-danh-cho-nu-phu-o-mat-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mang-thai-voi-cha-cua-vai-ac.jpg",
+                "StoryName": "Mang Thai Với Cha Của Vai Ác",
+                "StoryTitleLastChap": "Chương 116: Ngoại truyện 5",
+                "StoryID": "66f527e801a79a02104188ce",
+                "StoryUpdateTime": "9/26/2024 10:12:11 AM",
+                "StoryNameK": "mang-thai-voi-cha-cua-vai-ac"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-phu-khong-co-khat-vong-song.jpg",
+                "StoryName": "Nữ Phụ Không Có Khát Vọng Sống",
+                "StoryTitleLastChap": "Chương 123: Ngoại truyện cuối cùng: Thiếu nữ dưới chiều hoàng hôn",
+                "StoryID": "66ea98be01a79a1bbc3a15b1",
+                "StoryUpdateTime": "9/18/2024 10:26:55 AM",
+                "StoryNameK": "nu-phu-khong-co-khat-vong-song"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//duc-tien-do.jpg",
+                "StoryName": "Dục Tiên Đồ",
+                "StoryTitleLastChap": "Chương 174: Đánh bài và mua sắm",
+                "StoryID": "66e937ce01a79a10788dcca9",
+                "StoryUpdateTime": "9/17/2024 10:11:12 AM",
+                "StoryNameK": "duc-tien-do"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-xuyen-thanh-ban-than-nu-chinh.jpg",
+                "StoryName": "Thập Niên 70: Xuyên Thành Bạn Thân Nữ Chính",
+                "StoryTitleLastChap": "Chương 333: Phiên ngoại Ôn Lễ (2)",
+                "StoryID": "66e3f39901a79a187c862935",
+                "StoryUpdateTime": "9/13/2024 9:37:01 AM",
+                "StoryNameK": "thap-nien-70-xuyen-thanh-ban-than-nu-chinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nam-nhan-chi-anh-huong-toc-do-rut-kiem-cua-ta-(dich.jpg",
+                "StoryName": "Nam Nhân Chỉ Ảnh Hưởng Tốc Độ Rút Kiếm Của Ta (Dịch)",
+                "StoryTitleLastChap": "Chương 832. Phiên ngoại 12",
+                "StoryID": "66d03d7b01a79a1210e8af25",
+                "StoryUpdateTime": "9/6/2024 4:38:48 AM",
+                "StoryNameK": "nam-nhan-chi-anh-huong-toc-do-rut-kiem-cua-ta-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66baff4601a79a156cee3677",
+                "Name": "Chương 1110. Phiên ngoại 3",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3676",
+                "Name": "Chương 1109. Phiên ngoại 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3675",
+                "Name": "Chương 1108. Phiên ngoại 1",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3674",
+                "Name": "Chương 1107. Hoàn Toàn Văn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3673",
+                "Name": "Chương 1106. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3672",
+                "Name": "Chương 1105. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3671",
+                "Name": "Chương 1104. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee3670",
+                "Name": "Chương 1103. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee366f",
+                "Name": "Chương 1102. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66baff4601a79a156cee366e",
+                "Name": "Chương 1101. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

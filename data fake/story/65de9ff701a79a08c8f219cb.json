@@ -1,0 +1,255 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Hồng Kông: Xuyên Vào Hồng Hưng, Ngươi Bảo Ta Làm Việc Tốt? (Dịch)",
+            "StoryImage": "hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot.jpg",
+            "StoryDescription": "Thẩm Đống xuyên về Hồng Kông những năm 80, trở thành cánh tay phải của Ba thúc_  thủ lĩnh băng đảng Hồng Hưng ở Đồn Môn, kích hoạt \"Hệ thống trao đổi thiện công\".&nbsp;<p><br></p><p>Ta ít nhiều gì cũng là thủ lĩnh của một bang phái, nhưng ngươi lại bảo ta đi làm việc tốt, thật là buồn cười.&nbsp;</p><p>\"Chúc mừng ngươi đã giết được quạ đen Đông Hưng, cứu rỗi chúng sinh, thưởng cho ngươi 100 điểm thiện công.\"</p><p>&nbsp;\"Chúc mừng ngươi đã dẫn dắt tiểu đệ làm ăn một cách hợp pháp, thưởng cho ngươi 500 điểm thiện công.\"&nbsp;</p><p>\"Chúc mừng ngươi đã tài trợ cho viện phúc lợi 500 vạn, thưởng cho ngươi 5000 điểm thiện công.\"...&nbsp;</p><p>Sau khi phát hiện có thể dùng điểm thiện công để đổi lấy nhiều thứ, Thẩm Đống cực kỳ yêu thích làm việc tốt.&nbsp;</p><p>Hoàng Chí Thành: \"Quyên góp mười triệu sao? Ngươi có chắc người quyên góp là thủ lĩnh của Hồng Hưng không?\"</p><p>Lý Văn Bân: \"Rất khó để tin rằng người chơi cùng với lũ trẻ là đại lão giang hồ.\"</p><p>Lục Kỳ Xương: \"Thẩm Đống có tâm lành hộ thể, chúng ta không động được hắn.\"…</p><p>Ta là Thẩm Đống _ thủ lĩnh băng Hồng Hưng, không chú ý liền từ một xã hội đen trở thành đại phú hào và đại gia quyên góp nổi danh nhất Hồng Kông. </p>",
+            "StoryUpdateTime": "2024-10-28T08:15:18.1273469Z",
+            "StoryUpdateTimeTick": 638446855591839655,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Thanh Phong Lãnh Nguyệt Dạ",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65dea00901a79a08c8f219cc",
+                    "MongoId": "65dea00901a79a08c8f219cc"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1088: Đại kết cục",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Mưu Mô",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main mưu mô, não to",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "muu-mo",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6561b41d01a79b106c6504f1",
+                    "MongoId": "6561b41d01a79b106c6504f1"
+                },
+                {
+                    "TenTheLoai": "Tội Phạm",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "toi-pham",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f122201a79a0e30fce5f9",
+                    "MongoId": "655f122201a79a0e30fce5f9"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Sát Phạt Quyết Đoán",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main sát phạt quyết đoán, nên g.i.ế.t vẫn g.i.ế.t",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sat-phat-quyet-doan",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b3ed01a79b106c6504cc",
+                    "MongoId": "6561b3ed01a79b106c6504cc"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot-dich-chuong-1088-dai-ket-cuc",
+            "Keyword": "hồng kông: xuyên vào hồng hưng, ngươi bảo ta làm việc tốt ? hong kong: xuyen vao hong hung, nguoi bao ta lam viec tot ?",
+            "StoryView": 7461,
+            "NumberUserFollow": 5,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 7461,
+            "StoryViewInWeek": 115,
+            "StoryViewInMonth": 635,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot-chuong-1-ba-thuc-ta-da-doc-tam-quoc-roi-1",
+            "StoryIDFirstChap": "65df022901a79a08c8f22404",
+            "SoChuong": 1088,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 3,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "65de9ff701a79a08c8f219cb",
+            "MongoId": "65de9ff701a79a08c8f219cb"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "65de9ff701a79a08c8f219cb",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "65df022901a79a08c8f22404",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mo-phong-toi-pham-muoi-van-lan-ta-tro-thanh-sieu-cap-canh-sat!-(dich.jpg",
+                "StoryName": "Mô Phỏng Tội Phạm Mười Vạn Lần: Ta Trở Thành Siêu Cấp Cảnh Sát! (Dịch)",
+                "StoryTitleLastChap": "Chương 639 - Đại Kết Cục 8",
+                "StoryID": "65dd845601a79a149427be43",
+                "StoryUpdateTime": "10/29/2024 9:34:11 AM",
+                "StoryNameK": "mo-phong-toi-pham-muoi-van-lan-ta-tro-thanh-sieu-cap-canh-sat-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-trong-luoi.jpg",
+                "StoryName": "Người Trong Lưới",
+                "StoryTitleLastChap": "Chương 9.",
+                "StoryID": "655f210801a79a0e30fd0dd8",
+                "StoryUpdateTime": "11/24/2023 4:11:12 AM",
+                "StoryNameK": "nguoi-trong-luoi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "671f47c001a79d155cfe7f7c",
+                "Name": "Chương 1088: Đại kết cục",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f7b",
+                "Name": "Chương 1087: Đại hội võ thuật kết thúc (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f7a",
+                "Name": "Chương 1086: Đại hội võ thuật kết thúc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f79",
+                "Name": "Chương 1085: Căng thẳng tột độ (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f78",
+                "Name": "Chương 1084: Căng thẳng tột độ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f77",
+                "Name": "Chương 1083: Mười cao thủ lộ diện",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f76",
+                "Name": "Chương 1082: Thẩm Đống lên sàn (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f75",
+                "Name": "Chương 1081: Thẩm Đống lên sàn (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f74",
+                "Name": "Chương 1080: Kiểm tra võ sĩ quyền anh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "671f47c001a79d155cfe7f73",
+                "Name": "Chương 1079: Đêm trước đại hội (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

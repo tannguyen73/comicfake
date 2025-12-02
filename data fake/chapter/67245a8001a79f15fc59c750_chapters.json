@@ -1,0 +1,671 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "67275bd901a79c17485a16ce",
+            "Name": "Chương 111 các quốc gia bồi thường",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67275ad901a79c17485a16cd",
+            "Name": "Chương 110 Chỗ Tốt khi tấn thăng Bán Thần tại Ngoại Vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67275a2b01a79c17485a16cc",
+            "Name": "Chương 109 Đại Quân Khô Lâu khuếch trương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6727597501a79c17485a16cb",
+            "Name": "Chương 108 Đối Chiến Thế Lực Nhân Loại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6727592301a79c17485a16ca",
+            "Name": "Chương 107 ma nhân A Nô",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6727587b01a79c17485a16c9",
+            "Name": "Chương 106 Hang Động Quặng Hỏa Tinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672757b201a79c17485a16c8",
+            "Name": "Chương 105 phù văn chi ngữ: Dã tính",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6727565201a79c17485a16c7",
+            "Name": "Chương 104 phù văn văn minh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672753d801a79c17485a16c6",
+            "Name": "Chương 103 ngoại vực chiến tranh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672752e501a79c17485a16c5",
+            "Name": "Chương 102 thành tích bình định",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672672da01a79e1958dbf812",
+            "Name": "Chương 101 Hắc Tử Cô sính hung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726720f01a79e1958dbf55f",
+            "Name": "Chương 100 Chuẩn bị trước khi giảng bài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672670f401a79e1958dbf55e",
+            "Name": "Chương 99 Tần gia Chân Thần trở về",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266fd201a79e1958dbf55d",
+            "Name": "Chương 98 thực lực cùng trí tuệ song trọng nghiền áp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266f3401a79e1958dbf55c",
+            "Name": "Chương 97 Châu Chấu VS cương binh giáp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266eaa01a79e1958dbf55b",
+            "Name": "Chương 96 Từ gia Chân Thần Hàng Lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266e2301a79e1958dbf55a",
+            "Name": "Chương 95 Bạn Bè Gặp Mặt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266d4b01a79e1958dbf559",
+            "Name": "Chương 94 Hàn Vũ thỉnh Chân Thần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266cd501a79e1958dbf558",
+            "Name": "Chương 93 Biến Cố Tần gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266c1c01a79e1958dbf2a5",
+            "Name": "Chương 92 Học Sinh Dự Định",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266b6d01a79e1958dbf2a4",
+            "Name": "Chương 91 quyến tộc toàn lực ứng phó",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266ad201a79e1958dbf2a3",
+            "Name": "Chương 90 Thần Tính Sinh Vật VS Chủ Thần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67266a5401a79e1958dbf2a2",
+            "Name": "Chương 89 Khó thoát kiếp nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672669e501a79e1958dbf2a1",
+            "Name": "Chương 88 uy hiếp từ Hoàng Thắng Quân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726693d01a79e1958dbf2a0",
+            "Name": "Chương 87 đổi thế giới sinh hoạt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672668af01a79e1958dbf29f",
+            "Name": "Chương 86 tiếp dẫn quyến tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726682e01a79e1958dbeef5",
+            "Name": "Chương 85 trí tuệ thụ hồi báo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672667ba01a79e1958dbee08",
+            "Name": "Chương 84 chậu hoa Hoàng Kim",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726673d01a79e1958dbed72",
+            "Name": "Chương 83 Thực Vật Đặc Thù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726664d01a79e1958dbed71",
+            "Name": "Chương 82 Đêm Nguyệt Thực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672665bb01a79e1958dbed70",
+            "Name": "Chương 81 bản cải tiến thực vật dung hợp thuật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726649101a79e1958dbed6f",
+            "Name": "Chương 80 Khóa Gien",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726638901a79e1958dbeabd",
+            "Name": "Chương 79 Các thành viên hộ vệ đội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726625701a79e1958dbe55b",
+            "Name": "Chương 78 gia nhập đội hộ vệ trấn nhỏ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672661c401a79e1958dbe2aa",
+            "Name": "Chương 77 Phát Hiện Trọng Đại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726614701a79e1958dbdff8",
+            "Name": "Chương 76 trấn trưởng Schwarzenegger không bình thường",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "672660dd01a79e1958dbdd47",
+            "Name": "Chương 75 Đánh Cược",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6726603d01a79e1958dbda95",
+            "Name": "Chương 74 lại một thanh niên \"Nằm Thẳng\"",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67265fa301a79e1958dbd533",
+            "Name": "Chương 73 Ý Tưởng To Gan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67265f3701a79e1958dbd282",
+            "Name": "Chương 72 Cương Thi tới, thực vật biến dị đối địch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67265dd701a79e1958dbcd20",
+            "Name": "Chương 71 hạt giống quả nhiên có tác dụng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bdb001a79e1958dbba4c",
+            "Name": "Chương 70 giảng bài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bd5701a79e1958dbba4b",
+            "Name": "Chương 69 Đàn anh ủy thác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bcee01a79e1958dbba4a",
+            "Name": "Chương 68 trận chiến mở màn của mười Tiểu Cường",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bc1101a79e1958dbba49",
+            "Name": "Chương 67 khiêu chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bbbe01a79e1958dbba48",
+            "Name": "Chương 66 tiến vào dự bị sinh ban",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725bb4801a79e1958dbba47",
+            "Name": "Chương 65 mười Tiểu Cường",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725babf01a79d195838f1ea",
+            "Name": "Chương 64 Có tiền thật tốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725b9f601a79c1958753095",
+            "Name": "Chương 63 Kinh Hỉ Lớn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725b6de01a79a1958b89a23",
+            "Name": "Chương 62 lấy sinh mệnh làm lợi thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725b4be01a79a1958b89a21",
+            "Name": "Chương 61 Dị Biến Chi Nguyên - Hàn Vũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6725b3a801a79a1958b89a20",
+            "Name": "Chương 60 biến dị Châu Chấu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b33c01a79a1958b89a1f",
+            "Name": "Chương 59 Dị Biến Chi Nguyên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b2e701a79a1958b89a1e",
+            "Name": "Chương 58 Lạc Đường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b26301a79a1958b89a1d",
+            "Name": "Chương 57 phóng xạ có nguy hiểm, biến dị cần cẩn thận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b21401a79a1958b89a1c",
+            "Name": "Chương 56 Thần Hà phế tích cùng Gien Thạch",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b18e01a79a1958b89a1b",
+            "Name": "Chương 55 một chút thần tính làm khó anh hùng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725b0fe01a79a1958b89a1a",
+            "Name": "Chương 54 ổn định truyền tống môn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725afe701a79a1958b89a19",
+            "Name": "Chương 53 Vĩ Đại Phản Nghịch Giả danh hào",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725af6201a79a1958b89a18",
+            "Name": "Chương 52 ma vật công thành",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725ae1301a79a1958b89a17",
+            "Name": "Chương 51 nhiệm vụ hoàn thành",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725ac5701a79a1958b89a16",
+            "Name": "Chương 50 Ma Vật Liên Minh cùng Hắc Long Chiến Sĩ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725ab3f01a79a1958b89a15",
+            "Name": "Chương 49 khế ước phục vụ một trăm năm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725aaba01a79a1958b89a14",
+            "Name": "Chương 48 Hắc Long Alpheus",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725aa3201a79a1958b89a13",
+            "Name": "Chương 47 chiêu binh mãi mã cùng chức nghiệp chi lực",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a9e801a79a1958b89a12",
+            "Name": "Chương 46 ngoại vực chức nghiệp nhà thám hiểm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a99a01a79a1958b89a11",
+            "Name": "Chương 45 Thành Đa Long - Văn minh bên ngoài",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a92601a79a1958b89a10",
+            "Name": "Chương 44 giống loài mới: Châu Chấu Nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a8aa01a79a1958b89a0f",
+            "Name": "Chương 43 Thần Vực phát triển",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a7f801a79a1958b89a0e",
+            "Name": "Chương 42 Thần Khí Văn Minh Thất Truyền",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a75901a79a1958b89a0d",
+            "Name": "Chương 41 Tượng Chủ lấy ơn báo oán",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a6fc01a79a1958b89a0c",
+            "Name": "Chương 40 Huyết Tinh Đấu Trường người thừa kế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a67e01a79a1958b89a0b",
+            "Name": "Chương 39 Khống Cốt Giả Điều Khiển sợ hãi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a5c001a79a1958b89a0a",
+            "Name": "Chương 38 Mãnh Mã quân đoàn khổng lồ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a45101a79a1958b89a09",
+            "Name": "Chương 37 vượt cấp khiêu chiến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a3fd01a79a1958b89a08",
+            "Name": "Chương 36 Nạn Châu Chấu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a2f301a79a1958b89a07",
+            "Name": "Chương 35 Huyết Tinh Đấu Trường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a25901a79a1958b89a06",
+            "Name": "Chương 34 ta thích nhất giúp người làm niềm vui",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a1e401a79a1958b89a05",
+            "Name": "Chương 33 Thần Vực biến hóa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a15001a79a1958b89a04",
+            "Name": "Chương 32 Nói Chuyện Chiêu Sinh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725a0b001a79a1958b89a03",
+            "Name": "Chương 31 Mong Đợi Thánh Hỏa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672525f301a79a1958b8949b",
+            "Name": "Chương 30 Hợp Tác",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672524da01a79a1958b8949a",
+            "Name": "Chương 29 Nhiệm vụ cuối cùng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725240901a79a1958b89499",
+            "Name": "Chương 28 một chân dẫm nổ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672522f801a79a1958b89498",
+            "Name": "Chương 27 Đồ Bảng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725224201a79a1958b89497",
+            "Name": "Chương 26 Lại một canh bạc lớn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67251fb701a79a1958b89496",
+            "Name": "Chương 25 Quyết Định Chính Xác Nhất",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67251deb01a79a1958b8947f",
+            "Name": "Chương 24 thu phục Khô Lâu tộc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67251c8201a79a1958b8947e",
+            "Name": "Chương 23 Trong lúc tiến hành nhiệm vụ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67251bc301a79a1958b8947d",
+            "Name": "Chương 22 Ma Uyên vị diện",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67251a5c01a79a1958b8947c",
+            "Name": "Chương 21 Tiểu Khô Lâu Lãnh Chúa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725199e01a79a1958b8947b",
+            "Name": "Chương 20 Phân giải cơ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672518a701a79a1958b8947a",
+            "Name": "Chương 19 sinh mệnh quá độ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725179d01a79a1958b89479",
+            "Name": "Chương 18 Giá Trị Của Thần Tính",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672516eb01a79a1958b89478",
+            "Name": "Chương 17 Trao Giải",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725157001a79a1958b89477",
+            "Name": "Chương 16 Nghi Ngờ Gian Lận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725147501a79a1958b89476",
+            "Name": "Chương 15 Nhà Có Mỏ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725133001a79a1958b89475",
+            "Name": "Chương 14 đánh đố",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725122801a79a1958b89474",
+            "Name": "Chương 13 Đề Thi Bắt Đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725111401a79a1958b89473",
+            "Name": "Chương 12 Bạo Thực Luật Pháp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67250fe301a79a1958b89472",
+            "Name": "Chương 11 Thắng Thảm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67250e7001a79a1958b89471",
+            "Name": "Chương 10 Thí Nghiệm Khó Khăn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67250ce701a79a1958b89470",
+            "Name": "Chương 9 Yêu Cầu Chuyển Lớp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67250b2501a79a1958b8946f",
+            "Name": "Chương 8 anh hùng chi uy",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672509c501a79a1958b8946e",
+            "Name": "Chương 7 Châu Chấu VS Lang Kỵ Binh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672506c201a79a1958b8946d",
+            "Name": "Chương 6 Bạo Phong Đại Kiếm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725053301a79a1958b8946c",
+            "Name": "Chương 5 - yêu cầu nhỏ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725042f01a79a1958b8946b",
+            "Name": "Chương 4 - Cực đại tăng lên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672502ee01a79a1958b8946a",
+            "Name": "Chương 3 - Đánh Nát Trung Tâm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6725020d01a79a1958b89469",
+            "Name": "Chương 2 - Tự Bạo Châu Chấu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "672460e501a79f15fc59c754",
+            "Name": "Chương 1 - Quyến tộc rác rưởi",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

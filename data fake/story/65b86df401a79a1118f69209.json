@@ -1,0 +1,379 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Xuyên Thành Nha Hoàn Của Nữ Chính, Ta Nằm Yên Làm Giàu (Dịch)",
+            "StoryImage": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau.jpg",
+            "StoryDescription": "<b>Khương Đường</b>, một cô gái hiện đại, xuyên không vào một quyển tiểu thuyết trạch đấu và trở thành nha hoàn của nữ chính. Ban đầu, cô chỉ muốn tận hưởng cuộc sống an nhàn, nhưng số phận lại đưa đẩy cô trở thành chị dâu của chính nữ chủ mà mình phục vụ.&nbsp;<p>Khi nữ chính có thai, cuộc sống của Khương Đường đã hoàn toàn thay đổi.</p><p>Với sự thông minh và khéo léo, Khương Đường đã xây dựng cho mình một cuộc sống ổn định và hạnh phúc.</p>",
+            "StoryUpdateTime": "2024-08-20T09:36:01.9204551Z",
+            "StoryUpdateTimeTick": 638421823880841457,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tương Nguyệt Khứ",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65b86e3501a79a1118f6920a",
+                    "MongoId": "65b86e3501a79a1118f6920a"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 670: Phiên ngoại 16. HẾT.",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Gia Đấu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "gia-dau",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b11501a79a05c8ae5af0",
+                    "MongoId": "6576b11501a79a05c8ae5af0"
+                },
+                {
+                    "TenTheLoai": "Làm Giàu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lam-giau",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6578277701a79a1344387627",
+                    "MongoId": "6578277701a79a1344387627"
+                },
+                {
+                    "TenTheLoai": "Mỹ Thực",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "my-thuc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b12201a79a05c8ae5af1",
+                    "MongoId": "6576b12201a79a05c8ae5af1"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Xuyên Sách",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-sach",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b09501a79a05c8ae5ae8",
+                    "MongoId": "6576b09501a79a05c8ae5ae8"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Điềm Đạm",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "diem-dam",
+                    "gender": 1,
+                    "theloaitype": 3,
+                    "Id": "6576933e01a79a05c8ae5adf",
+                    "MongoId": "6576933e01a79a05c8ae5adf"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-chuong-670-phien-ngoai-16-het",
+            "Keyword": "xuyên thành nha hoàn của nữ chính, ta nằm yên làm giàu xuyen thanh nha hoan cua nu chinh, ta nam yen lam giau",
+            "StoryView": 19964,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 19964,
+            "StoryViewInWeek": 19,
+            "StoryViewInMonth": 1210,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-chuong-371",
+            "StoryIDFirstChap": "65b870f401a79a1118f6937c",
+            "SoChuong": 670,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Từ Toa không ngờ rằng một vụ nổ lại đưa cô đến một thế giới hoàn toàn khác. Với một tòa thành thị hoang phế trong tay, Từ Toa đã trở thành người giàu có nhất làng. Tình yêu của Từ Toa và Giang Phong đã sưởi ấm những ngày đông lạnh giá.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "65b86df401a79a1118f69209",
+            "MongoId": "65b86df401a79a1118f69209"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "65b86df401a79a1118f69209",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "65b870f401a79a1118f6937c",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho.jpg",
+                "StoryName": "Ngẫu Nhiên Bày Quầy Bán Hàng, Khách Hàng Đuổi Theo Tôi Mười Con Phố (Dịch)",
+                "StoryTitleLastChap": "Chương 1040: Đại kết cục",
+                "StoryID": "65f0131d01a79a0534006e62",
+                "StoryUpdateTime": "11/28/2024 10:14:21 AM",
+                "StoryNameK": "ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-om-chat-bap-dui-dai-lao-(dich.jpg",
+                "StoryName": "Thập Niên 70: Ôm Chặt Bắp Đùi Đại Lão (Dịch)",
+                "StoryTitleLastChap": "Chương 800: Phiên Ngoại 32 (Toàn Hoàn Văn)",
+                "StoryID": "66b058b201a79a0f1801a03c",
+                "StoryUpdateTime": "8/5/2024 10:19:42 AM",
+                "StoryNameK": "thap-nien-70-om-chat-bap-dui-dai-lao-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tieu-nuong-tu-la-ngu-dan-(dich.jpg",
+                "StoryName": "Tiểu Nương Tử Là Ngư Dân (Dịch)",
+                "StoryTitleLastChap": "Chương 620: Kết phiên ngoại",
+                "StoryID": "66bf12ce01a79a08a462f6ab",
+                "StoryUpdateTime": "8/16/2024 9:40:59 AM",
+                "StoryNameK": "tieu-nuong-tu-la-ngu-dan-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tiem-com-nho-cuoi-ngan-ha-(dich.jpg",
+                "StoryName": "Tiệm Cơm Nhỏ Cuối Ngân Hà (Dịch)",
+                "StoryTitleLastChap": "Chương 624. - HOÀN",
+                "StoryID": "66d81fd901a79a19c86fa601",
+                "StoryUpdateTime": "9/4/2024 9:39:31 AM",
+                "StoryNameK": "tiem-com-nho-cuoi-ngan-ha-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quan-an-vat-nha-ho-lam.jpg",
+                "StoryName": "Quán Ăn Vặt Nhà Họ Lâm",
+                "StoryTitleLastChap": "Chương 105:\t Kết thúc 3. Hết.",
+                "StoryID": "65c1d5f301a79a0724302e31",
+                "StoryUpdateTime": "2/6/2024 9:56:02 AM",
+                "StoryNameK": "quan-an-vat-nha-ho-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-qua-nong-phu-lam-tru-nuong.jpg",
+                "StoryName": "Xuyên Qua Nông Phụ Làm Trù Nương",
+                "StoryTitleLastChap": "Chương 300",
+                "StoryID": "664da9fa01a79a0ee04f1153",
+                "StoryUpdateTime": "5/22/2024 9:36:28 AM",
+                "StoryNameK": "xuyen-qua-nong-phu-lam-tru-nuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-lap-day-tu-lanh-sinh-ton-o-mat-the.jpg",
+                "StoryName": "Tôi Lấp Đầy Tủ Lạnh Sinh Tồn Ở Mạt Thế",
+                "StoryTitleLastChap": "Chương 464: Hết",
+                "StoryID": "670c8adb01a79a17d00ffcbd",
+                "StoryUpdateTime": "10/15/2024 4:28:32 AM",
+                "StoryNameK": "toi-lap-day-tu-lanh-sinh-ton-o-mat-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lien-that-nghiep-ve-que-tren-duong-ban-com-hop.jpg",
+                "StoryName": "Bắt Đầu Liền Thất Nghiệp Về Quê Trên Đường Bán Cơm Hộp",
+                "StoryTitleLastChap": "Chương 1706: Thịt nát vị ngon",
+                "StoryID": "67872fd601a79a094cf4dec2",
+                "StoryUpdateTime": "4/24/2025 1:33:24 PM",
+                "StoryNameK": "bat-dau-lien-that-nghiep-ve-que-tren-duong-ban-com-hop"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tro-ve-nam-1988.jpg",
+                "StoryName": "Trở Về Năm 1988",
+                "StoryTitleLastChap": "Chương 182: Phiên ngoại",
+                "StoryID": "66543bbf01a79a02740da348",
+                "StoryUpdateTime": "5/27/2024 9:27:18 AM",
+                "StoryNameK": "tro-ve-nam-1988"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tiem-an-khuya-gioi-am-duong-(dich.jpg",
+                "StoryName": "Tiệm Ăn Khuya Giới Âm Dương (Dịch)",
+                "StoryTitleLastChap": "Chương 290: (End)",
+                "StoryID": "66bf0c1601a79a08a462f6a9",
+                "StoryUpdateTime": "8/16/2024 9:39:32 AM",
+                "StoryNameK": "tiem-an-khuya-gioi-am-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-thu-toi-ke-thua-tu-hop-vien-nau-an-sieu-ngon-(dich.jpg",
+                "StoryName": "Xuyên Thư Tôi Kế Thừa Tứ Hợp Viện Nấu Ăn Siêu Ngon (Dịch)",
+                "StoryTitleLastChap": "Chương 249 - Phiên ngoại 2: Song song thời không 4",
+                "StoryID": "66c4583801a79a10881b788b",
+                "StoryUpdateTime": "8/20/2024 9:34:29 AM",
+                "StoryNameK": "xuyen-thu-toi-ke-thua-tu-hop-vien-nau-an-sieu-ngon-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tiem-com-nha-ta-that-my-vi.jpg",
+                "StoryName": "Tiệm Cơm Nhà Ta Thật Mỹ Vị",
+                "StoryTitleLastChap": "Chương 107: Ngoại truyện cuối",
+                "StoryID": "664c63e901a79a0d1815dc5d",
+                "StoryUpdateTime": "5/21/2024 9:23:52 AM",
+                "StoryNameK": "tiem-com-nha-ta-that-my-vi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6603e51201a79a14d8276c52",
+                "Name": "Chương 670: Phiên ngoại 16. HẾT.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c51",
+                "Name": "Chương 669: Phiên ngoại 15",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c50",
+                "Name": "Chương 668: Phiên ngoại 14",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4f",
+                "Name": "Chương 667: Phiên ngoại 13",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4e",
+                "Name": "Chương 666: Phiên ngoại 12",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4d",
+                "Name": "Chương 665: Phiên ngoại 11",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4c",
+                "Name": "Chương 664: Phiên ngoại 10",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4b",
+                "Name": "Chương 663: Phiên ngoại 9",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c4a",
+                "Name": "Chương 662: Phiên ngoại 8",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6603e51201a79a14d8276c49",
+                "Name": "Chương 661: Phiên ngoại 7",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

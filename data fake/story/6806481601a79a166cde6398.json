@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trở Lại Trước Ngày Xuất Giá",
+            "StoryImage": "tro-lai-truoc-ngay-xuat-gia.jpg",
+            "StoryDescription": "Ta đã chết vào đêm hắn cưới thứ muội của ta làm trắc thất.&nbsp;<p>&nbsp;Khó sinh mất máu mà mất, một xác hai mạng.&nbsp;</p><p>Khi tỉnh lại, ta phát hiện mình đã trở về trước ngày xuất giá.&nbsp;</p><p>&nbsp;Bà mối đến tận cửa cầu thân, ta lạnh lùng cười nhạt, xoay người gả cho đại ca của hắn. </p>",
+            "StoryUpdateTime": "2025-04-21T14:07:27.8908501Z",
+            "StoryUpdateTimeTick": 638808389346084060,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 17,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Ba Tức",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "68064b6601a79a166cde6399",
+                    "MongoId": "68064b6601a79a166cde6399"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 17: Chương 17 [Hết]",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "tro-lai-truoc-ngay-xuat-gia-chuong-17",
+            "Keyword": "trở lại trước ngày xuất giá tro lai truoc ngay xuat gia",
+            "StoryView": 140,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "tro-lai-truoc-ngay-xuat-gia",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 140,
+            "StoryViewInWeek": 140,
+            "StoryViewInMonth": 140,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "tro-lai-truoc-ngay-xuat-gia-chuong-1",
+            "StoryIDFirstChap": "68064bee01a79a166cde639b",
+            "SoChuong": 17,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Ta đã chết vào đêm hắn cưới thứ muội của ta làm trắc thất.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6806481601a79a166cde6398",
+            "MongoId": "6806481601a79a166cde6398"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6806481601a79a166cde6398",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "68064bee01a79a166cde639b",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trong-sinh-chi-toi-cuong-kiem-than.jpg",
+                "StoryName": "Trọng Sinh Chi Tối Cường Kiếm Thần",
+                "StoryTitleLastChap": "Chương 4728: Tân thế giới (đại kết cục) (10)",
+                "StoryID": "656597ca01a79a07c8c7cbda",
+                "StoryUpdateTime": "4/26/2024 8:44:52 AM",
+                "StoryNameK": "trong-sinh-chi-toi-cuong-kiem-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-90-nghin-ty-tien-liem-cau.jpg",
+                "StoryName": "Ta Có 90 Nghìn Tỷ Tiền Liếm Cẩu (Dịch)",
+                "StoryTitleLastChap": "Chương 2156: Đại kết cục!!!",
+                "StoryID": "65fa825101a79a19643d35ae",
+                "StoryUpdateTime": "12/26/2024 5:06:14 AM",
+                "StoryNameK": "ta-co-90-nghin-ty-tien-liem-cau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-sat-than.jpg",
+                "StoryName": "Vô Thượng Sát Thần",
+                "StoryTitleLastChap": "Chương 5399: 5399: Phá giải",
+                "StoryID": "663340c501a79a059c737e45",
+                "StoryUpdateTime": "10/26/2024 8:37:18 AM",
+                "StoryNameK": "vo-thuong-sat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-lien-chi-dinh.jpg",
+                "StoryName": "Thanh Liên Chi Đỉnh",
+                "StoryTitleLastChap": "Chương 7354: Thanh Liên đỉnh (Đại kết cục) (2) HẾT.",
+                "StoryID": "6567087701a79a04c07c99ea",
+                "StoryUpdateTime": "1/18/2024 8:54:38 AM",
+                "StoryNameK": "thanh-lien-chi-dinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-tu-cua-ta-deu-la-vo-dich-dai-yeu.jpg",
+                "StoryName": "Đệ Tử Của Ta Đều Là Vô Địch Đại Yêu (Dịch)",
+                "StoryTitleLastChap": "Chương 980: Nhân đạo thành Thánh (4). HẾT.",
+                "StoryID": "65767bbc01a79a05c8ae4e95",
+                "StoryUpdateTime": "11/1/2024 3:53:04 AM",
+                "StoryNameK": "de-tu-cua-ta-deu-la-vo-dich-dai-yeu-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khung-bo-song-lai.jpg",
+                "StoryName": "Khủng Bố Sống Lại (Dịch)",
+                "StoryTitleLastChap": "Chương 3694: Tiễn Họ Đoạn Đường Cuối - Hoàn",
+                "StoryID": "65669e8a01a79a0c74828308",
+                "StoryUpdateTime": "12/5/2024 9:42:27 AM",
+                "StoryNameK": "khung-bo-song-lai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta!-thien-menh-dai-nhan-vat-phan-phai.jpg",
+                "StoryName": "Ta! Thiên Mệnh Đại Nhân Vật Phản Phái (Dịch)",
+                "StoryTitleLastChap": "Chương 3450: Đại chiến căng thẳng",
+                "StoryID": "657a733c01a79a160844519c",
+                "StoryUpdateTime": "12/5/2024 9:52:50 AM",
+                "StoryNameK": "ta-thien-menh-dai-nhan-vat-phan-phai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-ba.jpg",
+                "StoryName": "Đế Bá",
+                "StoryTitleLastChap": "Chương 7196: Đại Kết Cục",
+                "StoryID": "65081e9701a79a0d5c4826a2",
+                "StoryUpdateTime": "11/8/2024 8:53:40 AM",
+                "StoryNameK": "de-ba"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "68064c2401a79a166cde7291",
+                "Name": "Chương 17: Chương 17 [Hết]",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c2101a79a166cde7290",
+                "Name": "Chương 16: Chương 16",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1f01a79a166cde728f",
+                "Name": "Chương 15: Chương 15",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1d01a79a166cde728e",
+                "Name": "Chương 14: Chương 14",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1b01a79a166cde728d",
+                "Name": "Chương 13: Chương 13",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1901a79a166cde728c",
+                "Name": "Chương 12: Chương 12",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1701a79a166cde728b",
+                "Name": "Chương 11: Chương 11",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1501a79a166cde728a",
+                "Name": "Chương 10: Chương 10",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1201a79a166cde7289",
+                "Name": "Chương 9: Chương 9",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68064c1001a79a166cde7288",
+                "Name": "Chương 8: Chương 8",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

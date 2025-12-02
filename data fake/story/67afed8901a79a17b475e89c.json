@@ -1,0 +1,313 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Cuộc Sống Của Nguyên Phối Pháo Hôi",
+            "StoryImage": "cuoc-song-cua-nguyen-phoi-phao-hoi.jpg",
+            "StoryDescription": "Sau khi <b>Tần Thu Uyển</b> chết oan đã giang tay tương trợ, giúp xoá tan oán khí cho những nguyên phối (vợ cả) vì hàm oan mà chết, báo thù những tên cặn bã.&nbsp;<p><p><ul><li>Tên thứ nhất ngược đãi nguyên phối. Trong phủ có một biểu muội là quả phụ sống cùng với một hài tử, nàng ta vốn dĩ không phải là quả phụ, hài tử thì là của người phu quân khác. Vậy thì để nàng ta trở thành quả phụ luôn!&nbsp;</li><li>Nguyên phối thứ hai có hu quân sở hữu một đám hồng nhan tri kỷ, tình lưu bốn phía, vậy thì sẽ khiến hắn mắc bệnh không thể nói ra, lại không thể trêu hoa ghẹo nguyệt nữa.&nbsp;</li><li>Nguyên phối thứ ba, không mang thai không dục. Phu thê thành thân năm năm không sinh được hài tử, phu quân ở bên ngoài kiếm con riêng. Tất cả mọi người đều cho rằng là thê tử không thể sinh. Vậy thì thử cho thê tử hoà ly rồi lại tái giá thử xem, nửa năm chắc chắn sẽ có!</li></ul></p></p>",
+            "StoryUpdateTime": "2025-02-15T02:25:24.3127712Z",
+            "StoryUpdateTimeTick": 638751796575449696,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 576,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Khuynh Bích Du Nhiên",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67afeda801a79a17b475e89d",
+                    "MongoId": "67afeda801a79a17b475e89d"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 576: Đại Kết Cục",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Xuyên Nhanh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "khoa-huyen",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6581217501a79a17747a6506",
+                    "MongoId": "6581217501a79a17747a6506"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "cuoc-song-cua-nguyen-phoi-phao-hoi-chuong-576",
+            "Keyword": "cuộc sống của nguyên phối pháo hôi cuoc song cua nguyen phoi phao hoi",
+            "StoryView": 1787,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "cuoc-song-cua-nguyen-phoi-phao-hoi",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 1787,
+            "StoryViewInWeek": 288,
+            "StoryViewInMonth": 1273,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "cuoc-song-cua-nguyen-phoi-phao-hoi-chuong-1",
+            "StoryIDFirstChap": "67aff9bb01a79a084c67a470",
+            "SoChuong": 576,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Sau khi Tần Thu Uyển chết oan đã giang tay tương trợ, giúp xoá tan oán khí cho những nguyên phối (vợ cả) vì hàm oan mà chết, báo thù những tên cặn bã.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67afed8901a79a17b475e89c",
+            "MongoId": "67afed8901a79a17b475e89c"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67afed8901a79a17b475e89c",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67aff9bb01a79a084c67a470",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-chong-giau-co-nhu-nhuoc-cua-toi.jpg",
+                "StoryName": "Người Chồng Giàu Có Nhu Nhược Của Tôi",
+                "StoryTitleLastChap": "Chương 10: Chương 10 (Hoàn)",
+                "StoryID": "67f9f1a901a79c10ec346b1c",
+                "StoryUpdateTime": "4/12/2025 5:08:30 AM",
+                "StoryNameK": "nguoi-chong-giau-co-nhu-nhuoc-cua-toi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-bi-duoi-khoi-nha-dai-su-huyen-hoc-khong-gia-vo-nua.jpg",
+                "StoryName": "Sau Khi Bị Đuổi Khỏi Nhà, Đại Sư Huyền Học Không Giả Vờ Nữa",
+                "StoryTitleLastChap": "Chương 100: Kết cục",
+                "StoryID": "67f772d701a79a1234007e9b",
+                "StoryUpdateTime": "4/10/2025 8:13:49 AM",
+                "StoryNameK": "sau-khi-bi-duoi-khoi-nha-dai-su-huyen-hoc-khong-gia-vo-nua"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-nhanh-nu-phoi-binh-tinh-mot-chut.jpg",
+                "StoryName": "Xuyên Nhanh: Nữ Phối, Bình Tĩnh Một Chút",
+                "StoryTitleLastChap": "Chương 5819: Phiên ngoại: Trở lại STARS [HẾT]",
+                "StoryID": "667929d401a79a0d0466bc7a",
+                "StoryUpdateTime": "6/25/2024 9:09:31 AM",
+                "StoryNameK": "xuyen-nhanh-nu-phoi-binh-tinh-mot-chut"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-cap-dai-diem-truong.jpg",
+                "StoryName": "Thần Cấp Đại Điếm Trưởng",
+                "StoryTitleLastChap": "Chương 860: Hải yêu thần kỳ",
+                "StoryID": "65797d2f01a79a0b387a499d",
+                "StoryUpdateTime": "12/14/2023 2:12:20 AM",
+                "StoryNameK": "than-cap-dai-diem-truong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-nhanh-nam-than-bung-chay-di!.jpg",
+                "StoryName": "Xuyên Nhanh: Nam Thần, Bùng Cháy Đi!",
+                "StoryTitleLastChap": "Chương 2657: Tiên Vốn Vô Lương (15). HẾT.",
+                "StoryID": "663890a801a79a1a00b23bb1",
+                "StoryUpdateTime": "5/7/2024 6:40:22 AM",
+                "StoryNameK": "xuyen-nhanh-nam-than-bung-chay-di"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cau-tai-yeu-vo-loan-the-tu-tien.jpg",
+                "StoryName": "Cẩu Tại Yêu Võ Loạn Thế Tu Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 2638 - Đại kết cục (3)",
+                "StoryID": "65d323cf01a79a0d903f2b52",
+                "StoryUpdateTime": "7/12/2024 9:12:26 AM",
+                "StoryNameK": "cau-tai-yeu-vo-loan-the-tu-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cung-chieu-co-vo-quan-nhan.jpg",
+                "StoryName": "Cưng Chiều Cô Vợ Quân Nhân",
+                "StoryTitleLastChap": "Chương 2593",
+                "StoryID": "66f6815101a79a1bb849e779",
+                "StoryUpdateTime": "10/2/2024 4:35:34 AM",
+                "StoryNameK": "cung-chieu-co-vo-quan-nhan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-vo-ngot-ngao-co-chut-bat-luong.jpg",
+                "StoryName": "Cô Vợ Ngọt Ngào Có Chút Bất Lương",
+                "StoryTitleLastChap": "Chương 2489: Khúc nhạc dạo: Cuộc so đấu vô sỉ (Hoàn)",
+                "StoryID": "664d918201a79a0ee04ec43e",
+                "StoryUpdateTime": "5/22/2024 8:19:43 AM",
+                "StoryNameK": "co-vo-ngot-ngao-co-chut-bat-luong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//he-thong-xuyen-nhanh-boss-phan-dien-dot-kich.jpg",
+                "StoryName": "Hệ Thống Xuyên Nhanh: Boss Phản Diện Đột Kích",
+                "StoryTitleLastChap": "Chương 1666: TOÀN VĂN KẾT CHUYỆN (xong)",
+                "StoryID": "6635e83d01a79a0ec41d44c2",
+                "StoryUpdateTime": "5/4/2024 9:20:17 AM",
+                "StoryNameK": "he-thong-xuyen-nhanh-boss-phan-dien-dot-kich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang.jpg",
+                "StoryName": "Quỷ Đế Cuồng Thê: Đại Tiểu Thư Ăn Chơi Trác Táng",
+                "StoryTitleLastChap": "Chương 2176: Lang kỵ trúc mã (5)",
+                "StoryID": "663c859b01a79a0210a600f2",
+                "StoryUpdateTime": "5/9/2024 9:54:05 AM",
+                "StoryNameK": "quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nam-chu-benh-kieu-sung-len-troi.jpg",
+                "StoryName": "Nam Chủ Bệnh Kiều, Sủng Lên Trời",
+                "StoryTitleLastChap": "Chương 2128: 2128: Phiên Ngoại 10 Tô Cổ - Tiểu Hồng - Kết Thúc",
+                "StoryID": "6638954f01a79a1a00b23bc9",
+                "StoryUpdateTime": "5/7/2024 7:24:28 AM",
+                "StoryNameK": "nam-chu-benh-kieu-sung-len-troi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67affab501a79a084c67a6b0",
+                "Name": "Chương 576: Đại Kết Cục",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6af",
+                "Name": "Chương 575",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6ae",
+                "Name": "Chương 574",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6ad",
+                "Name": "Chương 573",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6ac",
+                "Name": "Chương 572",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6ab",
+                "Name": "Chương 571",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6aa",
+                "Name": "Chương 570",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6a9",
+                "Name": "Chương 569",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6a8",
+                "Name": "Chương 568",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67affab501a79a084c67a6a7",
+                "Name": "Chương 567",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

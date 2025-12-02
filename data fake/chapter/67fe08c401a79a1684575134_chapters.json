@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "67fe0b5101a79a1684577d0a",
+            "Name": "Chương 19: Ngoại truyện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d09",
+            "Name": "Chương 18",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d08",
+            "Name": "Chương 17",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d07",
+            "Name": "Chương 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d06",
+            "Name": "Chương 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d05",
+            "Name": "Chương 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5101a79a1684577d04",
+            "Name": "Chương 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5001a79a1684577d03",
+            "Name": "Chương 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b5001a79a1684577d02",
+            "Name": "Chương 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e68",
+            "Name": "Chương 10",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e67",
+            "Name": "Chương 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e66",
+            "Name": "Chương 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e65",
+            "Name": "Chương 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e64",
+            "Name": "Chương 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e63",
+            "Name": "Chương 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e62",
+            "Name": "Chương 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e61",
+            "Name": "Chương 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0c01a79a1684576e60",
+            "Name": "Chương 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67fe0a0b01a79a1684576e5f",
+            "Name": "Chương 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

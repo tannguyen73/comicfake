@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Lừa Bán Nữ Quỷ, Thân Phận Quỷ Buôn Lậu Của Ta Không Giấu Được",
+            "StoryImage": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc.jpg",
+            "StoryDescription": "<b>Lừa Bán Nữ Quỷ, Thân Phận Quỷ Buôn Lậu Của Ta Không Giấu Được</b> (Bản Dịch Thô) - tác giả <b>Đăng Vân Tiêu</b> - #ĐôThị #HệThống #HàiHước<p><br></p><p><b>Lâm Trần</b>, một chàng trai bình thường, xuyên không vào một thế giới đầy quỷ dị. May mắn thay, anh sở hữu một hệ thống đặc biệt: hệ thống buôn bán quỷ vật. Chỉ cần lừa bán những con quỷ, anh sẽ nhận được điểm và trở nên mạnh mẽ hơn.</p><p>Từ một chàng trai yếu đuối, Lâm Trần nhanh chóng trở thành một \"ông trùm\" buôn bán quỷ, chuyên đi lừa gạt các loài quỷ để kiếm lời. Không chỉ là những con quỷ nhỏ bé mà ngay cả những ác quỷ đáng sợ, tất cả đều trở thành hàng hóa trong tay Lâm Trần. Tuy nhiên, công việc kinh doanh của anh không hề đơn giản. Anh phải đối mặt với sự truy đuổi của các thế lực đen tối, sự phản bội của đồng minh và cả những tình cảm phức tạp với các nữ quỷ.</p><p>Những tình huống dở khóc dở cười xảy ra liên tục khi Lâm Trần đối phó với những con quỷ tinh quái và những khách hàng khó tính.</p><p>Liệu Lâm Trần có thể tiếp tục công việc kinh doanh độc đáo và bảo vệ được đế chế của mình?&nbsp;</p><p>Và liệu anh có thể giữ bí mật về thân phận thật sự của mình và tìm được hạnh phúc thật sự trong một thế giới đầy rẫy quỷ dị?</p><p><b>Lừa Bán Nữ Quỷ, Thân Phận Quỷ Buôn Lậu Của Ta Không Giấu Được</b> là một câu chuyện hài hước và đầy kịch tính, bất ngờ và lãng mạn và chắc chắn sẽ khiến bạn cười nghiêng ngả và đưa bạn đến một thế giới hoàn toàn mới lạ.</p>",
+            "StoryUpdateTime": "2024-12-25T03:52:56.2952037Z",
+            "StoryUpdateTimeTick": 638705994927305376,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 952,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Đăng Vân Tiêu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "676a0a9f01a79b0d80272dcb",
+                    "MongoId": "676a0a9f01a79b0d80272dcb"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 802: Trên đảo nhỏ Kim Tự Tháp.",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Linh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "linh-di",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91ffe15c3c512383c2fc5",
+                    "MongoId": "61d91ffe15c3c512383c2fc5"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc-chuong-952",
+            "Keyword": "lừa bán nữ quỷ, thân phận quỷ buôn lậu của ta không giấu được lua ban nu quy, than phan quy buon lau cua ta khong giau duoc",
+            "StoryView": 7023,
+            "NumberUserFollow": 9,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 7023,
+            "StoryViewInWeek": 23,
+            "StoryViewInMonth": 529,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc-chuong-1",
+            "StoryIDFirstChap": "676a18b601a79a0fa8261cee",
+            "SoChuong": 952,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 4,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trong một thế giới hỗn loạn, nơi quỷ vật xuất hiện ngày càng nhiều, Lâm Trần - một chàng trai bình thường - đã trở thành một \"ông trùm\" buôn bán quỷ. Với hệ thống buôn bán quỷ vật đặc biệt, anh ta đã xây dựng một đế chế riêng cho mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "676a0a4401a79b0d80272dca",
+            "MongoId": "676a0a4401a79b0d80272dca"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "676a0a4401a79b0d80272dca",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "676a18b601a79a0fa8261cee",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-quan-gia-la-ma-hoang.jpg",
+                "StoryName": "Đại Quản Gia Là Ma Hoàng",
+                "StoryTitleLastChap": "Chương 1956: Đại kết cục",
+                "StoryID": "650a597301a79a0ea810ce1e",
+                "StoryUpdateTime": "1/23/2025 7:07:01 AM",
+                "StoryNameK": "dai-quan-gia-la-ma-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-90-nghin-ty-tien-liem-cau.jpg",
+                "StoryName": "Ta Có 90 Nghìn Tỷ Tiền Liếm Cẩu (Dịch)",
+                "StoryTitleLastChap": "Chương 2156: Đại kết cục!!!",
+                "StoryID": "65fa825101a79a19643d35ae",
+                "StoryUpdateTime": "12/26/2024 5:06:14 AM",
+                "StoryNameK": "ta-co-90-nghin-ty-tien-liem-cau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-cao-vo.jpg",
+                "StoryName": "Toàn Cầu Cao Võ (Dịch)",
+                "StoryTitleLastChap": "Chương 3560 Nhân Vương trở về - END",
+                "StoryID": "65581bf601a79a07bcae717d",
+                "StoryUpdateTime": "3/6/2025 10:46:12 AM",
+                "StoryNameK": "toan-cau-cao-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khung-bo-song-lai.jpg",
+                "StoryName": "Khủng Bố Sống Lại (Dịch)",
+                "StoryTitleLastChap": "Chương 3694: Tiễn Họ Đoạn Đường Cuối - Hoàn",
+                "StoryID": "65669e8a01a79a0c74828308",
+                "StoryUpdateTime": "12/5/2024 9:42:27 AM",
+                "StoryNameK": "khung-bo-song-lai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tinh-mon.jpg",
+                "StoryName": "Tinh Môn (Dịch)",
+                "StoryTitleLastChap": "Chương 3635 - Giang hồ ở trong lòng (HOÀN CHÍNH VĂN). HẾT.",
+                "StoryID": "65a505f501a79a0db072b410",
+                "StoryUpdateTime": "1/18/2024 9:43:49 AM",
+                "StoryNameK": "tinh-mon-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-chong-giau-co-nhu-nhuoc-cua-toi.jpg",
+                "StoryName": "Người Chồng Giàu Có Nhu Nhược Của Tôi",
+                "StoryTitleLastChap": "Chương 10: Chương 10 (Hoàn)",
+                "StoryID": "67f9f1a901a79c10ec346b1c",
+                "StoryUpdateTime": "4/12/2025 5:08:30 AM",
+                "StoryNameK": "nguoi-chong-giau-co-nhu-nhuoc-cua-toi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "676b80f001a7a20fa80876db",
+                "Name": "Chương 802: Trên đảo nhỏ Kim Tự Tháp.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876da",
+                "Name": "Chương 801: Khí tức kinh khủng rất bình thường.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d9",
+                "Name": "Chương 800: Không dùng qua chia sẻ tâm.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d8",
+                "Name": "Chương 799: Trước giờ làm dự phòng.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d7",
+                "Name": "Chương 798: Lưỡng chủng năng lượng đồng thời xuất kích.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d6",
+                "Name": "Chương 797: Dùng khác loại phương thức tiến hành quyết đấu.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d5",
+                "Name": "Chương 796: Giun vương hiện thân.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d4",
+                "Name": "Chương 795: Tuyệt không vì tiền tài khó khăn.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d3",
+                "Name": "Chương 794: Tiến hành một lần online bán đấu giá.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "676b80f001a7a20fa80876d2",
+                "Name": "Chương 793: Đem Mãnh Quỷ bán.",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

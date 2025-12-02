@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thập Niên 70 Ở Niên Đại Văn Ăn No Chờ Chết",
+            "StoryImage": "thap-nien-70-o-nien-dai-van-an-no-cho-chet.jpg",
+            "StoryDescription": "Phú nhị đại ngồi ăn rồi chờ chết <b>Diệp Thư Hoa</b> xuyên qua thập niên 70, rõ ràng có thể đi đến đỉnh cao nhân sinh, đáng tiếc cô không hề muốn phát tài.&nbsp;<p>Nghe người trong thôn nói nam thanh niên trí thức <b>Tống Thanh Huy</b> gia cảnh giàu có, tháng nào cũng có người nhà phụ cấp, vẻ ngoài cũng rất tốt, trở thành một trong những đối tượng phiếu lương thực tốt nhất của Diệp Thư Hoa...</p><p>Một phen quấn quít bám lấy, mắt thấy sắp hái được đóa hoa cao lãnh ấy, đi đến đỉnh cao nhân sinh thì trong thôn đột nhiên có một đoàn thanh niên tri thức mới đến, trong đó một vị nữ đồng chí nọ vẻ ngoài thanh thủy phù dung, tính cách lại không có chút Bạch Liên Hoa này, văn: có thể dẫn đầu thôn dân nuôi dưỡng khoa học, phát tài, võ: tay xé trà xanh thiện nghệ, không ai dám trêu chọc.</p><p>Sau đó kịch bản hẳn là nói chuyện yêu đương, HE, Diệp Thư Hoa lúc này mới ý thức được mình tựa hồ xuyên qua một cuốn niên đại văn nào đó hơi quen quen, phiếu lương thực tỉ mỉ lựa chọn có vẻ như cũng là đối tượng của nữ chính...</p>",
+            "StoryUpdateTime": "2025-04-11T07:31:05.5843782Z",
+            "StoryUpdateTimeTick": 638799504390538058,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 467,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Thanh Việt Lưu Ca",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67f8b99801a79a13f4b6749a",
+                    "MongoId": "67f8b99801a79a13f4b6749a"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 467: Chương 467 (Hoàn)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "thap-nien-70-o-nien-dai-van-an-no-cho-chet-chuong-467",
+            "Keyword": "thập niên 70 ở niên đại văn ăn no chờ chết thap nien 70 o nien dai van an no cho chet",
+            "StoryView": 2185,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "thap-nien-70-o-nien-dai-van-an-no-cho-chet",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2185,
+            "StoryViewInWeek": 555,
+            "StoryViewInMonth": 2185,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "thap-nien-70-o-nien-dai-van-an-no-cho-chet-chuong-1",
+            "StoryIDFirstChap": "67f8c0cb01a79a13f4b691f4",
+            "SoChuong": 467,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Phú nhị đại ngồi ăn rồi chờ chết Diệp Thư Hoa xuyên qua thập niên 70, rõ ràng có thể đi đến đỉnh cao nhân sinh, đáng tiếc cô không hề muốn phát tài.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67f8b96701a79a13f4b67499",
+            "MongoId": "67f8b96701a79a13f4b67499"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67f8b96701a79a13f4b67499",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67f8c0cb01a79a13f4b691f4",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//do-choi-lat-minh-lam-chu.jpg",
+                "StoryName": "Đồ Chơi Lật Mình Làm Chủ",
+                "StoryTitleLastChap": "Chương 10: Hoàn",
+                "StoryID": "680897e301a79a1538986992",
+                "StoryUpdateTime": "4/23/2025 7:50:16 AM",
+                "StoryNameK": "do-choi-lat-minh-lam-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong.jpg",
+                "StoryName": "Thủ Phụ Đại Nhân, Ngài Có Muốn Lấy Vợ Không?",
+                "StoryTitleLastChap": "Chương 11",
+                "StoryID": "6808707401a79a1538975a90",
+                "StoryUpdateTime": "4/23/2025 6:30:22 AM",
+                "StoryNameK": "thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai.jpg",
+                "StoryName": "Thê Tử Bạch Nguyệt Quang Đã Mất Của Thủ Phụ Đã Trở Lại",
+                "StoryTitleLastChap": "Chương 86: HOÀN",
+                "StoryID": "6808589a01a79a153894b7d6",
+                "StoryUpdateTime": "4/23/2025 4:45:31 AM",
+                "StoryNameK": "the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-su-noi-neu-muon-song-phai-ngu-voi-anh.jpg",
+                "StoryName": "Đại Sư Nói, Nếu Muốn Sống Phải Ngủ Với Anh",
+                "StoryTitleLastChap": "Chương 11: Phiên ngoại",
+                "StoryID": "68076f2901a79a153892d5ac",
+                "StoryUpdateTime": "4/23/2025 3:07:22 AM",
+                "StoryNameK": "dai-su-noi-neu-muon-song-phai-ngu-voi-anh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dem-cuoi-cung-truoc-khi-roi-dai.jpg",
+                "StoryName": "Đêm Cuối Cùng Trước Khi Rơi Đài",
+                "StoryTitleLastChap": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+                "StoryID": "680755e801a79a1538906fe2",
+                "StoryUpdateTime": "4/23/2025 3:06:50 AM",
+                "StoryNameK": "dem-cuoi-cung-truoc-khi-roi-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quy-phi-tam-co-tan-doc.jpg",
+                "StoryName": "Quý Phi Tâm Cơ Tàn Độc",
+                "StoryTitleLastChap": "Chương 12: Chương 12 - Hoàn",
+                "StoryID": "68079c7001a79a1538933e7f",
+                "StoryUpdateTime": "4/22/2025 1:54:19 PM",
+                "StoryNameK": "quy-phi-tam-co-tan-doc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-tro-lai-lam-con-ac-mong-cua-anh.jpg",
+                "StoryName": "Tôi Trở Lại Làm Cơn Ác Mộng Của Anh",
+                "StoryTitleLastChap": "Chương 10: Hoàn",
+                "StoryID": "68079ac401a79a1538932f86",
+                "StoryUpdateTime": "4/22/2025 1:52:13 PM",
+                "StoryNameK": "toi-tro-lai-lam-con-ac-mong-cua-anh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mong-dao-hoa.jpg",
+                "StoryName": "Mộng Đào Hoa",
+                "StoryTitleLastChap": "Chương 9: Hoàn",
+                "StoryID": "6807994e01a79a153893029f",
+                "StoryUpdateTime": "4/22/2025 1:40:50 PM",
+                "StoryNameK": "mong-dao-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//man-man-thanh-lien.jpg",
+                "StoryName": "Mãn Mãn Thanh Liên",
+                "StoryTitleLastChap": "Chương 15: Chương 15: Hoàn",
+                "StoryID": "6807975b01a79a1538930290",
+                "StoryUpdateTime": "4/22/2025 1:33:35 PM",
+                "StoryNameK": "man-man-thanh-lien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//su-tra-thu-cua-chu-nha.jpg",
+                "StoryName": "Sự Trả Thù Của Chủ Nhà",
+                "StoryTitleLastChap": "Chương 12: Hoàn",
+                "StoryID": "680766c801a79a153892b79f",
+                "StoryUpdateTime": "4/22/2025 10:26:35 AM",
+                "StoryNameK": "su-tra-thu-cua-chu-nha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau.jpg",
+                "StoryName": "Thiếu Nữ Linh Môi Trên Con Đường Trở Thành Ảnh Hậu",
+                "StoryTitleLastChap": "Chương 134: Chương 134",
+                "StoryID": "6807555901a79a1538905193",
+                "StoryUpdateTime": "4/22/2025 9:24:53 AM",
+                "StoryNameK": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh.jpg",
+                "StoryName": "Tôi Mang Theo Đám Nhãi Con Ở Nhà Trẻ Đi Cầu Sinh",
+                "StoryTitleLastChap": "Chương 321: HOÀN",
+                "StoryID": "68074e1201a79a15388ff6e8",
+                "StoryUpdateTime": "4/22/2025 8:46:37 AM",
+                "StoryNameK": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67f8c4e901a79a13f4b6b0c3",
+                "Name": "Chương 467: Chương 467 (Hoàn)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4e701a79a13f4b6b0c2",
+                "Name": "Chương 466: Chương 466",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4e501a79a13f4b6b0c1",
+                "Name": "Chương 465: Chương 465",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4e301a79a13f4b6b0c0",
+                "Name": "Chương 464: Chương 464",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4e001a79a13f4b6b0bf",
+                "Name": "Chương 463: Chương 463",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4de01a79a13f4b6b0be",
+                "Name": "Chương 462: Chương 462",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4dc01a79a13f4b6b0bd",
+                "Name": "Chương 461: Chương 461",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4da01a79a13f4b6b0bc",
+                "Name": "Chương 460: Chương 460",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4d801a79a13f4b6b0bb",
+                "Name": "Chương 459: Chương 459",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67f8c4d601a79a13f4b6b0ba",
+                "Name": "Chương 458: Chương 458",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

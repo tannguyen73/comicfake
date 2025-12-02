@@ -1,0 +1,326 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Đừng Dạy Con Bằng Cách Làm Con Đau",
+            "StoryImage": "dung-day-con-bang-cach-lam-con-dau.jpg",
+            "StoryDescription": "<b>Đừng Dạy Con Bằng Cách Làm Con Đau</b><p><br></p><p>Mẹ tôi rất thích nói những lời châm chọc, mỉa mai.</p><p>Trong nhà ngoài ngõ, mười làng tám xóm, chuyện của ai bà cũng xen vào, đều buông lời cay nghiệt.</p><p>Chỉ trừ em trai tôi ra.</p><p>Ngày trước kỳ thi đại học, tôi đang cắm cúi ôn luyện lần cuối, bà lạnh lùng giễu cợt: \"Không đỗ được đâu, đừng có phí sức nữa.\"</p><p>Năm thứ tư đại học, mẹ bảo tôi không có số đi học cao học, thà lấy chồng sớm trả tiền nuôi dưỡng cho bà còn hơn.</p><p>Sau khi thi đỗ, tôi lo lắng chờ giấy báo nhập học, bà khinh bỉ nhếch môi: \"Đỗ rồi chưa chắc đã không bị tố cáo, không đi cũng chẳng chết được.\"</p><p>Tôi tức đến mức quăng đồ trong nhà tung tóe, bàn ghế đổ hết xuống đất: \"Mẹ bớt mồm lại một chút thì chết à?\"</p>",
+            "StoryUpdateTime": "2025-04-15T08:12:28.6513577Z",
+            "StoryUpdateTimeTick": 638803013313080463,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 11,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 11",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nu",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0b001a79a05c8ae5aea",
+                    "MongoId": "6576b0b001a79a05c8ae5aea"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "dung-day-con-bang-cach-lam-con-dau-chuong-11",
+            "Keyword": "đừng dạy con bằng cách làm con đau dung day con bang cach lam con dau",
+            "StoryView": 103,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "dung-day-con-bang-cach-lam-con-dau",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 103,
+            "StoryViewInWeek": 43,
+            "StoryViewInMonth": 103,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "dung-day-con-bang-cach-lam-con-dau-chuong-1",
+            "StoryIDFirstChap": "67fe14aa01a79a168458bece",
+            "SoChuong": 11,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lớn lên trong lời cay nghiệt và sự kiểm soát độc hại của người mẹ, cô gái dần học cách cắt đứt xiềng xích gia đình để giành lại cuộc đời cho chính mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67fe141301a79a168458becd",
+            "MongoId": "67fe141301a79a168458becd"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67fe141301a79a168458becd",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67fe14aa01a79a168458bece",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-bi-duoi-khoi-nha-dai-su-huyen-hoc-khong-gia-vo-nua.jpg",
+                "StoryName": "Sau Khi Bị Đuổi Khỏi Nhà, Đại Sư Huyền Học Không Giả Vờ Nữa",
+                "StoryTitleLastChap": "Chương 100: Kết cục",
+                "StoryID": "67f772d701a79a1234007e9b",
+                "StoryUpdateTime": "4/10/2025 8:13:49 AM",
+                "StoryNameK": "sau-khi-bi-duoi-khoi-nha-dai-su-huyen-hoc-khong-gia-vo-nua"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-nhanh-nu-phoi-binh-tinh-mot-chut.jpg",
+                "StoryName": "Xuyên Nhanh: Nữ Phối, Bình Tĩnh Một Chút",
+                "StoryTitleLastChap": "Chương 5819: Phiên ngoại: Trở lại STARS [HẾT]",
+                "StoryID": "667929d401a79a0d0466bc7a",
+                "StoryUpdateTime": "6/25/2024 9:09:31 AM",
+                "StoryNameK": "xuyen-nhanh-nu-phoi-binh-tinh-mot-chut"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-80-thanh-toan-cho-can-ba.jpg",
+                "StoryName": "[Thập Niên 80] Thành Toàn Cho Cặn Bã",
+                "StoryTitleLastChap": "Chương 11: Chương 11 (Hoàn)",
+                "StoryID": "67f7795701a79a1234009e5a",
+                "StoryUpdateTime": "4/10/2025 8:14:20 AM",
+                "StoryNameK": "thap-nien-80-thanh-toan-cho-can-ba"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trieu-ngoc.jpg",
+                "StoryName": "Triệu Ngọc",
+                "StoryTitleLastChap": "Chương 28: HOÀN",
+                "StoryID": "67fa245201a79c10ec34e246",
+                "StoryUpdateTime": "4/12/2025 8:50:18 AM",
+                "StoryNameK": "trieu-ngoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//phuong-nghich-thien-ha.jpg",
+                "StoryName": "Phượng Nghịch Thiên Hạ",
+                "StoryTitleLastChap": "Chương 1158: Ngoại truyện 1 - Vạn Thú Vô Cương 3",
+                "StoryID": "663b3ee401a79a0658c4fbff",
+                "StoryUpdateTime": "5/8/2024 9:57:27 AM",
+                "StoryNameK": "phuong-nghich-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-nhan-sau-lung-de-quoc-thien-tai-tieu-vuong-phi.jpg",
+                "StoryName": "Nữ Nhân Sau Lưng Đế Quốc Thiên Tài Tiểu Vương Phi",
+                "StoryTitleLastChap": "Chương 2459. HOÀN",
+                "StoryID": "66472a0a01a79a0700de0195",
+                "StoryUpdateTime": "5/18/2024 7:51:35 AM",
+                "StoryNameK": "nu-nhan-sau-lung-de-quoc-thien-tai-tieu-vuong-phi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau.jpg",
+                "StoryName": "Xuyên Thành Nha Hoàn Của Nữ Chính, Ta Nằm Yên Làm Giàu (Dịch)",
+                "StoryTitleLastChap": "Chương 670: Phiên ngoại 16. HẾT.",
+                "StoryID": "65b86df401a79a1118f69209",
+                "StoryUpdateTime": "8/20/2024 9:36:01 AM",
+                "StoryNameK": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//phe-sai-muon-nghich-thien-ma-de-cuong-phi.jpg",
+                "StoryName": "Phế Sài Muốn Nghịch Thiên: Ma Đế Cuồng Phi",
+                "StoryTitleLastChap": "Chương 1804: HẾT",
+                "StoryID": "667b902a01a79a0ce41d621b",
+                "StoryUpdateTime": "6/26/2024 10:07:27 AM",
+                "StoryNameK": "phe-sai-muon-nghich-thien-ma-de-cuong-phi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-len-giuong-voi-anh-trai-anh-day-roi-sao.jpg",
+                "StoryName": "Tôi Lên Giường Với Anh Trai Anh Đấy, Rồi Sao?",
+                "StoryTitleLastChap": "Chương 18",
+                "StoryID": "6800ab0b01a79a1aec680a85",
+                "StoryUpdateTime": "4/17/2025 7:21:07 AM",
+                "StoryNameK": "toi-len-giuong-voi-anh-trai-anh-day-roi-sao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dich-nu-trung-sinh-ky.jpg",
+                "StoryName": "Đích Nữ Trùng Sinh Ký",
+                "StoryTitleLastChap": "Chương 2286: Ngọc Hi phiên ngoại (40)",
+                "StoryID": "66ff66d901a79a12dc8123ed",
+                "StoryUpdateTime": "10/5/2024 7:43:06 AM",
+                "StoryNameK": "dich-nu-trung-sinh-ky"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-nhan-sau-lung-de-quoc-thien-thu-vi-hoang.jpg",
+                "StoryName": "Nữ Nhân Sau Lưng Đế Quốc: Thiên Thu Vị Hoàng",
+                "StoryTitleLastChap": "Chương 1161: C1161: Full",
+                "StoryID": "665821ce01a79a16b014d76a",
+                "StoryUpdateTime": "5/30/2024 9:38:09 AM",
+                "StoryNameK": "nu-nhan-sau-lung-de-quoc-thien-thu-vi-hoang"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67fe14b601a79a168458bed8",
+                "Name": "Chương 11",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fe14b501a79a168458bed7",
+                "Name": "Chương 10",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fe14b501a79a168458bed6",
+                "Name": "Chương 9",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed5",
+                "Name": "Chương 8",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed4",
+                "Name": "Chương 7",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed3",
+                "Name": "Chương 6",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed2",
+                "Name": "Chương 5",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed1",
+                "Name": "Chương 4",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458bed0",
+                "Name": "Chương 3",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "67fe14aa01a79a168458becf",
+                "Name": "Chương 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

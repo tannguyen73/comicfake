@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Võ Hiệp: Bắt Đầu Thu Hoạch Được Một Giáp Nội Lực!",
+            "StoryImage": "vo-hiep-bat-dau-thu-hoach-duoc-mot-giap-noi-luc.jpg",
+            "StoryDescription": "Loạn thế phong vân, giang hồ rung chuyển.<p>Tặc nhân xem kỷ luật như không, kiêu hùng giết người đầy đồng, ma đạo họa loạn thương sinh.</p><p><b>Giang Nhiên</b> xuyên qua thế này, thức tỉnh 【 Hệ thống người làm văn hộ】, từ đó giơ đao vào giang hồ.</p><p>Phong vân chi đỉnh, quần hùng hội tụ.</p><p>Cái thế đao khách đột nhiên xuất hiện, ngang dọc bốn phương tám hướng!</p><p>Chỉ thấy <b>Giang Nhiên</b> giơ đao lên, ánh mắt lạnh lùng:</p><p>“Để cho ta nhìn một chút, các ngươi là tội phạm truy nã nào đây!”</p>",
+            "StoryUpdateTime": "2025-02-04T09:26:10.4046961Z",
+            "StoryUpdateTimeTick": 638732911341850535,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 438,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Lạc Phách Tiểu Thuần Khiết",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67931d1101a79e18bcbf879f",
+                    "MongoId": "67931d1101a79e18bcbf879f"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 282: Tất cả đều mang đi",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Điềm Đạm",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "diem-dam",
+                    "gender": 1,
+                    "theloaitype": 3,
+                    "Id": "6576933e01a79a05c8ae5adf",
+                    "MongoId": "6576933e01a79a05c8ae5adf"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "vo-hiep-bat-dau-thu-hoach-duoc-mot-giap-noi-luc-chuong-438",
+            "Keyword": "võ hiệp: bắt đầu thu hoạch được một giáp nội lực! vo hiep: bat dau thu hoach duoc mot giap noi luc!",
+            "StoryView": 1080,
+            "NumberUserFollow": 3,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "vo-hiep-bat-dau-thu-hoach-duoc-mot-giap-noi-luc",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 1080,
+            "StoryViewInWeek": 14,
+            "StoryViewInMonth": 305,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "vo-hiep-bat-dau-thu-hoach-duoc-mot-giap-noi-luc-chuong-1",
+            "StoryIDFirstChap": "679444b301a79a12ec6f2aef",
+            "SoChuong": 438,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Giang Nhiên xuyên qua thế này, thức tỉnh 【 Hệ thống người làm văn hộ】, từ đó giơ đao vào giang hồ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67931c7e01a79e18bcbf879e",
+            "MongoId": "67931c7e01a79e18bcbf879e"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67931c7e01a79e18bcbf879e",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "679444b301a79a12ec6f2aef",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-so-voi-ta-hieu-pokemon.jpg",
+                "StoryName": "Hắn So Với Ta Hiểu Pokemon",
+                "StoryTitleLastChap": "Chương 1479 Ràng buộc chi lực, lửa mạnh!",
+                "StoryID": "67ee3a9a01a79a1598255677",
+                "StoryUpdateTime": "4/25/2025 7:03:18 AM",
+                "StoryNameK": "han-so-voi-ta-hieu-pokemon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-tu-tien-gioi-xu-cat-ti-hung.jpg",
+                "StoryName": "Ta Tại Tu Tiên Giới Xu Cát Tị Hung",
+                "StoryTitleLastChap": "Chương 323: Đến lục phẩm cơ duyên, mười hai vạn khí vận",
+                "StoryID": "67ece6ee01a79a10fce72227",
+                "StoryUpdateTime": "4/25/2025 3:30:28 AM",
+                "StoryNameK": "ta-tai-tu-tien-gioi-xu-cat-ti-hung"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67a1dd1501a79a1980fa8534",
+                "Name": "Chương 282: Tất cả đều mang đi",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1501a79a1980fa8533",
+                "Name": "Chương 281: Tà Long Toái Ngục Quyền!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1501a79a1980fa8532",
+                "Name": "Chương 280: Nhìn thấu",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa8531",
+                "Name": "Chương 279: Tốt mất linh xấu linh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa8530",
+                "Name": "Chương 278: Mở tiệc chiêu đãi?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa852f",
+                "Name": "Chương 277: Lời nói trong đêm",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa852e",
+                "Name": "Chương 276: Thẳng thắn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa852d",
+                "Name": "Chương 275: Tao ngộ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa852c",
+                "Name": "Chương 274: Kinh Tuyết",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67a1dd1401a79a1980fa852b",
+                "Name": "Chương 273: Điền Hữu Phương",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

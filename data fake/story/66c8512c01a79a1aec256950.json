@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Võng Du Chi Võ Lâm Bá Đồ (Dịch)",
+            "StoryImage": "vong-du-chi-vo-lam-ba-do-(dich.jpg",
+            "StoryDescription": "<b>Võng Du Chi Võ Lâm Bá Đồ</b>: Khi võ lâm trở thành sân khấu cho những trò đùa bá đạo!<p>Trong thế giới game võ hiệp rộng lớn của Võng Du Chi Võ Lâm Bá Đồ, <b>Chử Trà</b> không chỉ là một cao thủ võ lâm, mà còn là một nhân vật đầy mưu mẹo và hài hước. Với danh hiệu \"Võ Lâm Chí Tôn\", Chử Trà khiến bao người ngưỡng mộ nhưng cũng không ít kẻ ghen ghét. Tuy nhiên, đằng sau vẻ ngoài uy nghiêm ấy là một con người tinh quái, luôn tìm cách trêu chọc và \"bẫy\" bạn bè của mình.Câu chuyện xoay quanh những trò đùa bá đạo của Chử Trà cùng hai người bạn thân là <b>Pháo Thiên Minh</b> và <b>Tinh Ảnh</b>. Cả ba đã cùng nhau tạo nên những tình huống dở khóc dở cười, khiến cả võ lâm chấn động. Từ việc giả vờ bị bắt cóc để trêu chọc bang phái đối địch, đến việc lừa gạt đồng môn vào những tình huống oái oăm, bộ ba này luôn tìm cách tạo ra tiếng cười cho người đọc.</p>",
+            "StoryUpdateTime": "2024-11-07T03:13:21.6289415Z",
+            "StoryUpdateTimeTick": 638600008124136029,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 614,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Hà Tả",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66c8515e01a79a1aec256951",
+                    "MongoId": "66c8515e01a79a1aec256951"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 614 - Lao đầu vào hang hổ - HẾT -",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Võng Du",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "vong-du",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9133515c3c70808d2b7bf",
+                    "MongoId": "61d9133515c3c70808d2b7bf"
+                },
+                {
+                    "TenTheLoai": "Xuyên Sách",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-sach",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b09501a79a05c8ae5ae8",
+                    "MongoId": "6576b09501a79a05c8ae5ae8"
+                },
+                {
+                    "TenTheLoai": "Đông Phương",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-phuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131e15c3c70808d2b7af",
+                    "MongoId": "61d9131e15c3c70808d2b7af"
+                },
+                {
+                    "TenTheLoai": "Đồng Nhân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-nhan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131415c3c70808d2b7a7",
+                    "MongoId": "61d9131415c3c70808d2b7a7"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "vong-du-chi-vo-lam-ba-do-(dich-chuong-613",
+            "Keyword": "võng du chi võ lâm bá đồ (dịch) vong du chi vo lam ba do (dich)",
+            "StoryView": 6437,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "vong-du-chi-vo-lam-ba-do-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 6437,
+            "StoryViewInWeek": 207,
+            "StoryViewInMonth": 505,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "vong-du-chi-vo-lam-ba-do-dich-chuong-1-xe-phao-ma",
+            "StoryIDFirstChap": "66c8645201a79a1aec258d84",
+            "SoChuong": 614,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Đọc \"Võng Du Chi Võ Lâm Bá Đồ\", bạn sẽ:\r\n\r\nĐược cười thả ga với những trò đùa bá đạo của Chử Trà và bạn bè.\r\nTìm hiểu về cuộc sống trong một thế giới game võ hiệp đầy màu sắc.\r\nTrải nghiệm những cảm xúc thăng trầm cùng các nhân vật.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66c8512c01a79a1aec256950",
+            "MongoId": "66c8512c01a79a1aec256950"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66c8512c01a79a1aec256950",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66c8645201a79a1aec258d84",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mang-thai-xuyen-sach-gap-lai-nam-chinh-mat-tri-nho.jpg",
+                "StoryName": "Mang Thai Xuyên Sách Gặp Lại Nam Chính Mất Trí Nhớ",
+                "StoryTitleLastChap": "Chương 15: Phiên ngoại:《Cảm nhận về tiểu thuyết của Phó Trì Nghiễn》",
+                "StoryID": "6805a98801a79a166cd89752",
+                "StoryUpdateTime": "4/21/2025 2:18:05 AM",
+                "StoryNameK": "mang-thai-xuyen-sach-gap-lai-nam-chinh-mat-tri-nho"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-su-su-ty-con-cuu-duoc-khong.jpg",
+                "StoryName": "Đại Sư, Sư Tỷ Còn Cứu Được Không?",
+                "StoryTitleLastChap": "Chương 115: Vì Sao Vĩnh Viễn Không Rơi. Hoàn",
+                "StoryID": "6803526201a79a17e8c5ba04",
+                "StoryUpdateTime": "4/19/2025 8:07:22 AM",
+                "StoryNameK": "dai-su-su-ty-con-cuu-duoc-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-sach-tro-thanh-me-ke-cua-hotboy-vuon-truong.jpg",
+                "StoryName": "Xuyên Sách Trở Thành Mẹ Kế Của Hotboy Vườn Trường",
+                "StoryTitleLastChap": "Chương 258",
+                "StoryID": "67aee4dd01a79a17b473a9cc",
+                "StoryUpdateTime": "3/17/2025 4:23:16 AM",
+                "StoryNameK": "xuyen-sach-tro-thanh-me-ke-cua-hotboy-vuon-truong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dau-la-cung-ngoc-tieu-cuong-bo-tron-hoi-han-dung-cau-ta.jpg",
+                "StoryName": "Đấu La: Cùng Ngọc Tiểu Cương Bỏ Trốn? Hối Hận Đừng Cầu Ta",
+                "StoryTitleLastChap": "Chương 154: Yến Tiệc Tròn Tháng của Ninh Vinh Vinh",
+                "StoryID": "67b43bc001a79a1348cdd7bf",
+                "StoryUpdateTime": "3/4/2025 9:24:37 AM",
+                "StoryNameK": "dau-la-cung-ngoc-tieu-cuong-bo-tron-hoi-han-dung-cau-ta"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-tien-nu-phu-muon-thuong-thien.jpg",
+                "StoryName": "Tu Tiên Nữ Phụ Muốn Thượng Thiên",
+                "StoryTitleLastChap": "Chương 99: Cực phẩm linh tủy",
+                "StoryID": "67b58fbc01a79a0d2808300d",
+                "StoryUpdateTime": "2/19/2025 9:37:14 AM",
+                "StoryNameK": "tu-tien-nu-phu-muon-thuong-thien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dua-vao-nang-luc-cau-sinh-man-cap-my-nhan-suy-sut-bao-hong-gioi-giai-tri.jpg",
+                "StoryName": "Dựa Vào Năng Lực Cầu Sinh Mãn Cấp, Mỹ Nhân Suy Sút Bạo Hồng Giới Giải Trí",
+                "StoryTitleLastChap": "Chương 930: Kết Thúc",
+                "StoryID": "67b01a0401a79a084c683d2a",
+                "StoryUpdateTime": "2/15/2025 5:04:34 AM",
+                "StoryNameK": "dua-vao-nang-luc-cau-sinh-man-cap-my-nhan-suy-sut-bao-hong-gioi-giai-tri"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chi-day-xuyen-thanh-ho-con-nuoi-boss-phan-dien.jpg",
+                "StoryName": "Chị Đây Xuyên Thành Hổ Con Nuôi Boss Phản Diện (Xuyên Sách)",
+                "StoryTitleLastChap": "Chương 871: Vượt thời gian đến bên anh (21) Đại Kết Cục.",
+                "StoryID": "67aef19001a79a17b473d773",
+                "StoryUpdateTime": "2/14/2025 8:07:53 AM",
+                "StoryNameK": "chi-day-xuyen-thanh-ho-con-nuoi-boss-phan-dien-xuyen-sach"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-mot-quyen-quy-than-do-luc.jpg",
+                "StoryName": "Ta Có Một Quyển Quỷ Thần Đồ Lục",
+                "StoryTitleLastChap": "Chương 1270. Tiếng chuông chấn động chư thiên! (Đại kết cục)",
+                "StoryID": "678b2ec201a79a05b0aa0aa0",
+                "StoryUpdateTime": "1/18/2025 6:45:37 AM",
+                "StoryNameK": "ta-co-mot-quyen-quy-than-do-luc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//[thap-nien-70]-sau-khi-xem-mat-me-my-nhan-dua-con-nam-thang-(dich.jpg",
+                "StoryName": "[Thập Niên 70] Sau Khi Xem Mắt Mẹ Mỹ Nhân Đưa Con Nằm Thắng (Dịch)",
+                "StoryTitleLastChap": "Chương 1819: Ngày Thứ Hai Trăm Lẻ Sáu Xuyên Không 4",
+                "StoryID": "66b4874f01a79a0c54866b10",
+                "StoryUpdateTime": "11/23/2024 9:09:13 AM",
+                "StoryNameK": "thap-nien-70-sau-khi-xem-mat-me-my-nhan-dua-con-nam-thang-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-thanh-dien-vien-tuyen-muoi-tam-nho-vao-he-thong-an-dua-tro-thanh-anh-hau.jpg",
+                "StoryName": "Xuyên Thành Diễn Viên Tuyến Mười Tám, Nhờ Vào Hệ Thống Ăn Dưa Trở Thành Ảnh Hậu",
+                "StoryTitleLastChap": "Chương 631",
+                "StoryID": "670f8dae01a79a06f8a59696",
+                "StoryUpdateTime": "10/17/2024 8:38:08 AM",
+                "StoryNameK": "xuyen-thanh-dien-vien-tuyen-muoi-tam-nho-vao-he-thong-an-dua-tro-thanh-anh-hau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-chinh-tro-ve-di.jpg",
+                "StoryName": "Nữ Chính Trở Về Đi",
+                "StoryTitleLastChap": "Chương 132: 132: Ngoại Truyện 9",
+                "StoryID": "66fdf55201a79a0c280851a2",
+                "StoryUpdateTime": "10/3/2024 4:50:29 AM",
+                "StoryNameK": "nu-chinh-tro-ve-di"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-(dich.jpg",
+                "StoryName": "Nữ Chính Từ Trong Sách Chạy Ra Ngoài Rồi Phải Làm Sao Đây? (Dịch)",
+                "StoryTitleLastChap": "Chương 690: Đêm giáng sinh (2)",
+                "StoryID": "66d1803501a79a1210e8d681",
+                "StoryUpdateTime": "9/6/2024 4:34:33 AM",
+                "StoryNameK": "nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "672c2f2e01a79a024ceece68",
+                "Name": "Chương 614 - Lao đầu vào hang hổ - HẾT -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece67",
+                "Name": "Chương 613 - Thất Tịch 13",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece66",
+                "Name": "Chương 612 - Thất Tịch 12",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece65",
+                "Name": "Chương 611 - Thất Tịch 11",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece64",
+                "Name": "Chương 610 - Thất Tịch 10",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece63",
+                "Name": "Chương 609 - Thất Tịch 9",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece62",
+                "Name": "Chương 608 - Thất Tịch 8",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece61",
+                "Name": "Chương 607 - Thất Tịch 9",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece60",
+                "Name": "Chương 606 - Thất Tịch 8",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672c2f2e01a79a024ceece5f",
+                "Name": "Chương 605 - Thất Tịch 7",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

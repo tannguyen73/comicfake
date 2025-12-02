@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trọng Sinh Làm Lại Cuộc Đời (Dịch)",
+            "StoryImage": "trong-sinh-lam-lai-cuoc-doi-(dich.jpg",
+            "StoryDescription": "<b>Trọng Sinh Làm Lại Cuộc Đời</b> - <b>Lục Lập Hành</b>, một người đàn ông say mê rượu chè, đã đánh mất người vợ yêu thương của mình. Khi hối hận tràn ngập, anh được trao cơ hội để làm lại cuộc đời. Liệu anh có thể sửa chữa những sai lầm trong quá khứ và giành lại tình yêu của <b>Cố Vãn Thanh</b>?",
+            "StoryUpdateTime": "2024-09-10T10:39:23.5033643Z",
+            "StoryUpdateTimeTick": 638615607908020723,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Nam Bắc Thập Tam",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66e01f2c01a79a07c8ecb880",
+                    "MongoId": "66e01f2c01a79a07c8ecb880"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 637 - Phiên Ngoại (4)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hiện Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132615c3c70808d2b7b4",
+                    "MongoId": "61d9132615c3c70808d2b7b4"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "trong-sinh-lam-lai-cuoc-doi-dich-chuong-637-phien-ngoai-4",
+            "Keyword": "trọng sinh làm lại cuộc đời (dịch) trong sinh lam lai cuoc doi (dich)",
+            "StoryView": 6507,
+            "NumberUserFollow": 4,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "trong-sinh-lam-lai-cuoc-doi-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 6507,
+            "StoryViewInWeek": 21,
+            "StoryViewInMonth": 335,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "trong-sinh-lam-lai-cuoc-doi-dich-chuong-1-trong-sinh-co-van-thanh-con-song",
+            "StoryIDFirstChap": "66e020f001a79a07c8ecb881",
+            "SoChuong": 637,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Từ một người đàn ông vô tâm, Lục Lập Hành đã trải qua một cuộc lột xác hoàn toàn. Với cơ hội được sống lại, anh quyết tâm trở thành một người đàn ông tốt hơn. Liệu anh có thể vượt qua những khó khăn để tìm lại hạnh phúc?",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66e01ed601a79a07c8ecb87f",
+            "MongoId": "66e01ed601a79a07c8ecb87f"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66e01ed601a79a07c8ecb87f",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66e020f001a79a07c8ecb881",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tham-hao-hao.jpg",
+                "StoryName": "Thẩm Hảo Hảo",
+                "StoryTitleLastChap": "Chương 21: Chương 21 (Hoàn)",
+                "StoryID": "68061c2b01a79a166cde09f0",
+                "StoryUpdateTime": "4/21/2025 10:33:49 AM",
+                "StoryNameK": "tham-hao-hao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tro-ve-lang-chai-nho-nam-1982-(dich.jpg",
+                "StoryName": "Trở Về Làng Chài Nhỏ Năm 1982 (Dịch)",
+                "StoryTitleLastChap": "Chương 1802 An bài",
+                "StoryID": "6748353501a79a06bc0b7152",
+                "StoryUpdateTime": "4/12/2025 9:11:41 AM",
+                "StoryNameK": "tro-ve-lang-chai-nho-nam-1982-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-o-nien-dai-van-an-no-cho-chet.jpg",
+                "StoryName": "Thập Niên 70 Ở Niên Đại Văn Ăn No Chờ Chết",
+                "StoryTitleLastChap": "Chương 467: Chương 467 (Hoàn)",
+                "StoryID": "67f8b96701a79a13f4b67499",
+                "StoryUpdateTime": "4/11/2025 7:31:05 AM",
+                "StoryNameK": "thap-nien-70-o-nien-dai-van-an-no-cho-chet"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-sach-tro-thanh-me-ke-cua-hotboy-vuon-truong.jpg",
+                "StoryName": "Xuyên Sách Trở Thành Mẹ Kế Của Hotboy Vườn Trường",
+                "StoryTitleLastChap": "Chương 258",
+                "StoryID": "67aee4dd01a79a17b473a9cc",
+                "StoryUpdateTime": "3/17/2025 4:23:16 AM",
+                "StoryNameK": "xuyen-sach-tro-thanh-me-ke-cua-hotboy-vuon-truong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-dao-tu-thu-duoc-hoang-da-the-gioi-bat-dau.jpg",
+                "StoryName": "Võ Đạo: Từ Thu Được Hoang Dã Thế Giới Bắt Đầu",
+                "StoryTitleLastChap": "Chương 421: Hóa long: Dùng người nhập thế (2)",
+                "StoryID": "67ac00de01a79a185887f4ea",
+                "StoryUpdateTime": "3/7/2025 3:34:02 AM",
+                "StoryNameK": "vo-dao-tu-thu-duoc-hoang-da-the-gioi-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-vo-ca-hoa-dao-tinh-xinh-dep-thuc-tinh.jpg",
+                "StoryName": "Thập Niên 70: Vợ Cả Hoa Đào Tinh Xinh Đẹp Thức Tỉnh",
+                "StoryTitleLastChap": "Chương 920 Kết",
+                "StoryID": "67b2dbf201a79a067028f600",
+                "StoryUpdateTime": "2/17/2025 7:34:10 AM",
+                "StoryNameK": "thap-nien-70-vo-ca-hoa-dao-tinh-xinh-dep-thuc-tinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-80-my-nhan-non-na-ga-cho-quan-nhan-mang-theo-nhai-con.jpg",
+                "StoryName": "Thập Niên 80: Mỹ Nhân Nõn Nà Gả Cho Quân Nhân Mang Theo Nhãi Con",
+                "StoryTitleLastChap": "Chương 543: Ngoại Truyện (8) HOÀN",
+                "StoryID": "67af0e4401a79a17b4749107",
+                "StoryUpdateTime": "2/14/2025 10:18:11 AM",
+                "StoryNameK": "thap-nien-80-my-nhan-non-na-ga-cho-quan-nhan-mang-theo-nhai-con"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cong-chua-gia-livestream-lam-ruong.jpg",
+                "StoryName": "Công Chúa Giả Livestream Làm Ruộng",
+                "StoryTitleLastChap": "Chương 247: Đại Kết Cục",
+                "StoryID": "67088f8d01a79a17cc8920c4",
+                "StoryUpdateTime": "2/14/2025 8:18:52 AM",
+                "StoryNameK": "cong-chua-gia-livestream-lam-ruong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-sach-xuyen-thanh-ban-giuong-cua-nam-chu.jpg",
+                "StoryName": "Xuyên Sách Xuyên Thành Bạn Giường Của Nam Chủ",
+                "StoryTitleLastChap": "Chương 284: HOÀN CHÍNH VĂN",
+                "StoryID": "67aec93601a79a17b473a8ae",
+                "StoryUpdateTime": "2/14/2025 7:31:25 AM",
+                "StoryNameK": "xuyen-sach-xuyen-thanh-ban-giuong-cua-nam-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//phat-song-truc-tiep-doan-menh-dia-phu-tai-tro-gay-dung-su-nghiep.jpg",
+                "StoryName": "Phát Sóng Trực Tiếp Đoán Mệnh: Địa Phủ Tài Trợ Gây Dựng Sự Nghiệp",
+                "StoryTitleLastChap": "Chương 1609. Ngoại truyện 4",
+                "StoryID": "678f111b01a79b18b85b295d",
+                "StoryUpdateTime": "1/21/2025 5:57:30 AM",
+                "StoryNameK": "phat-song-truc-tiep-doan-menh-dia-phu-tai-tro-gay-dung-su-nghiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho.jpg",
+                "StoryName": "Ngẫu Nhiên Bày Quầy Bán Hàng, Khách Hàng Đuổi Theo Tôi Mười Con Phố (Dịch)",
+                "StoryTitleLastChap": "Chương 1040: Đại kết cục",
+                "StoryID": "65f0131d01a79a0534006e62",
+                "StoryUpdateTime": "11/28/2024 10:14:21 AM",
+                "StoryNameK": "ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mat-the-nam-thu-muoi-(dich.jpg",
+                "StoryName": "Mạt Thế Năm Thứ Mười (Dịch)",
+                "StoryTitleLastChap": "Chương 208",
+                "StoryID": "6741a23401a79b16f828e5fe",
+                "StoryUpdateTime": "11/23/2024 9:47:50 AM",
+                "StoryNameK": "mat-the-nam-thu-muoi-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66e021ca01a79a07c8ecbafd",
+                "Name": "Chương 637 - Phiên Ngoại (4)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbafc",
+                "Name": "Chương 636 - Phiên Ngoại (3)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbafb",
+                "Name": "Chương 635 - Ngoại truyện (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbafa",
+                "Name": "Chương 634 - Ngoại truyện (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf9",
+                "Name": "Chương 633 - Đại Kết Cục",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf8",
+                "Name": "Chương 632 - Hôn Lễ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf7",
+                "Name": "Chương 631 - Con Muốn Tổ Chức Hôn Lễ Với Vãn Thanh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf6",
+                "Name": "Chương 630 - Thông Gia Gặp Nhau",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf5",
+                "Name": "Chương 629 - Bọn Nhỏ Biết Đi Rồi",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66e021ca01a79a07c8ecbaf4",
+                "Name": "Chương 628 - Có Mẹ, Con Rất Vui Vẻ",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Tận Thế: Nữ Nhân Tiêu Hao Vật Tư, Vạn Lần Trả Về!",
+            "StoryImage": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve.jpg",
+            "StoryDescription": "Khi ngày tận thế ập đến, <b>Giang Phàm</b> thu nạp một dàn mỹ nữ vào nhà, sống cuộc đời hưởng thụ.<p>Tất cả là nhờ hệ thống kích hoạt, cho phép hắn nhận lại gấp vạn lần số vật phẩm mà các cô gái tiêu thụ!</p><p>【Đinh! Tống Thi Âm ăn một gói mì ăn liền, nhận lại 10.000 gói!】</p><p>【Đinh! Đường Tuyết Nhu dùng một viên thuốc tránh thai khẩn cấp, nhận lại 10.000 viên!】</p><p>【Đinh! Hứa Mộng Thiến ăn một quả năng lực, nhận lại 10.000 quả!】</p><p>【Đinh! Liễu Mộng Dao tiêu hao của kí chủ 1 điểm thể chất tối qua, nhận lại 10.000 điểm thể chất!】</p><p>Giang Phàm mừng rỡ: \"Ngay cả chuyện giường chiếu cũng được hoàn trả!\"</p><p>Những cô gái trước đây từng coi thường Giang Phàm, giờ đây đều quỳ gối trước mặt hắn, cầu xin được bảo vệ.&nbsp;</p><p>Giang Phàm trên đường đi giải cứu vô số nữ minh tinh nổi tiếng, hoa khôi học bá, nữ thần thể thao, quý cô trưởng thành, nữ chiến thần băng giá...</p><p>Đồng thời, hắn cũng trở nên vô địch trong thế giới này, đứng trên đỉnh cao quyền lực!</p><p><br></p><p><b>Tận Thế: Nữ Nhân Tiêu Hao Vật Tư, Vạn Lần Trả Về!</b></p><p>Tác giả: <b>Tối Ái Thiết Bản Thiêu</b></p><p>#Hệ Thống #Mạt Thế #Cao Võ Thế Giới #Vô Sỉ</p>",
+            "StoryUpdateTime": "2025-03-31T01:33:57.6038118Z",
+            "StoryUpdateTimeTick": 638782046180137734,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 547,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tối Ái Thiết Bản Thiêu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67de172101a79a177c38bdbf",
+                    "MongoId": "67de172101a79a177c38bdbf"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 547 Cách mạng từ trên xuống dưới! Trảm yêu!",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Mạt Thế",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "mat-the",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9200b15c3c512383c2fce",
+                    "MongoId": "61d9200b15c3c512383c2fce"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Vô Sỉ",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main vô sỉ, lưu manh",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "vo-si",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b40101a79b106c6504dd",
+                    "MongoId": "6561b40101a79b106c6504dd"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve-chuong-547",
+            "Keyword": "tận thế: nữ nhân tiêu hao vật tư, vạn lần trả về! tan the: nu nhan tieu hao vat tu, van lan tra ve!",
+            "StoryView": 5604,
+            "NumberUserFollow": 10,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 5604,
+            "StoryViewInWeek": 323,
+            "StoryViewInMonth": 2572,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve-chuong-1",
+            "StoryIDFirstChap": "67de290c01a79a177c393100",
+            "SoChuong": 547,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 20,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Khi ngày tận thế ập đến, Giang Phàm thu nạp một dàn mỹ nữ vào nhà, sống cuộc đời hưởng thụ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67de15ca01a79a177c3883ff",
+            "MongoId": "67de15ca01a79a177c3883ff"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67de15ca01a79a177c3883ff",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67de290c01a79a177c393100",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-(dich.jpg",
+                "StoryName": "Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường (Dịch)",
+                "StoryTitleLastChap": "Chương 996 Không muộn",
+                "StoryID": "67441ba501a79a10e8dcef37",
+                "StoryUpdateTime": "4/25/2025 2:56:00 AM",
+                "StoryNameK": "ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-linh-chu-lanh-dia-cua-ta-co-the-vo-han-tien-hoa.jpg",
+                "StoryName": "Toàn Dân Lĩnh Chủ: Lãnh Địa Của Ta Có Thể Vô Hạn Tiến Hóa",
+                "StoryTitleLastChap": "Chương 1693: Đại kết cục",
+                "StoryID": "67ad5fae01a79a05c8c5bb6b",
+                "StoryUpdateTime": "4/4/2025 8:20:14 AM",
+                "StoryNameK": "toan-dan-linh-chu-lanh-dia-cua-ta-co-the-vo-han-tien-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-cap-dai-ma-dau-(dich.jpg",
+                "StoryName": "Thần Cấp Đại Ma Đầu (Dịch)",
+                "StoryTitleLastChap": "Chương 3522: Ác Quỷ Và Yêu Nghiệt",
+                "StoryID": "674fc8d301a79a07f05d7e40",
+                "StoryUpdateTime": "12/4/2024 7:48:51 AM",
+                "StoryNameK": "than-cap-dai-ma-dau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-chuc-nghe-thuat-gia-(dich.jpg",
+                "StoryName": "Toàn Chức Nghệ Thuật Gia (Dịch)",
+                "StoryTitleLastChap": "Chương 1897: Toàn chức nghệ thuật gia",
+                "StoryID": "6753c62e01a79a17586c94b7",
+                "StoryUpdateTime": "12/7/2024 6:27:29 AM",
+                "StoryNameK": "toan-chuc-nghe-thuat-gia-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-ly-hon-ta-ke-thua-tai-san-trong-game-(dich.jpg",
+                "StoryName": "Sau Khi Ly Hôn, Ta Kế Thừa Tài Sản Trong Game (Dịch)",
+                "StoryTitleLastChap": "Chương 961: Cuộc đời như vậy còn cầu gì hơn (Đại kết cục) (2)",
+                "StoryID": "6748185f01a79a06bc0b156a",
+                "StoryUpdateTime": "2/19/2025 6:04:19 AM",
+                "StoryNameK": "sau-khi-ly-hon-ta-ke-thua-tai-san-trong-game-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-tai-trong-phong-tro-nhat-duoc-mot-tram-trieu.jpg",
+                "StoryName": "Bắt Đầu Tại Trong Phòng Trọ Nhặt Được Một Trăm Triệu",
+                "StoryTitleLastChap": "Chương 1998:  Anjou · Prince kinh hỉ",
+                "StoryID": "678a2f4701a79b10e83b29e5",
+                "StoryUpdateTime": "1/27/2025 5:37:22 AM",
+                "StoryNameK": "bat-dau-tai-trong-phong-tro-nhat-duoc-mot-tram-trieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gia-toc-quat-khoi-tu-moi-ngay-tinh-bao-bat-dau.jpg",
+                "StoryName": "Gia Tộc Quật Khởi: Từ Mỗi Ngày Tình Báo Bắt Đầu",
+                "StoryTitleLastChap": "Chương 895 tặng bảo, huyết mạch mở, Thái Âm Luyện Hình (3)",
+                "StoryID": "677902d801a79a249cecae8f",
+                "StoryUpdateTime": "4/15/2025 8:16:59 AM",
+                "StoryNameK": "gia-toc-quat-khoi-tu-moi-ngay-tinh-bao-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-ton-cau-den-vo-dich-vo-han-phan-than-che-ba-tien-gioi.jpg",
+                "StoryName": "Bản Tôn Cẩu Đến Vô Địch, Vô Hạn Phân Thân Xưng Bá Tiên Giới",
+                "StoryTitleLastChap": "Chương 1518: Đường lui? Bảo tháp mở cửa!",
+                "StoryID": "6787110101a79a094cf4dec0",
+                "StoryUpdateTime": "4/24/2025 2:37:29 PM",
+                "StoryNameK": "ban-ton-cau-den-vo-dich-vo-han-phan-than-xung-ba-tien-gioi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truot-dai-hoc-ta-quyet-dinh-di-tru-than-(dich.jpg",
+                "StoryName": "Trượt Đại Học, Ta Quyết Định Đi Tru Thần (Dịch)",
+                "StoryTitleLastChap": "Chương 771: Chẳng phải ngại chết người sao?",
+                "StoryID": "67458af601a79a10e8e890d9",
+                "StoryUpdateTime": "11/26/2024 10:08:56 AM",
+                "StoryNameK": "truot-dai-hoc-ta-quyet-dinh-di-tru-than-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khi-bac-si-mo-hack.jpg",
+                "StoryName": "Khi Bác Sĩ Mở Hack",
+                "StoryTitleLastChap": "CHƯƠNG 2174: KẾT THÚC - TIỀN MỪNG TUỔI (2)",
+                "StoryID": "675bb47a01a79b126cd112c4",
+                "StoryUpdateTime": "12/13/2024 12:52:28 PM",
+                "StoryNameK": "khi-bac-si-mo-hack"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67e9f0ec01a79a0cfc15e30b",
+                "Name": "Chương 547 Cách mạng từ trên xuống dưới! Trảm yêu!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e30a",
+                "Name": "Chương 546 Không thể đến gần Nam Thiên môn!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e309",
+                "Name": "Chương 545 Cầm xuống Huyền Không tự! Tử điện mở tiên môn!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e308",
+                "Name": "Chương 544 Thanh trừng Thiên Huyền giới bắt đầu!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e307",
+                "Name": "Chương 543 Phong tồn sinh bạch cốt! Tính kế!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e306",
+                "Name": "Chương 542 Vạn năm đài sen, hai đóa kim liên!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e305",
+                "Name": "Chương 541 Dọn bãi! Trường sinh phù!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e304",
+                "Name": "Chương 540 Chấn Vân và Cố Thanh Sơn!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e303",
+                "Name": "Chương 539 Trường sinh là gì?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67e9f0ec01a79a0cfc15e302",
+                "Name": "Chương 538 Ngũ Hành cảnh! Vạn phần vạn pháp tắc chi lực!",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

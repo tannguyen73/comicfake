@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thập Niên 70: Xuyên Thành Bạn Thân Nữ Chính",
+            "StoryImage": "thap-nien-70-xuyen-thanh-ban-than-nu-chinh.jpg",
+            "StoryDescription": "<b>Thập Niên 70: Xuyên Thành Bạn Thân Nữ Chính</b> - Từ một dị năng giả mạnh mẽ trong thế giới mạt thế, <b>Lâm Dư Dư</b> xuyên không về thập niên 70 và trở thành bạn thân của nữ chính trong một cuốn tiểu thuyết. Nhưng thay vì làm theo cốt truyện, cô nàng quyết định sống một cuộc đời tự do, không phụ thuộc vào ai. Với tính cách mạnh mẽ và độc lập, Lâm Dư Dư sẽ tạo nên những câu chuyện hài hước và bất ngờ.",
+            "StoryUpdateTime": "2024-09-13T09:37:01.4396248Z",
+            "StoryUpdateTimeTick": 638618118654423601,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Lâm Quả Đống",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66e3f3d301a79a187c862936",
+                    "MongoId": "66e3f3d301a79a187c862936"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 333: Phiên ngoại Ôn Lễ (2)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9135815c3c70808d2b7d1",
+                    "MongoId": "61d9135815c3c70808d2b7d1"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "thap-nien-70-xuyen-thanh-ban-than-nu-chinh-chuong-333",
+            "Keyword": "thập niên 70: xuyên thành bạn thân nữ chính thap nien 70: xuyen thanh ban than nu chinh",
+            "StoryView": 4965,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "thap-nien-70-xuyen-thanh-ban-than-nu-chinh",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 4965,
+            "StoryViewInWeek": 384,
+            "StoryViewInMonth": 795,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "thap-nien-70-xuyen-thanh-ban-than-nu-chinh-chuong-1",
+            "StoryIDFirstChap": "66e3ffc501a79a187c86430d",
+            "SoChuong": 333,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Mạt thế, xuyên không, nữ chính, bạn thân... tất cả đều hội tụ trong một câu chuyện đầy bất ngờ. Lâm Dư Dư, một cô gái mạnh mẽ và độc lập, sẽ làm gì khi xuyên không về quá khứ? Liệu cô có thể thay đổi số phận của mình và những người xung quanh?",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "66e3f39901a79a187c862935",
+            "MongoId": "66e3f39901a79a187c862935"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66e3f39901a79a187c862935",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66e3ffc501a79a187c86430d",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung.jpg",
+                "StoryName": "Thiên Long : Vị Bang Chủ Cái Bang Này Có Chút Không Đúng",
+                "StoryTitleLastChap": "Chương 305: Kiều Phong chột dạ, có chút túng quẫn?",
+                "StoryID": "67e3a95601a79a155c29a835",
+                "StoryUpdateTime": "4/25/2025 3:00:49 AM",
+                "StoryNameK": "thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao.jpg",
+                "StoryName": "Góp Vốn Xây Đại Học, Ta Thật Không Phải Lừa Đảo",
+                "StoryTitleLastChap": "Chương 812 Đến chậm! Lẽ nào Lương lão đã mất?",
+                "StoryID": "67bee19301a79a14d89861b3",
+                "StoryUpdateTime": "4/25/2025 2:59:01 AM",
+                "StoryNameK": "gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh.jpg",
+                "StoryName": "Khắc Mệnh Tu Hành: Từ Cẩm Y Vệ Bắt Đầu Trường Sinh",
+                "StoryTitleLastChap": "Chương 810: Một điểm chân linh bất diệt, hóa thành bất diệt linh quang!",
+                "StoryID": "67bebced01a79a14d896f7c0",
+                "StoryUpdateTime": "4/25/2025 2:57:24 AM",
+                "StoryNameK": "khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-ly-hon-bat-dau-vui-choi-giai-tri.jpg",
+                "StoryName": "Từ ly hôn bắt đầu vui chơi giải trí",
+                "StoryTitleLastChap": "Chương 2010 Thu hoạch giải thưởng quốc tế lớn",
+                "StoryID": "678f75a101a79b18b85dbafe",
+                "StoryUpdateTime": "4/25/2025 2:53:25 AM",
+                "StoryNameK": "tu-ly-hon-bat-dau-vui-choi-giai-tri"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc.jpg",
+                "StoryName": "Bắt Đầu Hỗn Độn Kiếm Thể, Chế Tạo Bất Hủ Tiên Tộc",
+                "StoryTitleLastChap": "Chương 1218 Bình Dương thị tộc",
+                "StoryID": "67923c1201a79e18bcbec34a",
+                "StoryUpdateTime": "4/25/2025 2:43:14 AM",
+                "StoryNameK": "bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon.jpg",
+                "StoryName": "Bắt Đầu Đánh Dấu Tiên Vương Tu Vi, Thành Lập Vô Thượng Tông Môn",
+                "StoryTitleLastChap": "Chương 715 Thiên kiêu nhân kiệt đại chiến, các phương thiên kiêu đại bại",
+                "StoryID": "6790a4dd01a79b1a68d8b821",
+                "StoryUpdateTime": "4/25/2025 2:30:08 AM",
+                "StoryNameK": "bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//luc-dia-kien-tien.jpg",
+                "StoryName": "Lục Địa Kiện Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 4629 Đối Thoại Cùng Thần",
+                "StoryID": "65669f1b01a79a0c7482830a",
+                "StoryUpdateTime": "4/25/2025 2:27:02 AM",
+                "StoryNameK": "luc-dia-kien-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim.jpg",
+                "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+                "StoryTitleLastChap": "Chương 643: Lý Hiên xuất thủ",
+                "StoryID": "67909d5101a79b1a68d8b747",
+                "StoryUpdateTime": "4/25/2025 2:15:40 AM",
+                "StoryNameK": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cam-y-ve-sat-tinh-hoang-de-cau-ta-tinh-tao.jpg",
+                "StoryName": "Cẩm Y Vệ Sát Tinh, Hoàng Đế Cầu Ta Tỉnh Táo",
+                "StoryTitleLastChap": "Chương 567: Thực lực bạo tăng, siêu việt thần cấp đao pháp! Thiên Đao thức thứ mười ba!",
+                "StoryID": "67dd119801a79a177c35ad81",
+                "StoryUpdateTime": "4/25/2025 2:02:13 AM",
+                "StoryNameK": "cam-y-ve-sat-tinh-hoang-de-cau-ta-tinh-tao"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66e402f801a79a187c86522c",
+                "Name": "Chương 333: Phiên ngoại Ôn Lễ (2)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402f501a79a187c86522a",
+                "Name": "Chương 332: Phiên ngoại Ôn Lễ (1)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402f301a79a187c865228",
+                "Name": "Chương 331: Phiên ngoại Lâm Yến (2)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402f001a79a187c865226",
+                "Name": "Chương 330: Phiên ngoại Lâm Yến (1)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402ee01a79a187c865224",
+                "Name": "Chương 329: Phiên ngoại Lâm Đại Đệ (2)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402ec01a79a187c865222",
+                "Name": "Chương 328: Phiên ngoại Lâm Đại Đệ (1)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402e901a79a187c865220",
+                "Name": "Chương 327",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402e701a79a187c86521e",
+                "Name": "Chương 326",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402e501a79a187c86521c",
+                "Name": "Chương 325",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66e402e201a79a187c86521a",
+                "Name": "Chương 324",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

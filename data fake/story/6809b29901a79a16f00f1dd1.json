@@ -1,0 +1,315 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Gương Võ Khó Lành",
+            "StoryImage": "guong-vo-kho-lanh.jpg",
+            "StoryDescription": "Khi <b>Cố Bồi Huyền</b> yêu ta nhất, cũng là lúc chàng khốn khó nhất, còn ta lại rời bỏ chàng.&nbsp;<p>Về sau, cuối cùng chàng cũng trở thành Nhiếp chính vương quyền khuynh triều dã, dùng mười dặm gấm đỏ nghênh cưới ta về phủ.&nbsp;</p><p>Tất cả mọi người đều cho rằng chàng yêu ta đến cực điểm.&nbsp;</p><p>Thế nhưng sau khi cưới ta, chàng liên tục đưa vô số thiếp thất về nhà, bên ngoài cũng nuôi dưỡng không ít tình nhân. Mà ta thì căn bản không hề để ý.&nbsp;</p><p>Chàng bóp cổ ta, gầm lên: \"Nàng có phải chưa từng yêu ta?\"&nbsp;</p><p>Chàng không biết ta sắp chết rồi. Trong mỗi ngày chàng cùng những người phụ nữ khác ca hát vui vẻ, ta đều mong chờ cái chết đến để giải thoát cho mình.</p>",
+            "StoryUpdateTime": "2025-04-24T03:44:54.0333088Z",
+            "StoryUpdateTimeTick": 638810628096426264,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 15,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 15: Hoàn",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Ngược",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nguoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b1",
+                    "MongoId": "61d9251d15c3c512383c32b1"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "guong-vo-kho-lanh-chuong-15",
+            "Keyword": "gương võ khó lành guong vo kho lanh",
+            "StoryView": 58,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "guong-vo-kho-lanh",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 58,
+            "StoryViewInWeek": 58,
+            "StoryViewInMonth": 58,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "guong-vo-kho-lanh-chuong-1",
+            "StoryIDFirstChap": "6809b32101a79a16f00f1dd2",
+            "SoChuong": 15,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 1,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trong mỗi ngày Cố Bồi Huyền cùng những người phụ nữ khác ca hát vui vẻ, ta đều mong chờ cái chết đến để giải thoát cho mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6809b29901a79a16f00f1dd1",
+            "MongoId": "6809b29901a79a16f00f1dd1"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6809b29901a79a16f00f1dd1",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6809b32101a79a16f00f1dd2",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-do-bo-mot-van-nam-sau.jpg",
+                "StoryName": "Cao Võ: Đổ Bộ Một Vạn Năm Sau",
+                "StoryTitleLastChap": "Chương 420",
+                "StoryID": "6807187701a79a15388eabe8",
+                "StoryUpdateTime": "4/24/2025 10:20:24 AM",
+                "StoryNameK": "cao-vo-do-bo-mot-van-nam-sau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//va-mat-ban-cung-phong-co-duyen-voi-phat.jpg",
+                "StoryName": "Vả Mặt Bạn Cùng Phòng Có Duyên Với Phật",
+                "StoryTitleLastChap": "Chương 20: Hoàn",
+                "StoryID": "6808dc5401a79a16f00c6b49",
+                "StoryUpdateTime": "4/23/2025 12:30:29 PM",
+                "StoryNameK": "va-mat-ban-cung-phong-co-duyen-voi-phat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thuo-ay-tuoi-con-xanh.jpg",
+                "StoryName": "Thuở Ấy Tuổi Còn Xanh",
+                "StoryTitleLastChap": "Chương 13: Hoàn",
+                "StoryID": "6808b5df01a79a16f00c2f44",
+                "StoryUpdateTime": "4/23/2025 9:44:53 AM",
+                "StoryNameK": "thuo-ay-tuoi-con-xanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//do-choi-lat-minh-lam-chu.jpg",
+                "StoryName": "Đồ Chơi Lật Mình Làm Chủ",
+                "StoryTitleLastChap": "Chương 10: Hoàn",
+                "StoryID": "680897e301a79a1538986992",
+                "StoryUpdateTime": "4/23/2025 7:50:16 AM",
+                "StoryNameK": "do-choi-lat-minh-lam-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong.jpg",
+                "StoryName": "Thủ Phụ Đại Nhân, Ngài Có Muốn Lấy Vợ Không?",
+                "StoryTitleLastChap": "Chương 11",
+                "StoryID": "6808707401a79a1538975a90",
+                "StoryUpdateTime": "4/23/2025 6:30:22 AM",
+                "StoryNameK": "thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai.jpg",
+                "StoryName": "Thê Tử Bạch Nguyệt Quang Đã Mất Của Thủ Phụ Đã Trở Lại",
+                "StoryTitleLastChap": "Chương 86: HOÀN",
+                "StoryID": "6808589a01a79a153894b7d6",
+                "StoryUpdateTime": "4/23/2025 4:45:31 AM",
+                "StoryNameK": "the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-su-noi-neu-muon-song-phai-ngu-voi-anh.jpg",
+                "StoryName": "Đại Sư Nói, Nếu Muốn Sống Phải Ngủ Với Anh",
+                "StoryTitleLastChap": "Chương 11: Phiên ngoại",
+                "StoryID": "68076f2901a79a153892d5ac",
+                "StoryUpdateTime": "4/23/2025 3:07:22 AM",
+                "StoryNameK": "dai-su-noi-neu-muon-song-phai-ngu-voi-anh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dem-cuoi-cung-truoc-khi-roi-dai.jpg",
+                "StoryName": "Đêm Cuối Cùng Trước Khi Rơi Đài",
+                "StoryTitleLastChap": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+                "StoryID": "680755e801a79a1538906fe2",
+                "StoryUpdateTime": "4/23/2025 3:06:50 AM",
+                "StoryNameK": "dem-cuoi-cung-truoc-khi-roi-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mong-dao-hoa.jpg",
+                "StoryName": "Mộng Đào Hoa",
+                "StoryTitleLastChap": "Chương 9: Hoàn",
+                "StoryID": "6807994e01a79a153893029f",
+                "StoryUpdateTime": "4/22/2025 1:40:50 PM",
+                "StoryNameK": "mong-dao-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhat-ky-cua-do-chi-dep.jpg",
+                "StoryName": "Nhật Ký Cưa Đổ Chị Đẹp",
+                "StoryTitleLastChap": "Chương 16:",
+                "StoryID": "68034d0001a79a17e8c59bee",
+                "StoryUpdateTime": "4/22/2025 10:28:47 AM",
+                "StoryNameK": "nhat-ky-cua-do-chi-dep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//su-tra-thu-cua-chu-nha.jpg",
+                "StoryName": "Sự Trả Thù Của Chủ Nhà",
+                "StoryTitleLastChap": "Chương 12: Hoàn",
+                "StoryID": "680766c801a79a153892b79f",
+                "StoryUpdateTime": "4/22/2025 10:26:35 AM",
+                "StoryNameK": "su-tra-thu-cua-chu-nha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh.jpg",
+                "StoryName": "Tôi Mang Theo Đám Nhãi Con Ở Nhà Trẻ Đi Cầu Sinh",
+                "StoryTitleLastChap": "Chương 321: HOÀN",
+                "StoryID": "68074e1201a79a15388ff6e8",
+                "StoryUpdateTime": "4/22/2025 8:46:37 AM",
+                "StoryNameK": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6809b37201a79a16f00f1de0",
+                "Name": "Chương 15: Hoàn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809b37201a79a16f00f1ddf",
+                "Name": "Chương 14:",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809b37201a79a16f00f1dde",
+                "Name": "Chương 13:",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809b37201a79a16f00f1ddd",
+                "Name": "Chương 12:",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809b37201a79a16f00f1ddc",
+                "Name": "Chương 11:",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809b32201a79a16f00f1ddb",
+                "Name": "Chương 10:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6809b32201a79a16f00f1dda",
+                "Name": "Chương 9:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6809b32201a79a16f00f1dd9",
+                "Name": "Chương 8:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6809b32201a79a16f00f1dd8",
+                "Name": "Chương 7:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6809b32201a79a16f00f1dd7",
+                "Name": "Chương 6:",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

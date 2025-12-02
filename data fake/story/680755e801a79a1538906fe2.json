@@ -1,0 +1,359 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Đêm Cuối Cùng Trước Khi Rơi Đài",
+            "StoryImage": "dem-cuoi-cung-truoc-khi-roi-dai.jpg",
+            "StoryDescription": "<b>Đêm Cuối Cùng Trước Khi Rơi Đài</b><p><br></p><p>Ngày Tiêu Hạc sai người đưa đến rượu độc, ta đang ở trong điện cùng tiểu công chúa đọc thơ.</p><p>Con bé ngây thơ trong sáng, tuổi xuân vừa tới, ngọt ngào gọi ta là \"mẫu hậu\".</p><p>Nhưng mẫu thân ruột của nàng, sớm đã bị ta giết chết.</p><p>Tiêu Hạc không bước vào điện, chỉ đứng trên bậc thềm nơi ánh vàng rực rỡ chiếu xuống, quay đầu nhìn ta.</p><p>Những yêu thương và dịu dàng vốn thuộc về ta, giờ đã tiêu tan hết rồi.</p><p>Ta biết, ly rượu độc này, chính là câu trả lời của hắn dành cho ta.</p><p>Ta đã dày vò, tính toán đủ đường để có được ngôi vị hoàng hậu, nhưng cuối cùng vẫn mất tất cả.</p><p>Nếu sau khi ta chết, Tiêu Hạc biết ta không hại Trình Thư, liệu hắn có hối hận không?</p>",
+            "StoryUpdateTime": "2025-04-23T03:06:50.3622246Z",
+            "StoryUpdateTimeTick": 638809080081888776,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 15,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cung Đấu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen-ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9202615c3c512383c2fdf",
+                    "MongoId": "61d9202615c3c512383c2fdf"
+                },
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Góc Nhìn Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nu",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0b001a79a05c8ae5aea",
+                    "MongoId": "6576b0b001a79a05c8ae5aea"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Ngược",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nguoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b1",
+                    "MongoId": "61d9251d15c3c512383c32b1"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "dem-cuoi-cung-truoc-khi-roi-dai-chuong-15",
+            "Keyword": "đêm cuối cùng trước khi rơi đài dem cuoi cung truoc khi roi dai",
+            "StoryView": 118,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "dem-cuoi-cung-truoc-khi-roi-dai",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 118,
+            "StoryViewInWeek": 118,
+            "StoryViewInMonth": 118,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "dem-cuoi-cung-truoc-khi-roi-dai-chuong-1",
+            "StoryIDFirstChap": "6807568201a79a1538907029",
+            "SoChuong": 15,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Ta đã dày vò, tính toán đủ đường để có được ngôi vị hoàng hậu, nhưng cuối cùng vẫn mất tất cả.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "680755e801a79a1538906fe2",
+            "MongoId": "680755e801a79a1538906fe2"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "680755e801a79a1538906fe2",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6807568201a79a1538907029",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//guong-vo-kho-lanh.jpg",
+                "StoryName": "Gương Võ Khó Lành",
+                "StoryTitleLastChap": "Chương 15: Hoàn",
+                "StoryID": "6809b29901a79a16f00f1dd1",
+                "StoryUpdateTime": "4/24/2025 3:44:54 AM",
+                "StoryNameK": "guong-vo-kho-lanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-ghi-am.jpg",
+                "StoryName": "Bản Ghi Âm",
+                "StoryTitleLastChap": "Chương 13",
+                "StoryID": "6806f7ed01a79a166cdf53a9",
+                "StoryUpdateTime": "4/22/2025 2:02:22 AM",
+                "StoryNameK": "ban-ghi-am"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//canh-cua-hep.jpg",
+                "StoryName": "Cánh Cửa Hẹp",
+                "StoryTitleLastChap": "Chương 14",
+                "StoryID": "68032a8c01a79a170c666aae",
+                "StoryUpdateTime": "4/19/2025 4:52:01 AM",
+                "StoryNameK": "canh-cua-hep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mach-dap-vo-thanh.jpg",
+                "StoryName": "Mạch Đập Vô Thanh",
+                "StoryTitleLastChap": "Chương 14",
+                "StoryID": "6801d6cf01a79a170c6149b1",
+                "StoryUpdateTime": "4/18/2025 4:39:50 AM",
+                "StoryNameK": "mach-dap-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//moi-tinh-giua-hai-ta-khong-the-cuu-van.jpg",
+                "StoryName": "Mối Tình Giữa Hai Ta, Không Thể Cứu Vãn",
+                "StoryTitleLastChap": "Chương 12",
+                "StoryID": "6800d66e01a79a1aec699af6",
+                "StoryUpdateTime": "4/17/2025 10:28:32 AM",
+                "StoryNameK": "moi-tinh-giua-hai-ta-khong-the-cuu-van"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//moi-tinh-tra-thu.jpg",
+                "StoryName": "Mối Tình Trả Thù",
+                "StoryTitleLastChap": "Chương 25",
+                "StoryID": "6800d14e01a79a1aec697d46",
+                "StoryUpdateTime": "4/17/2025 10:06:02 AM",
+                "StoryNameK": "moi-tinh-tra-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ke-thu-ba.jpg",
+                "StoryName": "Kẻ Thứ Ba",
+                "StoryTitleLastChap": "Chương 8: HOÀN",
+                "StoryID": "6800b4ac01a79a1aec6863f0",
+                "StoryUpdateTime": "4/17/2025 8:02:14 AM",
+                "StoryNameK": "ke-thu-ba"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-mai-hay-nguoi-den-sau.jpg",
+                "StoryName": "Thanh Mai hay Người Đến Sau",
+                "StoryTitleLastChap": "Chương 28: HOÀN",
+                "StoryID": "67ff9c7801a79a01f40ab67d",
+                "StoryUpdateTime": "4/16/2025 1:13:25 PM",
+                "StoryNameK": "thanh-mai-hay-nguoi-den-sau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hao-quang-tan-diet-tinh-can-nhu-tro.jpg",
+                "StoryName": "Hào Quang Tận Diệt, Tình Cạn Như Tro",
+                "StoryTitleLastChap": "Chương 22",
+                "StoryID": "67ff363601a79a01f407ff61",
+                "StoryUpdateTime": "4/16/2025 4:54:15 AM",
+                "StoryNameK": "hao-quang-tan-diet-tinh-can-nhu-tro"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//du-am-dai-mac.jpg",
+                "StoryName": "Dư Âm Đại Mạc",
+                "StoryTitleLastChap": "Chương 11. Phiên ngoại",
+                "StoryID": "67ff1ea601a79a01f405faf5",
+                "StoryUpdateTime": "4/16/2025 3:10:24 AM",
+                "StoryNameK": "du-am-dai-mac"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-xuan-gui-nham-nguoi.jpg",
+                "StoryName": "Thanh Xuân Gửi Nhầm Người",
+                "StoryTitleLastChap": "Chương 53: HOÀN",
+                "StoryID": "67fe315701a79a16845a598c",
+                "StoryUpdateTime": "4/15/2025 10:37:50 AM",
+                "StoryNameK": "thanh-xuan-gui-nham-nguoi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//kiep-nay-khong-vi-anh.jpg",
+                "StoryName": "Kiếp Này Không Vì Anh",
+                "StoryTitleLastChap": "Chương 34: HOÀN",
+                "StoryID": "67fe33fd01a79a16845a6849",
+                "StoryUpdateTime": "4/15/2025 10:37:20 AM",
+                "StoryNameK": "kiep-nay-khong-vi-anh"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6807568b01a79a153890703c",
+                "Name": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a153890703b",
+                "Name": "Chương 14: Ngoại truyện Tiêu Hạc (2)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a153890703a",
+                "Name": "Chương 13: Ngoại truyện Tiêu Hạc (1)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a1538907039",
+                "Name": "Chương 12",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a1538907038",
+                "Name": "Chương 11",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a1538907037",
+                "Name": "Chương 10",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568b01a79a1538907036",
+                "Name": "Chương 9",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568201a79a1538907030",
+                "Name": "Chương 8",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568201a79a153890702f",
+                "Name": "Chương 7",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6807568201a79a153890702e",
+                "Name": "Chương 6",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

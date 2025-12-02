@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trùng Sinh Thường Ngày Tu Tiên (Dịch)",
+            "StoryImage": "trung-sinh-thuong-ngay-tu-tien-(dich.jpg",
+            "StoryDescription": "<b>Trùng Sinh Thường Ngày Tu Tiên</b> - <b>Nguyên Anh Chân Quân</b> thất bại trong thiên kiếp, trùng sinh về năm 2013. Với kiến thức tu tiên sâu rộng, hắn nhanh chóng thích nghi với cuộc sống hiện đại. Từ việc sử dụng linh khí để cải thiện sức khỏe cho đến việc kiếm tiền bằng những kỹ năng đặc biệt, cuộc sống của hắn trở nên vô cùng thú vị. Tuy nhiên, quá khứ vẫn chưa buông tha khi những kẻ thù cũ tìm đến. Liệu hắn có thể bảo vệ cuộc sống mới của mình? Và liệu hắn có thể tìm thấy ý nghĩa thực sự của cuộc sống?",
+            "StoryUpdateTime": "2024-12-12T03:14:37.3543655Z",
+            "StoryUpdateTimeTick": 638641324457363681,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1867,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Đình Viện Dương Quang Hảo",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65f7fe1d01a79b199c75ad21",
+                    "MongoId": "65f7fe1d01a79b199c75ad21"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1867: Mai Khai Nhị Độ (2)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Hiện Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Học Đường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sac-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9232615c3c512383c319b",
+                    "MongoId": "61d9232615c3c512383c319b"
+                },
+                {
+                    "TenTheLoai": "Làm Giàu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lam-giau",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6578277701a79a1344387627",
+                    "MongoId": "6578277701a79a1344387627"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Trùng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trung-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91fb015c3c512383c2f96",
+                    "MongoId": "61d91fb015c3c512383c2f96"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "trung-sinh-thuong-ngay-tu-tien-(dich-chuong-1867",
+            "Keyword": "trùng sinh thường ngày tu tiên (dịch) trung sinh thuong ngay tu tien (dich)",
+            "StoryView": 15487,
+            "NumberUserFollow": 3,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "trung-sinh-thuong-ngay-tu-tien-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 15487,
+            "StoryViewInWeek": 1000,
+            "StoryViewInMonth": 1658,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "trung-sinh-thuong-ngay-tu-tien-dich-chuong-1-tro-ve-doi-muoi",
+            "StoryIDFirstChap": "6707842701a79a0c34b8ed75",
+            "SoChuong": 1867,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 71,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Từ một Nguyên Anh Chân Quân quyền lực, hắn trở về năm 2013, trở thành một học sinh bình thường. Với kiến thức tu tiên sâu rộng và kinh nghiệm sống muôn màu, hắn sẽ làm gì khi đối mặt với thế giới hiện đại đầy rẫy những điều mới lạ? Cùng theo dõi cuộc sống hài hước và đầy bất ngờ của một tu sĩ xuyên không về quá khứ!",
+            "IsTruyenConvert": 0,
+            "RefID": "661ba6939d4d6277a33b5de2",
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67075c5d01a79a0c34b8ed74",
+            "MongoId": "67075c5d01a79a0c34b8ed74"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67075c5d01a79a0c34b8ed74",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6707842701a79a0c34b8ed75",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thuo-ay-tuoi-con-xanh.jpg",
+                "StoryName": "Thuở Ấy Tuổi Còn Xanh",
+                "StoryTitleLastChap": "Chương 13: Hoàn",
+                "StoryID": "6808b5df01a79a16f00c2f44",
+                "StoryUpdateTime": "4/23/2025 9:44:53 AM",
+                "StoryNameK": "thuo-ay-tuoi-con-xanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau.jpg",
+                "StoryName": "Thiếu Nữ Linh Môi Trên Con Đường Trở Thành Ảnh Hậu",
+                "StoryTitleLastChap": "Chương 134: Chương 134",
+                "StoryID": "6807555901a79a1538905193",
+                "StoryUpdateTime": "4/22/2025 9:24:53 AM",
+                "StoryNameK": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-xuan-van-tue.jpg",
+                "StoryName": "Thanh Xuân Vạn Tuế",
+                "StoryTitleLastChap": "Chương 14:",
+                "StoryID": "67fe126701a79a16845875cd",
+                "StoryUpdateTime": "4/15/2025 9:59:23 AM",
+                "StoryNameK": "thanh-xuan-van-tue"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//apollo-cua-ngon-van-van.jpg",
+                "StoryName": "Apollo Của Ngôn Văn Văn",
+                "StoryTitleLastChap": "Chương 27: HOÀN",
+                "StoryID": "67fa2d3001a79c10ec350019",
+                "StoryUpdateTime": "4/12/2025 9:22:09 AM",
+                "StoryNameK": "apollo-cua-ngon-van-van"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ky-thuc-tap-nho-doi.jpg",
+                "StoryName": "Kỳ Thực Tập Nhớ Đời",
+                "StoryTitleLastChap": "Chương 12: HOÀN",
+                "StoryID": "67f9e81a01a79c10ec344dbc",
+                "StoryUpdateTime": "4/12/2025 4:51:53 AM",
+                "StoryNameK": "ky-thuc-tap-nho-doi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//con-duong-ba-chu-(dich.jpg",
+                "StoryName": "Con Đường Bá Chủ (Dịch)",
+                "StoryTitleLastChap": "Chương 2890: Ngự Long Công Chúa",
+                "StoryID": "65dfe46101a79a19302eb535",
+                "StoryUpdateTime": "11/29/2024 2:17:56 AM",
+                "StoryNameK": "con-duong-ba-chu-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tam-dong-(dich.jpg",
+                "StoryName": "Tâm Động (Dịch)",
+                "StoryTitleLastChap": "Chương 058: Vĩ thanh! ( Hết Bộ )",
+                "StoryID": "66baccb001a79a156cee321f",
+                "StoryUpdateTime": "8/13/2024 6:53:55 AM",
+                "StoryNameK": "tam-dong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tro-thanh-truyen-thuyet-o-hong-kong.jpg",
+                "StoryName": "Ta Trở Thành Truyền Thuyết Ở Hồng Kông",
+                "StoryTitleLastChap": "Chương 963: KẾT CỤC",
+                "StoryID": "667a834401a79a1b40e0f8d1",
+                "StoryUpdateTime": "6/25/2024 9:11:21 AM",
+                "StoryNameK": "ta-tro-thanh-truyen-thuyet-o-hong-kong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//di-the-ma-hoang.jpg",
+                "StoryName": "Dị Thế Ma Hoàng",
+                "StoryTitleLastChap": "Chương 499 Chương 500: Đại kết cục cùng lời cuối sách",
+                "StoryID": "6603a58601a79a14d8274dee",
+                "StoryUpdateTime": "3/27/2024 7:29:18 AM",
+                "StoryNameK": "di-the-ma-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hoan-kho-de-tu.jpg",
+                "StoryName": "Hoàn Khố Đệ Tử",
+                "StoryTitleLastChap": "Chương 220 Chấm dứt? Bắt đầu? HẾT.",
+                "StoryID": "6603995501a79a14d82744b1",
+                "StoryUpdateTime": "3/27/2024 4:50:07 AM",
+                "StoryNameK": "hoan-kho-de-tu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sieu-cap-binh-vuong-tai-do-thi.jpg",
+                "StoryName": "Siêu Cấp Binh Vương Tại Đô Thị",
+                "StoryTitleLastChap": "Chương 143 Lý đại tổng tài",
+                "StoryID": "65f55cdd01a79a105815909f",
+                "StoryUpdateTime": "3/18/2024 7:28:38 AM",
+                "StoryNameK": "sieu-cap-binh-vuong-tai-do-thi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "675a506e01a79a126c993748",
+                "Name": "Chương 1867: Mai Khai Nhị Độ (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506c01a79a126c993745",
+                "Name": "Chương 1866: Mai Khai Nhị Độ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506a01a79a126c993742",
+                "Name": "Chương 1865: Triệu Thần (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506701a79a126c99373f",
+                "Name": "Chương 1864: Triệu Thần (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506501a79a126c99373c",
+                "Name": "Chương 1863: Thiên Phú Cao Thủ (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506301a79a126c99373a",
+                "Name": "Chương 1862: Thiên Phú Cao Thủ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a506001a79a126c993738",
+                "Name": "Chương 1861: Kẻ Nhòm Ngó (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a505e01a79a126c993736",
+                "Name": "Chương 1860: Kẻ Nhòm Ngó (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a505c01a79a126c993734",
+                "Name": "Chương 1859: Quà Tặng (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "675a505a01a79a126c993732",
+                "Name": "Chương 1858: Quà Tặng (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,4295 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "680af38101a79a07c0e60d71",
+            "Name": "Chương 715 Thiên kiêu nhân kiệt đại chiến, các phương thiên kiêu đại bại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6809ab6901a79a16f00e95e9",
+            "Name": "Chương 714 Côn Luân chi chủ, đỉnh tiêm giáo chủ giằng co.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680868dd01a79a153897006f",
+            "Name": "Chương 713 Côn Luân đến, các đại cổ tộc nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680472d901a79a17e8c6c76e",
+            "Name": "Chương 712 Bàn đào thịnh hội, đi tới Trung Châu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680472d901a79a17e8c6c76d",
+            "Name": "Chương 711 Vương Lâm xuất thế, các vực cổ giáo hủy diệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680472d901a79a17e8c6c76c",
+            "Name": "Chương 710 Côn Luân uy chấn tứ đại vực, Tam Thiên Đại Đạo hoa nở",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680073f801a79a1aec658c69",
+            "Name": "Chương 709 Thượng cổ cổ tộc đại bại, Côn Luân Mộ Hoàng buông xuống vực ngoại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff1ced01a79a01f405b0f0",
+            "Name": "Chương 708 Côn Luân thực lực cường đại, vực ngoại cổ tộc kiêng kị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fe0b0901a79a1684576e69",
+            "Name": "Chương 707 Thần Hoàng đại chiến bộc phát, Côn Luân nội tình thức tỉnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fcd88201a79a168452a4ec",
+            "Name": "Chương 706 Thần Hoàng cửu trọng thiên, cổ giáo Thần Hoàng sợ hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fb606601a79a14fc3a868f",
+            "Name": "Chương 705 Bắc Nguyên chấn động, Tây Mạc dị động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67fb606601a79a14fc3a868e",
+            "Name": "Chương 704 Côn Luân nội tình, thế nhân ngờ đâu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f9ce1301a79a10ec444477",
+            "Name": "Chương 703 Nam Hải dị động, Côn Luân nguy cơ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f885b601a79a13f4b5050d",
+            "Name": "Chương 702 Thiên đại biến số, trực chỉ Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f736e301a79a1234fe3b55",
+            "Name": "Chương 701 Vị Thần Hoàng thứ nhất chết đi, áp bức Thiên Vân Hoàng tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5e87f01a79a0338ab0f63",
+            "Name": "Chương 700 Vương rừng khôi phục, nửa bước Đại Tôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5e87f01a79a0338ab0f62",
+            "Name": "Chương 699 Khiêu khích nửa bước Đại Tôn, tất cả Địa Hoàng tổ kinh dị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5e87f01a79a0338ab0f61",
+            "Name": "Chương 698 Thượng cổ cổ tộc cùng cổ giáo khác nhau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f5e87f01a79a0338ab0f60",
+            "Name": "Chương 697 Kinh động các đại vực, hàng lâm Nam Hải",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4d0aa01a79a1af482153f",
+            "Name": "Chương 696 Côn Luân bá khí, các đại Hoàng tộc tức giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4d0aa01a79a1af482153e",
+            "Name": "Chương 695 Côn Luân nội tình, rung động hai đại vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f3786301a79a1af4803607",
+            "Name": "Chương 694 Khiêu chiến Hoàng tộc, So nội tình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f09fe701a79a0940e093d0",
+            "Name": "Chương 693 Thần Hoàng xuất thế, hai vực sôi trào",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ede9d901a79a10fce889c3",
+            "Name": "Chương 692 Nam Hải Thần Vực, các nơi bên trên Cổ Hoàng tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ede9d901a79a10fce889c2",
+            "Name": "Chương 691 Hoàng tộc cường giả không địch lại, tế ra Thần Hoàng pháp chỉ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67eca81101a79a10fce67438",
+            "Name": "Chương 690 Thượng cổ Hoàng tộc tức giận, Nam Hải chấn động mạnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67e21be101a79a16301bd55c",
+            "Name": "Chương 689 Thái Cổ Vương tộc diệt, Nam Hải chấn động mạnh.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67dd336601a79a177c3654d5",
+            "Name": "Chương 688 Vương tộc Thần Vương hiện thân, Côn Luân Thần Vương buông xuống",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67daec0201a79a0354b2e254",
+            "Name": "Chương 687 Kim gia diệt tuyệt vũ thế, Vương tộc cường giả tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d7f7c201a79a15085b84d8",
+            "Name": "Chương 686 Côn Luân cường giả hàng Lâm Nam hải",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6cae901a79a13f8167ee8",
+            "Name": "Chương 685 Vương tộc đồ sát Côn Luân đệ tử, Côn Luân toàn bộ cường giả thức tỉnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67d6cae901a79a13f8167ee7",
+            "Name": "Chương 684 Vương tộc thần tử thụ thương, chí tôn vây giết Côn Luân đệ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca88",
+            "Name": "Chương 683 Kim gia, sức mạnh và sự uy hiếp đối với Côn Luân?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca87",
+            "Name": "Chương 682 Côn Luân truyền nhân xuất hiện? Các châu bá chủ chấn kinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca86",
+            "Name": "Chương 681 Ba vạn quan tài, Kim gia phẫn nộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca85",
+            "Name": "Chương 680 Côn Luân ba vạn đệ tử áp trên Kim gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca84",
+            "Name": "Chương 679 Thiên Toàn châu bá chủ, Kim gia thịnh yến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca83",
+            "Name": "Chương 678 Ba ngày sau, cõng quan tài vào Kim gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca82",
+            "Name": "Chương 677 Côn Luân người, không sợ bất cứ chuyện gì",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca81",
+            "Name": "Chương 676 Thà ca cừu nhân, có liên quan Hoàng tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca80",
+            "Name": "Chương 675 Côn Luân đệ tử, nội môn thà ca",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca7f",
+            "Name": "Chương 674 Côn Luân hạch tâm đệ tử, quét ngang Đông Hoang cùng thế hệ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca7e",
+            "Name": "Chương 673 Hôm nay bắt đầu, nhìn xuống toàn bộ Đông Hoang",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca7d",
+            "Name": "Chương 672 Uy áp Thiên Thần Thư Viện, chấn động Đông Hoang đại địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7901a79a179ce7ca7c",
+            "Name": "Chương 671 Côn Luân cường thế, thế nhân chấn kinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca7b",
+            "Name": "Chương 670 Côn Luân Thần Vương giáng lâm, Thiên Thần thư viện nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca7a",
+            "Name": "Chương 669 Côn Luân cường giả, giáng lâm Thiên Thần thư viện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca79",
+            "Name": "Chương 668 Hai tòa đại giáo bị diệt, Côn Luân nhìn xuống một vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca78",
+            "Name": "Chương 667 Hai giáo Thiên Tôn cùng xuất thế, chiến tranh chính thức bùng nổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca77",
+            "Name": "Chương 666 Song Phương So Đấu Nội Tình, Côn Luân Kinh Khủng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca76",
+            "Name": "Chương 665 Côn Luân Tứ Đại Thiên Vương, khai chiến hai đại giáo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca75",
+            "Name": "Chương 664 Hai tòa đại giáo Chí Tôn xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca74",
+            "Name": "Chương 663 Hai đại giáo tới cửa tấn công Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca73",
+            "Name": "Chương 662 Thiên Quốc giáo chủ, Chí Tôn nhân vật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c92b7801a79a179ce7ca72",
+            "Name": "Chương 661 Lâm Vân liên trảm hai đại giáo truyền nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d714",
+            "Name": "Chương 660 Lâm Vân danh hào, vang lên lần nữa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d713",
+            "Name": "Chương 659 Ngoại viện đệ tử, các đại giáo đương đại truyền nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d712",
+            "Name": "Chương 658 Thiên Đạo Thư Viện chiêu sinh đại hội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d711",
+            "Name": "Chương 657 Siêu cấp đạo thống, Thiên Đạo Thư Viện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d710",
+            "Name": "Chương 656 Hoàng kim đại thịnh thế, vạn giáo vạn tộc đều đã xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70f",
+            "Name": "Chương 655 Đông Hoang Thái Cổ các tộc bị diệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70e",
+            "Name": "Chương 654 Hai mươi tám tinh quan, Đông Hoang đại chấn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70d",
+            "Name": "Chương 653 Thái Cổ các tộc lão tổ sắp xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70c",
+            "Name": "Chương 652 Thanh toán bắt đầu, vạn đạo khôi phục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70b",
+            "Name": "Chương 651 Lục đại Vương tộc nửa bước Đại Hiền đều bị diệt sát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d70a",
+            "Name": "Chương 650 Thái Cổ lục đại Vương tộc người tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d709",
+            "Name": "Chương 649 Thập đại Âm Soái, tứ đại Phán quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791edfc01a79a18bc13d708",
+            "Name": "Chương 648 Đại chiến bộc phát, Lục Thần thức tỉnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94de6",
+            "Name": "Chương 647 Thái Cổ các tộc tuyệt thế Đại Năng đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94de4",
+            "Name": "Chương 646 Cường giả Côn Luân giáng lâm, uy hiếp các tộc cường giả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94de2",
+            "Name": "Chương 645 Cổ lộ lịch luyện kết thúc, Thái Cổ các tộc giáng lâm Đông Hoang",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94de0",
+            "Name": "Chương 644 Đại chiến hai chí cường tuổi trẻ bá chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dde",
+            "Name": "Chương 643 Chém giết đám truyền nhân Thái Cổ các tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94ddc",
+            "Name": "Chương 642 Lâm Vân – Thiên tư cái thế, chấn kinh đại giáo truyền nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dda",
+            "Name": "Chương 641 Tranh hùng thế hệ trẻ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dd8",
+            "Name": "Chương 640 Chém giết một tên Thái Cổ tộc truyền nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dd6",
+            "Name": "Chương 639 Tinh Không Cổ Lộ, thiên kiêu chinh chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dd4",
+            "Name": "Chương 638 Hoàng kim đại thế, sắp đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dd2",
+            "Name": "Chương 637 Trấn sát Đại Năng, phong ba kết thúc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dd0",
+            "Name": "Chương 636 Sự tình sắp kết thúc, Thái Cổ Vương tộc cũng cúi đầu? 2",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dce",
+            "Name": "Chương 635 Sự tình sắp kết thúc, Thái Cổ Vương tộc cũng cúi đầu? 1",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dcc",
+            "Name": "Chương 634 Thái Cổ Vương tộc đáng sợ, thế nhân kinh hãi vạn phần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dca",
+            "Name": "Chương 633 Từng cái lão gia hỏa đều nhảy ra ngoài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dc8",
+            "Name": "Chương 632 Cổ lão thế lực, Bắc Chu Thần Sơn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dc6",
+            "Name": "Chương 631 Tuyệt thế Đại Năng khóa vực, các nơi Đại Năng đều kinh biến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dc4",
+            "Name": "Chương 630 Vực ngoại Đại Năng muốn giáng lâm Bắc Nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dc2",
+            "Name": "Chương 629 Bắc Nguyên Thái Cổ các tộc giận dữ, Đại Năng xuất thủ, muốn trấn sát Côn Luân các trưởng lão",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dc0",
+            "Name": "Chương 628 Cơ tộc suy yếu, các tộc nổi dậy chống Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dbe",
+            "Name": "Chương 627 Côn Luân cường thế, Thái Cổ các tộc thỏa hiệp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dbc",
+            "Name": "Chương 626 Sự bá khí của trưởng lão Côn Luân, Thái Cổ các tộc phẫn nộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dba",
+            "Name": "Chương 625 Chuẩn Chí Tôn Hóa Đạo, Côn Luân cường giả đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94db8",
+            "Name": "Chương 624 Cơ tộc chuẩn Chí Tôn gặp nạn, Bắc Nguyên Thái Cổ các tộc nhao nhao nổi dậy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94db6",
+            "Name": "Chương 623 Côn Luân trưởng lão xuất động, Cơ tộc Thánh Chủ phát cuồng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94db4",
+            "Name": "Chương 622 Cơ tộc tộc lão đến Côn Luân cầu viện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94db2",
+            "Name": "Chương 621 Hoang Cổ Cơ tộc nguy cơ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94db0",
+            "Name": "Chương 620 Thái Cổ Công Dương lại ra tay với Cơ tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dae",
+            "Name": "Chương 619 Danh tiếng Lâm Vân chấn động Đông Hoang",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94dac",
+            "Name": "Chương 618 Lâm Vân đại chiến Vương Đằng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94daa",
+            "Name": "Chương 617 Vương Đế cường thế tới cửa, phớt lờ uy nghiêm Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94da8",
+            "Name": "Chương 616 Thái Cổ Vương gia thần tử đến, Đông Hoang chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94da6",
+            "Name": "Chương 615 Cơ Tử Huyên, Ninh Ca trở thành đệ tử hạch tâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94da4",
+            "Name": "Chương 614 Lời nói kinh thiên của Lăng Mộc, Cơ Tử Huyên và những người khác bàng hoàng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94da2",
+            "Name": "Chương 613 Nội môn đệ tử Lưu Bắc, danh xưng Thiên Đế chuyển thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94da0",
+            "Name": "Chương 612 Cơ Tử Huyên thân phận bại lộ, Lăng Mộc giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d9e",
+            "Name": "Chương 611 Thái Cổ Vương tộc thần tử sắp giá lâm Đông Hoang",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d9c",
+            "Name": "Chương 610 Thiên Quốc muốn ra tay với Côn Luân rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d9a",
+            "Name": "Chương 609 Côn Luân chiêu thu đệ tử kết thúc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d98",
+            "Name": "Chương 608 Côn Luân chiêu thu đệ tử, khảo nghiệm bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d96",
+            "Name": "Chương 607 Quần tình xúc động, Cơ Tử Huyên được cứu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d94",
+            "Name": "Chương 606 Cơ Tử Huyên bị truy đuổi, đệ tử dự bị Côn Luân ra tay",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d92",
+            "Name": "Chương 605 Khi xưa yêu nghiệt thiên kiêu, Thái Cổ Nạp Lan thế gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d90",
+            "Name": "Chương 604 Đông Hoang khôi phục bình tĩnh, Côn Luân muốn khai tông chiêu thu đệ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d8e",
+            "Name": "Chương 603 Côn Luân danh chấn thiên hạ, Thái Cổ các tộc khắp các vực đều phải cúi đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d8c",
+            "Name": "Chương 602 Lâm Vân danh hào, chấn động trời đất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d8a",
+            "Name": "Chương 601 Côn Luân mười vạn đệ tử, giết đến Thái Cổ các tộc thiên kiêu khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d88",
+            "Name": "Chương 600 Côn Luân, Thái Cổ thiên kiêu đại chiến sinh tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d86",
+            "Name": "Chương 599 Côn Luân, Thái Cổ các tộc thiên kiêu sắp mở chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d84",
+            "Name": "Chương 598 Cơ tộc thần nữ xuất hiện, danh hiệu vương tử chấn động đại giáo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d82",
+            "Name": "Chương 597 Các tộc thiên kiêu đánh tới, Côn Luân Thập Tam Tử giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d80",
+            "Name": "Chương 596 Thái Cổ các tộc truyền thừa, đại địch Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d7e",
+            "Name": "Chương 595 Thái Cổ các tộc thiên kiêu truy sát, Lâm Vân bị đánh ra chân hỏa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d7c",
+            "Name": "Chương 594 Côn Luân và Thái Cổ tộc ngừng chiến, thế hệ trẻ tuổi tranh tài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d7a",
+            "Name": "Chương 593 Thái Cổ Công Dương gia, Bắc Nguyên Vương tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d78",
+            "Name": "Chương 592 Bắc Nguyên Vương gia, Cơ tộc thần nữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d76",
+            "Name": "Chương 591 Thái Cổ Quân gia cũng cúi đầu, Đông Hoang thiên hạ kịch chấn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d74",
+            "Name": "Chương 590 Thái Huyền cổ thành, Quân gia giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1901a79b1a68d94d72",
+            "Name": "Chương 589 Thái Cổ các tộc không bái? Côn Luân tái phạt Thái Cổ thế gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d70",
+            "Name": "Chương 588 Thái Cổ thế gia cúi đầu, Côn Luân chi chủ khiêu chiến Thái Cổ các tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d6e",
+            "Name": "Chương 587 Hai đại Thánh Chủ sắp khai chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d6c",
+            "Name": "Chương 586 Lục Thần xuất thế, Thái Cổ các tộc rung động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d6a",
+            "Name": "Chương 585 Bức Đế Lý Thất đêm, Vạn Cổ Thần Đế Trương Nhược Trần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d68",
+            "Name": "Chương 584 Tuyệt thế Vương giả tử, đợi Côn Luân chi chủ đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d66",
+            "Name": "Chương 583 Tạc Thiên Giáo chủ Từ Thiếu, công phạt Thái Cổ Nam Cung gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d64",
+            "Name": "Chương 582 Côn Luân chúa tể Thiên Tinh, thế gia chí tôn cổ khí",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d61",
+            "Name": "Chương 581",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d5f",
+            "Name": "Chương 580 Côn Luân vương giả ra tay, thế gia cường giả toàn diệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d5d",
+            "Name": "Chương 579 Thái Cổ thế gia tới cửa, Côn Luân các trưởng lão xuất động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d5b",
+            "Name": "Chương 578 Bắc Nguyên đệ nhất thế gia, Đông Hoang rung chuyển bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d59",
+            "Name": "Chương 577 Các Thái Cổ thế gia giận dữ, Côn Luân sắp bị hủy diệt sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d57",
+            "Name": "Chương 576 Chúng thế lực chinh phạt Côn Luân, tru diệt ma đầu Lâm Vân? (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d55",
+            "Name": "Chương 575 Chúng thế lực chinh phạt Côn Luân, tru diệt ma đầu Lâm Vân? (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d53",
+            "Name": "Chương 574 Lai lịch Nguyệt Thần Cung chủ, nội tình Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d51",
+            "Name": "Chương 573 Thái Cổ thế gia giận dữ, Côn Luân là thế lực ẩn thế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d4f",
+            "Name": "Chương 572 Quét ngang địch thủ, thần giới quan bế (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d4d",
+            "Name": "Chương 571 Quét ngang địch thủ, thần giới quan bế (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d4b",
+            "Name": "Chương 570 Thiên Quốc Thái tử chết, toàn bộ Côn Luân muốn hủy diệt?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d49",
+            "Name": "Chương 569 Lâm Vân thực lực kinh khủng, tuyệt thế thiên kiêu hoảng sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d47",
+            "Name": "Chương 568 Bắc Nguyên Thần Vực, hoàng kim cổ giáo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d45",
+            "Name": "Chương 567 Dao Quang Thánh giáo, tuyệt thế thiên kiêu giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d43",
+            "Name": "Chương 566 Bàn Vũ Thánh Triều đại kiếp, Lâm Vân trợ giúp Long Ngạo Thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d41",
+            "Name": "Chương 565 Đại chiến kết thúc, Thần Hoàng đại mộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d3f",
+            "Name": "Chương 564 Lâm Vân nổi điên, các thiên kiêu đại giáo khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d3d",
+            "Name": "Chương 563 Thần tộc thứ mười Thánh tử, chúng thiên kiêu liên thủ vây giết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d3b",
+            "Name": "Chương 562 Lâm Vân đại sát tứ phương, Âm Dương Giáo Thánh tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d39",
+            "Name": "Chương 561 Quần hùng hội tụ, tranh đoạt Thế Giới Thụ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d36",
+            "Name": "Chương 560 Long hành hổ bộ Thế Giới Thụ, ta gọi Thiên Tử, ngươi nhớ kỹ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d34",
+            "Name": "Chương 559 Ba mươi năm Hà Đông, ba mươi năm Hà Tây",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d32",
+            "Name": "Chương 558 Thần giới thi đấu, Côn Luân đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d30",
+            "Name": "Chương 557 Các thế lực lớn đến, sóng ngầm cuồn cuộn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d2e",
+            "Name": "Chương 556 Bên trên Cổ Thần giới muốn mở ra?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d2c",
+            "Name": "Chương 555 Đương thời đại khấu, đại giáo thiên kiêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d2b",
+            "Name": "Chương 554 Hắc đạo thiên kiêu, vạn giáo đại hội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d29",
+            "Name": "Chương 553 Côn Luân chấn nhiếp quần hùng, thu hoạch được Thái Sơ Cổ Quáng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d27",
+            "Name": "Chương 552 Quét ngang bầy địch, sinh tử bất luận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d26",
+            "Name": "Chương 551 Tranh đoạt cổ mỏ, thiên kiêu quyết đấu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d25",
+            "Name": "Chương 550 Côn Luân đến, chư hùng chấn kinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d24",
+            "Name": "Chương 549 Thái Cổ thế gia giáng lâm, Lục Thần cũng muốn tiến về",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d23",
+            "Name": "Chương 548 Cổ mỏ tranh đoạt, Côn Luân nổi lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d22",
+            "Name": "Chương 547 Thái Sơ cổ địa, Côn Luân đám người đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d21",
+            "Name": "Chương 546 Tranh đoạt Thái Sơ Cổ Quáng, các lộ hùng chủ hiện thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d20",
+            "Name": "Chương 545 Tứ đại thế lực, Côn Luân nhập thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1f",
+            "Name": "Chương 544 Thế lực lớn Thiên Thần Điện tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1e",
+            "Name": "Chương 543 Lục Thần bước vào cảnh giới Tiên Đế, Đại Đạo Cảnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1d",
+            "Name": "Chương 542 Đại La Thiên Địa, Dao Hoa Đạo Cung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1c",
+            "Name": "Chương 541 Côn Luân cường thế đánh vào trời xanh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1b",
+            "Name": "Chương 540 Cả giáo phi thăng, trời xanh tức giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d1a",
+            "Name": "Chương 539 Lưu vong thiên quan, cả giáo phi thăng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d19",
+            "Name": "Chương 538 Lục Thần mạnh, thiên địa khuất phục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d18",
+            "Name": "Chương 537 Côn Luân chi chủ xuất thế, chư thiên chúng sinh quỳ lạy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d17",
+            "Name": "Chương 536 San bằng dị vực, trên đời thần phục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d16",
+            "Name": "Chương 535 Công phá dị vực cổ quan, chư thiên đại quân rung động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d14",
+            "Name": "Chương 534 Côn Luân Hoàng giả muốn công quan, dị vực cổ xưa nhất sinh linh bừng tỉnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d13",
+            "Name": "Chương 533 Dị vực Hoàng giả bại, Côn Luân chấn Vũ trụ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d12",
+            "Name": "Chương 532 Dị vực thực lực kinh khủng, chư thiên sinh linh tuyệt vọng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d11",
+            "Name": "Chương 531 Dị vực Hoàng giả giận dữ, lưỡng giới sắp khai chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d10",
+            "Name": "Chương 530 Cái thế Hoàng giả bại trận, dị vực chư hoàng khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0f",
+            "Name": "Chương 529 Cái thế Hoàng giả chi uy, vạn vực chư hoàng kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0e",
+            "Name": "Chương 528 Dị tộc cái thế Hoàng giả, chư thiên vạn vực hoảng sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0d",
+            "Name": "Chương 527 Côn Luân lịch sáu vạn năm, dị tộc xâm lược",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0c",
+            "Name": "Chương 526 Một chưởng diệt đế tộc, Côn Luân chấn nhiếp cổ kim tương lai",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0b",
+            "Name": "Chương 525 Kỷ nguyên mới, lịch xưng là Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d0a",
+            "Name": "Chương 524 Các Đại Đế tinh hủy diệt, Côn Luân thống ngự chư thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d09",
+            "Name": "Chương 523 Trời xanh chi môn mở rộng, không thể cả giáo phi thăng?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d08",
+            "Name": "Chương 522 Lục Thần xuất thế, thiên hạ chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d07",
+            "Name": "Chương 521 Lục Thần bước vào Thiên Hoàng, Thiên Đế binh Đông Hoàng Chung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d06",
+            "Name": "Chương 520 Chân chính mở ra Đế Chiến, các Đại Đế tinh Đế binh động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d05",
+            "Name": "Chương 519 Thiên Hoàng khai chiến, Tiên Đế binh xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d04",
+            "Name": "Chương 518 Triệu hoán bốn tôn Thiên Hoàng, độc chiến ba ngàn đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d03",
+            "Name": "Chương 517 Các Đại Đế tinh nổi giận, Thiên Hoàng xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d02",
+            "Name": "Chương 516 Đạp diệt hết thảy địch, chúng sinh triều bái Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d01",
+            "Name": "Chương 515 Trong nháy mắt che trời, thế gian kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94d00",
+            "Name": "Chương 514 Côn Luân chi chủ xuất thủ, Thiên Hoàng giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cff",
+            "Name": "Chương 513 Côn Luân chi chủ xuất thủ, Thiên Hoàng giận dữ ngập trời",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cfe",
+            "Name": "Chương 512 Thiên Hoàng thần niệm, vạn cổ chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cfd",
+            "Name": "Chương 511 Trảm diệt các lộ tổ hoàng, chấn động nhân gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cfc",
+            "Name": "Chương 510 Thương Đế thủ đoạn, các lộ Cổ Hoàng kinh dị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cfb",
+            "Name": "Chương 509 Côn Luân mạnh, thiên hạ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1801a79b1a68d94cfa",
+            "Name": "Chương 508 Các lộ Cổ Hoàng xuất thủ, Côn Luân không sợ hết thảy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cc1701a79b1a68d94cf9",
+            "Name": "Chương 507 Các lộ Cổ Hoàng xuất thế, Côn Luân nội tình chấn động thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c7b",
+            "Name": "Chương 506 Kinh khủng Cửu Ly Tiên Triều, khai màn đại chiến kinh thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c7a",
+            "Name": "Chương 505 Chém rụng Bất Hủ Vương, vô thượng đế tộc xuất động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c79",
+            "Name": "Chương 504 Lục Thần bế quan thức tỉnh, muốn chinh phạt chư thiên đế thống",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c78",
+            "Name": "Chương 503 Lâm Vân trảm chuẩn Tiên Vương, thiên hạ đại chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c77",
+            "Name": "Chương 502 Lâm Vân giết tuyệt Đế tử, vô thượng đế thống sắp xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c76",
+            "Name": "Chương 501 Liên tiếp chém giết đế giả dòng dõi, liệu có đại họa giáng xuống?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c75",
+            "Name": "Chương 500 Đế tử đều bị trảm, đế giả đạo thống giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c74",
+            "Name": "Chương 499 Đại Thành Thánh Thể chi uy, chấn động thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c73",
+            "Name": "Chương 498 Đại Thành Thánh Thể, chấn động thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c72",
+            "Name": "Chương 497 Một góc vùng đất cổ thần bí, di tích La Hồng hoang khổng lồ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c71",
+            "Name": "Chương 496 Côn Luân thiên kiêu lâm nguy, thế lực khắp nơi tranh giành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c70",
+            "Name": "Chương 495 Chư thiên nhân kiệt đại chiến, tông môn cổ đại nhân vật cái thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6f",
+            "Name": "Chương 494 Tất cả Đế tử tề tụ, vây giết Côn Luân thiên kiêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6e",
+            "Name": "Chương 493 Đại quyết chiến cuối cùng, tranh đấu tuổi trẻ Chí Tôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6d",
+            "Name": "Chương 492 Chiến sự ngắn ngủi lắng lại, Tiên Cổ bí cảnh đại loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6c",
+            "Name": "Chương 491 Chư thiên vạn vực chấn động, đế giả dòng dõi bỏ mình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6b",
+            "Name": "Chương 490 Côn Luân thông thiên chi pháp, trấn áp đế giả chi pháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c6a",
+            "Name": "Chương 489 Thiên kiêu nhập Tiên Cổ, đại tranh chi thế bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c69",
+            "Name": "Chương 488 Chư thiên mười hai Đế tử, Côn Luân thiên kiêu đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c68",
+            "Name": "Chương 487 Tiên Cổ chiến trường, Côn Luân chi danh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c67",
+            "Name": "Chương 486 Tuyên cổ đại tộc rút lui, chư thiên vạn vực chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c66",
+            "Name": "Chương 485 Cường thế Côn Luân, cự đầu xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c65",
+            "Name": "Chương 484 Côn Luân hộ vệ toàn bộ giáng lâm, yêu tộc lão bất tử giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c64",
+            "Name": "Chương 483 Chuẩn Tiên Vương xuất thủ, Vân Khê bị trọng thương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c63",
+            "Name": "Chương 482 Nhân kiệt khai chiến, kinh động một phương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c62",
+            "Name": "Chương 481 Côn Luân thiên tử thiên nữ? Phong Đình khiêu khích Côn Luân đệ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c61",
+            "Name": "Chương 480 Côn Luân đệ tử, khí thế bàng bạc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c60",
+            "Name": "Chương 479 Côn Luân chấn nhiếp vạn vực, thượng giới thiên kiêu giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5f",
+            "Name": "Chương 478 Các ngươi đều là hạ thần, nghe theo pháp lệnh Côn Luân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5e",
+            "Name": "Chương 477 Phương Tây Phật Môn Lạc Bại, Sùng Quân Giới Biển Trời Quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5d",
+            "Name": "Chương 476 Một vị Cổ Phật bị trấn sát, kinh động Đại Lôi Âm Tự",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5c",
+            "Name": "Chương 475 Phật môn Cổ Hoàng kinh hãi, Phán Quan Bút, Sinh Tử Bạc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5b",
+            "Name": "Chương 474 Chương cổ Phật giáng lâm, Đại Lôi Âm Tự",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c5a",
+            "Name": "Chương 473 Côn Luân nội tình đáng sợ, chư thiên kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c59",
+            "Name": "Chương 472 Muốn độ hóa Côn Luân Tiên Vương, phật môn các vị Đại Phật nhuốm máu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c58",
+            "Name": "Chương 471 Phật môn ba ngàn thần phật, một tôn Thiên Hoàng giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c57",
+            "Name": "Chương 470 Tụng ta tên thật người, trong luân hồi nhìn thấy vĩnh sinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c56",
+            "Name": "Chương 469 Vô Thủy đơn độc tấn công Phật môn, Côn Luân lại lần nữa phái Tiên Vương ra trận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c55",
+            "Name": "Chương 468 Hôm nay Phật môn chi địa, muốn mất đi một châu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c54",
+            "Name": "Chương 467 Phật chủ xuất thủ, Vô Thủy Trưởng Lão giáng lâm Phật môn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c53",
+            "Name": "Chương 466 Phật môn nội tình thức tỉnh, phật tử chính là Tiên Đế dòng dõi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c52",
+            "Name": "Chương 465 Phương Tây Phật Môn Linh Sơn, chân chính nội tình chi địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c51",
+            "Name": "Chương 464 Côn Luân chi chủ nổi giận, Phật môn Tiên Vương rút lui",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c50",
+            "Name": "Chương 463 Côn Luân cự đầu xuất thủ, Phật môn cường giả giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4f",
+            "Name": "Chương 462 Phật môn Tiên Vương, giáng lâm Càn Nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4e",
+            "Name": "Chương 461 Côn Luân nội môn thi đấu, Vạn Phật Tiên Đình Bồ Tát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4d",
+            "Name": "Chương 460 Kinh động Đại La Thiên, hiển hiện vô thượng thế lực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4c",
+            "Name": "Chương 459 Trấn tông nhân vật một trong, Hoang Thiên Đế hiển hóa chấn cổ kim",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4b",
+            "Name": "Chương 458 Cổ Hoàng kinh hãi, kia là Đế Giả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c4a",
+            "Name": "Chương 457 Bất Tử Đế Sơn tuyệt vọng, kêu gọi Cổ Hoàng tên thật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c49",
+            "Name": "Chương 456 Vang dội cổ kim, trấn áp Đế Sơn cổ tổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c48",
+            "Name": "Chương 455 Thiên Sơn diệt tuyệt, Bất Tử Đế Sơn sụp đổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c47",
+            "Name": "Chương 454 Táng Chủ xuất thủ, che đậy vạn cổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c46",
+            "Name": "Chương 453 Thiên Sơn cổ tổ tức giận, triệu hoán táng địa chi chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c45",
+            "Name": "Chương 452 Các lớn vạn cổ cự đầu kinh, Côn Luân không thể thôi diễn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c44",
+            "Name": "Chương 451 Khai chiến Bất Hủ Đế thống? Côn Luân thật là điên rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c43",
+            "Name": "Chương 450 Vạn cổ cự đầu xuất thế, triệu hoán cường giả giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c42",
+            "Name": "Chương 449 Chân đạp tuế nguyệt bờ sông, đồng dạng vô địch thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c41",
+            "Name": "Chương 448 Tuế nguyệt trường hà hiển hóa thế gian, bất hủ tồn tại đi ngược dòng nước",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c40",
+            "Name": "Chương 447 Các thế lực bất hủ chấn động, Bất Hủ Chi Vương nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3f",
+            "Name": "Chương 446 Mở ra cuộc chiến bất hủ chân chính, Côn Luân thổi vang hồi chuông cổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3e",
+            "Name": "Chương 445 Bất hủ tồn tại xuất thế, chư thiên sinh linh kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3d",
+            "Name": "Chương 444 Trấn áp Thiên Sơn lão tổ, xuất hiện cổ hoàng tồn tại!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3c",
+            "Name": "Chương 443 Không phải chân chính bất hủ chiến? Chư Thiên Vạn Giới kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3b",
+            "Name": "Chương 442 Bất hủ chiến khai mở, chư thiên kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c3a",
+            "Name": "Chương 441 Bất hủ Thiên Sơn nổi giận, Chư Thiên Vạn Giới chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c39",
+            "Name": "Chương 440 Bất tử Đế Sơn cổ tổ, chư thiên bí cảnh biến mất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbca01a79b1a68d94c38",
+            "Name": "Chương 439 Thiên kiêu kinh hãi, vạn cổ cự đầu phục sinh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c37",
+            "Name": "Chương 438 Tử Nguyệt Dao sở tu chi pháp, Vân Tiêu nương nương đại đạo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c36",
+            "Name": "Chương 437 Cổ đại Đế tử, đại chiến cuối cùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c35",
+            "Name": "Chương 436 Tiên Vạn Cự Đầu, Vạn Cổ Cự Đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c34",
+            "Name": "Chương 435 Cơ duyên xuất hiện, đại chiến thiên kiêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c33",
+            "Name": "Chương 434 Thần thoại bí cảnh xuất hiện, cổ đại thiên kiêu xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c32",
+            "Name": "Chương 433 Thí Luyện Trường Chư Thiên, Chín Mươi Chín Cửa Ải",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c31",
+            "Name": "Chương 432 Bất hủ tiên triều Thái tử, muốn săn giết Côn Luân đệ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c30",
+            "Name": "Chương 431 Bất hủ thế lực, Cửu Ly Tiên Triều",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2f",
+            "Name": "Chương 430 Chiêu thu đệ tử, rung động chín tầng trời",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2e",
+            "Name": "Chương 429 Khiêu khích uy nghiêm Tiên Đình, mà vẫn bình yên vô sự?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2d",
+            "Name": "Chương 428 Tiên Vương vẫn lạc, Dao Trì Tiên Đình tức giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2c",
+            "Name": "Chương 427 Vô thượng Tiên Vương giáng lâm, Tiên Vương đều sợ hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2b",
+            "Name": "Chương 426 Lục Thần xuất thủ, Tiên Vương giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c2a",
+            "Name": "Chương 425 Bất hủ thế lực, nhao nhao xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c29",
+            "Name": "Chương 424 Lục Thần phải đi thịnh hội, một tòa Tiên Vương đại mộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c28",
+            "Name": "Chương 423 Diệt Phù Đồ Tiên Tộc, Sứ giả Dao Trì Tiên Đình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c27",
+            "Name": "Chương 422 Dao Trì thịnh hội, Phù Đồ Tiên Tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c26",
+            "Name": "Chương 421 Trấn áp chuẩn Tiên Vương, Côn Luân rung động chín tầng trời",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c25",
+            "Name": "Chương 420 Chuẩn Tiên Vương đẫm máu, kinh hãi thế nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c24",
+            "Name": "Chương 419 Tiên Bảo Các nổi giận, tỉnh lại chuẩn Tiên Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c23",
+            "Name": "Chương 418 Vạn Giới Tiên Cung, Dao Trì Tiên Đình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c22",
+            "Name": "Chương 417 Hoang Thiên Tiên vực, Tiên Bảo Các tức giận.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c21",
+            "Name": "Chương 416 Lục Thần thành Thiên Tôn, Tiên Vương triệu hoán thẻ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c20",
+            "Name": "Chương 415 Côn Luân cường thế bá đạo, kinh động Thái Âm thần tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1f",
+            "Name": "Chương 414 Muốn tổn thương đệ tử Côn Luân, đều phải trả giá đại giới thảm trọng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1e",
+            "Name": "Chương 413 Tiên bảo các thiên kiêu, e ngại Lâm Vân uy thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1d",
+            "Name": "Chương 412 Đoàn thị cổ tộc, Tiên Cổ chiến trường",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1c",
+            "Name": "Chương 411 Tử Phủ Tiên Điện, Thái Âm Tiên Cung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1b",
+            "Name": "Chương 410 Bàn Vũ hoàng chủ bối rối, kinh động đỉnh cấp thế lực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c1a",
+            "Name": "Chương 409 Thiên Tôn vẫn lạc, thiên hạ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c19",
+            "Name": "Chương 408 Thiên Tôn giáng lâm, Thiên Nguyên Tiên Vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c18",
+            "Name": "Chương 407 Côn Luân xuất thủ, Thiên tôn pháp chỉ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c17",
+            "Name": "Chương 406 Đạo Tôn giáng lâm, triệu hoán cường giả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c16",
+            "Name": "Chương 405 Thôi diễn Côn Luân lai lịch, Bàn Vũ hoàng chủ sợ hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c15",
+            "Name": "Chương 404 Tiên quốc cường giả, gặp mặt Lục Thần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c14",
+            "Name": "Chương 403 Thần Tôn đấu pháp, thiên hạ chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c13",
+            "Name": "Chương 402 Lang Gia Tiên Tộc, Thánh Tôn giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c12",
+            "Name": "Chương 401 Hủy diệt Luyện Thần Tông, chấn động ba ngàn châu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c11",
+            "Name": "Chương 400 Thần Tôn xuất thủ, chấn động hoàn vũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cbc901a79b1a68d94c10",
+            "Name": "Chương 399 Côn Luân hạch tâm đệ tử, đều leo lên Thiên Kiêu Bảng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0f",
+            "Name": "Chương 398 Côn Luân đệ tử, danh tiếng vang xa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0e",
+            "Name": "Chương 397 Thiên kiêu cổ thành, cửu thiên Nhân Hoàng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0d",
+            "Name": "Chương 396 Siêu cấp thế lực, Lang Gia Tiên Tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0c",
+            "Name": "Chương 395 Luyện Thần Tông cúi đầu, Côn Luân danh chấn Thiên Châu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0b",
+            "Name": "Chương 394 Ma Chủ giáng lâm, Luyện Thần Tông kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c0a",
+            "Name": "Chương 393 Tỉnh lại lão tổ, vô thượng Ma Chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c09",
+            "Name": "Chương 392 Nếu không, khai chiến với Luyện Thần Tông?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c08",
+            "Name": "Chương 391 Trần Bắc Huyền giận, Lâm Vân nguy cơ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c07",
+            "Name": "Chương 390 Lâm Vân trọng thương, Thần Hoang Hồn Điện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c06",
+            "Name": "Chương 389 Thiên kiêu bị phế, Lâm Vân bị truy sát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c05",
+            "Name": "Chương 388 Thiên Kiêu Bảng, Lâm Vân, Đấu Chiến Thánh Thể",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9601a79b1a68d94c04",
+            "Name": "Chương 387 Cường thế trấn sát, Khôn Sơn xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94c03",
+            "Name": "Chương 386 Phiền phức xuất hiện, hai Chân Tiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94c02",
+            "Name": "Chương 385 Ngươi gọi không dậy nổi, an vị tiểu hài bàn kia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94c01",
+            "Name": "Chương 384 Đấu giá bắt đầu, Lâm Vân giật mình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94c00",
+            "Name": "Chương 383 Thiên Bảo Tiên Các, Vô Cực phân các",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bff",
+            "Name": "Chương 382 Luyện Thần Tông, rơi Thần Thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bfe",
+            "Name": "Chương 381 Cái gì đều ngọc, sẽ chỉ hại ngươi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bfd",
+            "Name": "Chương 380 Leo lên cửu thiên, mới bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bfc",
+            "Name": "Chương 379 Đại chiến kết thúc, leo lên cửu thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bfb",
+            "Name": "Chương 378 Các đại thánh địa bị diệt, vô số tu sĩ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bfa",
+            "Name": "Chương 377 Nghịch thiên mà lên, công phạt thánh địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf9",
+            "Name": "Chương 376 Lục Thần đứng giữa thiên địa, Đạo Quân không thể hạ giới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf8",
+            "Name": "Chương 375 Khai chiến một đám thánh địa, Thái Cổ quân vương giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf7",
+            "Name": "Chương 374 Nhiệm vụ hoàn thành, trở về Côn Luân.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf6",
+            "Name": "Chương 373 Đại lục đỉnh cấp thế lực, Vạn Thiên Thánh Địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf5",
+            "Name": "Chương 372 Côn Luân nhiệm vụ, Huyền Thần Đại Lục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf4",
+            "Name": "Chương 371 Bàn Vũ tiên quốc, có đơn đặt hàng lớn?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf3",
+            "Name": "Chương 370 Tiên quốc công chúa, cổ lão Tiên Tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf2",
+            "Name": "Chương 369 Linh Dao nhập Côn Luân, đệ tử Vũ Nguyệt Thiền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf1",
+            "Name": "Chương 368 Khai chiến ngày, đăng lâm cửu thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bf0",
+            "Name": "Chương 367 Cửu U Hoàng Tuyền tháp, cửu thiên người hạ giới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bef",
+            "Name": "Chương 366 Côn Luân thông Thiên Thần, bên trong có ba mươi ba tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bee",
+            "Name": "Chương 365 Tuyệt mỹ nữ tử, ngàn vạn tu sĩ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bed",
+            "Name": "Chương 364 Tử Nguyệt Dao trên chín tầng trời, công chúa điện hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bec",
+            "Name": "Chương 363 Ba mươi ba Tiên Vực, ba mươi ba trọng trời",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94beb",
+            "Name": "Chương 362 Tùy ý xuất thủ, ban thưởng ngươi thành đạo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bea",
+            "Name": "Chương 361 Ban thưởng ngươi tạo hóa, đáng sợ đạo pháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be9",
+            "Name": "Chương 360 Côn Luân chi chủ, thế nhân kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be8",
+            "Name": "Chương 359 Tiêu gia ngũ tổ, vạn tộc lão bất tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be7",
+            "Name": "Chương 358 Mênh mông cửu thiên, Càn Nguyên Tiên Vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be6",
+            "Name": "Chương 357 Địa Tiên chi tổ, Trấn Nguyên tiên quả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be5",
+            "Name": "Chương 356 Liễu Thần xuất hiện, thiên hạ rung động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be4",
+            "Name": "Chương 355 Tử Vi Thánh Địa, quân vương suy nghĩ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be3",
+            "Name": "Chương 354 Không biết trời cao đất rộng? Ngươi thử xuống xem sao!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be2",
+            "Name": "Chương 353 Triệu hoán Liễu Thần, Tiên Vương cự đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be1",
+            "Name": "Chương 352 Thánh địa Thánh Quân giáng lâm, ngươi thế mà chỉ là Tiên Quân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94be0",
+            "Name": "Chương 351 Mười tám tôn Tiên Quân sợ hãi, Côn Luân có Thánh Quân tồn tại?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bdf",
+            "Name": "Chương 350 Tiên Quân vẫn lạc, thế nhân run rẩy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bde",
+            "Name": "Chương 349 Chúng thánh địa Tiên Quân giáng lâm, muốn hủy diệt Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bdd",
+            "Name": "Chương 348 Bí cảnh kết thúc, đại chiến sắp nổi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bdc",
+            "Name": "Chương 347 Cửu Huyền Tiên Tôn, ta có thể cự tuyệt sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bdb",
+            "Name": "Chương 346 Côn Luân chi chủ? Nghịch chuyển vạn cổ tuế nguyệt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bda",
+            "Name": "Chương 345 Tiên Cổ kỷ nguyên, Đế lạc thời đại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd9",
+            "Name": "Chương 344 Côn Luân mười tử, che đậy hết thảy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd8",
+            "Name": "Chương 343 Liễu Thần chi pháp, Chân Hoàng chi thuật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd7",
+            "Name": "Chương 342 Chư Thiên Vạn Giới mạnh nhất pháp, cần gì người khác chi pháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd6",
+            "Name": "Chương 341 Truyền thừa xuất hiện, Cửu Huyền Tiên Tôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd5",
+            "Name": "Chương 340 Một tay trấn sát, bản nguyên chi thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd4",
+            "Name": "Chương 339 Vô địch dáng người, rung động thiên địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd3",
+            "Name": "Chương 338 Khí cơ ngập trời, Tiên Tôn đạo trường?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd2",
+            "Name": "Chương 337 Một tôn vương giả trẻ tuổi đáng sợ, thế lực trên cả thánh địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd1",
+            "Name": "Chương 336 Chư Thiên Sơn mở ra, sinh tử do trời định",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bd0",
+            "Name": "Chương 335 Tuổi trẻ vương giả, giáng lâm thập địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bcf",
+            "Name": "Chương 334 Lâm Vân xuất thủ, đại chiến Thánh tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bce",
+            "Name": "Chương 333 Lâm Vân xuất hiện, chấn động thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bcd",
+            "Name": "Chương 332 Chư Thiên Sơn Mạch, thiên kiêu tụ tập",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bcc",
+            "Name": "Chương 331 Mưu đồ vạn cổ, muốn nghịch thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bcb",
+            "Name": "Chương 330 Tru thiên kế hoạch, loạn thế đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bca",
+            "Name": "Chương 329 Chư Thiên Sơn Mạch, Thái Cổ Tiêu gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc9",
+            "Name": "Chương 328 Sắp nổi gió to, thiên kiêu san sát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc8",
+            "Name": "Chương 327 Vũ Hóa Thánh tử tức giận, Thiên Tông cường giả sợ hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc7",
+            "Name": "Chương 326 Thánh địa Thánh tử, tề tụ thập địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc6",
+            "Name": "Chương 325 Thánh tử chấn kinh, sóng ngầm cuồn cuộn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc5",
+            "Name": "Chương 324 Trên đời rầm rộ, phong vân dũng động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc4",
+            "Name": "Chương 323 Thánh địa người giáng thế, thiên hạ đại loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc3",
+            "Name": "Chương 322 Thiên Tông cúi đầu, kết xuống nhân quả!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc2",
+            "Name": "Chương 321 Ngập trời vô thượng chi thế, trấn áp nửa bước Tiên Quân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc1",
+            "Name": "Chương 320 Nửa bước Tiên Quân giáng lâm, Vũ Hóa Thiên Tông cúi đầu!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bc0",
+            "Name": "Chương 319 Lấn tới binh qua, công phạt Thiên Tông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bbf",
+            "Name": "Chương 318 Côn Luân chi danh, rung động thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bbe",
+            "Name": "Chương 317 Có kẻ muốn chết, khiêu khích Thiên Tông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bbd",
+            "Name": "Chương 316 Biết được tin tức, Lục Thần tức giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bbc",
+            "Name": "Chương 315 Vũ Hóa Thiên Tông, thánh địa lệ thuộc trực tiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bbb",
+            "Name": "Chương 314 Đệ nhất giới vực, Vũ Hóa Thiên Tông.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bba",
+            "Name": "Chương 313 Hạ giới đi lên, đệ nhất giới vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb9",
+            "Name": "Chương 312 Thanh Khâu Đến, Chúa Tể Chư Thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb8",
+            "Name": "Chương 311 Côn Lôn Không Sợ Trời Đất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb7",
+            "Name": "Chương 310 Sáu đại giáo, thuộc hạ của Côn Lôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb6",
+            "Name": "Chương 309 Lục Thần tỉnh lại, bước vào cảnh giới Tuyệt Thế Chân Tiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb5",
+            "Name": "Chương 308 Đại giáo thế lực, triều thánh Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9501a79b1a68d94bb4",
+            "Name": "Chương 307 Thanh Khâu bảo vật, Tiên Vương chi cốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bb3",
+            "Name": "Chương 306 Thanh Khâu nhất tộc, Đại Bằng nhất tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bb2",
+            "Name": "Chương 305 Thu Côn Luân vào Thánh địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bb1",
+            "Name": "Chương 304 Hết thảy kết thúc, trở về bình tĩnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bb0",
+            "Name": "Chương 303 Đại chiến kết thúc, Tử Vi Thánh Địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94baf",
+            "Name": "Chương 302 Thiên Quân giáng lâm, muốn dừng binh qua",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bae",
+            "Name": "Chương 301 Tiên Quân phẫn nộ, rút ra An Lan chân linh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bad",
+            "Name": "Chương 300 Vô địch An Lan, Tiên Quân biến sắc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bac",
+            "Name": "Chương 299 Tiên Quân đích thân xuất động, chấn động chốn thánh địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94bab",
+            "Name": "Chương 298 Thế nhân điên cuồng, liều mạng tiêu diệt ý niệm hóa thân Tiên Quân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94baa",
+            "Name": "Chương 297 Chính là chân thân xuống tới, cũng không lay động được Côn Luân bản phận!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba9",
+            "Name": "Chương 296 Tiên Quân ý niệm hóa thân, chân chính hiển hóa thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba8",
+            "Name": "Chương 295 Tiên Quân pháp chỉ, muôn loài khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba7",
+            "Name": "Chương 294 Khai chiến Hoang gia, Tiên Quân pháp chỉ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba6",
+            "Name": "Chương 293 Huyền Linh Cung nguy cơ, Côn Luân xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba5",
+            "Name": "Chương 292 Côn Luân chấn động thiên hạ, đại chiến tái khởi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba4",
+            "Name": "Chương 291 Một câu chi ngôn, diệt trừ Chân Quân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba3",
+            "Name": "Chương 290 Vô Thượng Chân Quân, giáng lâm thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba2",
+            "Name": "Chương 289 Vô Thượng Chân Quân, Bất Hủ Chi Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba1",
+            "Name": "Chương 288 Kinh khủng người, Chân Tiên cự đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94ba0",
+            "Name": "Chương 287 Đại quân áp cảnh, đại chiến lại lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94b9f",
+            "Name": "Chương 286 Giám Thiên Thánh Cung, phẫn nộ bừng lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb9401a79b1a68d94b9e",
+            "Name": "Chương 285 Thánh địa náo động, thập địa thế lực sôi sục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b62",
+            "Name": "Chương 284 Thánh địa muốn động, Côn Luân có nguy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b61",
+            "Name": "Chương 283 Cửu Thiên người, thánh địa hiển hiện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b60",
+            "Name": "Chương 282 Hoang gia có lai lịch đáng sợ, Côn Luân cũng không hề e ngại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5f",
+            "Name": "Chương 281 Đổi trắng thay đen, không hổ là ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5e",
+            "Name": "Chương 280 Hoang gia cầu hôn, đứng trước đại nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5d",
+            "Name": "Chương 279 Kinh hãi thiên hạ, người bí ẩn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5c",
+            "Name": "Chương 278 Đại chiến kết thúc, tru diệt cửu tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5b",
+            "Name": "Chương 277 Hai tôn cổ tổ xuất hiện, Côn Luân gặp nguy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b5a",
+            "Name": "Chương 276 Chỉ là hạt gạo chi quang, cũng dám cùng hạo nguyệt tranh nhau phát sáng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b59",
+            "Name": "Chương 275 Nhữ chi truyền thừa, khi triệt để đoạn tuyệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b58",
+            "Name": "Chương 274 Nghịch phạt Chân Tiên, thiên hạ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b57",
+            "Name": "Chương 273 Thế lực vô thượng đáng sợ, Hồng Trần Chân Tiên nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b56",
+            "Name": "Chương 272 Cường thế trấn sát hơn mười tôn Đại Đế, Chân Tiên lão tổ nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b55",
+            "Name": "Chương 271 Kinh khủng Đế Chiến, Chân Tiên xuất động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b54",
+            "Name": "Chương 270 Thanh âm từ Cửu Thiên Thần Linh, ung dung quanh quẩn giữa trời đất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b53",
+            "Name": "Chương 269 Trận chiến sắp bắt đầu, triệu hồi hai tôn cường giả tiên đạo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b52",
+            "Name": "Chương 268 Tự chịu diệt vong, đạo thống đoạn tuyệt?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b51",
+            "Name": "Chương 267 Mưu đồ hồi lâu, bày ra tử cục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b50",
+            "Name": "Chương 266 Hai đại giáo khai chiến, chư thế lực kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4f",
+            "Name": "Chương 265 Nếu muốn khai chiến, vậy liền khai chiến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4e",
+            "Name": "Chương 264 Dự cảm không tốt, đại chiến sắp nổi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4d",
+            "Name": "Chương 263 Áp lực từ các đại giáo, nhận lỗi một phen?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4c",
+            "Name": "Chương 262 Côn Luân đến, bắt đầu nổi lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4b",
+            "Name": "Chương 261 Hoang gia đến, toàn trường khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5e01a79b1a68d94b4a",
+            "Name": "Chương 260 Vũ trụ mênh mông chỗ sâu, Chân Tiên cự đầu sinh linh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b49",
+            "Name": "Chương 259 Huyền Linh Cung nội tình thức tỉnh, tìm kiếm một lối thoát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b48",
+            "Name": "Chương 258 Có tiên khai chiến, chấn động hoàn vũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b47",
+            "Name": "Chương 257 Các ngươi làm rất tốt, không để bản tọa thất vọng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b46",
+            "Name": "Chương 256 Chính là Chân Quân đại tộc, cũng muốn trả giá đắt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b45",
+            "Name": "Chương 255 Cửu thiên thế lực lớn, Vũ lão tâm giật mình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b44",
+            "Name": "Chương 254 Vũ chi nhất tộc, Hồng Trần Chân Tiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b43",
+            "Name": "Chương 253 Vũ lão kinh hãi, Côn Luân chi chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b42",
+            "Name": "Chương 252 Lâm Vân và những người khác rời đi, tiên dòng dõi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b41",
+            "Name": "Chương 251 Sau ba ngày, thần tử thân lên Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b40",
+            "Name": "Chương 250 Làm sao có thể! Vậy mà đệ tử Côn Luân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3f",
+            "Name": "Chương 249 Thị vệ Hoang gia Thần Vương, bức ép Lâm Vân và những người khác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3e",
+            "Name": "Chương 248 Hoang gia thần tử coi trọng, Côn Luân đệ tử nguy hiểm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3d",
+            "Name": "Chương 247 Để Côn Luân đệ tử, trở thành thị nữ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3c",
+            "Name": "Chương 246 Coi trọng Huyền Linh Cung chủ, hai ngày sau tới cửa cầu hôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3b",
+            "Name": "Chương 245 Cổ lão Hoang gia, nội tình kinh khủng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b3a",
+            "Name": "Chương 244 Cho ta đầy đủ thời gian, ta sẽ siêu việt tông chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b39",
+            "Name": "Chương 243 Hoang Cổ đạo vực, cổ lão đại tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b38",
+            "Name": "Chương 242 Ba ngàn đạo vực, một đại giới vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b37",
+            "Name": "Chương 241 Thần triều kiêng kị, Huyền Linh Cung đại thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b36",
+            "Name": "Chương 240 Thần triều thần uy mất hết, Huyền Linh Cung người tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b35",
+            "Name": "Chương 239 Đây là cảnh đẹp nhất trần gian, cũng là để người ta phải than tiếc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b34",
+            "Name": "Chương 238 Ngồi một phương thiên địa, nhìn rõ chuyện thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b33",
+            "Name": "Chương 237 Mời Côn Luân chi chủ, Vũ lão lo lắng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b32",
+            "Name": "Chương 236 Côn Luân lai lịch bí ẩn, thế gian không ai hay biết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b31",
+            "Name": "Chương 235 Chủ nhân Côn Luân, Thủ đoạn thông thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b30",
+            "Name": "Chương 234 Lão Vu muốn ra tay, mọi người chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2f",
+            "Name": "Chương 233 Nữ Đế Nổi Giận, Huyền Linh Cung Chấn Động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2e",
+            "Name": "Chương 232 Tuyệt thế Nữ Đế, bạn cũ trùng phùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2d",
+            "Name": "Chương 231 Đương thời giáo chủ, chấn động thế nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2c",
+            "Name": "Chương 230 Tần Nhược Tiên xuất hiện, chứng kiến đạo quả thành tựu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2b",
+            "Name": "Chương 229 Sự tình cuối cùng kết thúc, lịch luyện ba ngàn đạo vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b2a",
+            "Name": "Chương 228 Đệ tử xuất sơn, Côn Luân chấn động Tử Vi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b29",
+            "Name": "Chương 227 Đã từng đại tộc, Thanh Khâu nhất tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b28",
+            "Name": "Chương 226 Lịch đại đại năng, truyền thừa vô số",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b27",
+            "Name": "Chương 225 Ngũ đại siêu cấp thế lực, cùng Côn Luân giao hảo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b26",
+            "Name": "Chương 224 Đứng ở thiên địa, còn gì phải sợ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b25",
+            "Name": "Chương 223 Vừa mới nhập thế, thực lực nhỏ yếu?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b24",
+            "Name": "Chương 222 Ngũ đại thế lực, tiến về Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b23",
+            "Name": "Chương 221 Chư thiên đại hội, thủ vững thiên quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b22",
+            "Name": "Chương 220 Tử Nguyệt Dao, nhập Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b21",
+            "Name": "Chương 219 Chân Tiên bất quá là điểm xuất phát, đến được tiên đạo cuối cùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b20",
+            "Name": "Chương 218 Luân hồi người, trùng tu một thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1f",
+            "Name": "Chương 217 Thần bí Tử Nguyệt Dao, vô tận tuế nguyệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1e",
+            "Name": "Chương 216 Thần bí gông xiềng, mênh mông khí tức",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1d",
+            "Name": "Chương 215 Thái Thượng trưởng lão, không nhất thời vội vã",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1c",
+            "Name": "Chương 214 Côn Luân danh tiếng vang xa, đệ tử rung động vạn phần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1b",
+            "Name": "Chương 213 Các ngươi nếu dám bất kính, ta coi như thật thân giáng lâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b1a",
+            "Name": "Chương 212 Chiến lực ngập trời, trấn sát ba tôn Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b19",
+            "Name": "Chương 211 Lẻ loi một mình, công phạt thần triều",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b18",
+            "Name": "Chương 210 Không thấy cửu thiên chi thượng, há biết Côn Luân mạnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b17",
+            "Name": "Chương 209 Không một lời ra, cường thế xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b16",
+            "Name": "Chương 208 Một đạo đế ảnh uy nghiêm, uy lâm Thánh Vũ thần triều",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b15",
+            "Name": "Chương 207 Lẻ loi một mình tiến lên, chấn động thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b14",
+            "Name": "Chương 206 Nếu như là thiên địa bất kính, liền đánh chìm phương thiên địa này",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b13",
+            "Name": "Chương 205 Trên đời kinh hãi, Cổ Chi Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b12",
+            "Name": "Chương 204 Tự nhận vũ trụ mạnh nhất, thần triều Vũ Ám Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b11",
+            "Name": "Chương 203 Phổ thông Đại Đế, Cổ Chi Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b10",
+            "Name": "Chương 202 Hằng Vũ Đại Đế, Hư Không Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0f",
+            "Name": "Chương 201 Đại Đế đối đầu, triệu hoán hai tôn Đại Đế khác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0e",
+            "Name": "Chương 200 Đại Đế cũng muốn nhuốm máu? Đại Đế giận dữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0d",
+            "Name": "Chương 199 Đại Đế giáng lâm, chấn động rất nhiều đạo vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0c",
+            "Name": "Chương 198 Cổ chi đại năng biến sắc, lại xuất hiện một tôn Thái Cổ Thần Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0b",
+            "Name": "Chương 197 Chí Tôn cửu trọng thiên, cổ chi đại năng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b0a",
+            "Name": "Chương 196 Đánh nổ Chí Tôn, thiên hạ điên cuồng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b09",
+            "Name": "Chương 195 Bá khí chi ngôn, rung động thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b08",
+            "Name": "Chương 194 Chiến lực ngập trời, nghịch phạt Chí Tôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b07",
+            "Name": "Chương 193 Chí Tôn nhuốm máu, kinh hãi tột cùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b06",
+            "Name": "Chương 192 Ba vạn vũ Thần Quân, Côn Luân cường thế trấn sát",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b05",
+            "Name": "Chương 191 Một tòa Thiên Môn, thế nhân kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b04",
+            "Name": "Chương 190 Trên đời hoảng sợ, Côn Luân hiện thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b03",
+            "Name": "Chương 189 Đại địch đột kích, Côn Luân không sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b02",
+            "Name": "Chương 188 Thập Vạn Đại Sơn, thế nhân chấn kinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b01",
+            "Name": "Chương 187 Thần triều đại quân hiện thân, thế nhân đều là kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94b00",
+            "Name": "Chương 186 Thần triều phái ra đại quân, Giám Thiên Các sắp xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94aff",
+            "Name": "Chương 185 Giám Thiên Các đại nhân đến, Thiên Long cổ quốc chấn kinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94afe",
+            "Name": "Chương 184 Ba ngàn đạo vực, thế lực cấp độ phân chia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94afd",
+            "Name": "Chương 183 Lục Thần tức giận, Côn Luân sắp nhập thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94afc",
+            "Name": "Chương 182 Từng nuốt sống Sinh Mệnh Cổ Tinh, đệ tử phải khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94afb",
+            "Name": "Chương 181 Tử Cực thần triều, Tử Nguyệt Dao đi Thập Vạn Đại Sơn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94afa",
+            "Name": "Chương 180 Tiến về Huyền Thương đạo vực, Vương Đằng, Hoang Uyên hiện thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5d01a79b1a68d94af9",
+            "Name": "Chương 179 Thần triều thôi diễn, Côn Luân nguy hiểm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af8",
+            "Name": "Chương 178 Hoàng tử cái chết, thần triều chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af7",
+            "Name": "Chương 177 Trên đời kinh hãi, Thái Cổ Thần Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af6",
+            "Name": "Chương 176 Ngươi nếu muốn can thiệp, liền phải nhuốm máu ba phần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af5",
+            "Name": "Chương 175 Chí Tôn giáng lâm, Trì Dao chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af4",
+            "Name": "Chương 174 Siêu cấp thế lực, Thánh Vũ thần triều",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb5c01a79b1a68d94af3",
+            "Name": "Chương 173 Thần Vương giáng lâm, thế nhân hoảng sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94af2",
+            "Name": "Chương 172 Trì Dao cổ thành, nam tử trẻ tuổi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94af1",
+            "Name": "Chương 171 Chí Tôn tu vi, một trăm tôn thiên tướng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94af0",
+            "Name": "Chương 170 Chỉ là Thiên Long cổ quốc, Côn Luân còn không để vào mắt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aef",
+            "Name": "Chương 169 Chỉ cần thân ở Côn Luân, không có gì là không thể",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aee",
+            "Name": "Chương 168 Côn Luân rốt cuộc là cấp bậc nào? Cần gì đại tướng quân xuất thủ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aed",
+            "Name": "Chương 167 Chưa Mệnh Danh Bản Nháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aec",
+            "Name": "Chương 166 Đại chiến kết thúc, thế nhân cảm thán",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aeb",
+            "Name": "Chương 165 Một trăm tôn thiên binh, Thần Vương Khương Thái Hư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aea",
+            "Name": "Chương 164 Thiên Long cổ quốc, Thần Vương cảnh tồn tại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae9",
+            "Name": "Chương 163 Trở lại Côn Luân, cổ lão đại giáo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae8",
+            "Name": "Chương 162 Thiên Thần đại chiến, trở lại Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae7",
+            "Name": "Chương 161 Thiên Thần vẫn lạc, cổ quốc tức giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae6",
+            "Name": "Chương 160 Thanh Vũ về Kiếm Tông, Tử Nguyệt Dao đến đây",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae5",
+            "Name": "Chương 159 Chính là Đại Đế giáng lâm, cũng cần cúi đầu phục tùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae4",
+            "Name": "Chương 158 Côn Luân! Thế lực nào đây?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae3",
+            "Name": "Chương 157 Thánh thể cộng minh, Lâm Vân trực giác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae2",
+            "Name": "Chương 156 Đến Trì Dao Đạo Vực, tiết lộ thân phận cũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae1",
+            "Name": "Chương 155 Tử Vân quận chúa, thiên kiêu tuyển cử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ae0",
+            "Name": "Chương 154 Nữ tử thần bí, bước vào cổ thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94adf",
+            "Name": "Chương 153 Thần Trụy cổ thành, vào thành bị cản",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ade",
+            "Name": "Chương 152 Vô thượng kinh pháp, Côn Luân Tây Vương Mẫu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94add",
+            "Name": "Chương 151 Trên Chân Thần cảnh, tu vi Thiên Thần cảnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94adc",
+            "Name": "Chương 150 Đại Đế trấn thế gian, Chân Tiên lâm cửu thiên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94adb",
+            "Name": "Chương 149 Cửu Thiên Tiên giới, ba ngàn đạo vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ada",
+            "Name": "Chương 148 Côn Luân rời đi, thiên hạ đại loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad9",
+            "Name": "Chương 147 Cổ chi đại năng, luyện hóa thiên đạo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad8",
+            "Name": "Chương 146 Chỉ là hai đạo phân thân, bản tọa còn gì phải sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad7",
+            "Name": "Chương 145 Thượng giới Giám Thiên Các, tứ phương Giám sát sứ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad6",
+            "Name": "Chương 144 Thượng giới người giáng lâm, Lục Thần cường thế phản kích",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad5",
+            "Name": "Chương 143 Ngày mai cử tông, tiến về thượng giới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad4",
+            "Name": "Chương 142 Nguyện chúng ta cường giả xuất hiện lớp lớp! Cẩn tuân pháp chỉ chúa tể!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad3",
+            "Name": "Chương 141 Trông coi Tiên Vũ Đại Lục, trở về Thượng giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad2",
+            "Name": "Chương 140 Khẩn cầu! Bái kiến vị kia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad1",
+            "Name": "Chương 139 Tiên võ chúa tể, Côn Luân chấn thế gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ad0",
+            "Name": "Chương 138 Côn Luân trấn tiên võ, thế gian lại không kiếp nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94acf",
+            "Name": "Chương 137 Trên trời tiên nhân ba trăm vạn, gặp ta cũng cần phải phục tùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ace",
+            "Name": "Chương 136 Thanh Nham lai lịch, thượng giới người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94acd",
+            "Name": "Chương 135 Yêu tộc khiếp sợ, thiên hạ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94acc",
+            "Name": "Chương 134 Cửu Thiên Thần Linh Pháp chỉ định tội, đánh vào Côn Luân Cửu U tầng mười tám",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94acb",
+            "Name": "Chương 133 Yêu tộc nội tình xuất động, thiên hạ tiên võ chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94aca",
+            "Name": "Chương 132 Hư Thần phá diệt sơn hà, chân ngã hủy diệt thiên địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac9",
+            "Name": "Chương 131 Cửu thiên thanh âm, Côn Luân chi chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac8",
+            "Name": "Chương 130 Chín đại thế lực cổ tổ xuất hiện, Thần lão bị ép điên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac7",
+            "Name": "Chương 129 Hủy diệt Tiên Võ Thần điện? Thế giới bí ẩn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac6",
+            "Name": "Chương 128 Chân Ngã cảnh thần điện Thần lão, lại yếu ớt như sâu kiến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac5",
+            "Name": "Chương 127 Hư Thần phía trên, hư hư thật thật, khám phá chân ngã",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac4",
+            "Name": "Chương 126 Tiên Võ Thần điện âm mưu, hiến tế toàn bộ Thần Vương cảnh, Hư Thần cảnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac3",
+            "Name": "Chương 125 Mười hai vị Hư Thần cảnh bị diệt, Tiên Võ Thần điện Thần lão xuất hiện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac2",
+            "Name": "Chương 124 Côn Luân khai chiến lục đại thế lực, rung động Tiên Vũ Đại Lục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac1",
+            "Name": "Chương 123 Côn Luân không sợ bất kỳ thế lực nào, khai chiến với lục đại cổ lão thế lực.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94ac0",
+            "Name": "Chương 122 Đại chiến Hư Thần cảnh cực hạn, thiên hạ kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94abf",
+            "Name": "Chương 121 Bí mật kinh hoàng của lục đại thế lực, mười hai Hư Thần cực hạn cường giả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94abe",
+            "Name": "Chương 120 Thế nhân kinh hãi, các đại vực nội tình xuất hiện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2601a79b1a68d94abd",
+            "Name": "Chương 119 Coi như đã đạt đến cực hạn, các ngươi hôm nay cũng phải diệt vong!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94abc",
+            "Name": "Chương 118 Lục đại cổ lão thế lực, Hư Thần cảnh (Đại Đế) hiện thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94abb",
+            "Name": "Chương 117 Côn Luân chi danh, há lại các ngươi có thể bàn luận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aba",
+            "Name": "Chương 116 Chẳng lẽ là Đại Đế đang xuất thủ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab9",
+            "Name": "Chương 115 Ngươi cái đồ chết tiệt! Ta đáng lẽ không nên sinh ra ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab8",
+            "Name": "Chương 114 Yêu Vực, Yêu Thần Điện xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab7",
+            "Name": "Chương 113 Thập đại đỉnh cấp cổ lão thế lực lớn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab6",
+            "Name": "Chương 112 Khẩn cầu lão tổ tông chịu chết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab5",
+            "Name": "Chương 111 Một trăm tên hộ vệ Đại Thánh cảnh, Lục Thần bước vào cảnh giới Đại Đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab4",
+            "Name": "Chương 110 Trung Thiên Vực, Thần Vương thế gia Lâu gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab3",
+            "Name": "Chương 109 Âm Dương Đại Đạo Chi Thể, Thái Âm Thánh Thể",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab2",
+            "Name": "Chương 108 Một cành hoa đào, từng trảm tám mươi tám vị tiên nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab1",
+            "Name": "Chương 107 Trung Thiên Vực, một đại tộc sắp diệt vong!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94ab0",
+            "Name": "Chương 106 Ba trăm đệ tử nội môn Côn Luân đạt cảnh giới Thiên Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aaf",
+            "Name": "Chương 105 Bị ném bỏ thế lực, Thiên Huyền Thánh Địa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aae",
+            "Name": "Chương 104 Miệt thị thần điện pháp lệnh, đương đem nó triệt để hủy diệt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aad",
+            "Name": "Chương 103 Tiên Võ Thần điện, Thần Vương lệnh cấm, cấm thần lệnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aac",
+            "Name": "Chương 102 Côn Luân chi danh, chấn động tiên võ lục đại vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aab",
+            "Name": "Chương 101 Sinh sinh đánh chìm một châu, Phù Đồ Thánh Địa triệt để hủy diệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aaa",
+            "Name": "Chương 100 Chuẩn Đế vẫn lạc, Côn Luân kinh thế xuất hiện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa9",
+            "Name": "Chương 99 Nhân gian đỉnh phong, năm đại trưởng lão Thục Sơn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa8",
+            "Name": "Chương 98 Hạ giới Thần Vương vì Linh Hư cảnh, Đại Đế vì Hư Thần cảnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa7",
+            "Name": "Chương 97 Lão Lý, ngươi cầm không nổi, để ta ra tay đi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa6",
+            "Name": "Chương 96 Kinh khủng tồn tại, Đồ Thần lão tổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa5",
+            "Name": "Chương 95 Thánh địa Thần Vương ra, Tiên Vũ Đại Lục chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa4",
+            "Name": "Chương 94 Lại là một tôn Đại Thánh vẫn lạc!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa3",
+            "Name": "Chương 93 Đại chiến thánh địa, cường giả Côn Luân quật khởi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa2",
+            "Name": "Chương 92 Năm tôn Đại Thánh, ta tất cả đều muốn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa1",
+            "Name": "Chương 91 Một Kiếm Trảm Đại Thánh, Phù Đồ Thánh Địa Tức Giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94aa0",
+            "Name": "Chương 90 Cùng Thánh địa khai chiến! Thế nhân kinh hãi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9f",
+            "Name": "Chương 89 Đại Thánh chi chiến, thế nhân khiếp sợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9e",
+            "Name": "Chương 88 Không nhìn Côn Luân thiên uy, người nào cũng đáng chém",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9d",
+            "Name": "Chương 87 Côn Luân xuất thủ, thánh địa người hiện thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9c",
+            "Name": "Chương 86 Nhỏ yếu như vậy, cũng dám đối Côn Luân bất kính",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9b",
+            "Name": "Chương 85 Để thế nhân hiểu rõ, uy nghiêm Côn Luân không thể khiêu khích",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a9a",
+            "Name": "Chương 84 Côn Luân có Thần Vương, so sánh thực lực thánh địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a99",
+            "Name": "Chương 83 Vô tri? Côn Luân cường đại há lại ngươi có thể biết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a98",
+            "Name": "Chương 82 Đại Thánh Bắc Thiên Vực xuất thủ, Lâm Vân hóa giải nguy cơ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a97",
+            "Name": "Chương 81 Mảnh chó, ngươi không nói võ đức",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a96",
+            "Name": "Chương 80 Cánh tay bị đánh nổ! Còn hưng phấn thế này?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a95",
+            "Name": "Chương 79 Lấy Động Hư nhất trọng, nghịch phạt Thiên Vương cảnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a94",
+            "Name": "Chương 78 Ta Côn Luân chi pháp, ngươi còn chưa có tư cách đụng vào",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a93",
+            "Name": "Chương 77 Thánh Nhân vẫn lạc, Đông Thiên Vực chấn động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a92",
+            "Name": "Chương 76 Một lời diệt năm Thánh Nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a91",
+            "Name": "Chương 75 Chỉ là Thánh Nhân thế lực, cũng dám xưng là đại tông ẩn thế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a90",
+            "Name": "Chương 74 Già mảnh chó, ngươi được hay không!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8f",
+            "Name": "Chương 73 Đời này dứt khoát nhập Côn Luân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8e",
+            "Name": "Chương 72 Côn Luân – Vô Kị Thế Gian",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8d",
+            "Name": "Chương 71 Đệ tử phục sức, cửu thiên Huyền Điểu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8c",
+            "Name": "Chương 70 Đông Thiên Vực, năm tôn Thánh Nhân xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8b",
+            "Name": "Chương 69 Chí Tôn Cốt, Thần Vương Thể",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a8a",
+            "Name": "Chương 68 Thông qua huyễn cảnh năm tầng, tương lai thành tựu ở trên Đại Đế?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a89",
+            "Name": "Chương 67 Côn Lôn Tông chủ đến cùng là tu vi gì!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a88",
+            "Name": "Chương 66 Kiếm đạo cao thủ, tề tụ Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a87",
+            "Name": "Chương 65 Triệu hoán mười tôn Đại Thánh cường giả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a86",
+            "Name": "Chương 64 Huyễn cảnh kết thúc, chúng đệ tử kinh hồn bạt vía",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a85",
+            "Name": "Chương 63 Thiên Huyền Thánh tử, Nam Hoang Vực lịch luyện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a84",
+            "Name": "Chương 62 Nam Hoang Vực hai đại thánh địa, Thiên Huyền Thánh Địa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a83",
+            "Name": "Chương 61 Hoàng Tuyền quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790cb2501a79b1a68d94a82",
+            "Name": "Chương 60 Cái này không phải là một chỗ tiểu thế giới sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d94a04",
+            "Name": "Chương 59 Cửu U Hoàng Tuyền huyễn cảnh, Thiên Bi đo ngộ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d94a03",
+            "Name": "Chương 58 Một ngàn sáu trăm người, trở thành đệ tử Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d94a02",
+            "Name": "Chương 57 Bảy mươi hai tòa Phù Không Sơn phong, Côn Luân tiên cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d94a01",
+            "Name": "Chương 56 Tử Nguyệt Hoàng Triều, đại công chúa Tử Vân Yên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d94a00",
+            "Name": "Chương 55 Hỗn Độn Thần Mâu, một chút giới diệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949ff",
+            "Name": "Chương 54 Khảo thí cửa thứ nhất, Thông Tâm Thiên Thê",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949fe",
+            "Name": "Chương 53 Côn Luân chiêu thu đệ tử, chính thức bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949fd",
+            "Name": "Chương 52 Lăng Tiêu Hoàng Triều, Nhị hoàng tử Lăng Mộc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949fc",
+            "Name": "Chương 51 Cửu U Vương Triều, nội tình thức tỉnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949fb",
+            "Name": "Chương 50 Hoang Cổ bí cảnh, sắp xuất thế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8f01a79b1a68d949fa",
+            "Name": "Chương 49 Sau ba ngày, Côn Luân chiêu thu đệ tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f9",
+            "Name": "Chương 48 Côn Luân hai chữ, chấn động Nam Hoang",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f8",
+            "Name": "Chương 47 Quân gia Thánh Nhân xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f7",
+            "Name": "Chương 46 Quân gia ngũ tổ, Dao Trì Cung đời trước cung chủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f6",
+            "Name": "Chương 45 Chỉ bằng các ngươi còn chưa có tư cách",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f5",
+            "Name": "Chương 44 Thiên Vương đại năng sợ hãi, hắn là Thánh Nhân!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f4",
+            "Name": "Chương 43 Nam Hoang Vực thập đại đỉnh cấp bá chủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f3",
+            "Name": "Chương 42 Thiên Vương cảnh đại năng, một kiếm bị diệt!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f2",
+            "Name": "Chương 41 Đại chiến Thiên Vương cảnh, ta muốn viết gia phả!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f1",
+            "Name": "Chương 40 Cửu U Vương Triều, Thiên Vương cảnh tộc lão",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949f0",
+            "Name": "Chương 39 Nơi này là cấm địa? Cái này đúng là bảo địa!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ef",
+            "Name": "Chương 38 Thánh Nhân cảnh! Lục Thần đột phá",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ee",
+            "Name": "Chương 37 Thiên Vương cảnh đại năng, nhao nhao hiện thế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ed",
+            "Name": "Chương 36 Chỉ là Tam lưu thế lực, không biết sống chết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ec",
+            "Name": "Chương 35 Cổ lão chiến thuyền, khóa vực mà đến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949eb",
+            "Name": "Chương 34 Đấu Chiến Thánh Quyền, Hoàng Kim Thánh Huyết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ea",
+            "Name": "Chương 33 Đại chiến sắp nổi, kiếm chỉ Côn Luân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e9",
+            "Name": "Chương 32 Đông Thiên Vực, Cửu U Vương Triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e8",
+            "Name": "Chương 31 Tiên Vũ Đại Lục, Tam đại cấm địa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e7",
+            "Name": "Chương 30 Thiên Châu tân bá chủ, Thiên Kiếm Tông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e6",
+            "Name": "Chương 29 Bá chủ vương triều, trở thành thế lực phụ thuộc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e5",
+            "Name": "Chương 28 Dung hợp Hỗn Độn Thánh Thể",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e4",
+            "Name": "Chương 27 Thiên Vương cảnh đại năng, Việt Nữ A Thanh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e3",
+            "Name": "Chương 26 Ngươi đánh rắm, lúc ấy ta ngay tại hiện trường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e2",
+            "Name": "Chương 25 Trấn sát nửa bước Thiên Vương cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e1",
+            "Name": "Chương 24 Bắc Huyền, diệt trừ tên Kim Giáp Nam Tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949e0",
+            "Name": "Chương 23 Nửa bước Thiên Vương cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949df",
+            "Name": "Chương 22 Hoang Cổ lệnh bài",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949de",
+            "Name": "Chương 21 Sư muội, Tần Nhược Tiên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949dd",
+            "Name": "Chương 20 Không phải thượng giới đại tông?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949dc",
+            "Name": "Chương 19 Ngũ đại vương triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949db",
+            "Name": "Chương 18 Thế lực cấp độ bá chủ khai chiến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949da",
+            "Name": "Chương 17 Thiên Linh Đan hiện thế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d9",
+            "Name": "Chương 16 Đấu giá hội bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d8",
+            "Name": "Chương 15 Thượng giới Nữ Đế trùng sinh, Tần Nhược Tiên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d7",
+            "Name": "Chương 14 Tình huống như thế nào? Đánh nhau",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d6",
+            "Name": "Chương 13 Đại Tần cấm vệ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d5",
+            "Name": "Chương 12 Thiên Cơ Các tại thương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d4",
+            "Name": "Chương 11 Hoang Cổ Thương Hội",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d3",
+            "Name": "Chương 10 Bá chủ thế lực, Đại Tần Vương Triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d2",
+            "Name": "Chương 9 Phụ thuộc thế lực, Đại Chu Vương Triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d1",
+            "Name": "Chương 8 Chư Thiên Mạnh Nhất Công Pháp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949d0",
+            "Name": "Chương 7 Diệt Vũ Hóa Vương Triều 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949cf",
+            "Name": "Chương 6 Diệt Vũ Hóa Vương Triều 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ce",
+            "Name": "Chương 5 Côn Luân xuất thủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949cd",
+            "Name": "Chương 4 Côn Luân nhập thế, chấn động vương triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949cc",
+            "Name": "Chương 3 Đại Chu Vương Triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949cb",
+            "Name": "Chương 2 Hộ vệ trưởng già, Động Hư cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6790ca8e01a79b1a68d949ca",
+            "Name": "Chương 1 Thu hoạch được hai tên Hóa Thần cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

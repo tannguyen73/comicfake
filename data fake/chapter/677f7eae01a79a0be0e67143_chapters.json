@@ -1,0 +1,1655 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "67d4502101a79a105cf00a2c",
+            "Name": "Chương 275: Trong nháy mắt sụp đổ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502101a79a105cf00a2b",
+            "Name": "Chương 274: Ta hận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a2a",
+            "Name": "Chương 273: Bí mật của A Tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a29",
+            "Name": "Chương 272: Trò chơi bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a28",
+            "Name": "Chương 271: Đao Bạch Phượng an bài",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a27",
+            "Name": "Chương 270: Nhất thống thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a26",
+            "Name": "Chương 269: Luân hãm bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a25",
+            "Name": "Chương 268: Giải thưởng lớn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a24",
+            "Name": "Chương 267: Đế vị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a23",
+            "Name": "Chương 266: Hoàng triều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a22",
+            "Name": "Chương 265: Hoàng đế phía sau nam nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a21",
+            "Name": "Chương 264: Cuối cùng báo ứng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a20",
+            "Name": "Chương 263: Điên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1f",
+            "Name": "Chương 262: Vùng vẫy giãy chết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1e",
+            "Name": "Chương 261: Chịu chết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1d",
+            "Name": "Chương 260: Ta không vào địa ngục, ai vào địa ngục?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1c",
+            "Name": "Chương 259: Nhất tiếu mẫn ân cừu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1b",
+            "Name": "Chương 258: Đồng minh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a1a",
+            "Name": "Chương 257: Tùy ý bài bố",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a19",
+            "Name": "Chương 256: Tứ nữ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a18",
+            "Name": "Chương 255: Thật là một đại hiếu nữ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a17",
+            "Name": "Chương 254: Tắm rửa sạch sẽ lại tới tìm ta",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a16",
+            "Name": "Chương 253: Ba người đấu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a15",
+            "Name": "Chương 252: Đều tới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a14",
+            "Name": "Chương 251: Đánh nhau",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a13",
+            "Name": "Chương 250: Ngân Xuyên công chúa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a12",
+            "Name": "Chương 249: Phong thái vẫn như cũ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a11",
+            "Name": "Chương 248: Một người khác hoàn toàn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a10",
+            "Name": "Chương 247: Lừa ngươi là chó nhỏ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a0f",
+            "Name": "Chương 246: Có cái nữ nhi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a0e",
+            "Name": "Chương 245: Lợi dụng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4502001a79a105cf00a0d",
+            "Name": "Chương 244: Ngươi có thể thử một lần",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67d4501f01a79a105cf00a0c",
+            "Name": "Chương 243: Thoát đi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63ed",
+            "Name": "Chương 242: Đao Bạch Phượng: Ta càng ưa thích khi ngươi hiền nội trợ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63ec",
+            "Name": "Chương 241: Lý Thanh La hoảng hốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63eb",
+            "Name": "Chương 240: Tru tâm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63ea",
+            "Name": "Chương 239: Một Tuồng Kịch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63e9",
+            "Name": "Chương 238: Hoa ngôn xảo ngữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63e8",
+            "Name": "Chương 237: Tình cũ gặp nhau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6b01a79a1214eb63e7",
+            "Name": "Chương 236: Công chúa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67babe6901a79a1214eb63e6",
+            "Name": "Chương 235: Sắc phong",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea08c",
+            "Name": "Chương 234: Mẹ con",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea08b",
+            "Name": "Chương 233: Lôi kéo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea08a",
+            "Name": "Chương 232: Các nàng đều điên rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea089",
+            "Name": "Chương 231: Lý Thanh La: Ta cũng không muốn làm nhạc mẫu ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea088",
+            "Name": "Chương 230: Lý Thanh La tức giận đến nghẹn thở",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea087",
+            "Name": "Chương 229: Vương phu nhân, từ khi chia tay đến giờ không có vấn đề gì chứ?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea086",
+            "Name": "Chương 228: Lý Thanh La vs Đao Bạch Phượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea085",
+            "Name": "Chương 227: Sơn hà phá toái",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea084",
+            "Name": "Chương 226: Lý Thanh La: Ta chính là xem thường ngươi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea083",
+            "Name": "Chương 225: Nói năng lộn xộn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea082",
+            "Name": "Chương 224: Tâm động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea081",
+            "Name": "Chương 223: Tội chết có thể miễn, tội sống khó tha",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea080",
+            "Name": "Chương 222: Từng trải làm khó nước",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea07f",
+            "Name": "Chương 221: Ân oán tình cừu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea07e",
+            "Name": "Chương 220: Đao Bạch Phượng: Ngươi có thể thử một lần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea07d",
+            "Name": "Chương 219: Quá khứ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea07c",
+            "Name": "Chương 218: Khuôn mặt thật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b44cf101a79a1348cea07b",
+            "Name": "Chương 217: Lý Thu Thủy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a89d4501a79a110c1aa0cb",
+            "Name": "Chương 216: Lạnh lùng như băng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a89d4501a79a110c1aa0ca",
+            "Name": "Chương 215: Bạch y nữ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a89d4501a79a110c1aa0c9",
+            "Name": "Chương 214: Thanh bại danh liệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a89d4401a79a110c1aa0c8",
+            "Name": "Chương 213: Đảo khách thành chủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa8a",
+            "Name": "Chương 212: Đường cong cứu quốc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa89",
+            "Name": "Chương 211: Vào cung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa88",
+            "Name": "Chương 210: Yêu cầu của Lý Thanh La",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa87",
+            "Name": "Chương 209: Đây là các ngươi bức ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa86",
+            "Name": "Chương 208: Phu nhân, người thế nào?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa85",
+            "Name": "Chương 207: Liên thủ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa84",
+            "Name": "Chương 206: Bất nam bất nữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a6de4301a79a17dc4eaa83",
+            "Name": "Chương 205: Lễ gặp mặt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb5",
+            "Name": "Chương 204: Nữ nhân ở giữa tranh đấu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb4",
+            "Name": "Chương 203: Lý Thanh La",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb3",
+            "Name": "Chương 202: Ba nữ nhân mưu đồ bí mật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb2",
+            "Name": "Chương 201: Ngạo khí",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb1",
+            "Name": "Chương 200: Xảo ngộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecb0",
+            "Name": "Chương 199: Thiên Sơn Đồng Mỗ thay đổi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecaf",
+            "Name": "Chương 198: Hí tinh Đao Bạch Phượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecae",
+            "Name": "Chương 197: Đao Bạch Phượng: Ngươi thế mà hại ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecad",
+            "Name": "Chương 196: Hào phóng Đao Bạch Phượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecac",
+            "Name": "Chương 195: Quá mức",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecab",
+            "Name": "Chương 194: Trò chơi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9ecaa",
+            "Name": "Chương 193: Đao Bạch Phượng: Ta nguyện ý mạo hiểm như vậy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9eca9",
+            "Name": "Chương 192:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67a1cd6c01a79a1980f9eca8",
+            "Name": "Chương 191: Mẹ vợ muốn tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6797e77401a79a1afcbdc08c",
+            "Name": "Chương 190: Đại trào phúng thuật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6797e77401a79a1afcbdc08b",
+            "Name": "Chương 189: Tín niệm sụp đổ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6797e77401a79a1afcbdc08a",
+            "Name": "Chương 188: Vương Ngữ Yên học xấu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6797e77201a79a1afcbdc089",
+            "Name": "Chương 187: Yêu cầu của Thiên Sơn Đồng Mỗ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6794b7d701a79a12ec7106ff",
+            "Name": "Chương 186: Xin thứ cho nữ nhi bất hiếu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6794b7d701a79a12ec7106fe",
+            "Name": "Chương 185: Khẩu thị tâm phi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6794b7d701a79a12ec7106fd",
+            "Name": "Chương 184: Đêm nay nhất định phải để các nàng gào khóc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6794b7d501a79a12ec7106fc",
+            "Name": "Chương 183: Đại sát tứ phương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791f47c01a79a18bc13f1b8",
+            "Name": "Chương 182: Thiên Sơn Đồng Mỗ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6791f46401a79a18bc13f1b7",
+            "Name": "Chương 181: Đói khát khó chịu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01db",
+            "Name": "Chương 180: Không phải nam không phải nữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01da",
+            "Name": "Chương 179: Trọng tại tham dự",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01d9",
+            "Name": "Chương 178: Đao Bạch Phượng bá khí",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01d8",
+            "Name": "Chương 177: Mẹ con quan hệ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01d7",
+            "Name": "Chương 176: Nỗi khổ tương tư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6790fe4101a79b1a68da01d6",
+            "Name": "Chương 175: Biểu tỷ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21f0",
+            "Name": "Chương 174: Muốn luyện công này, trước phải tự cung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21ef",
+            "Name": "Chương 173: Đao Bạch Phượng: Nếu không chúng ta sinh một cái",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21ee",
+            "Name": "Chương 172: Đao Bạch Phượng thương kỹ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21ed",
+            "Name": "Chương 171: Chuyện lớn rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21ec",
+            "Name": "Chương 170: Chơi lớn rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21eb",
+            "Name": "Chương 169: Nghịch đồ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21ea",
+            "Name": "Chương 168: Có nội ứng, kết thúc giao dịch?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "678cf91801a79a11d01d21e9",
+            "Name": "Chương 167: Truyền thừa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e9",
+            "Name": "Chương 166: Tổ tôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e8",
+            "Name": "Chương 165: Nếu như ngươi ăn, cha ngươi liền sẽ sống tới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e7",
+            "Name": "Chương 164: Ngươi phúc khí còn tại phía sau đâu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e6",
+            "Name": "Chương 163: Vương Ngữ Yên muốn phục vụ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e5",
+            "Name": "Chương 162: Không công bằng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e4",
+            "Name": "Chương 161: Đao Bạch Phượng: Ngươi chết, ta sẽ không đơn độc sống",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e3",
+            "Name": "Chương 160: Vương Ngữ Yên thâm tình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e2",
+            "Name": "Chương 159: Phá cục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e1",
+            "Name": "Chương 158: Trọng chấn phu cương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214e0",
+            "Name": "Chương 157: Nũng nịu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214df",
+            "Name": "Chương 156: A Bích chủ động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd801a79a12ecd214de",
+            "Name": "Chương 155: Tưởng như hai người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6788acd601a79a12ecd214dd",
+            "Name": "Chương 154: A Bích lựa chọn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2c2",
+            "Name": "Chương 153: Hôm nay nàng là nữ vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2c1",
+            "Name": "Chương 152: Nữ đế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2c0",
+            "Name": "Chương 151: Đường đến chỗ chết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2bf",
+            "Name": "Chương 150:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2be",
+            "Name": "Chương 149:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2bd",
+            "Name": "Chương 148:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2bc",
+            "Name": "Chương 147: Thấy phụ huynh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2bb",
+            "Name": "Chương 146: Trân Lung ván cờ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2ba",
+            "Name": "Chương 145: Chốn cũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b9",
+            "Name": "Chương 144: Ôn chuyện cũ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b8",
+            "Name": "Chương 143: Trường Sinh Quyết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b7",
+            "Name": "Chương 142: Hủy dung",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b6",
+            "Name": "Chương 141: A Tử có chút ngốc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b5",
+            "Name": "Chương 140: Kế hoạch có biến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b4",
+            "Name": "Chương 139: Hợp mưu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b3",
+            "Name": "Chương 138: Tâm tư của Mã phu nhân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b2",
+            "Name": "Chương 137: Bật hết hỏa lực Nguyễn Tinh Trúc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b1",
+            "Name": "Chương 136: Thực biết chơi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2b0",
+            "Name": "Chương 135: Gặp nhau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2af",
+            "Name": "Chương 134: Tình cũ liên tục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2ae",
+            "Name": "Chương 133: Ăn ý cảm giác",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2ad",
+            "Name": "Chương 132: Các ngươi đang dạy ta làm việc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2ac",
+            "Name": "Chương 131: Một thêm ba, gấp bội khoái hoạt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2ab",
+            "Name": "Chương 130: Mai Lan Trúc Cúc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2aa",
+            "Name": "Chương 129: Dấu hỏi mặt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a9",
+            "Name": "Chương 128: Hết thảy đều kết thúc, bốn tỷ muội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a8",
+            "Name": "Chương 127: Nghịch Phong cục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a7",
+            "Name": "Chương 126: Đại nạn lâm đầu riêng phần mình bay",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a6",
+            "Name": "Chương 125: Ta thấy mà yêu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a5",
+            "Name": "Chương 124: Giết một người là giết, giết vạn người mới là hùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a4",
+            "Name": "Chương 123: Không bằng cầm thú",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a3",
+            "Name": "Chương 122: Thủy Tinh tháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a2",
+            "Name": "Chương 121: Nhân sinh Doanh gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a1",
+            "Name": "Chương 120: Nguyễn Tinh Trúc phát hiện",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a2a0",
+            "Name": "Chương 119: Tỷ phu, ngươi thật là đồ đáng ghét!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29f",
+            "Name": "Chương 118: Nhu tình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29e",
+            "Name": "Chương 117: Vạn trượng quang mang không bằng ngươi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29d",
+            "Name": "Chương 116: Đao Bạch Phượng vs Nguyễn Tinh Trúc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29c",
+            "Name": "Chương 115: Nhiếp hồn khí",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29b",
+            "Name": "Chương 114: Thân bất do kỷ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a29a",
+            "Name": "Chương 113: Ly hôn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a299",
+            "Name": "Chương 112: Đến từ Đao Bạch Phượng thổ lộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a298",
+            "Name": "Chương 111: Vương Ngữ Yên cảm động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a297",
+            "Name": "Chương 110: Nhịn một chút liền hết đau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a296",
+            "Name": "Chương 109: Đây không thể nhịn a",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a295",
+            "Name": "Chương 108: Tỷ phu, ta sai rồi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a294",
+            "Name": "Chương 107: Vô hình não bổ đáng sợ nhất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a293",
+            "Name": "Chương 106: Tỷ phu, ngươi khi dễ người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a292",
+            "Name": "Chương 105: Đây tỷ phu ta nhận định!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a291",
+            "Name": "Chương 104: Tỷ muội",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a290",
+            "Name": "Chương 103: Trên trời tinh, sáng lóng lánh, vĩnh rực rỡ, Trường An Ninh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28f",
+            "Name": "Chương 102: Tuyệt thế hảo kiếm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28e",
+            "Name": "Chương 101: Cái này ban thưởng có chút lớn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28d",
+            "Name": "Chương 100: Bán bán bán",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28c",
+            "Name": "Chương 99: Ôm công chúa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28b",
+            "Name": "Chương 98: Tướng tay",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a28a",
+            "Name": "Chương 97: Gặp lại Mộc Uyển Thanh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a289",
+            "Name": "Chương 96: Vương Ngữ Yên biến hóa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a288",
+            "Name": "Chương 95: Nhi tử đánh không lại, lão tử ra tay",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab601a79a0be0e6a287",
+            "Name": "Chương 94: Phong Thần Thối",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a286",
+            "Name": "Chương 93: Vương Ngữ Yên cuối cùng quyết định",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a285",
+            "Name": "Chương 92: Mỹ nhân nhi, cho gia cười một cái",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a284",
+            "Name": "Chương 91: Tự do",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a283",
+            "Name": "Chương 90: Hợp nhất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8bd801a79a0be0e6cf39",
+            "Name": "Chương 89: A Chu – Nhưng ta chỉ là nha hoàn mà thôi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a282",
+            "Name": "Chương 88: Yêu cầu quá đáng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a281",
+            "Name": "Chương 87: Vương Ngữ Yên lựa chọn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a280",
+            "Name": "Chương 86: Võ lâm nhàn thoại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27f",
+            "Name": "Chương 85: Vốn là đồng căn sinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27e",
+            "Name": "Chương 84: Thân nhầm người",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27d",
+            "Name": "Chương 83: Thường ngày đùa nữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27c",
+            "Name": "Chương 82: Đồ tốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27b",
+            "Name": "Chương 81: Hắc ám bên trong đạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a27a",
+            "Name": "Chương 80: Thanh lâu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a279",
+            "Name": "Chương 79: Mộ Dung Phục ăn giấm?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a278",
+            "Name": "Chương 78: A Bích: Vì sao cứ bị thương hoài vậy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a277",
+            "Name": "Chương 77: Chủ mẫu học xấu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a276",
+            "Name": "Chương 76: Bị tập kích",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a275",
+            "Name": "Chương 75: A Bích muội tử, thật là quá yêu ngươi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a274",
+            "Name": "Chương 74: Quyền đánh Nam Sơn viện dưỡng lão, chân đá Bắc Hải nhà trẻ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a273",
+            "Name": "Chương 73: Băng đường hồ lô",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a272",
+            "Name": "Chương 72: Vương Ngữ Yên áy náy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a271",
+            "Name": "Chương 71: Trong Võ Lâm Bại Hoại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a270",
+            "Name": "Chương 70: Vương Ngữ Yên muốn tức khóc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26f",
+            "Name": "Chương 69: Vương Ngữ Yên nổi giận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26e",
+            "Name": "Chương 68: Tiểu nhị đưa rượu lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26d",
+            "Name": "Chương 67: Cảm xúc giá trị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26c",
+            "Name": "Chương 66: Vương Ngữ Yên đưa ra quyết định",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26b",
+            "Name": "Chương 65: Tu La đao Tần Hồng Miên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a26a",
+            "Name": "Chương 64: Có ơn tất báo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a269",
+            "Name": "Chương 63: Đại sự bất ngờ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a268",
+            "Name": "Chương 62: Cái này nồi nhất định phải Mộ Dung Phục đến cõng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a267",
+            "Name": "Chương 61: Lại món ăn lại thích chơi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a266",
+            "Name": "Chương 60: Đao Bạch Phượng đưa phân đề",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a265",
+            "Name": "Chương 59: Vương Ngữ Yên phải tiếp nhận trừng phạt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a264",
+            "Name": "Chương 58: Quan hệ thật loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a263",
+            "Name": "Chương 57: Đến từ đề nghị của Đao Bạch Phượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a262",
+            "Name": "Chương 56: Vương phi tỷ tỷ muốn trợ công",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a261",
+            "Name": "Chương 55: Vương Ngữ Yên: Ta thật là yêu đương não",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a260",
+            "Name": "Chương 54: Tay cầm hỗ lộc · Đao Bạch Phượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a25f",
+            "Name": "Chương 53: Không thích hợp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a25e",
+            "Name": "Chương 52: Đây bung ra kiều, ai có thể chịu nổi a",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a25d",
+            "Name": "Chương 51: Vương Ngữ Yên, quỳ xuống cho ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8ab501a79a0be0e6a25c",
+            "Name": "Chương 50: Trước hết để các ngươi nếm thử lựu đạn tư vị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69389",
+            "Name": "Chương 49: Đối nhân xử thế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69388",
+            "Name": "Chương 48: Mã phu nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69387",
+            "Name": "Chương 47: Mộ Dung Phục dọa sợ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69386",
+            "Name": "Chương 46: Đao Bạch Phượng muốn làm tay súng thiện xạ?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69385",
+            "Name": "Chương 45: Mộ Dung Phục ghen tị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69384",
+            "Name": "Chương 44: Đao Bạch Phượng khéo hiểu lòng người",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69383",
+            "Name": "Chương 43: Thay tam nữ đoán mệnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69382",
+            "Name": "Chương 42: Chủ nhân, ta biết sai",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69381",
+            "Name": "Chương 41: A Chu chủ động đảm nhận, Bức Vương phẫn nộ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69380",
+            "Name": "Chương 40: Chủ mẫu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937f",
+            "Name": "Chương 39: Không phục Vương Ngữ Yên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937e",
+            "Name": "Chương 38: Mỹ Soa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937d",
+            "Name": "Chương 37: Liền tính Ngọc Hoàng Đại Đế đến, cũng ngăn không được",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937c",
+            "Name": "Chương 36: Phu nhân, ta đang giúp người",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937b",
+            "Name": "Chương 35: Tiểu Mã Ca phụ thể",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6937a",
+            "Name": "Chương 34: Chu Bích hai nữ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69379",
+            "Name": "Chương 33: Vương Ngữ Yên phá phòng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69378",
+            "Name": "Chương 32: Yêu đương não",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69377",
+            "Name": "Chương 31: Trà nữ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69376",
+            "Name": "Chương 30: Vương phu nhân rất tức giận, hậu quả rất nghiêm trọng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69375",
+            "Name": "Chương 29: Vương phu nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69374",
+            "Name": "Chương 28: Bức Vương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69373",
+            "Name": "Chương 27: Quan tâm sẽ bị loạn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69372",
+            "Name": "Chương 26: Tình địch gặp nhau",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69371",
+            "Name": "Chương 25: Nữ lưu manh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69370",
+            "Name": "Chương 24: Có thêm một cái đại hiếu tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936f",
+            "Name": "Chương 23: Mỹ lệ ngoài ý muốn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936e",
+            "Name": "Chương 22: Đã phân cao thấp, cũng quyết sinh tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936d",
+            "Name": "Chương 21: Nữ nhân chỉ có thể ảnh hưởng tốc độ ta rút đao",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936c",
+            "Name": "Chương 20 Mượn đao giết người",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936b",
+            "Name": "Chương 19 Tùng Hạc lâu, Thanh Thành phái, cố nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6936a",
+            "Name": "Chương 18 Hạnh Tử lâm, nam Mộ Dung",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69369",
+            "Name": "Chương 17 Bao nhiêu ban công Yên Vũ bên trong",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69368",
+            "Name": "Chương 16 Trâu già gặm cỏ non",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69367",
+            "Name": "Chương 15 Đao Bạch Phượng khuynh tâm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69366",
+            "Name": "Chương 14 Chung phu nhân mở lòng tâm sự",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69365",
+            "Name": "Chương 13 Tình nhân cũ gặp nhau, Chung phu nhân sốt ruột",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69364",
+            "Name": "Chương 12 Huyết nhục văng tung tóe! Đoàn Duyên Khánh muốn chết!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69363",
+            "Name": "Chương 11 Đưa ngươi một quả bom hẹn giờ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69362",
+            "Name": "Chương 10 Vương phi hồi phủ, Vạn Kiếp cốc cứu người",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69361",
+            "Name": "Chương 9 Bá đạo chi hôn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69360",
+            "Name": "Chương 8 Đồng hành cùng Chung Linh, đêm đưa áo cho Vương phi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935f",
+            "Name": "Chương 7 Lần đầu gặp Mộc Uyển Thanh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935e",
+            "Name": "Chương 6 Làm người tốt, đưa các nàng đoạn đường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935d",
+            "Name": "Chương 5 Đao Bạch Phượng: Là hắn trước thân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935c",
+            "Name": "Chương 4 Trấn Nam Vương phi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935b",
+            "Name": "Chương 3 Đạo cô, ngươi cũng không muốn chuyện này bị người khác biết đấy!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e6935a",
+            "Name": "Chương 2 Desert Eagle",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "677f8a6a01a79a0be0e69359",
+            "Name": "Chương 1 Hệ thống song tu",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

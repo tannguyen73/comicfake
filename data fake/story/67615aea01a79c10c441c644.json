@@ -1,0 +1,344 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Bắt Đầu Ngộ Nhận Lữ Bố Làm Cha Vợ",
+            "StoryImage": "bat-dau-ngo-nhan-lu-bo-lam-cha-vo.jpg",
+            "StoryDescription": "<b>Bắt Đầu Ngộ Nhận Lữ Bố Làm Cha Vợ</b> - tác giả <b>Trương Cô Lương</b> - #QuânSự #LịchSử #XuyênKhông<p><br></p><p>Xuyên không đến thời Tam Quốc, <b>Lâm Mặc</b> tưởng rằng mình sẽ được gặp <b>Tào Tháo</b>, giúp đỡ ông thống nhất thiên hạ. Thế nhưng, số phận trớ trêu lại đưa anh đến gặp <b>Lữ Bố</b>, một vị tướng võ nghệ siêu quần nhưng lại cực kỳ ngây thơ.</p><p>Với những kiến thức lịch sử của mình, Lâm Mặc đã thể hiện \"tiên tri thần kỹ\" của mình, vô tình thay đổi dòng chảy lịch sử. Lữ Bố dưới sự giúp đỡ của anh trở nên mạnh mẽ hơn bao giờ hết, đánh bại nhiều đối thủ sừng sỏ, thậm chí còn đánh bại cả Tào Tháo. Nhưng những thay đổi này lại gây ra những hậu quả khó lường.</p><p>Liệu Lâm Mặc có thể xoay chuyển tình thế, đưa lịch sử đi theo một hướng khác? Hay anh sẽ mãi mãi là \"cao nhân\" đằng sau những thành công của Lữ Bố?</p><p>Lâm Mặc có thể kiểm soát được những gì mình đã tạo ra? Hay anh sẽ phải gánh chịu hậu quả của những quyết định sai lầm?</p><p><b>Bắt Đầu Ngộ Nhận Lữ Bố Làm Cha Vợ</b> là một câu chuyện hài hước về một người xuyên không với những kế hoạch hoàn hảo, nhưng lại luôn bị cuộc sống \"troll\" không thương tiếc.</p><p>Đây cũng là một câu chuyện hấp dẫn về sự can thiệp của con người vào dòng chảy lịch sử và những hệ quả bất ngờ mà nó mang lại.</p>",
+            "StoryUpdateTime": "2025-03-13T11:07:39.8419054Z",
+            "StoryUpdateTimeTick": 638700303144667236,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 750,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Trương Cô Lương",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6642da4501a79a119cb5f813",
+                    "MongoId": "6642da4501a79a119cb5f813"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 750 Đăng cơ (END)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Lịch Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lich-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a3",
+                    "MongoId": "61d9131015c3c70808d2b7a3"
+                },
+                {
+                    "TenTheLoai": "Mưu Mô",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main mưu mô, não to",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "muu-mo",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6561b41d01a79b106c6504f1",
+                    "MongoId": "6561b41d01a79b106c6504f1"
+                },
+                {
+                    "TenTheLoai": "Quan Trường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "quan-truong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9211815c3c512383c306c",
+                    "MongoId": "61d9211815c3c512383c306c"
+                },
+                {
+                    "TenTheLoai": "Quân Sự",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "quan-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91ece15c3c512383c2f10",
+                    "MongoId": "61d91ece15c3c512383c2f10"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Xây Dựng Thế Lực",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại thuần xây dựng thế lực, đánh chiếm địa bàn",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xay-dung-the-luc",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b36101a79b106c650459",
+                    "MongoId": "6561b36101a79b106c650459"
+                },
+                {
+                    "TenTheLoai": "Điềm Đạm",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "diem-dam",
+                    "gender": 1,
+                    "theloaitype": 3,
+                    "Id": "6576933e01a79a05c8ae5adf",
+                    "MongoId": "6576933e01a79a05c8ae5adf"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "bat-dau-ngo-nhan-lu-bo-lam-cha-vo-chuong-750",
+            "Keyword": "bắt đầu ngộ nhận lữ bố làm cha vợ bat dau ngo nhan lu bo lam cha vo",
+            "StoryView": 4889,
+            "NumberUserFollow": 4,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "bat-dau-ngo-nhan-lu-bo-lam-cha-vo",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 4889,
+            "StoryViewInWeek": 269,
+            "StoryViewInMonth": 1451,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "bat-dau-ngo-nhan-lu-bo-lam-cha-vo-chuong-1-nhan-nham-lu-bo-la-nhac-phu",
+            "StoryIDFirstChap": "67615bed01a79c10c441c645",
+            "SoChuong": 750,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 47,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lâm Mặc, một người trẻ tuổi, xuyên không về thời Tam Quốc với mong muốn được chứng kiến những sự kiện lịch sử nổi tiếng. Tuy nhiên, số phận lại đưa anh đến gặp Lữ Bố, một vị tướng võ nghệ siêu quần nhưng lại rất ngây thơ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67615aea01a79c10c441c644",
+            "MongoId": "67615aea01a79c10c441c644"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67615aea01a79c10c441c644",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67615bed01a79c10c441c645",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tien-quoc-dai-de.jpg",
+                "StoryName": "Tiên Quốc Đại Đế",
+                "StoryTitleLastChap": "Chương 1449: Người người như rồng (HẾT)",
+                "StoryID": "6568362101a79a140441fed1",
+                "StoryUpdateTime": "7/6/2024 2:58:02 AM",
+                "StoryNameK": "tien-quoc-dai-de"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-tien-khung.jpg",
+                "StoryName": "Vạn Cổ Tiên Khung",
+                "StoryTitleLastChap": "Chương 29 : Đại kết cục",
+                "StoryID": "6568381b01a79a1404420797",
+                "StoryUpdateTime": "11/30/2023 8:20:51 AM",
+                "StoryNameK": "van-co-tien-khung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-bat-tu.jpg",
+                "StoryName": "Trường Sinh Bất Tử",
+                "StoryTitleLastChap": "Quyển 12 Chương 55: Lục áp mưu đồ",
+                "StoryID": "656834ca01a79a140441fa5f",
+                "StoryUpdateTime": "11/30/2023 7:38:43 AM",
+                "StoryNameK": "truong-sinh-bat-tu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-duong-hac-than-thoai.jpg",
+                "StoryName": "Đại Đường Hắc Thần Thoại",
+                "StoryTitleLastChap": "Chương 703: Tam Tạng cũng Tam Tạng, Chư Thánh che giấu chân tướng",
+                "StoryID": "65641f3201a79e1664d0afe0",
+                "StoryUpdateTime": "11/27/2023 5:08:16 AM",
+                "StoryNameK": "dai-duong-hac-than-thoai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-khoi-dau-la-tho-san.jpg",
+                "StoryName": "Trường Sinh: Khởi Đầu Là Thợ Săn (Dịch)",
+                "StoryTitleLastChap": "Chương 1035: Đại Kết Cục",
+                "StoryID": "65e139bc01a79a0e2c317051",
+                "StoryUpdateTime": "11/5/2024 2:52:17 AM",
+                "StoryNameK": "truong-sinh-khoi-dau-la-tho-san-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-tinh-tri-mang.jpg",
+                "StoryName": "Người Tình Trí Mạng",
+                "StoryTitleLastChap": "Chương 676: Vĩ thanh. HẾT.",
+                "StoryID": "66348bc501a79a0678ac5c86",
+                "StoryUpdateTime": "5/3/2024 7:39:47 AM",
+                "StoryNameK": "nguoi-tinh-tri-mang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tay-du--tu-nhan-gian-vo-thanh-bat-dau.jpg",
+                "StoryName": "Tây Du : Từ Nhân Gian Võ Thánh Bắt Đầu",
+                "StoryTitleLastChap": "Chương 357: Đại Kết Cục",
+                "StoryID": "656455cc01a79b12f0c95b2f",
+                "StoryUpdateTime": "11/27/2023 8:49:28 AM",
+                "StoryNameK": "tay-du-tu-nhan-gian-vo-thanh-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot.jpg",
+                "StoryName": "Hồng Kông: Xuyên Vào Hồng Hưng, Ngươi Bảo Ta Làm Việc Tốt? (Dịch)",
+                "StoryTitleLastChap": "Chương 1088: Đại kết cục",
+                "StoryID": "65de9ff701a79a08c8f219cb",
+                "StoryUpdateTime": "10/28/2024 8:15:18 AM",
+                "StoryNameK": "hong-kong-xuyen-vao-hong-hung-nguoi-bao-ta-lam-viec-tot-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//may-mo-phong-nhan-sinh-cua-lu-bo.jpg",
+                "StoryName": "Máy Mô Phỏng Nhân Sinh Của Lữ Bố",
+                "StoryTitleLastChap": "Chương 777 - Tâm sự từ Tác Giả",
+                "StoryID": "678e75ef01a79a18b872b1df",
+                "StoryUpdateTime": "1/23/2025 3:51:47 AM",
+                "StoryNameK": "may-mo-phong-nhan-sinh-cua-lu-bo"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67d2bb4901a79a0a70fabd34",
+                "Name": "Chương 750 Đăng cơ (END)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd33",
+                "Name": "Chương 749 Đăng cơ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd32",
+                "Name": "Chương 748 Đào viên mộng nát, Lưu Quan Trương lên đường (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd31",
+                "Name": "Chương 747 Đào viên mộng nát, Lưu Quan Trương lên đường (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd30",
+                "Name": "Chương 746 Mời bệ hạ đầu hàng (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd2f",
+                "Name": "Chương 745 Mời bệ hạ đầu hàng (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd2e",
+                "Name": "Chương 744 Thời gian đến, động thủ (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd2d",
+                "Name": "Chương 743 Thời gian đến, động thủ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd2c",
+                "Name": "Chương 742 Ai càng thích hợp làm hoàng đế? (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2bb4901a79a0a70fabd2b",
+                "Name": "Chương 741 Ai càng thích hợp làm hoàng đế? (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

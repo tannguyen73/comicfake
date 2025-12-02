@@ -1,0 +1,349 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Cao Võ: Phân Thân Tu Luyện Quá Chăm Chỉ, Ta Bị Tố Cáo Bật Hack",
+            "StoryImage": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack.jpg",
+            "StoryDescription": "Ở bên trên toàn cầu cao võ Lam Tinh, hung thú tàn sát nhân loại bừa bãi, mọi người đều ở đây vì để nâng cao cảnh giới mà liều mạng ganh đua.<p><b>Tiêu Huyền</b> ở phía sau được truyền thừa tổ thuật đạo môn Nhất Khí Hóa Tam Thanh.</p><p>Lưỡng đạo Nguyên Thủy Đạo Thể phân thân bắt đầu vì hắn 24/24 liều mạng tu luyện.</p><p>Thôi diễn công pháp, rèn luyện khí huyết, cái này không đều là phân thân sống?</p><p>Còn như Tiêu Huyền chính mình. . .</p><p>\"Thực lực quá mạnh mẽ thì hơi quỷ quái, đều do phân thân quá chăm chỉ rồi.\"</p><p>Từ nay về sau. . .</p><p>Thái Cực Huyền Môn Kiếm, Ngũ Hành Đạo Thuật, Thập Nhị Lôi Pháp, đạo môn Cửu Chuyển Công. . .</p><p>Vô số loại tổ thuật Đạo Môn Thượng Cổ thất truyền, bị Tiêu Huyền tái hiện dồn dập ở thế gian.</p><p>Vì vậy, hắn bị vô số người nghi ngờ. . .</p><p>Tuyệt thế thiên kiêu: \"Lão tổ, Tiêu Huyền lại đột phá!\"</p><p>Hội trưởng võ hiệp: \"Tiêu Hoàng lại khai quải, lần này trực tiếp đem Thế Giới Thần Thoại đưa đến rồi hả?\"</p><p>Võ Hoàng: \"Có người nói Tiêu Đế phản tổ. . . A không phải. . . Là Thành Tổ.\"</p><p>Chư thiên đại năng: \"Chạy mau a. . . Tiêu tổ lại tới rồi! !\"</p>",
+            "StoryUpdateTime": "2025-04-25T02:44:47.5913524Z",
+            "StoryUpdateTimeTick": 638733280637257033,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 553,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Lão Thức Bạo Mễ Hoa",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6793ad1b01a79a12ec6f0f90",
+                    "MongoId": "6793ad1b01a79a12ec6f0f90"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 538: Quỷ dị huyết tế đàn! Rốt cuộc thứ gì bị phong ấn trong thạch quan?",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack-chuong-553",
+            "Keyword": "cao võ: phân thân tu luyện quá chăm chỉ, ta bị tố cáo bật hack cao vo: phan than tu luyen qua cham chi, ta bi to cao bat hack",
+            "StoryView": 2448,
+            "NumberUserFollow": 6,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2448,
+            "StoryViewInWeek": 146,
+            "StoryViewInMonth": 1756,
+            "NumberReview": 0,
+            "NumberComment": 1,
+            "StoryNameKFirstChap": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack-chuong-1",
+            "StoryIDFirstChap": "679453c501a79a12ec702cd9",
+            "SoChuong": 553,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 215,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Ở bên trên toàn cầu cao võ Lam Tinh, hung thú tàn sát nhân loại bừa bãi, mọi người đều ở đây vì để nâng cao cảnh giới mà liều mạng ganh đua.\r\n\r\nTiêu Huyền ở phía sau được truyền thừa tổ thuật đạo môn Nhất Khí Hóa Tam Thanh.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6793acbf01a79a12ec6f0f8f",
+            "MongoId": "6793acbf01a79a12ec6f0f8f"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6793acbf01a79a12ec6f0f8f",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "679453c501a79a12ec702cd9",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 1,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao.jpg",
+                "StoryName": "Góp Vốn Xây Đại Học, Ta Thật Không Phải Lừa Đảo",
+                "StoryTitleLastChap": "Chương 812 Đến chậm! Lẽ nào Lương lão đã mất?",
+                "StoryID": "67bee19301a79a14d89861b3",
+                "StoryUpdateTime": "4/25/2025 2:59:01 AM",
+                "StoryNameK": "gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-ly-hon-bat-dau-vui-choi-giai-tri.jpg",
+                "StoryName": "Từ ly hôn bắt đầu vui chơi giải trí",
+                "StoryTitleLastChap": "Chương 2010 Thu hoạch giải thưởng quốc tế lớn",
+                "StoryID": "678f75a101a79b18b85dbafe",
+                "StoryUpdateTime": "4/25/2025 2:53:25 AM",
+                "StoryNameK": "tu-ly-hon-bat-dau-vui-choi-giai-tri"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim.jpg",
+                "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+                "StoryTitleLastChap": "Chương 643: Lý Hiên xuất thủ",
+                "StoryID": "67909d5101a79b1a68d8b747",
+                "StoryUpdateTime": "4/25/2025 2:15:40 AM",
+                "StoryNameK": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-moi-ngay-danh-dau-1-uc.jpg",
+                "StoryName": "Thần Hào: Mỗi Ngày Đánh Dấu 1 Ức",
+                "StoryTitleLastChap": "Chương 544: Giả lập hiện thực kỹ thuật",
+                "StoryID": "67f9dc1b01a79a10ec4592de",
+                "StoryUpdateTime": "4/25/2025 2:15:16 AM",
+                "StoryNameK": "than-hao-moi-ngay-danh-dau-1-uc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trung-sinh-he-thong-con-tai-tan-the.jpg",
+                "StoryName": "Trùng Sinh, Hệ Thống Còn Tại Tận Thế?",
+                "StoryTitleLastChap": "Chương 242: Thông quan Địa Ngục phó bản",
+                "StoryID": "67ebaf5001a79a18a4b01873",
+                "StoryUpdateTime": "4/25/2025 2:03:44 AM",
+                "StoryNameK": "trung-sinh-he-thong-con-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-ta-co-the-hap-thu-diem-kinh-nghiem.jpg",
+                "StoryName": "Cao Võ: Ta Có Thể Hấp Thu Điểm Kinh Nghiệm",
+                "StoryTitleLastChap": "Chương 720: Quan ấn gia trì",
+                "StoryID": "67c9044a01a79a179ce72b0b",
+                "StoryUpdateTime": "4/24/2025 3:48:20 PM",
+                "StoryNameK": "cao-vo-ta-co-the-hap-thu-diem-kinh-nghiem"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-tu-giet-ga-bat-dau-quet-ngang-tinh-khong.jpg",
+                "StoryName": "Cao Võ: Từ Giết Gà Bắt Đầu Quét Ngang Tinh Không",
+                "StoryTitleLastChap": "Chương 1040: Cơ sở quan, Cao cấp quan, Truyền thừa quan!",
+                "StoryID": "67a321b301a79a198001ae8a",
+                "StoryUpdateTime": "4/24/2025 3:37:03 PM",
+                "StoryNameK": "cao-vo-tu-giet-ga-bat-dau-quet-ngang-tinh-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bac-si-da-khoa-biet-nhieu-uc-diem-rat-hop-ly-a!.jpg",
+                "StoryName": "Bác Sĩ Đa Khoa Biết Nhiều Ức Điểm Rất Hợp Lý A!",
+                "StoryTitleLastChap": "Chương 1055: Thôi Viện đúng là rảnh rỗi sinh nông nổi, hết việc rồi lại đi trêu chọc trẻ con!",
+                "StoryID": "679090e401a79b1a68d8b5c0",
+                "StoryUpdateTime": "4/24/2025 3:11:21 PM",
+                "StoryNameK": "bac-si-da-khoa-biet-nhieu-uc-diem-rat-hop-ly-a"
+            }
+        ],
+        "topcomment": [
+            {
+                "StoryID": "6793acbf01a79a12ec6f0f8f",
+                "StoryName": "Cao Võ: Phân Thân Tu Luyện Quá Chăm Chỉ, Ta Bị Tố Cáo Bật Hack",
+                "TypeID": 3,
+                "LinkUrl": "/cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack-0.html",
+                "UserNameComment": "Ga123",
+                "UserIdComment": "67a1a82401a79a10782ba00a",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2025-04-01T18:51:29.1378664Z",
+                "CommentContent": "hạybbbbnvv",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Bất Nhập Lưu Võ Giả",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "61430cff15c3c513e8741b46",
+                    "MongoId": "61430cff15c3c513e8741b46"
+                },
+                "UserAvatar": "102371525965400727494.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "Id": "67ebd34101a79b0f008f01a5",
+                "MongoId": "67ebd34101a79b0f008f01a5"
+            }
+        ],
+        "last10chap": [
+            {
+                "Id": "680af70001a79a07c0e64959",
+                "Name": "Chương 538: Quỷ dị huyết tế đàn! Rốt cuộc thứ gì bị phong ấn trong thạch quan?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809ac5901a79a16f00eb3d9",
+                "Name": "Chương 537: Dưới Lòng Đất, Bên Trong Hố Sâu – Thanh Đồng Cự Môn! Tiêu Huyền Bước Vào Hành Lang!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808694501a79a1538970f63",
+                "Name": "Chương 536: Tại Thanh Nguyên chiến khu, trong sở chỉ huy, tướng quân Trần Hưng Thịnh đang tự hỏi: \"Hai vị kỳ nhân mà ngươi nhắc tới là ai?\"",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806fa1401a79a166cdf9e46",
+                "Name": "Chương 535: Đối kháng chi pháp, Đạo Tổ lão nhân gia đến tột cùng chuẩn bị những gì phía sau?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805aef001a79a166cd9597e",
+                "Name": "Chương 534: Quỷ dị bản nguyên lực lượng! Vô số đại thế giới gặp phải lượng kiếp?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680473ed01a79a17e8c702e4",
+                "Name": "Chương 533: Quy tắc bổn nguyên chi lực! Thiên đạo nhìn chăm chú!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68031c0e01a79a170c656c8d",
+                "Name": "Chương 532: Quỷ dị đỏ tươi chi thụ! Tiêu Huyền tra xét.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6801bd4001a79a170c5f252c",
+                "Name": "Chương 531: Đại tiểu thư khí tràng toàn bộ triển khai, nữ nhi của ta, người nào dám chọc?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6800751401a79a1aec65b8b0",
+                "Name": "Chương 530: Tím tiểu thư đều có bé con? Lĩnh ngộ tinh quang cơ hội!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67ff1d4201a79a01f405bfa5",
+                "Name": "Chương 529: Trần Hưng Thịnh lựa chọn, có thể cứu Đại Hạ, chỉ có cái kia hai vị tiên thần!",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

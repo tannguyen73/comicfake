@@ -1,0 +1,313 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Tu Tiên Chính Là Như Vậy",
+            "StoryImage": "tu-tien-chinh-la-nhu-vay.jpg",
+            "StoryDescription": "<b>Tu Tiên Chính Là Như Vậy</b><p>Tác giả: <b>Phượng Trào Hoàng</b></p><p><br></p><p>Trong thế giới Cửu Châu, những người chơi đầy oán hận tụ tập lại, nhỏ máu làm minh ước, thề phải tiêu diệt đại ma đầu, khiến hắn linh hồn tan biến.</p><p>Chỉ trong chốc lát, bốn phương hưởng ứng, gió nổi mây phun, tất cả mọi người đều thấy được một tương lai tươi sáng đang chờ đón.</p><p>Tất cả, ngoại trừ <b>Lục Bắc</b>.</p><p>Hắn chính là cái gọi là \"ma đầu\".</p><p>“Nói ta là ma đầu, trách ta lừa các ngươi, ta chỉ là một NPC, làm sao có thể lừa các ngươi được? Tu tiên chính là như vậy đó!”</p><p>#TiênHiệp #VõHiệp #TuChân</p>",
+            "StoryUpdateTime": "2025-03-13T09:36:23.6375841Z",
+            "StoryUpdateTimeTick": 638759599286071055,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 3661,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Phượng Trào Hoàng",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67bbd6cb01a79a01b816e419",
+                    "MongoId": "67bbd6cb01a79a01b816e419"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 3661: Đã Đến Lân Thú Quốc",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Tu Chân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tu-chan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9263915c3c512383c334b",
+                    "MongoId": "61d9263915c3c512383c334b"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "tu-tien-chinh-la-nhu-vay-chuong-3659",
+            "Keyword": "tu tiên chính là như vậy tu tien chinh la nhu vay",
+            "StoryView": 652,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "tu-tien-chinh-la-nhu-vay",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 652,
+            "StoryViewInWeek": 5,
+            "StoryViewInMonth": 436,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "truyen-chu-moi-chuong-1",
+            "StoryIDFirstChap": "67bbd59f01a79a01b816e212",
+            "SoChuong": 3661,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trong thế giới Cửu Châu, mọi người tập hợp lại để tiêu diệt ma đầu, nhưng Lục Bắc - \"ma đầu\" mà họ muốn tiêu diệt lại xuất hiện. Hắn tự nhận mình chỉ là NPC và không hề lừa dối mọi người.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67bbd57801a79a01b816e211",
+            "MongoId": "67bbd57801a79a01b816e211"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67bbd57801a79a01b816e211",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67bbd59f01a79a01b816e212",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung.jpg",
+                "StoryName": "Thiên Long : Vị Bang Chủ Cái Bang Này Có Chút Không Đúng",
+                "StoryTitleLastChap": "Chương 305: Kiều Phong chột dạ, có chút túng quẫn?",
+                "StoryID": "67e3a95601a79a155c29a835",
+                "StoryUpdateTime": "4/25/2025 3:00:49 AM",
+                "StoryNameK": "thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-(dich.jpg",
+                "StoryName": "Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường (Dịch)",
+                "StoryTitleLastChap": "Chương 996 Không muộn",
+                "StoryID": "67441ba501a79a10e8dcef37",
+                "StoryUpdateTime": "4/25/2025 2:56:00 AM",
+                "StoryNameK": "ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//loan-the-tu-chieu-co-tau-tau-bat-dau-tu-hanh.jpg",
+                "StoryName": "Loạn Thế: Từ Chiếu Cố Tẩu Tẩu Bắt Đầu Tu Hành",
+                "StoryTitleLastChap": "Chương 1106",
+                "StoryID": "67be988a01a79a14d896ae87",
+                "StoryUpdateTime": "4/15/2025 8:12:55 AM",
+                "StoryNameK": "loan-the-tu-chieu-co-tau-tau-bat-dau-tu-hanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tong-vo-ta-lay-giang-ho-dong-trieu-dinh.jpg",
+                "StoryName": "Tổng Võ: Ta Lấy Giang Hồ Động Triều Đình",
+                "StoryTitleLastChap": "Chương 1131: Thiên Nhân cửu tầng",
+                "StoryID": "67aad2b801a79a19981882cd",
+                "StoryUpdateTime": "4/5/2025 4:50:06 AM",
+                "StoryNameK": "tong-vo-ta-lay-giang-ho-dong-trieu-dinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve.jpg",
+                "StoryName": "Tận Thế: Nữ Nhân Tiêu Hao Vật Tư, Vạn Lần Trả Về!",
+                "StoryTitleLastChap": "Chương 547 Cách mạng từ trên xuống dưới! Trảm yêu!",
+                "StoryID": "67de15ca01a79a177c3883ff",
+                "StoryUpdateTime": "3/31/2025 1:33:57 AM",
+                "StoryNameK": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-hiep-xin-dung-tay.jpg",
+                "StoryName": "Nữ Hiệp Xin Dừng Tay",
+                "StoryTitleLastChap": "Chương 536 Làm phiền phu nhân",
+                "StoryID": "67dcd55a01a79a177c350c43",
+                "StoryUpdateTime": "3/29/2025 7:24:20 AM",
+                "StoryNameK": "nu-hiep-xin-dung-tay"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-quy-truong-sinh-tu-do-te-bat-dau-them-diem-tu-tien.jpg",
+                "StoryName": "Thần Quỷ Trường Sinh: Từ Đồ Tể Bắt Đầu Thêm Điểm Tu Tiên!",
+                "StoryTitleLastChap": "Chương 857: Đan thành, đột phá!",
+                "StoryID": "67a5b85601a79a073c06e4e8",
+                "StoryUpdateTime": "3/24/2025 1:55:43 AM",
+                "StoryNameK": "than-quy-truong-sinh-tu-do-te-bat-dau-them-diem-tu-tien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-cao-vo.jpg",
+                "StoryName": "Toàn Cầu Cao Võ (Dịch)",
+                "StoryTitleLastChap": "Chương 3560 Nhân Vương trở về - END",
+                "StoryID": "65581bf601a79a07bcae717d",
+                "StoryUpdateTime": "3/6/2025 10:46:12 AM",
+                "StoryNameK": "toan-cau-cao-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chu-thien-tu-tong-vo-the-gioi-bat-dau.jpg",
+                "StoryName": "Chư Thiên Từ Tổng Võ Thế Giới Bắt Đầu",
+                "StoryTitleLastChap": "Chương 1066: Là ngươi, giết con ta?",
+                "StoryID": "67a5d51501a79a073c07c7df",
+                "StoryUpdateTime": "3/6/2025 8:27:33 AM",
+                "StoryNameK": "chu-thien-tu-tong-vo-the-gioi-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tien-vo-de-ton.jpg",
+                "StoryName": "Tiên Võ Đế Tôn",
+                "StoryTitleLastChap": "Chương 5353: Nhân Gian Đạo (Đại kết cục) (2)",
+                "StoryID": "663dcee501a79a1304860574",
+                "StoryUpdateTime": "3/5/2025 10:43:24 AM",
+                "StoryNameK": "tien-vo-de-ton"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67d2a30101a79a0a70fa04a2",
+                "Name": "Chương 3661: Đã Đến Lân Thú Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30101a79a0a70fa04a1",
+                "Name": "Chương 3660: Đã Đến Lân Thọ Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30101a79a0a70fa04a0",
+                "Name": "Chương 3659: Đã Đến Lân Tháp Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30101a79a0a70fa049f",
+                "Name": "Chương 3658: Đã Đến Lân Tháp Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa049e",
+                "Name": "Chương 3657: Đã Đến Lân Tháp Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa049d",
+                "Name": "Chương 3656: Đã Đến Quốc Gia Sư Tử Tượng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa049c",
+                "Name": "Chương 3655: Đã Đến Lân Thú Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa049b",
+                "Name": "Chương 3654: Đã Đến Quốc Gia Sư Tử",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa049a",
+                "Name": "Chương 3653: Đã Đến Lân Tháp Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d2a30001a79a0a70fa0499",
+                "Name": "Chương 3652: Đã Đến Lân Tháp Quốc",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

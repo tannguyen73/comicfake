@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Theo Người Ở Rể Đến Nữ Đế Sủng Thần",
+            "StoryImage": "theo-nguoi-o-re-den-nu-de-sung-than.jpg",
+            "StoryDescription": "<b>Theo Người Ở Rể Đến Nữ Đế Sủng Thần</b><p>Tác giả: <b>Tuấn Tiếu Thiểu Niên</b></p><p><br></p><p>Chàng trai <b>Chu Nguyên</b>, từ một thế giới xa lạ, đến đây làm rể một gia đình nhỏ. Ban đầu, anh chỉ muốn một cuộc sống bình yên: uống trà, câu cá, tán gẫu, nghe hát. Nhưng cuộc đời đâu dễ dàng như vậy.</p><p>\"Phu quân, giúp thiếp với!\"</p><p>\"Hiền tế, giúp ta một tay!\"</p><p>\"Công tử, xin người giúp đỡ!\"</p><p>\"Ái khanh, trẫm cần khanh!\"</p><p>Thế là, Chu Nguyên không thể nào an nhàn được nữa. Anh buộc phải đứng lên gánh vác trách nhiệm, bảo vệ giang sơn này. Anh phá giải những vụ án lớn, thanh trừng quan trường, dẹp loạn, mở rộng bờ cõi... Anh xoay chuyển tình thế, vực dậy triều đình.</p><p>Nữ Đế hỏi: \"Ái khanh, con chúng ta... đặt tên gì đây?\"</p><p>Chu Nguyên vội vàng: \"Bệ hạ đừng nói lung tung, thần không có làm gì hết!\"</p><p>#DãSử #CơTrí #LịchSử #QuânSự #XuyênKhông #GócNhìnNam</p>",
+            "StoryUpdateTime": "2025-03-17T03:59:52.4960408Z",
+            "StoryUpdateTimeTick": 638772658088378318,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1302,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tuấn Tiếu Thiểu Niên",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67cfc2ac01a79a18d0ae2a4b",
+                    "MongoId": "67cfc2ac01a79a18d0ae2a4b"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1302: Trò chơi mười người của Khúc Linh",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Lịch Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lich-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a3",
+                    "MongoId": "61d9131015c3c70808d2b7a3"
+                },
+                {
+                    "TenTheLoai": "Quân Sự",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "quan-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91ece15c3c512383c2f10",
+                    "MongoId": "61d91ece15c3c512383c2f10"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "theo-nguoi-o-re-den-nu-de-sung-than-chuong-1302",
+            "Keyword": "theo người ở rể đến nữ đế sủng thần theo nguoi o re den nu de sung than",
+            "StoryView": 1192,
+            "NumberUserFollow": 4,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "theo-nguoi-o-re-den-nu-de-sung-than",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 1192,
+            "StoryViewInWeek": 289,
+            "StoryViewInMonth": 861,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "theo-nguoi-o-re-den-nu-de-sung-than-chuong-1",
+            "StoryIDFirstChap": "67d78ecd01a79a13f816f3b6",
+            "SoChuong": 1302,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 19,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Chu Nguyên, một chàng rể bình thường, buộc phải gánh vác trọng trách bảo vệ giang sơn do những lời kêu gọi giúp đỡ liên tục. Cuối cùng, dù được Nữ Đế ngỏ ý muốn đặt tên cho con chung, anh vẫn một mực phủ nhận mối quan hệ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67cfc29001a79a18d0ae2a4a",
+            "MongoId": "67cfc29001a79a18d0ae2a4a"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67cfc29001a79a18d0ae2a4a",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67d78ecd01a79a13f816f3b6",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//do-de-cua-ta-deu-la-trum-phan-dien.jpg",
+                "StoryName": "Đồ Đệ Của Ta Đều Là Trùm Phản Diện",
+                "StoryTitleLastChap": "Chương 2181: Đại kết cục",
+                "StoryID": "655b1ecb01a79a1234c67688",
+                "StoryUpdateTime": "3/1/2025 7:02:56 AM",
+                "StoryNameK": "do-de-cua-ta-deu-la-trum-phan-dien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dại-chu-tiên-lại-.jpg",
+                "StoryName": "Đại Chu Tiên Lại ",
+                "StoryTitleLastChap": "Chương 7, A Ly (HẾT)",
+                "StoryID": "650d4c8901a7a006a85dfc89",
+                "StoryUpdateTime": "7/11/2024 4:06:58 AM",
+                "StoryNameK": "dai-chu-tien-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-sat-than.jpg",
+                "StoryName": "Vô Thượng Sát Thần",
+                "StoryTitleLastChap": "Chương 5399: 5399: Phá giải",
+                "StoryID": "663340c501a79a059c737e45",
+                "StoryUpdateTime": "10/26/2024 8:37:18 AM",
+                "StoryNameK": "vo-thuong-sat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-tu-cua-ta-deu-la-vo-dich-dai-yeu.jpg",
+                "StoryName": "Đệ Tử Của Ta Đều Là Vô Địch Đại Yêu (Dịch)",
+                "StoryTitleLastChap": "Chương 980: Nhân đạo thành Thánh (4). HẾT.",
+                "StoryID": "65767bbc01a79a05c8ae4e95",
+                "StoryUpdateTime": "11/1/2024 3:53:04 AM",
+                "StoryNameK": "de-tu-cua-ta-deu-la-vo-dich-dai-yeu-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-cao-vo.jpg",
+                "StoryName": "Toàn Cầu Cao Võ (Dịch)",
+                "StoryTitleLastChap": "Chương 3560 Nhân Vương trở về - END",
+                "StoryID": "65581bf601a79a07bcae717d",
+                "StoryUpdateTime": "3/6/2025 10:46:12 AM",
+                "StoryNameK": "toan-cau-cao-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vu-thien-ha.jpg",
+                "StoryName": "Linh Vũ Thiên Hạ",
+                "StoryTitleLastChap": "Chương 5024: Đại kết cục",
+                "StoryID": "65081e4f01a79a0d5c482650",
+                "StoryUpdateTime": "12/19/2023 1:55:54 AM",
+                "StoryNameK": "linh-vu-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-toc-tran-thu-su.jpg",
+                "StoryName": "Nhân Tộc Trấn Thủ Sứ (Dịch)",
+                "StoryTitleLastChap": "Chương 5877: Tiên Vương trung giai (2)",
+                "StoryID": "6557338701a79a03c44b268a",
+                "StoryUpdateTime": "11/28/2024 6:52:19 AM",
+                "StoryNameK": "nhan-toc-tran-thu-su-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//luc-dia-kien-tien.jpg",
+                "StoryName": "Lục Địa Kiện Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 4629 Đối Thoại Cùng Thần",
+                "StoryID": "65669f1b01a79a0c7482830a",
+                "StoryUpdateTime": "4/25/2025 2:27:02 AM",
+                "StoryNameK": "luc-dia-kien-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-chuc-phap-su.jpg",
+                "StoryName": "Toàn Chức Pháp Sư",
+                "StoryTitleLastChap": "Chương 3136: Cấm chú, anh linh tháp",
+                "StoryID": "656d83fe01a79a0e984a2f9a",
+                "StoryUpdateTime": "12/11/2023 3:02:38 AM",
+                "StoryNameK": "toan-chuc-phap-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-phung-da-canh-nhan(dich.jpg",
+                "StoryName": "Đại Phụng Đả Canh Nhân(Dịch)",
+                "StoryTitleLastChap": "Chương 2109: Tuyệt thế Võ Thần (5) HẾT",
+                "StoryID": "665e867e01a79a0fcc7eafd1",
+                "StoryUpdateTime": "6/6/2024 8:24:35 AM",
+                "StoryNameK": "dai-phung-da-canh-nhandich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta!-thien-menh-dai-phan-phai.jpg",
+                "StoryName": "Ta! Thiên Mệnh Đại Phản Phái",
+                "StoryTitleLastChap": "Chương 2705. Thiên địa yên tĩnh",
+                "StoryID": "65548abbf30be075b8f45eb7",
+                "StoryUpdateTime": "11/17/2023 3:43:01 AM",
+                "StoryNameK": "ta-thien-menh-dai-phan-phai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-toc-chi-kiep.jpg",
+                "StoryName": "Vạn Tộc Chi Kiếp (Dịch)",
+                "StoryTitleLastChap": "Chương 4016: Về Nhà Thôi... (Đại Kết Cục)",
+                "StoryID": "650ffa1c01a79a13c449720b",
+                "StoryUpdateTime": "11/3/2023 9:13:43 AM",
+                "StoryNameK": "van-toc-chi-kiep-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67d79de101a79a13f817260c",
+                "Name": "Chương 1302: Trò chơi mười người của Khúc Linh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f817260b",
+                "Name": "Chương 1301: Ngày lễ muốn khoái lạc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f817260a",
+                "Name": "Chương 1300: Ngày lễ đại đoàn viên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172609",
+                "Name": "Chương 1299: Phòng thí nghiệm của Nguyễn Chỉ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172608",
+                "Name": "Chương 1298: Vì ta nhi tử",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172607",
+                "Name": "Chương 1297: Bốn mươi hơi thở",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172606",
+                "Name": "Chương 1296: Sinh mệnh lễ vật",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172605",
+                "Name": "Chương 1295: Người cô đơn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de101a79a13f8172604",
+                "Name": "Chương 1294: Chuyện nhà chuyện cửa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67d79de001a79a13f8172603",
+                "Name": "Chương 1293: A a a a cười toe toét",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Năm Năm Huyện Lệnh, Triệu Cân Lương Khiếp Sợ Lý Thế Dân",
+            "StoryImage": "nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan.jpg",
+            "StoryDescription": "<b>Năm Năm Huyện Lệnh, Triệu Cân Lương Khiếp Sợ Lý Thế Dân</b><p><b>Tác giả: Thần Hoa Chu</b></p><p><br></p><p><b>Phương Nguyên</b> xuyên không đến thời Đường, trở thành Huyện Lệnh của huyện Vũ Lăng. Trong năm năm cai trị, ông đã xây dựng huyện Vũ Lăng với đường xi măng, nhà khách, hội sở, nhà máy và trà phường. Nhờ đó, kinh tế huyện phát triển vượt bậc, nông nghiệp cũng trở nên trù phú.</p><p>Đến năm Trinh Quan thứ hai, thiên hạ gặp đại hạn, châu chấu hoành hành tàn phá. Dân gian đồn đoán rằng Hoàng Đế Thất Đức là nguyên nhân, khiến nhiều quan lại ép Lý Thế Dân phải tự trách mình.</p><p>Khi Lý Thế Dân hoàn toàn bất lực, ông nằm mộng ban ngày và thấy rằng ở phương Nam có một vị Hiền Thần ứng mộng có thể giúp ông giải quyết khó khăn. Vì vậy, Lý Thế Dân đã cải trang vi hành về phương Nam và cuối cùng đến huyện Vũ Lăng.</p>",
+            "StoryUpdateTime": "2025-04-08T07:46:14.8762983Z",
+            "StoryUpdateTimeTick": 638796837344794546,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1000,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Thần Hoa Chu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67f4a80801a79a1af4813a07",
+                    "MongoId": "67f4a80801a79a1af4813a07"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 512: Tương lai đảo tương lai, tương lai đảo hoan nghênh ngươi 2",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Lịch Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lich-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a3",
+                    "MongoId": "61d9131015c3c70808d2b7a3"
+                },
+                {
+                    "TenTheLoai": "Quan Trường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "quan-truong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9211815c3c512383c306c",
+                    "MongoId": "61d9211815c3c512383c306c"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan-chuong-1000",
+            "Keyword": "năm năm huyện lệnh, triệu cân lương khiếp sợ lý thế dân nam nam huyen lenh, trieu can luong khiep so ly the dan",
+            "StoryView": 2716,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2716,
+            "StoryViewInWeek": 1343,
+            "StoryViewInMonth": 2716,
+            "NumberReview": 0,
+            "NumberComment": 1,
+            "StoryNameKFirstChap": "nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan-chuong-1",
+            "StoryIDFirstChap": "67f4a99d01a79a1af4813a08",
+            "SoChuong": 1000,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 7,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Phương Nguyên xuyên không đến Đường triều, làm Huyện Lệnh Vũ Lăng và có công xây dựng huyện giàu mạnh trong năm năm. Đến khi thiên hạ đại hạn, dân gian tin là do vua, khiến Lý Thế Dân phải tìm đến Vũ Lăng theo giấc mơ về một vị hiền thần phương Nam.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67f4a79601a79a1af4813a06",
+            "MongoId": "67f4a79601a79a1af4813a06"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67f4a79601a79a1af4813a06",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67f4a99d01a79a1af4813a08",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 1,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trong-sinh-chi-toi-cuong-kiem-than.jpg",
+                "StoryName": "Trọng Sinh Chi Tối Cường Kiếm Thần",
+                "StoryTitleLastChap": "Chương 4728: Tân thế giới (đại kết cục) (10)",
+                "StoryID": "656597ca01a79a07c8c7cbda",
+                "StoryUpdateTime": "4/26/2024 8:44:52 AM",
+                "StoryNameK": "trong-sinh-chi-toi-cuong-kiem-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-90-nghin-ty-tien-liem-cau.jpg",
+                "StoryName": "Ta Có 90 Nghìn Tỷ Tiền Liếm Cẩu (Dịch)",
+                "StoryTitleLastChap": "Chương 2156: Đại kết cục!!!",
+                "StoryID": "65fa825101a79a19643d35ae",
+                "StoryUpdateTime": "12/26/2024 5:06:14 AM",
+                "StoryNameK": "ta-co-90-nghin-ty-tien-liem-cau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-sat-than.jpg",
+                "StoryName": "Vô Thượng Sát Thần",
+                "StoryTitleLastChap": "Chương 5399: 5399: Phá giải",
+                "StoryID": "663340c501a79a059c737e45",
+                "StoryUpdateTime": "10/26/2024 8:37:18 AM",
+                "StoryNameK": "vo-thuong-sat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-lien-chi-dinh.jpg",
+                "StoryName": "Thanh Liên Chi Đỉnh",
+                "StoryTitleLastChap": "Chương 7354: Thanh Liên đỉnh (Đại kết cục) (2) HẾT.",
+                "StoryID": "6567087701a79a04c07c99ea",
+                "StoryUpdateTime": "1/18/2024 8:54:38 AM",
+                "StoryNameK": "thanh-lien-chi-dinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-tu-cua-ta-deu-la-vo-dich-dai-yeu.jpg",
+                "StoryName": "Đệ Tử Của Ta Đều Là Vô Địch Đại Yêu (Dịch)",
+                "StoryTitleLastChap": "Chương 980: Nhân đạo thành Thánh (4). HẾT.",
+                "StoryID": "65767bbc01a79a05c8ae4e95",
+                "StoryUpdateTime": "11/1/2024 3:53:04 AM",
+                "StoryNameK": "de-tu-cua-ta-deu-la-vo-dich-dai-yeu-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khung-bo-song-lai.jpg",
+                "StoryName": "Khủng Bố Sống Lại (Dịch)",
+                "StoryTitleLastChap": "Chương 3694: Tiễn Họ Đoạn Đường Cuối - Hoàn",
+                "StoryID": "65669e8a01a79a0c74828308",
+                "StoryUpdateTime": "12/5/2024 9:42:27 AM",
+                "StoryNameK": "khung-bo-song-lai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta!-thien-menh-dai-nhan-vat-phan-phai.jpg",
+                "StoryName": "Ta! Thiên Mệnh Đại Nhân Vật Phản Phái (Dịch)",
+                "StoryTitleLastChap": "Chương 3450: Đại chiến căng thẳng",
+                "StoryID": "657a733c01a79a160844519c",
+                "StoryUpdateTime": "12/5/2024 9:52:50 AM",
+                "StoryNameK": "ta-thien-menh-dai-nhan-vat-phan-phai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-ba.jpg",
+                "StoryName": "Đế Bá",
+                "StoryTitleLastChap": "Chương 7196: Đại Kết Cục",
+                "StoryID": "65081e9701a79a0d5c4826a2",
+                "StoryUpdateTime": "11/8/2024 8:53:40 AM",
+                "StoryNameK": "de-ba"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67f4ab5801a79a1af4813def",
+                "Name": "Chương 512: Tương lai đảo tương lai, tương lai đảo hoan nghênh ngươi 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813dee",
+                "Name": "Chương 512: Tương lai đảo – Tương lai đảo hoan nghênh ngươi",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813ded",
+                "Name": "Chương 511: Lĩnh Nam Vương Cung, sợ thấy Trường Nhạc công chúa (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813dec",
+                "Name": "Chương 511: Lĩnh Nam Vương Cung, sợ hãi Trường Nhạc công chúa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813deb",
+                "Name": "Chương 510: Hải tặc, Lĩnh Nam bắt đầu cải cách (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813dea",
+                "Name": "Chương 510: Hải tặc, Lĩnh Nam bắt đầu cải cách",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5801a79a1af4813de9",
+                "Name": "Chương 509: Ngoại ý muốn đầu nhập, di cư (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5701a79a1af4813de8",
+                "Name": "Chương 509: Ngoại ý muốn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5701a79a1af4813de7",
+                "Name": "Chương 508: Cuốn thứ ba sổ sách, võ quan tập đoàn ý chí 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4ab5701a79a1af4813de6",
+                "Name": "Chương 508: Cuốn sổ thứ ba, mưu đồ của võ quan",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

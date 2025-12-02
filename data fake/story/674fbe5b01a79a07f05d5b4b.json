@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Đại Tuyên Võ Thánh",
+            "StoryImage": "dai-tuyen-vo-thanh-(dich.jpg",
+            "StoryDescription": "<b>Đại Tuyên Võ Thánh </b>- tác giả <b>Dạ Nam Thính Phong</b> - #HuyềnHuyễn #ĐồngNhân #DãSử #KiếmHiệp #CổĐại #HệThống<p><br></p><p>Trong một thế giới cổ đại đầy phép thuật và võ công, vương triều Đại Tuyên đang trên bờ vực sụp đổ. Ma quỷ hoành hành, các thế lực ngầm tranh giành quyền lực, nhân dân lầm than.</p><p><b>Trần Mục</b>, một xuyên không giả, tình cờ lạc vào thế giới này. Với sự giúp đỡ của hệ thống tu luyện, hắn nhanh chóng trở thành một võ giả tài năng. Tuy nhiên, con đường phía trước còn rất dài và đầy chông gai. Hắn phải đối mặt với những cường giả khác, những âm mưu thâm hiểm, và cả những bí mật động trời về quá khứ của vương triều.</p><p>Liệu Trần Mục có thể thay đổi vận mệnh của vương triều Đại Tuyên?&nbsp;</p><p>Cùng khám phá một thế giới kiếm hiệp đầy màu sắc và những cuộc chiến khốc liệt trong tác phẩm <b>Đại Tuyên Võ Thánh</b> được cập nhật tại Website/App&nbsp;<b>Xalosach.com</b> nhé!</p>",
+            "StoryUpdateTime": "2025-04-17T01:51:44.8467507Z",
+            "StoryUpdateTimeTick": 638688761237264226,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 735,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Dạ Nam Thính Phong",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "674fbeaa01a79a07f05d5ba2",
+                    "MongoId": "674fbeaa01a79a07f05d5ba2"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Đồng Nhân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-nhan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131415c3c70808d2b7a7",
+                    "MongoId": "61d9131415c3c70808d2b7a7"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "dai-tuyen-vo-thanh-chuong-735",
+            "Keyword": "đại tuyên võ thánh (dịch) dai tuyen vo thanh (dich)",
+            "StoryView": 7633,
+            "NumberUserFollow": 14,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "dai-tuyen-vo-thanh",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 7633,
+            "StoryViewInWeek": 112,
+            "StoryViewInMonth": 1332,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "dai-tuyen-vo-thanh-(dich-chuong-1",
+            "StoryIDFirstChap": "674fc64201a79a07f05d607a",
+            "SoChuong": 735,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 145,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trần Mục, một chàng trai hiện đại, bất ngờ xuyên không đến một thế giới đang trên bờ vực sụp đổ. Ở đó, ma quỷ hoành hành, vương triều suy yếu, nhân dân lầm than. Trần Mục, từ một kẻ tay trắng, phải bắt đầu lại cuộc đời từ con số không.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "674fbe5b01a79a07f05d5b4b",
+            "MongoId": "674fbe5b01a79a07f05d5b4b"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 1,
+                "ratemedium": 1.0,
+                "numberuserrate": 1,
+                "storyid": "674fbe5b01a79a07f05d5b4b",
+                "Id": "67f53c7e01a79a0338a9defe",
+                "MongoId": "67f53c7e01a79a0338a9defe"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "674fc64201a79a07f05d607a",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-so-voi-ta-hieu-pokemon.jpg",
+                "StoryName": "Hắn So Với Ta Hiểu Pokemon",
+                "StoryTitleLastChap": "Chương 1479 Ràng buộc chi lực, lửa mạnh!",
+                "StoryID": "67ee3a9a01a79a1598255677",
+                "StoryUpdateTime": "4/25/2025 7:03:18 AM",
+                "StoryNameK": "han-so-voi-ta-hieu-pokemon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "68005db001a79a1aec647430",
+                "Name": "Chương 735: Siêu Thoát (Kết)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68005db001a79a1aec64742f",
+                "Name": "Chương 734: Dung hợp quy tắc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68005db001a79a1aec64742e",
+                "Name": "Chương 733: Đạo của Trần Mục",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68005db001a79a1aec64742d",
+                "Name": "Chương 732: Khai Phá Hoàn Vũ!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68005db001a79a1aec64742c",
+                "Name": "Chương 731: Lời mời của Nguyên Thủy",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f79ca001a79a123401de08",
+                "Name": "Chương 730: Vị Vô Thượng Tôn Giả Thứ Năm Của Toàn Vũ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f79c9f01a79a123401de07",
+                "Name": "Chương 729: Con Đường Siêu Thoát Cuối Cùng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4e05601a79a0338a90593",
+                "Name": "Chương 728: Ngộ Thấu Tuế Nguyệt!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4e05601a79a0338a90592",
+                "Name": "Chương 727: Hắc Liên Chí Bảo",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f4e05501a79a0338a90591",
+                "Name": "Chương 726: Đại Đạo Kỳ Vật",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

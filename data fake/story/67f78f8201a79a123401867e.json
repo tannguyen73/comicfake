@@ -1,0 +1,326 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+            "StoryImage": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+            "StoryDescription": "Thần hào trò chơi xâm chiếm thế giới thực, làm xong nhiệm vụ là có thể nhận được vô số phần thưởng?!<p>Vừa bị cô bạn gái quen ba năm \"đá đít\", <b>Trần Mục </b>làm sao ngờ được mình lại bị một trò chơi thần hào trói buộc. Chỉ cần hoàn thành nhiệm vụ, đủ loại phần thưởng siêu cấp sẽ tự động rơi vào tay!</p><p>【 Nhiệm vụ 1: Tỏ tình với hoa khôi của trường, dù thất bại cũng được thưởng 10 tỷ! 】</p><p>【 Nhiệm vụ 2: Mời một mỹ nhân có nhan sắc trên 90 điểm đi ăn, thưởng ngay siêu xe xịn nhất! 】</p><p>【 Nhiệm vụ 3: Làm một phen khoe của lố bịch, thưởng gấp trăm lần tiền lời! 】</p><p>&nbsp;...</p><p>Cuộc sống của một tay chơi siêu giàu, cứ thế mà bắt đầu!</p><p><br></p><p><b>Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!</b></p><p>Tác giả: <b>Tiểu Tạp Bỉ A</b></p><p>#Hệ Thống #Đô Thị #Vô Sỉ</p>",
+            "StoryUpdateTime": "2025-04-25T07:15:36.2730717Z",
+            "StoryUpdateTimeTick": 638798741789808802,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 593,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Vô Sỉ",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main vô sỉ, lưu manh",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "vo-si",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b40101a79b106c6504dd",
+                    "MongoId": "6561b40101a79b106c6504dd"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty-chuong-593",
+            "Keyword": "thần hào trò chơi xâm lấn: tỏ tình giáo hoa, khen thưởng 10 tỷ! than hao tro choi xam lan: to tinh giao hoa, khen thuong 10 ty!",
+            "StoryView": 2618,
+            "NumberUserFollow": 5,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2618,
+            "StoryViewInWeek": 949,
+            "StoryViewInMonth": 2618,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty-chuong-2",
+            "StoryIDFirstChap": "67f7908f01a79a12340194ec",
+            "SoChuong": 593,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 1,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Vừa bị bạn gái quen ba năm đá, Trần Mục làm sao ngờ được mình lại bị một trò chơi thần hào trói buộc...",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67f78f8201a79a123401867e",
+            "MongoId": "67f78f8201a79a123401867e"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67f78f8201a79a123401867e",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67f7908f01a79a12340194ec",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-90-nghin-ty-tien-liem-cau.jpg",
+                "StoryName": "Ta Có 90 Nghìn Tỷ Tiền Liếm Cẩu (Dịch)",
+                "StoryTitleLastChap": "Chương 2156: Đại kết cục!!!",
+                "StoryID": "65fa825101a79a19643d35ae",
+                "StoryUpdateTime": "12/26/2024 5:06:14 AM",
+                "StoryNameK": "ta-co-90-nghin-ty-tien-liem-cau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tat-ca-de-tu-cua-ta-deu-co-tu-chat-dai-de.jpg",
+                "StoryName": "Tất Cả Đệ Tử Của Ta Đều Có Tư Chất Đại Đế (Dịch)",
+                "StoryTitleLastChap": "Chương 1894: Đệ cửu trọng lôi kiếp, Luân Hồi Bách Luyện!",
+                "StoryID": "6662c6e801a79a1930d5d902",
+                "StoryUpdateTime": "4/23/2025 2:53:03 AM",
+                "StoryNameK": "tat-ca-de-tu-cua-ta-deu-co-tu-chat-dai-de-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-ton-tho!-phap-gia-ta-lam-sao-chi-biet-cam-chu.jpg",
+                "StoryName": "Toàn Dân: Tổn Thọ! Pháp Gia Ta Làm Sao Chỉ Biết Cấm Chú",
+                "StoryTitleLastChap": "Chương 776 Thần Chi Cấm Chú, Kinh Cức chỉ khốn « 2, cầu đánh thưởng ».",
+                "StoryID": "65f807b501a79b199c75bf2c",
+                "StoryUpdateTime": "3/22/2024 8:48:02 AM",
+                "StoryNameK": "toan-dan-ton-tho-phap-gia-ta-lam-sao-chi-biet-cam-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dinh-cap-ngo-tinh-tu-co-so-quyen-phap-bat-dau.jpg",
+                "StoryName": "Đỉnh Cấp Ngộ Tính: Từ Cơ Sở Quyền Pháp Bắt Đầu (Dịch)",
+                "StoryTitleLastChap": "Chương 2215: ĐẠI KẾT CỤC",
+                "StoryID": "65d3246f01a79a0d903f2b54",
+                "StoryUpdateTime": "12/2/2024 10:04:33 AM",
+                "StoryNameK": "dinh-cap-ngo-tinh-tu-co-so-quyen-phap-bat-dau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//huyen-huyen-ta-tong-mon-tram-trieu-diem-cuong.jpg",
+                "StoryName": "Huyền huyễn: Ta tông môn trăm triệu điểm cường",
+                "StoryTitleLastChap": "Chương 1953 Thiên Đạo đồng bộ",
+                "StoryID": "6579355501a79a0b3879d31e",
+                "StoryUpdateTime": "12/13/2023 6:12:42 AM",
+                "StoryNameK": "huyen-huyen-ta-tong-mon-tram-trieu-diem-cuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chung-cuc-toan-nang-hoc-sinh-(dich.jpg",
+                "StoryName": "Chung Cực Toàn Năng Học Sinh (Dịch)",
+                "StoryTitleLastChap": "Chương 3360: Ta Là Nhân Hoàng (2) (Đại Kết Cục)",
+                "StoryID": "66b19fbb01a79a0f18020226",
+                "StoryUpdateTime": "8/6/2024 9:53:15 AM",
+                "StoryNameK": "chung-cuc-toan-nang-hoc-sinh-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hao-huu-tu-vong-tu-vi-cua-ta-lai-tang-len.jpg",
+                "StoryName": "Hảo Hữu Tử Vong: Tu Vi Của Ta Lại Tăng Lên",
+                "StoryTitleLastChap": "Chương 1902. Không có khả năng, Đậu Trường Sinh sao có thể mạnh như vậy? 2",
+                "StoryID": "6627706b01a79a1608012583",
+                "StoryUpdateTime": "4/24/2024 9:32:45 AM",
+                "StoryNameK": "hao-huu-tu-vong-tu-vi-cua-ta-lai-tang-len"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//-thinh-cong-tu-tram-yeu.jpg",
+                "StoryName": " Thỉnh Công Tử Trảm Yêu",
+                "StoryTitleLastChap": "Chương 906: Thỉnh công tử chém yêu! 【 Đại Kết Cục 】",
+                "StoryID": "657ffe6001a79a1428553bd9",
+                "StoryUpdateTime": "2/18/2025 10:43:26 AM",
+                "StoryNameK": "thinh-cong-tu-tram-yeu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-dang-nhap-tuong-lai-mot-van-nam.jpg",
+                "StoryName": "Cao Võ: Đăng Nhập Tương Lai Một Vạn Năm",
+                "StoryTitleLastChap": "Chương 650_2: Cho ta xem xem mảnh này tinh không dựng dục cực hạn « đã sửa chữa ».",
+                "StoryID": "657d2c9f01a79a11644821b3",
+                "StoryUpdateTime": "12/16/2023 5:23:31 AM",
+                "StoryNameK": "cao-vo-dang-nhap-tuong-lai-mot-van-nam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//-tu-tien-tu-truong-sinh-bat-tu-bat-dau.jpg",
+                "StoryName": " Tu Tiên Từ Trường Sinh Bất Tử Bắt Đầu",
+                "StoryTitleLastChap": "Chương 0 phiên ngoại phiên ngoại, điểu ty cuồng tưởng khúc",
+                "StoryID": "657bcfcf01a79a1608450090",
+                "StoryUpdateTime": "12/15/2023 5:01:49 AM",
+                "StoryNameK": "tu-tien-tu-truong-sinh-bat-tu-bat-dau"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680b367901a79a07c0e7b28b",
+                "Name": "Chương 592: Chụt, hôn anh một cái!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680b367901a79a07c0e7b28a",
+                "Name": "Chương 591: Chói mù mắt người!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68099c3601a79a16f00d96dc",
+                "Name": "Chương 590: Siêu xe lam ngọc!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68099c3601a79a16f00d96db",
+                "Name": "Chương 589: Cái thứ dơ bẩn gì cũng đổ lên đầu bọn tôi!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808912901a79a15389800e5",
+                "Name": "Chương 588: Xin lỗi! Còn phải bồi thường tổn thất tinh thần cho tôi!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808912901a79a15389800e4",
+                "Name": "Chương 587: Hoàn thành nhiệm vụ, nhận một chiếc xe thể thao Sapphire",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68070be601a79a15388e220e",
+                "Name": "Chương 586: Muốn làm tiểu tam, chen chân vào tình cảm của chúng tôi à?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68070be601a79a15388e220d",
+                "Name": "Chương 585: Khen thưởng 9000000 ức Đại Hạ tệ!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805badf01a79a166cda39e8",
+                "Name": "Chương 584: Mị lực thất bại, bắt chuyện bất thành!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805badf01a79a166cda39e7",
+                "Name": "Chương 583: Giải thưởng siêu to khổng lồ - Thiên đường đại dương lớn nhất thế giới",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thiếu Nữ Linh Môi Trên Con Đường Trở Thành Ảnh Hậu",
+            "StoryImage": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau.jpg",
+            "StoryDescription": "Khi <b>Giang Ly</b> tròn mười tám tuổi, cô thức tỉnh một thể chất đặc biệt được di truyền trong gia tộc – khả năng cho phép linh hồn nhập vào cơ thể mình, cùng chia sẻ ngũ quan và thất tình lục dục. Quá trình này kéo dài cho đến khi vong hồn buông bỏ chấp niệm và đi đầu thai, Giang Ly sẽ nhận được vô lượng công đức.<p>Cô đã khổ luyện suốt mười tám năm, tích lũy đủ mọi phương pháp để siêu độ lệ quỷ. Tuy nhiên, những “lệ quỷ” mà cô gặp phải lại không giống như trong tưởng tượng.</p><p>...</p><p>Một thiếu nữ trẻ tuổi qua đời vì bệnh nan y, chấp niệm duy nhất là ăn hết mọi món ngon trên phố phường. Giang Ly bất ngờ trở thành ngôi sao mukbang (ăn uống trực tuyến) hot nhất.</p><p>Một giáo sư trẻ chỉ còn cách một bước nữa để hoàn thành nghiên cứu đề tài, chấp niệm duy nhất của cô ta đương nhiên là kết quả thí nghiệm. Giang Ly không còn cách nào khác ngoài việc đăng ký học thêm một chuyên ngành thứ hai.</p><p>Một nữ diễn viên từng được đề cử vô số lần nhưng luôn lỡ hẹn với các giải thưởng danh giá. Giang Ly phải viết luận văn vào buổi tối, đóng phim vào ban ngày, suýt nữa thì kiệt sức mà hóa thành một vong hồn.</p><p>Nhiều năm sau, với phong cách biến hóa đa dạng, Giang Ly đã giành được danh hiệu Ảnh hậu. Trong buổi phỏng vấn, khi được hỏi lý do ban đầu cô bước chân vào giới giải trí, Giang Ly bình thản trả lời: “Đó là định mệnh của tôi.”</p><p>Thực chất trong lòng cô đang nghiến răng nghiến lợi: “Cũng chỉ vì công đức mà thôi!”</p>",
+            "StoryUpdateTime": "2025-04-22T09:24:53.2320748Z",
+            "StoryUpdateTimeTick": 638809078656734007,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 134,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tống Hàng Hàng",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6807558401a79a1538906093",
+                    "MongoId": "6807558401a79a1538906093"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 134: Chương 134",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d822201a79a23501fa4d1",
+                    "MongoId": "674d822201a79a23501fa4d1"
+                },
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Học Đường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sac-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9232615c3c512383c319b",
+                    "MongoId": "61d9232615c3c512383c319b"
+                },
+                {
+                    "TenTheLoai": "Linh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "linh-di",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91ffe15c3c512383c2fc5",
+                    "MongoId": "61d91ffe15c3c512383c2fc5"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Đông Phương",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-phuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131e15c3c70808d2b7af",
+                    "MongoId": "61d9131e15c3c70808d2b7af"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau-chuong-134",
+            "Keyword": "thiếu nữ linh môi trên con đường trở thành ảnh hậu thieu nu linh moi tren con duong tro thanh anh hau",
+            "StoryView": 784,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 784,
+            "StoryViewInWeek": 784,
+            "StoryViewInMonth": 784,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "thieu-nu-linh-moi-tren-con-duong-tro-thanh-anh-hau-chuong-1",
+            "StoryIDFirstChap": "6807595901a79a153890ac2e",
+            "SoChuong": 134,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Giang Ly tròn mười tám tuổi thức tỉnh một thể chất đặc biệt được di truyền trong gia tộc – cho phép linh hồn nhập vào cơ thể mình, cùng chia sẻ ngũ quan và thất tình lục dục.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6807555901a79a1538905193",
+            "MongoId": "6807555901a79a1538905193"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6807555901a79a1538905193",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6807595901a79a153890ac2e",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//luc-dia-kien-tien.jpg",
+                "StoryName": "Lục Địa Kiện Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 4629 Đối Thoại Cùng Thần",
+                "StoryID": "65669f1b01a79a0c7482830a",
+                "StoryUpdateTime": "4/25/2025 2:27:02 AM",
+                "StoryNameK": "luc-dia-kien-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dan-hoang-vo-de.jpg",
+                "StoryName": "Đan Hoàng Võ Đế (Dịch)",
+                "StoryTitleLastChap": "Chương 4028: Đại kết cục, sau này không gặp lại (2)",
+                "StoryID": "650a624b01a79a0d64b864ba",
+                "StoryUpdateTime": "12/11/2024 7:48:16 AM",
+                "StoryNameK": "dan-hoang-vo-de-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-diet-than-vuong.jpg",
+                "StoryName": "Bất Diệt Thần Vương (Dịch)",
+                "StoryTitleLastChap": "Chương 2225: Bất Diệt Thần Vương (Đại Kết Cục)",
+                "StoryID": "650fae9f01a79a13c4487184",
+                "StoryUpdateTime": "12/17/2024 1:11:05 AM",
+                "StoryNameK": "bat-diet-than-vuong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-danh-bong-dem---de-nhat-danh-sach-2.jpg",
+                "StoryName": "Nhân Danh Bóng Đêm - Đệ Nhất Danh Sách 2",
+                "StoryTitleLastChap": "Chương 2700: Tiểu Khánh Trần",
+                "StoryID": "6566a06e01a79a0c7482830e",
+                "StoryUpdateTime": "12/16/2024 2:17:20 AM",
+                "StoryNameK": "nhan-danh-bong-dem-de-nhat-danh-sach-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-sinh-hung-han.jpg",
+                "StoryName": "Nhân Sinh Hung Hãn (Dịch)",
+                "StoryTitleLastChap": "Chương 2033: Đại kết cục. HẾT.",
+                "StoryID": "65a5042801a79a0db072b40c",
+                "StoryUpdateTime": "1/17/2024 10:15:13 AM",
+                "StoryNameK": "nhan-sinh-hung-han-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-ban-thuong-100-trieu-cai-mang.jpg",
+                "StoryName": "Bắt Đầu Ban Thưởng 100 Triệu Cái Mạng",
+                "StoryTitleLastChap": "Chương 2693: Đại kết cục",
+                "StoryID": "6579758801a79a0b387a4020",
+                "StoryUpdateTime": "12/13/2023 10:34:45 AM",
+                "StoryNameK": "bat-dau-ban-thuong-100-trieu-cai-mang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//-chang-le-that-su-co-nguoi-cam-thay-su-ton-la-pham-nhan-sao.jpg",
+                "StoryName": " Chẳng Lẽ Thật Sự Có Người Cảm Thấy Sư Tôn Là Phàm Nhân Sao",
+                "StoryTitleLastChap": "Chương 1472: Vô Đạo Tông (Đại kết cục)",
+                "StoryID": "655dac6e01a79a021426f39f",
+                "StoryUpdateTime": "12/14/2024 2:48:56 AM",
+                "StoryNameK": "chang-le-that-su-co-nguoi-cam-thay-su-ton-la-pham-nhan-sao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-moi-ngay-nhan-mot-he-thong-moi.jpg",
+                "StoryName": "Ta Mỗi Ngày Nhận Một Hệ Thống Mới",
+                "StoryTitleLastChap": "Chương 2160: Chị em sinh đôi",
+                "StoryID": "6567095901a79b04c0474f2d",
+                "StoryUpdateTime": "11/29/2023 10:15:52 AM",
+                "StoryNameK": "ta-moi-ngay-nhan-mot-he-thong-moi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-su-huynh-khong-co-gi-la.jpg",
+                "StoryName": "Đại Sư Huynh Không Có Gì Lạ",
+                "StoryTitleLastChap": "Chương 1185. Đại kết cục",
+                "StoryID": "64ae28eaf30be07518256169",
+                "StoryUpdateTime": "11/17/2023 3:14:40 AM",
+                "StoryNameK": "dai-su-huynh-khong-co-gi-la"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-thanh-truyen-(dich.jpg",
+                "StoryName": "Đại Thánh Truyện (Dịch)",
+                "StoryTitleLastChap": "Chương 2895: Hình Ảnh Ở Kiếp Trước",
+                "StoryID": "6567fb5001a79a0e945e5361",
+                "StoryUpdateTime": "11/30/2024 3:16:35 AM",
+                "StoryNameK": "dai-thanh-truyen-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-nhanh-nam-than-bung-chay-di!.jpg",
+                "StoryName": "Xuyên Nhanh: Nam Thần, Bùng Cháy Đi!",
+                "StoryTitleLastChap": "Chương 2657: Tiên Vốn Vô Lương (15). HẾT.",
+                "StoryID": "663890a801a79a1a00b23bb1",
+                "StoryUpdateTime": "5/7/2024 6:40:22 AM",
+                "StoryNameK": "xuyen-nhanh-nam-than-bung-chay-di"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "68075a8d01a79a153890acb4",
+                "Name": "Chương 134: Chương 134",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a8a01a79a153890acb3",
+                "Name": "Chương 133: Chương 133",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a8801a79a153890acb2",
+                "Name": "Chương 132: Chương 132",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a8601a79a153890acb1",
+                "Name": "Chương 131: Chương 131",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a8401a79a153890acb0",
+                "Name": "Chương 130: Chương 130",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a8201a79a153890acaf",
+                "Name": "Chương 129: Chương 129",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a7f01a79a153890acae",
+                "Name": "Chương 128: Chương 128",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a7d01a79a153890acad",
+                "Name": "Chương 127: Chương 127",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a7b01a79a153890acac",
+                "Name": "Chương 126: Chương 126",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "68075a7901a79a153890acaa",
+                "Name": "Chương 125: Chương 125",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

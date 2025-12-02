@@ -1,0 +1,965 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "67cac68101a79a157c95c4a3",
+            "Name": "Chương 160: Vũ Hồn Giác Tỉnh Của Đường Tam",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cac68101a79a157c95c4a2",
+            "Name": "Chương 159:",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cac68101a79a157c95c4a1",
+            "Name": "Chương 158: Ngày thức tỉnh Vũ Hồn, cái gì! Đường Tam?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cac68101a79a157c95c4a0",
+            "Name": "Chương 157: Sáu Năm Sau, Dị Giới Đường Tam!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cac68101a79a157c95c49f",
+            "Name": "Chương 156: La Sát Thần Bỉ Bỉ Đông Cuối Cùng Trọng Sinh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67cac68101a79a157c95c49e",
+            "Name": "Chương Chương 155: Tiền của hào thân hoàn trả đủ, tiền của bách tính chia ba bảy?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013120",
+            "Name": "Chương 154: Yến Tiệc Tròn Tháng của Ninh Vinh Vinh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311f",
+            "Name": "Chương 153: Từ Quái Thai Đầu To đến Đệ Tử Thân Cận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311e",
+            "Name": "Chương 152: Ngọc Tiểu Giang Cuối Cùng Đến Thiên Đấu Hoàng Thành, Sư Đồ Gặp Lại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311d",
+            "Name": "Chương 151: Ba roi đánh tan hồn Thần Vương, Hàn ca ta là người Đấu La!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311c",
+            "Name": "Chương 150: Đường Thần Vương: Còn đánh cái rắm gì nữa!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311b",
+            "Name": "Chương 149: Đường Thần Vương – Trận này, ưu thế thuộc về ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01311a",
+            "Name": "Chương 148: Người nhà Thiên gia trời sinh tà ác, Đường Thần Vương thách đấu Thiên Nhận Hàn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013119",
+            "Name": "Chương 147: Đường Thần Vương bị ghét bỏ, gọi ngươi một tiếng \"Đường Hạo đại điệt\" cũng không có gì sai!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013118",
+            "Name": "Chương 146: Tái Ngộ Liễu Nhị Long, Đường Thần Vương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013117",
+            "Name": "Chương 145: Dẫn theo Thiên Nhận Hàn và Tiểu Vũ đến Thiên Đấu, Tiểu thiếp Tiểu Vũ và chính thê.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013116",
+            "Name": "Chương 144: Hồ Liệt Na, Tà Nguyệt và Diễm, lại đến Hoàng Thành Thiên Đấu?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013115",
+            "Name": "Chương 143: Mã Hồng Tuấn hân hạnh nhận được khuôn mẫu Hồ Lô Oa thất oa, Ngọc Tiểu Giang cuối cùng cũng được giải thoát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013114",
+            "Name": "Chương 142: Chúng ta phải biết ơn Giáo hoàng như biết ơn mặt trời! Ân! Tình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013113",
+            "Name": "Chương 141: Mở đầu tế thiên phụ mẫu, phá hiểu thần quang Thiên Nhận Tuyết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013112",
+            "Name": "Chương 140: Đường Tam giáng thế, mệnh đồ trắc trở!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013111",
+            "Name": "Chương 139: Giao Dịch Của Bỉ Bỉ Đông Một Lần Nữa, Đấu La Lịch Năm 2631 Đã Đến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013110",
+            "Name": "Chương 138: Ba người có thể đi, ta cũng có thể đi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310f",
+            "Name": "Chương 137: Đưa Tiểu Vũ trở về Vũ Hồn Thành, Lão Đăng ngơ ngác: Không phải chứ, lại nữa sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310e",
+            "Name": "Chương 136: Thập vạn niên hồn kỹ của Thiên Nhận Tuyết, Tiểu Vũ hóa hình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310d",
+            "Name": "Chương 135: Phần thưởng hậu hĩnh, Bản Thể Vũ Hồn · Lưu Ly Chí Tôn Cốt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310c",
+            "Name": "Chương 134: A Nhu Tế Hiến, Tiểu Vũ Nhận Thiên Tầm Tật Làm Nghĩa Phụ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310b",
+            "Name": "Chương 133: Gặp Lại Bỉ Bỉ Đông, Thỏ Sao Có Thể Gọi Người Là Mẹ!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c01310a",
+            "Name": "Chương 132: Thiên Nhận Tuyết đột phá cấp sáu mươi, nguy cơ của A Nhu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013109",
+            "Name": "Chương 131: Bỉ Bỉ Đông đột phá cấp chín mươi, giao dịch lần nữa của Nhị Bỉ Đông!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013108",
+            "Name": "Chương 130: Phụ tử đều là nguồn họa, Đường Thần Vương: Chẳng lẽ Thiên Tầm Tật cũng là người trọng sinh?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013107",
+            "Name": "Chương 129: Đường Thần Vương hố cha, Đường Khiếu xui xẻo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013106",
+            "Name": "Chương 128: Gì cơ! Không phải Lão Độc Vật?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013105",
+            "Name": "Chương 127: Người nhà Thiên gia trời sinh tà ác, chỉ có thể làm khổ Lão Độc Vật thôi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013104",
+            "Name": "Chương 126: Đường Thần Vương tìm kiếm Ngọc Tiểu Giang, Băng Hỏa Lưỡng Nghi Nhãn bị nhắm đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013103",
+            "Name": "Chương 125: Đường Nhật Thiên chấn chỉnh tinh thần, Thiên Nhận Hàn thức tỉnh Vũ Hồn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013102",
+            "Name": "Chương 124: Đổi mặt của Đường Nhật Thiên, Đường Thần Vương thề báo thù cho phụ thân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013101",
+            "Name": "Chương 123: Vũ Hồn Giác Tỉnh của Đường Thần Vương, Đường Nhật Thiên trong Hiện Thực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c013100",
+            "Name": "Chương 122: Đường Thần Vương – Hạo Thiên Tông đã tự tìm đường chết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c0130ff",
+            "Name": "Chương 121: La Sát Thần Bỉ Bỉ Đông Nhẫn Nhục Chịu Đựng, Tà Minh Điện Nhanh Chóng Lớn Mạnh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c0130fe",
+            "Name": "Chương 120: Con Cháu của Chư Cung Phụng, Đại Ca Nhà Trẻ - Thiên Nhận Tuyết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67c6c66001a79a180c0130fd",
+            "Name": "Chương Chương 119: Chẳng lẽ là truyền nhân của Phụ Thần? Quà tặng của Cổ Nguyệt Na!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb35",
+            "Name": "Chương 118: Ngân Long Vương Cổ Nguyệt Na triệu kiến, Thiên Tầm Tật muốn hóa thân thành Bi Phong Đại Đế!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb34",
+            "Name": "Chương 117: Ta tên là Long Ngạo Thiên, Ngân Long Vương Cổ Nguyệt Na bị kinh động",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb33",
+            "Name": "Chương 116: Kẻ gánh nồi - Đường Nhật Thiên, Đường Thần Vương nhận kịch bản bi thảm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb32",
+            "Name": "Chương 115: Kế hoạch nhất tiễn song điêu, Cái chết của Đường Chấn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb31",
+            "Name": "Chương 114: Bổn tọa thấy mẫu thân Tiểu Vũ, phong vận vẫn còn a!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb30",
+            "Name": "Chương 113: Oan gia ngõ hẹp, có ta ở đây, Đường Nhật Thiên đừng mong sống yên ổn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2f",
+            "Name": "Chương 112: Đường Nhật Thiên muốn so tài với Thiên Công, Đường Thần Vương đột phá cấp chín mươi sáu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2e",
+            "Name": "Chương 111: Thiên phú hồn lực cấp bốn mươi của Thiên Nhận Tuyết, Đường Nhật Thiên đột phá Hồn Đấu La!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2d",
+            "Name": "Chương 110: Thiên Nhận Tuyết Vũ Hồn Giác Tỉnh, Hài Tử Của Chúng Cung Phụng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2c",
+            "Name": "Chương 109: Tiểu Giang lại gặp kiếp nạn, Đường Thần Vương ý khí phong phát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2b",
+            "Name": "Chương 108: Muốn chạy? Ta đã đoán trước được nước đi của ngươi rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb2a",
+            "Name": "Chương 107: La Sát Thần Bỉ Bỉ Đông tột cùng thấp hèn, Tiểu Giang lại cảm thấy mình đứng lên được rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb29",
+            "Name": "Chương 106: Thiên Nhận Hàn ra đời, La Sát Thần Bỉ Bỉ Đông và Ngọc Tiểu Giang tái ngộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb28",
+            "Name": "Chương 105: Giữ con bỏ mẹ, Đường Nhật Thiên lại phấn chấn trở lại",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb27",
+            "Name": "Chương 104: Đường Thần Vương Giáng Thế Trước Thời Hạn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb26",
+            "Name": "Chương 103: Đại Tái Thụ Quan, Ngọc Nguyên Chấn Mặt Dày Vô Sỉ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb25",
+            "Name": "Chương 102: A Ngân không nhịn được nữa, đây là Nhị tẩu của ta?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb24",
+            "Name": "Chương 101: Dẫn thê đến Thiên Đấu, A Ngân cùng Đường Hạo tái ngộ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb23",
+            "Name": "Chương 100: Kẻ bạc tình Đường Hạo, hoàn toàn trở thành trò cười",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb22",
+            "Name": "Chương 99: Darling, cuối cùng ta cũng tìm được ngươi rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb21",
+            "Name": "Chương 98: Đường Hạo đau khổ cô đơn, Tam muội thực sự A Oánh đến rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb20",
+            "Name": "Chương 97: Lần Cược Của Bỉ Bỉ Đông, Liễu Nhị Long Lại Bị Chia Cắt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1f",
+            "Name": "Chương 96: La Sát Thần keo kiệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1e",
+            "Name": "Chương 95: Mưu Kế Ngầm Của La Sát Thần Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1d",
+            "Name": "Chương 94: Cuộc đấu trí và thỏa hiệp của Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1c",
+            "Name": "Chương 93: Tai Họa Của Lam Điện Bá Vương Tông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1b",
+            "Name": "Chương 92: Các ngươi, Hạo Thiên Tông, chẳng lẽ định cứ thế mà rời đi sao?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb1a",
+            "Name": "Chương 91: Trong cơn hấp hối giật mình bật dậy, tên hề hóa ra là chính ta!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb19",
+            "Name": "Chương 90: Cái gì gọi là ntr ngay trước mặt?! Chiến thuật ngả người về sau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb18",
+            "Name": "Chương 89: Đường Đại Chùy thoát khỏi hiểm cảnh, hôn kỳ cuối cùng cũng đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb17",
+            "Name": "Chương 88: Phụ tử tương phùng, cuộc sống mật thất của Đường Đại Chùy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb16",
+            "Name": "Chương 87: Mật Thất! Lại Gặp Mật Thất!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb15",
+            "Name": "Chương 86: Tật Nhi! Lương tâm ngươi lẽ nào không đau sao?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb14",
+            "Name": "Chương 85: Thì ra Thiên Tầm Tật mới thực sự là người ôm chí hướng thiên hạ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb13",
+            "Name": "Chương 84: Đại hôn của Thiên Tầm Tật và sự ghen hận, nghi hoặc của Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb12",
+            "Name": "Chương 83: Tam muội đại hôn? Tang thương của Đường Khiếu và quyết tâm cứu muội của Đường Đại Chùy",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb11",
+            "Name": "Chương 82: Sắp xếp Thần vị trống, ta đúng là một kẻ bạc tình!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb10",
+            "Name": "Chương 81: Linh Diên gặp A Ngân, tất cả đều là lỗi của Lão Đăng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0f",
+            "Name": "Chương 80: Thế nào, bất ngờ chưa, kinh hỉ chưa?!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0e",
+            "Name": "Chương 79: Dĩ Thảo, Nhất Thảo, Bối Thảo!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0d",
+            "Name": "Chương 78: Liễu Nhị Long Muốn Đến Vũ Hồn Thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0c",
+            "Name": "Chương 77: Ta nói Ngọc Tiểu Giang chính là rác rưởi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0b",
+            "Name": "Chương 76: Ngọc Tiểu Giang trong mật thất, La Sát Thần Bỉ Bỉ Đông phẫn nộ đến tận cùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb0a",
+            "Name": "Chương 75: Bản mật thất của Thiên Tầm Tật - Bỉ Bỉ Đông vs Bản mật thất của Lam Điện Bá Vương Tông - Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb09",
+            "Name": "Chương 74: Hiện Trường Khiến Đường Nguyệt Hoa Ngơ Ngác, La Sát Thần Bỉ Bỉ Đông Cũng Trọng Sinh Rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb08",
+            "Name": "Chương 73: Đào hoa của Đường Hạo, Đường Thần Vương tái sinh nóng bỏng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb07",
+            "Name": "Chương 72: Phần Thưởng Mới Của Hệ Thống Đảo Ngược, Chấn Động Thời Không?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb06",
+            "Name": "Chương 71: Ánh nắng và cỏ xanh – Sự kết hợp hoàn mỹ, nhất kích tất trúng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb05",
+            "Name": "Chương 70: Tân Đao Ba ca và Long ca xuất trần, cuộc sống mật thất của Ngọc Tiểu Giang vừa mới bắt đầu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530401a79a1348cecb04",
+            "Name": "Chương 69: Ngọc Tiểu Giang bị bắt đi, tái ngộ sau nhiều năm!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecb03",
+            "Name": "Chương 68: Lấy gậy ông đập lưng ông? Kẻ giả tạo kia vẫn không thay đổi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecb02",
+            "Name": "Chương 67: Dùng tâm thế và khí phách chinh phục A Ngân, Bỉ Bỉ Đông tìm thấy Ngọc Tiểu Giang rồi!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecb01",
+            "Name": "Chương 66: Đường Hạo mượn rượu giải sầu, tìm được cách chinh phục A Ngân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecb00",
+            "Name": "Chương 65: Công lược A Ngân, cọng cỏ này lại có chút đầu óc?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecaff",
+            "Name": "Chương 64: Đường Hạo: Không! A Ngân! Không có nàng, ta biết sống sao đây!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecafe",
+            "Name": "Chương 63: Vừa tỉnh dậy nhà đã mất, Đường Hạo bi thương đến tột cùng!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecafd",
+            "Name": "Chương 62: A Ngân tiểu thư, ngươi cũng không muốn thân phận Hồn thú của mình bị bại lộ, đúng không?",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecafc",
+            "Name": "Chương 61: Ân oán giữa huynh đệ Đường Hạo, A Ngân và Bỉ Bỉ Đông, Thiên Tầm Tật gặp A Ngân!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b4530301a79a1348cecafb",
+            "Name": "Chương 60: Hắc hóa của kẻ si tình – Bỉ Bỉ Đông, điển hình của sự cố chấp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67b452ec01a79a1348cecafa",
+            "Name": "Chương 59: Tin tức về huynh đệ Đường Hạo, A Ngân xuất hiện!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf9",
+            "Name": "Chương 58: Bỉ Bỉ Đông Muốn Báo Thù Ngọc Tiểu Giang, Tà Hồn Loạn Đại Lục!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf8",
+            "Name": "Chương 57: Bỉ Bỉ Đông Muốn Thay Thế Sát Lục Chi Vương, Khởi Màn Sự Trỗi Dậy Của Tà Hồn Sư",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf7",
+            "Name": "Chương 56: Kế Hoạch Phát Triển Vũ Hồn Điện của Thiên Tầm Tật, Tung Tích của Đường Hạo và Ngọc Tiểu Cương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf6",
+            "Name": "Chương 55: Cuộc sống hạnh phúc của lão phụ thân Thiên Tầm Tật, Thần Tổ Thiên Sứ và Thời Đại Hắc Ám của Đấu La Đại Lục!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf5",
+            "Name": "Chương 54: Thiên Nhận Tuyết ra đời, ban cho nàng một tuổi thơ hạnh phúc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf4",
+            "Name": "Chương 53: La Sát Thần Tuyển Bỉ Bỉ Đông, Báo Thù Bắt Đầu!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452ec01a79a1348cecaf3",
+            "Name": "Chương 52: Lại một lần nữa rơi vào vực sâu, hãy để thế giới cũng cảm nhận nỗi đau của ta!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaf2",
+            "Name": "Chương 51: Bị Đọa Lạc Hồn Sư Bắt Giữ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaf1",
+            "Name": "Chương 50: Người từng là Thiên Tầm Tật đã chết, bỏ qua tất cả, chẳng lẽ ngươi không có chút sai lầm nào sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaf0",
+            "Name": "Chương 49: Thiên Tầm Tật và Bỉ Bỉ Đông gặp lại, khóc than hối hận cũng vô dụng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaef",
+            "Name": "Chương 48: Bỉ Bỉ Đông Cuối Cùng Cũng Đến Vũ Hồn Thành, Quỳ Xuống Cầu Xin Tha Thứ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaee",
+            "Name": "Chương 47: Đảo Phản Thiên Cương Thiên Tầm Tật, Đặt Tên Thiên Nhận Tuyết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaed",
+            "Name": "Chương 46: Hối hận của Bỉ Bỉ Đông, muốn quay về Vũ Hồn Thành?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaec",
+            "Name": "Chương 45: Nhát gan như Ngọc Tiểu Giang lại bỏ trốn, Bỉ Bỉ Đông được thả ra",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaeb",
+            "Name": "Chương 44: Huynh đệ Đường Khiếu và Đường Hạo, muốn trở thành đồng đạo với Ngọc Tiểu Giang?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaea",
+            "Name": "Chương 43: Bỉ Bỉ Đông - Người Tiếp Thị Của Ngọc Nguyên Chấn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae9",
+            "Name": "Chương 42: Ngọc Nguyên Chấn: Ninh Tông Chủ, ngươi muốn thê tử hay không?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae8",
+            "Name": "Chương 41: Cách Xử Lý Bỉ Bỉ Đông, Hôn Lễ Kết Thúc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae7",
+            "Name": "Chương 40: Đại hôn của Thiên Tầm Tật, sao không thấy Tiểu Giang và Bỉ Bỉ Đông?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae6",
+            "Name": "Chương 39: Hậu quả của Bỉ Bỉ Đông, Chỉ trong bóng tối mới thấy quý giá của ánh sáng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae5",
+            "Name": "Chương 38: Mật Thất Đấu La - Ngọc Đại Long, Bỉ Bỉ Đông Đón Nhận Kết Cục",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae4",
+            "Name": "Chương 37: Kẻ Hèn Yếu Vẫn Như Cũ, Bỉ Bỉ Đông Bị Bán Đứng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae3",
+            "Name": "Chương 36: Số phận của Bỉ Bỉ Đông, Thiên đoàn Cung Phụng của Vũ Hồn Điện thành lập!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae2",
+            "Name": "Chương 35: Hôn lễ của Ngọc Tiểu Giang và Bỉ Bỉ Đông, nhưng lại xảy ra một chút vấn đề nhỏ!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae1",
+            "Name": "Chương 34: Chế Nhạo Lão Đăng Trong Lòng Bàn Tay, Thiên Tầm Tật Chuẩn Bị Thành Hôn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecae0",
+            "Name": "Chương 33: Lão Đăng! Ta Mới Là Giáo Hoàng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecadf",
+            "Name": "Chương 32: Lại bị lừa đến tàn phế, vắt kiệt giá trị cuối cùng của Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecade",
+            "Name": "Chương 31: Bỉ Bỉ Đông Trở Thành Tai Họa Của Lam Điện Bá Vương Tông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecadd",
+            "Name": "Chương 30: Nghiền ép Ngọc Nguyên Chấn, giá trị tồn tại của Bỉ Bỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecadc",
+            "Name": "Chương 29: Để ngươi thấy thế nào mới là chân chính chân long!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecadb",
+            "Name": "Chương 28: Mục Tiêu – Chân Long Cửu Quán, Nỗi Không Cam Lòng của Ngọc Nguyên Chấn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecada",
+            "Name": "Chương 27: Tiểu Tiên Nữ Tự Rước Nhục - Bỉ Bỉ Đông, Ngươi Quay Về Cái Gì Chứ?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad9",
+            "Name": "Chương 26:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad8",
+            "Name": "Chương 25: Xuyên không giả chúng ta, chính là trâu bò a!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad7",
+            "Name": "Chương 24: Luận về khả năng sinh ra Thiên Nhận Tuyết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad6",
+            "Name": "Chương 23: Quà tặng của Băng Hỏa Long Vương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad5",
+            "Name": "Chương 22: Hãy khiến Long tộc vĩ đại trở lại!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad4",
+            "Name": "Chương 21: Tiếng Gọi Từ Sâu Trong Băng Hỏa Lưỡng Nghi Nhãn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad3",
+            "Name": "Chương 20: Chư Cung Phụng Vũ Hồn Tiến Hóa, Băng Hỏa Luyện Thể",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad2",
+            "Name": "Chương 19: Đan Thành, Địa Long Kim Đan",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad1",
+            "Name": "Chương 18: Bị Bán Đi – Bỉ Bỉ Đông, Sự Hèn Yếu Của Tiểu Tử Kia Quả Nhiên Không Làm Người Ta Thất Vọng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecad0",
+            "Name": "Chương 17: Nghịch tử! Ngươi hại khổ vi phụ rồi!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecacf",
+            "Name": "Chương 16:",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecace",
+            "Name": "Chương 15: Ngọc Tiểu Cương Trở Lại Lam Điện Bá Vương Tông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecacd",
+            "Name": "Chương 14: Phần thưởng lật đổ mới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecacc",
+            "Name": "Chương 13: Ta có được Độc Cô tiên sinh, chẳng khác nào cá gặp nước, hổ thêm cánh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecacb",
+            "Name": "Chương 12: Độc Cô Bác toát mồ hôi lạnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecaca",
+            "Name": "Chương 11: Con ta, Thiên Tầm Tật, có tư chất thành thần! Cầu đề cử, cầu thu thập!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac9",
+            "Name": "Chương 10: Mục tiêu - Băng Hỏa Lưỡng Nghi Nhãn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac8",
+            "Name": "Chương 9: Đao Ba Ca của Ngọc Tiểu Cương đến rồi, cầu đề cử, cầu thu thập!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac7",
+            "Name": "Chương 8: Tình thâm của Ngọc Tiểu Cương – Ta muốn đưa ngươi trở về Lam Điện Bá Vương Tông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac6",
+            "Name": "Chương 7: Tiểu Cương, ta đã trở thành phế vật rồi, ngươi vẫn muốn ở bên ta sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac5",
+            "Name": "Chương 6: Phế bỏ tu vi, móc đi hồn cốt, trục xuất khỏi Vũ Hồn Thành!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac4",
+            "Name": "Chương 5: Thiên Đạo Lưu và Chư Cung Phụng Hoàn Toàn Thất Vọng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac3",
+            "Name": "Chương 4: Ủy Khuất của Bỉ Bỉ Đông, Khóc Lóc tại Đấu La Điện",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac2",
+            "Name": "Chương 3: Công bằng, chẳng phải sao? Cầu đề cử, cầu thu thập!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac1",
+            "Name": "Chương 2: Hệ Thống Tuy Đến Muộn Nhưng Vẫn Đến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67b452eb01a79a1348cecac0",
+            "Name": "Chương 1: Vừa mới mở màn, Bỉ Bỉ Đông muốn cùng Ngọc Tiểu Cương bỏ trốn! Cầu đề cử, cầu thu thập!",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

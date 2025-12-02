@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Ma Thần Trời Sinh",
+            "StoryImage": "ma-than-troi-sinh.jpg",
+            "StoryDescription": "Một bác sĩ tim mạch có tiếng thời hiện đại lại bất ngờ xuyên không, tới một thế giới khác, Ngọc Lam Đế Quốc…<p>Tại triều đại này, hắn có một thân phận mới, là cháu ruột của Kiếm Các Hầu, tên Ninh Tiểu Xuyên.Có điều nhân vật này lại là một người bị tật bẩm sinh, không thể tu luyện, thế nên luôn bị người chế giễu, khinh thường, còn bị đặt biệt danh là Ninh bệnh lao.</p><p>Dựa vào hiểu biết về y học của mình, hắn tự chữa bệnh của mình và bắt đầu tu luyện võ đạo.</p><p>Tuy nhiên trong Hầu phủ có kẻ muốn giết hắn ko cho hắn kế thừa Hầu phủ, bất đắt dĩ hắn phải ẩn mình tu luyện.Ko ngừng tăng cường thực lực, phải trở thành kẻ mạnh.... gia nhập Thiên Đế học Cung trở thành cường giả...</p>",
+            "StoryUpdateTime": "2024-04-20T08:48:05.5194438Z",
+            "StoryUpdateTimeTick": 638491929226863175,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Cửu Đương Gia​",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "662366f001a79a0f24e6df49",
+                    "MongoId": "662366f001a79a0f24e6df49"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1433: C1433: Sắc phong đại kết cục3",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Dị Giới",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-gioi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f124d01a79a0e30fce5fc",
+                    "MongoId": "655f124d01a79a0e30fce5fc"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ma-than-troi-sinh-chuong-1433",
+            "Keyword": "ma thần trời sinh ma than troi sinh",
+            "StoryView": 25584,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ma-than-troi-sinh",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 25584,
+            "StoryViewInWeek": 34,
+            "StoryViewInMonth": 435,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ma-than-troi-sinh-chuong-1",
+            "StoryIDFirstChap": "66236f9701a79a0f24e6f8df",
+            "SoChuong": 1433,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": null,
+            "StoryMetaDescription": null,
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "662366da01a79a0f24e6df36",
+            "MongoId": "662366da01a79a0f24e6df36"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "662366da01a79a0f24e6df36",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66236f9701a79a0f24e6f8df",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//luc-dia-kien-tien.jpg",
+                "StoryName": "Lục Địa Kiện Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 4629 Đối Thoại Cùng Thần",
+                "StoryID": "65669f1b01a79a0c7482830a",
+                "StoryUpdateTime": "4/25/2025 2:27:02 AM",
+                "StoryNameK": "luc-dia-kien-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-de-nhat-than.jpg",
+                "StoryName": "Vạn Cổ Đệ Nhất Thần",
+                "StoryTitleLastChap": "Chương 6717 Một tên cũng không để lại!",
+                "StoryID": "66754d5801a79a086c13227f",
+                "StoryUpdateTime": "4/24/2025 3:50:40 PM",
+                "StoryNameK": "van-co-de-nhat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hoang-co-thanh-the.jpg",
+                "StoryName": "Hoang Cổ Thánh Thể (Dịch)",
+                "StoryTitleLastChap": "Chương 4977 Đều là những tương lai bất phàm, chẳng lẽ có thể chiếu rọi ra Chân Tiên?",
+                "StoryID": "666d3fe001a79a1a3475836b",
+                "StoryUpdateTime": "4/24/2025 3:00:24 PM",
+                "StoryNameK": "hoang-co-thanh-the-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-lanh-chua-ta-ti-le-roi-do-tram-phan-tram.jpg",
+                "StoryName": "Toàn Dân Lãnh Chúa: Ta Tỉ Lệ Rơi Đồ Trăm Phần Trăm",
+                "StoryTitleLastChap": "Chương 117: Tân thủ lãnh chúa tối cường! Thiên phú lãnh chúa thăng cấp Nguyên Tinh!",
+                "StoryID": "68075a7b01a79a153890acab",
+                "StoryUpdateTime": "4/24/2025 3:46:11 AM",
+                "StoryNameK": "toan-dan-lanh-chua-ta-ti-le-roi-do-tram-phan-tram"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh.jpg",
+                "StoryName": "Tôi Mang Theo Đám Nhãi Con Ở Nhà Trẻ Đi Cầu Sinh",
+                "StoryTitleLastChap": "Chương 321: HOÀN",
+                "StoryID": "68074e1201a79a15388ff6e8",
+                "StoryUpdateTime": "4/22/2025 8:46:37 AM",
+                "StoryNameK": "toi-mang-theo-dam-nhai-con-o-nha-tre-di-cau-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tan-the-thien-tai-tu-che-tao-cho-tranh-nan-bat-dau.jpg",
+                "StoryName": "Tận Thế Thiên Tai: Từ Chế Tạo Chỗ Tránh Nạn Bắt Đầu",
+                "StoryTitleLastChap": "Chương 337 Bao trùm toàn cầu mạng lưới",
+                "StoryID": "678a2d8601a79b10e83b29e3",
+                "StoryUpdateTime": "4/19/2025 2:27:38 AM",
+                "StoryNameK": "tan-the-thien-tai-tu-che-tao-cho-tranh-nan-bat-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//binh-chung-cua-ta-co-the-vo-han-tien-hoa.jpg",
+                "StoryName": "Binh Chủng Của Ta Có Thể Vô Hạn Tiến Hóa",
+                "StoryTitleLastChap": "Chương 579: Thượng vị đại công tước? Ta sẽ xuất thủ",
+                "StoryID": "67d6cd9d01a79a13f8168d17",
+                "StoryUpdateTime": "4/13/2025 7:39:09 AM",
+                "StoryNameK": "binh-chung-cua-ta-co-the-vo-han-tien-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-linh-phap-su-tai-tan-the-dien-cuong-dong-quan.jpg",
+                "StoryName": "Tử Linh Pháp Sư Tại Tận Thế Điên Cuồng Đóng Quân",
+                "StoryTitleLastChap": "Chương 830: Điều không thể tưởng tượng",
+                "StoryID": "67a9a4c301a79a1998179283",
+                "StoryUpdateTime": "3/22/2025 8:25:23 AM",
+                "StoryNameK": "tu-linh-phap-su-tai-tan-the-dien-cuong-dong-quan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-doan-tuyet-quan-he-ta-trieu-hoan-thu-tat-ca-deu-la-sinh-vat-hac-am.jpg",
+                "StoryName": "Sau Khi Đoạn Tuyệt Quan Hệ, Ta Triệu Hoán Thú Tất Cả Đều Là Sinh Vật Hắc Ám",
+                "StoryTitleLastChap": "Chương 169: Lấy cả bản nguyên chi lực giúp nó bước vào cấp độ thần thoại",
+                "StoryID": "67db942a01a79a15dc2d0d14",
+                "StoryUpdateTime": "3/20/2025 4:44:22 AM",
+                "StoryNameK": "sau-khi-doan-tuyet-quan-he-ta-trieu-hoan-thu-tat-ca-deu-la-sinh-vat-hac-am"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-vuc-chi-vuong.jpg",
+                "StoryName": "Vạn Vực Chi Vương",
+                "StoryTitleLastChap": "Chương 3115: Phong giới mười vạn năm! (Hết) (3)",
+                "StoryID": "67b8446b01a79a079c5072fd",
+                "StoryUpdateTime": "3/17/2025 7:56:00 AM",
+                "StoryNameK": "van-vuc-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tien-vo-de-ton.jpg",
+                "StoryName": "Tiên Võ Đế Tôn",
+                "StoryTitleLastChap": "Chương 5353: Nhân Gian Đạo (Đại kết cục) (2)",
+                "StoryID": "663dcee501a79a1304860574",
+                "StoryUpdateTime": "3/5/2025 10:43:24 AM",
+                "StoryNameK": "tien-vo-de-ton"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6623803a01a79a0f24e72be1",
+                "Name": "Chương 1433: C1433: Sắc phong đại kết cục3",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623803801a79a0f24e72bdf",
+                "Name": "Chương 1432: C1432: Sắc phong đại kết cục2",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623803601a79a0f24e72bdd",
+                "Name": "Chương 1431: C1431: Sắc phong đại kết cục1",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623803301a79a0f24e72bdb",
+                "Name": "Chương 1430: C1430: Ma quái chi vương 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623803101a79a0f24e72bd9",
+                "Name": "Chương 1429: C1429: Ma quái chi vương 1",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623802e01a79a0f24e72bd7",
+                "Name": "Chương 1428: C1428: Ma viên 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623802c01a79a0f24e72bd5",
+                "Name": "Chương 1427: C1427: Ma viên 1",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623802901a79a0f24e72bd3",
+                "Name": "Chương 1426: C1426: Tượng đá 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623802601a79a0f24e72bd1",
+                "Name": "Chương 1425: C1425: Tượng đá 1",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6623802401a79a0f24e72bcf",
+                "Name": "Chương 1424: C1424: Tiến hóa 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

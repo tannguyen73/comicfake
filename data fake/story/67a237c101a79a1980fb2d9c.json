@@ -1,0 +1,326 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Người ở Tiệt Giáo, Vị Sư Huynh Này Quá Cẩn Trọng Rồi",
+            "StoryImage": "nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi.jpg",
+            "StoryDescription": "Triệu Đàn sau một giấc ngủ say bỗng phát hiện mình đã xuyên việt đến thế giới Hồng Hoang, nơi diễn ra cuộc chiến tranh bá giữa Yêu Tộc và Vu Tộc.  \r\n\r\nKhi biết bản thân lại đoạt xá vào thân thể của Triệu Công Minh, đại đệ tử ngoại môn của Tiệt Giáo, hắn lập tức hoảng loạn!  \r\n\r\nHiện tại vẫn là thời kỳ trước Phong Thần, Tiệt Giáo môn hạ đông đảo, vạn tiên triều bái, thịnh thế vô song!  \r\n\r\nThế nhưng Triệu Đàn hiểu rõ, cảnh tượng huy hoàng trước mắt này chẳng qua cũng chỉ là thoáng qua mà thôi.  \r\n\r\nTrận chiến Phong Thần sẽ dẫn đến kết cục bi thảm, Tiệt Giáo gần như bị diệt sạch, ngoại trừ Thông Thiên Giáo Chủ, các đệ tử đều chịu chung số phận.  \r\n\r\nVô số môn nhân bị đưa lên bảng Phong Thần, kẻ thì ngã xuống, kẻ thì trở thành tọa kỵ, Tiệt Giáo lẫy lừng một thời cuối cùng tan thành tro bụi.  \r\n\r\nNgay cả thánh nhân cũng không thoát khỏi, bị giam cầm trong Tử Tiêu Cung.  \r\n\r\nMà bản thân hắn, đương nhiên cũng không ngoại lệ—lên bảng Phong Thần, trở thành Thiên Đình Long Hổ Huyền Đàn Chân Quân, tài thần của thiên đình\r\n\r\nNghĩ đến đây, Triệu Đàn lạnh cả sống lưng, âm thầm thề phải kết giao rộng rãi, tu luyện ổn định, tranh thủ trước khi đại kiếp giáng xuống có được thực lực tự bảo vệ mình.  \r\n\r\nĐúng lúc này, Triệu Công Minh thức tỉnh Hệ Thống Cướp Đoạt, chỉ cần cướp đoạt cơ duyên của người khác là có thể nhận được phần thưởng.  \r\n\r\nTừ đó, trong Hồng Hoang xuất hiện một vị tiên nhân thiện lương nhưng cẩn trọng, từng bước ổn định tu luyện.  \r\n\r\n- Mưu đồ trong trận đại chiến giữa Vu và Yêu, cướp đoạt di bảo Hỗn Độn Chung của Yêu Hoàng, tập hợp lại Khai Thiên Bàn Cổ Phủ.  \r\n- Lừa gạt Huyền Quy nơi Bắc Minh, khiến Huyền Quy tự nguyện dâng thân, gia nhập Tiệt Giáo, trở thành Phó Giáo Chủ, lấy vô lượng công đức đúc thành Công Đức Đạo Thể.  \r\n- Cướp đoạt cơ duyên của Mười Hai Kim Tiên Côn Luân, dẫn dắt Tam Hoàng Ngũ Đế, thắp sáng nhân đạo, được Nhân Tộc tôn làm Nhân Đạo Thánh Sư.  \r\n\r\nKhi Phong Thần Đại Kiếp cuối cùng ập đến, Triệu Đàn mới kinh ngạc phát hiện—Tứ Thánh liên thủ dường như cũng chẳng có gì đáng sợ…",
+            "StoryUpdateTime": "2025-04-24T15:16:15.6130609Z",
+            "StoryUpdateTimeTick": 638742811533756981,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 649,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 641: Quanh đi quẩn lại, vẫn là Côn Bằng ngậm bồ hòn làm ngọt.",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Cẩu Đạo Trường Sinh",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại vừa bắt đầu đã trường sinh, cẩu đến khi thế giới sập",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "cau-dao-truong-sinh",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b39701a79b106c650483",
+                    "MongoId": "6561b39701a79b106c650483"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi-chuong-649",
+            "Keyword": "người ở tiệt giáo, vị sư huynh này quá cẩn trọng rồi nguoi o tiet giao, vi su huynh nay qua can trong roi",
+            "StoryView": 6639,
+            "NumberUserFollow": 18,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 6639,
+            "StoryViewInWeek": 737,
+            "StoryViewInMonth": 2674,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi-chuong-1",
+            "StoryIDFirstChap": "67a239f001a79a1980fb2d9d",
+            "SoChuong": 649,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 10,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Triệu Đàn sau một giấc ngủ say bỗng phát hiện mình đã xuyên việt đến thế giới Hồng Hoang, nơi diễn ra cuộc chiến tranh bá giữa Yêu Tộc và Vu Tộc.  \r\n\r\nKhi biết bản thân lại đoạt xá vào thân thể của Triệu Công Minh, đại đệ tử ngoại môn của Tiệt Giáo, hắn lập tức hoảng loạn!  Hiện tại vẫn là thời kỳ trước Phong Thần, Tiệt Giáo môn hạ đông đảo, vạn tiên triều bái, thịnh thế vô song!",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67a237c101a79a1980fb2d9c",
+            "MongoId": "67a237c101a79a1980fb2d9c"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67a237c101a79a1980fb2d9c",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67a239f001a79a1980fb2d9d",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-tu-cua-ta-deu-la-vo-dich-dai-yeu.jpg",
+                "StoryName": "Đệ Tử Của Ta Đều Là Vô Địch Đại Yêu (Dịch)",
+                "StoryTitleLastChap": "Chương 980: Nhân đạo thành Thánh (4). HẾT.",
+                "StoryID": "65767bbc01a79a05c8ae4e95",
+                "StoryUpdateTime": "11/1/2024 3:53:04 AM",
+                "StoryNameK": "de-tu-cua-ta-deu-la-vo-dich-dai-yeu-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-truong-sinh-bat-tu-o-tu-tien-gioi.jpg",
+                "StoryName": "Ta Trường Sinh Bất Tử Ở Tu Tiên Giới (Dịch)",
+                "StoryTitleLastChap": "Chương 881: Ngàn năm sau. (2) (HẾT)",
+                "StoryID": "6673e09201a79a00909bfe03",
+                "StoryUpdateTime": "6/20/2024 8:22:01 AM",
+                "StoryNameK": "ta-truong-sinh-bat-tu-o-tu-tien-gioi-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tran-thu-tang-kinh-cac-tram-nam-dau-tu-nhan-vat-phan-dien.jpg",
+                "StoryName": "Trấn Thủ Tàng Kinh Các Trăm Năm, Đầu Tư Nhân Vật Phản Diện",
+                "StoryTitleLastChap": "Chương 1380 Nhập môn!",
+                "StoryID": "67a36d6f01a79a0ea4bf2111",
+                "StoryUpdateTime": "4/24/2025 3:18:26 PM",
+                "StoryNameK": "tran-thu-tang-kinh-cac-tram-nam-dau-tu-nhan-vat-phan-dien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-duyen-cua-nguoi-rat-tot-ta-vui-long-nhan.jpg",
+                "StoryName": "Cơ Duyên Của Ngươi Rất Tốt, Ta Vui Lòng Nhận",
+                "StoryTitleLastChap": "Chương 5354: Ngượng ngùng",
+                "StoryID": "6794948801a79a12ec70eb4d",
+                "StoryUpdateTime": "4/24/2025 2:55:41 PM",
+                "StoryNameK": "co-duyen-cua-nguoi-rat-tot-ta-vui-long-nhan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sach-dan-chuyen-gia.jpg",
+                "StoryName": "Bắt Đầu Trở Thành Thủ Tọa, Đánh Dấu Cực Đạo Đế Binh!",
+                "StoryTitleLastChap": "Chương 1634: Kẻ bí ẩn cường đại",
+                "StoryID": "678ddc1b01a79b11d0fa9493",
+                "StoryUpdateTime": "1/26/2025 4:13:31 AM",
+                "StoryNameK": "bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//danh-dau-tai-dia-phu-ngan-nam-dau-thai-khien-nu-de-tuc-khoc.jpg",
+                "StoryName": "Đánh Dấu Tại Địa Phủ Ngàn Năm, Đầu Thai Khiến Nữ Đế Tức Khóc",
+                "StoryTitleLastChap": "Chương 580: Mở ra hành trình mới (END)",
+                "StoryID": "67b9dbd201a79a1214ea6331",
+                "StoryUpdateTime": "2/26/2025 2:02:29 AM",
+                "StoryNameK": "danh-dau-tai-dia-phu-ngan-nam-dau-thai-khien-nu-de-tuc-khoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-tay-du-im-lang-tro-thanh-phan-dien-manh-nhat.jpg",
+                "StoryName": "Ta Tại Tây Du Im Lặng Trở Thành Phản Diện Mạnh Nhất",
+                "StoryTitleLastChap": "Chương 278: Trường Sinh Đại Đế: Lão sư ban thưởng ta pháp bảo?",
+                "StoryID": "67e51f7001a79a18603c6203",
+                "StoryUpdateTime": "3/27/2025 9:58:22 AM",
+                "StoryNameK": "ta-tai-tay-du-im-lang-tro-thanh-phan-dien-manh-nhat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-thanh-thanh-the-luc-tuoi-gia-ta-co-the-xuyen-qua-phong-than.jpg",
+                "StoryName": "Đại Thành Thánh Thể: Lúc Tuổi Già Ta Có Thể Xuyên Qua Phong Thần",
+                "StoryTitleLastChap": "Chương 256 Thắng lợi, phi thăng Vĩnh Hằng! Đại kết cục.",
+                "StoryID": "676c2ec501a79a0d4c515c43",
+                "StoryUpdateTime": "1/8/2025 5:02:33 AM",
+                "StoryNameK": "dai-thanh-thanh-the-luc-tuoi-gia-ta-co-the-xuyen-qua-phong-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//he-thong-tra-ve-van-lan-ta-co-vo-so-than-vat.jpg",
+                "StoryName": "Hệ Thống Trả Về Vạn Lần, Ta Có Vô Số Thần Vật",
+                "StoryTitleLastChap": "Chương 224: Liên tục đột phá, Thánh Tôn hậu kỳ, Chân Long Pháp tới tay!",
+                "StoryID": "67a6f03001a79a17dc4f1955",
+                "StoryUpdateTime": "2/8/2025 6:18:28 AM",
+                "StoryNameK": "he-thong-tra-ve-van-lan-ta-co-vo-so-than-vat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dau-pha-duong-de.jpg",
+                "StoryName": "Đấu Phá Dương Đế",
+                "StoryTitleLastChap": "Chương 807: Hắc Ma Lôi",
+                "StoryID": "6731d64c01a79a0ff0cbdca6",
+                "StoryUpdateTime": "3/13/2025 11:09:54 AM",
+                "StoryNameK": "dau-pha-duong-de"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//pham-cot.jpg",
+                "StoryName": "Phàm Cốt",
+                "StoryTitleLastChap": "Chương 17: Gặp phục kích, chém yêu lang ở Dương Lộc Sơn",
+                "StoryID": "6804d1d101a79a113085dadd",
+                "StoryUpdateTime": "4/20/2025 11:32:17 AM",
+                "StoryNameK": "pham-cot"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hong-hoang-khuyen-to-long-quy-an-ta-bi-truc-xuat-long-toc.jpg",
+                "StoryName": "Hồng Hoang: Khuyên Tổ Long Quy Ẩn, Ta Bị Trục Xuất Long Tộc",
+                "StoryTitleLastChap": "Đang Cập Nhật",
+                "StoryID": "67c426fd01a79a141cd0efe9",
+                "StoryUpdateTime": "3/2/2025 9:38:05 AM",
+                "StoryNameK": "hong-hoang-khuyen-to-long-quy-an-ta-bi-truc-xuat-long-toc"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680a55a001a79a07c0e45acb",
+                "Name": "Chương 641: Quanh đi quẩn lại, vẫn là Côn Bằng ngậm bồ hòn làm ngọt.",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680a55a001a79a07c0e45aca",
+                "Name": "Chương 640: Địa Thư đại trận, Tây Phương lần nữa kinh ngạc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680862ff01a79a153896a6ab",
+                "Name": "Chương 639: Đáp ứng Ma Đạo, lưu lạc Phật Môn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680862ff01a79a153896a6aa",
+                "Name": "Chương 638: Mới đại kiếp ma đạo định số ba ngàn năm",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680862ff01a79a153896a6a9",
+                "Name": "Chương 637: Chuẩn Đề đánh lên Tu Di sơn, Hồng Quân hiện thân",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805ac3e01a79a166cd8e214",
+                "Name": "Chương 636: Bồ Tát vẫn lạc, ma đạo hùng cứ Tu Di sơn đỉnh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805ac3e01a79a166cd8e213",
+                "Name": "Chương 635: Lấy một địch bảy, đè ép Phật môn đánh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6804726001a79a17e8c6a9b3",
+                "Name": "Chương 634: Rộng mời Huyền Môn tu sĩ chống lại ma đạo",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6804726001a79a17e8c6a9b2",
+                "Name": "Chương 633: Di Lặc trong lòng không cam lòng: Thời khắc săn giết",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6803170201a79a170c64d7d4",
+                "Name": "Chương 632: Được ăn cả ngã về không – Phật môn thất bại trong gang tấc",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

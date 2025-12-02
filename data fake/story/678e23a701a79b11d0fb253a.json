@@ -1,0 +1,324 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Ta Tại Khủng Bố Sống Lại Đánh Dấu",
+            "StoryImage": "ta-tai-khung-bo-song-lai-danh-dau.jpg",
+            "StoryDescription": "Ta Tại Khủng Bố Sống Lại Đánh Dấu – một tác phẩm linh dị, đô thị đầy kịch tính và bất ngờ đến từ cây bút Ái Ngoạn Hựu Ngận Thái.<p>Tô Viễn, một chàng trai bình thường, bất ngờ xuyên không đến một thế giới kỳ lạ, nơi mà những linh hồn oan khuất trở lại để trả thù.&nbsp;</p><p>Để sinh tồn trong thế giới đầy rẫy nguy hiểm này, Tô Viễn quyết định bám víu lấy nhân vật chính, hy vọng có thể tìm được sự bảo vệ.&nbsp;</p><p>Tuy nhiên, số phận đã sắp đặt cho anh một con đường khác khi một hệ thống bí ẩn xuất hiện.</p><p>Với hệ thống này, Tô Viễn không chỉ có khả năng tự vệ mà còn có thể khám phá những bí mật đen tối ẩn giấu đằng sau thế giới này.&nbsp;</p><p>Liệu anh có thể sống sót và vén màn bí mật về thế giới hồi sinh thần bí này?</p>",
+            "StoryUpdateTime": "2025-01-21T10:21:52.0712804Z",
+            "StoryUpdateTimeTick": 638729652878493878,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1581,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Ái Ngoạn Hựu Ngận Thái",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "678e23f101a79b11d0fb253b",
+                    "MongoId": "678e23f101a79b11d0fb253b"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1582: Làm hậu thế mở thái bình (2) - Kết",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Linh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "linh-di",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91ffe15c3c512383c2fc5",
+                    "MongoId": "61d91ffe15c3c512383c2fc5"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ta-tai-khung-bo-song-lai-danh-dau-chuong-1581",
+            "Keyword": "ta tại khủng bố sống lại đánh dấu ta tai khung bo song lai danh dau",
+            "StoryView": 3671,
+            "NumberUserFollow": 8,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ta-tai-khung-bo-song-lai-danh-dau",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3671,
+            "StoryViewInWeek": 168,
+            "StoryViewInMonth": 986,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ta-tai-khung-bo-song-lai-danh-dau-chuong-1",
+            "StoryIDFirstChap": "678f61fb01a79b18b85d7acf",
+            "SoChuong": 1581,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Tô Viễn, một chàng trai bình thường, bất ngờ xuyên không đến một thế giới kỳ lạ, nơi mà những linh hồn oan khuất trở lại để trả thù. \r\nĐể sinh tồn trong thế giới đầy rẫy nguy hiểm này, Tô Viễn quyết định bám víu lấy nhân vật chính, hy vọng có thể tìm được sự bảo vệ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "678e23a701a79b11d0fb253a",
+            "MongoId": "678e23a701a79b11d0fb253a"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "678e23a701a79b11d0fb253a",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "678f61fb01a79b18b85d7acf",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//32-ke-the-than.jpg",
+                "StoryName": "32 Kẻ Thế Thân",
+                "StoryTitleLastChap": "Chương 15",
+                "StoryID": "6807639201a79a153892a89d",
+                "StoryUpdateTime": "4/23/2025 1:22:56 AM",
+                "StoryNameK": "32-ke-the-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//song-bang-tan-the-ta-tru-hang-chuc-ty-vat-tu.jpg",
+                "StoryName": "Toàn Cầu Băng Phong : Ta Chế Tạo Phòng An Toàn Tại  Tận Thế",
+                "StoryTitleLastChap": "Chương 2756 Tập kết tại Bắc Phi",
+                "StoryID": "65dfe22501a79a19302eb531",
+                "StoryUpdateTime": "4/22/2025 1:42:10 PM",
+                "StoryNameK": "toan-cau-bang-phong-ta-che-tao-phong-an-toan-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-the-bien-di.jpg",
+                "StoryName": "Nhân Thể Biến Dị",
+                "StoryTitleLastChap": "Chương 15. Kết thúc",
+                "StoryID": "6800c95f01a79a1aec6950ea",
+                "StoryUpdateTime": "4/17/2025 9:30:40 AM",
+                "StoryNameK": "nhan-the-bien-di"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-quy-ky-su.jpg",
+                "StoryName": "Thanh Quỷ Kỷ Sự",
+                "StoryTitleLastChap": "Chương 961: Chàng trai nhiệt huyết",
+                "StoryID": "67b69feb01a79a15fc46126f",
+                "StoryUpdateTime": "3/17/2025 5:03:00 AM",
+                "StoryNameK": "thanh-quy-ky-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thay-doi-mo.jpg",
+                "StoryName": "Thầy Dời Mộ",
+                "StoryTitleLastChap": "Chương 604. Đại kết cục",
+                "StoryID": "67b42ade01a79a1348cd4587",
+                "StoryUpdateTime": "3/17/2025 4:44:40 AM",
+                "StoryNameK": "thay-doi-mo"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hanh-tau-am-duong.jpg",
+                "StoryName": "Hành Tẩu Âm Dương",
+                "StoryTitleLastChap": "Chương 250: Thi tổ Hạn Bạt",
+                "StoryID": "67b0381201a79a084c687961",
+                "StoryUpdateTime": "2/15/2025 7:26:46 AM",
+                "StoryNameK": "hanh-tau-am-duong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuong-tham.jpg",
+                "StoryName": "Cuồng Thám",
+                "StoryTitleLastChap": "Chương 2682: Cuối cùng cũng thành thân thuộc (HẾT)",
+                "StoryID": "67aff30901a79a17b475e89e",
+                "StoryUpdateTime": "2/15/2025 2:51:24 AM",
+                "StoryNameK": "cuong-tham"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quy-xa-(dich.jpg",
+                "StoryName": "Quỷ Xá (Dịch)",
+                "StoryTitleLastChap": "Chương 1002: Thế giới mới (Kết thúc)",
+                "StoryID": "6744447901a79a10e8de15c9",
+                "StoryUpdateTime": "1/21/2025 2:36:53 AM",
+                "StoryNameK": "quy-xa-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-choi-so-4-(dich.jpg",
+                "StoryName": "Người Chơi Số 4 (Dịch)",
+                "StoryTitleLastChap": "Chương 1169: Lục Minh (Hoàn) 2",
+                "StoryID": "674d74f901a79a0f041ef7d0",
+                "StoryUpdateTime": "1/21/2025 2:11:07 AM",
+                "StoryNameK": "nguoi-choi-so-4-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc.jpg",
+                "StoryName": "Lừa Bán Nữ Quỷ, Thân Phận Quỷ Buôn Lậu Của Ta Không Giấu Được",
+                "StoryTitleLastChap": "Chương 802: Trên đảo nhỏ Kim Tự Tháp.",
+                "StoryID": "676a0a4401a79b0d80272dca",
+                "StoryUpdateTime": "12/25/2024 3:52:56 AM",
+                "StoryNameK": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trung-sinh-thuong-ngay-tu-tien-(dich.jpg",
+                "StoryName": "Trùng Sinh Thường Ngày Tu Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 1867: Mai Khai Nhị Độ (2)",
+                "StoryID": "67075c5d01a79a0c34b8ed74",
+                "StoryUpdateTime": "12/12/2024 3:14:37 AM",
+                "StoryNameK": "trung-sinh-thuong-ngay-tu-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bao-nguoi-lam-tro-choi-nguoi-lai-lam-video-cg.jpg",
+                "StoryName": "Bảo Ngươi Làm Trò Chơi, Ngươi Lại Làm Video CG? (Dịch)",
+                "StoryTitleLastChap": "Chương 702: Nếu Còn Truyền Bá Nữa Thì Phòng Livestream Của Cô Sẽ Không Còn Đâu (1)",
+                "StoryID": "6663e2df01a79a19ecc92685",
+                "StoryUpdateTime": "11/28/2024 10:17:58 AM",
+                "StoryNameK": "bao-nguoi-lam-tro-choi-nguoi-lai-lam-video-cg-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "678f639301a79b18b85d80fc",
+                "Name": "Chương 1582: Làm hậu thế mở thái bình (2) - Kết",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80fb",
+                "Name": "Chương 1581: Làm hậu thế mở thái bình (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80fa",
+                "Name": "Chương 1580: Tự mình hành động",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f9",
+                "Name": "Chương 1579: Mang đi lão nhân",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f8",
+                "Name": "Chương 1578: An bài hậu sự",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f7",
+                "Name": "Chương 1577: Tỏ thái độ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f6",
+                "Name": "Chương 1576: Một loại khác phương pháp",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f5",
+                "Name": "Chương 1575: Lệ quỷ biến mất",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f4",
+                "Name": "Chương 1574: Quỷ vực tạo thành linh dị chi địa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f639301a79b18b85d80f3",
+                "Name": "Chương 1573: Kế hoạch đáng sợ",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

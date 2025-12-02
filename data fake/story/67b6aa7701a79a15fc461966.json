@@ -1,0 +1,379 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Từ Hôn Về Sau, Tu Tiên Nữ Phụ Dựa Vào Mưa Đạn Lật Bàn",
+            "StoryImage": "tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban.jpg",
+            "StoryDescription": "<b>Tống Cẩm Trữ</b> xuyên đến cổ đại, lại không nghĩ rằng có một ngày vị hôn phu tới cửa từ hôn, thấy trên đỉnh đầu hắn có mưa đạn!<p>【 Tức chết ta, một màn này chính là cảnh tượng bức hôn đi! 】</p><p>【 Nữ nhân ghê tởm, lớn lên thật giống hồ ly tinh! Mỗi ngày đều chỉ hận dán lên người nam nhân! 】</p><p>Tống Cẩm Trữ:!??</p><p>Nàng làm sao lại là hồ ly tinh, còn có mưa bình luận kia dựa vào cái gì mắng nàng?</p><p>Tống Cẩm Trữ tưởng rằng xuyên qua bình thường, kết quả lại là xuyên thành nữ pháo hôi ác độc bên trong một quyển sách tu tiên!</p><p>Không chỉ có cả nhà chết hết.</p><p>Ca ca còn thành vai đại ác!</p><p>Tống Cẩm Trữ hộc máu, bởi vì một nam nhân mà phải chịu kết cục như vậy, nàng ngốc à?</p><p>Từ hôn, quyết đoán từ hôn!</p><p>【 Đinh! Chúc mừng ký chủ kích hoạt hệ thống mưa đạn】</p><p>【 Xoay chuyển cốt truyện trọng đại, khó khăn: Giống nhau, khen thưởng kiện thể đan cực phẩm ×1, nhạn linh chủy hoàng cấp ( lần đầu khen thưởng ), điểm thuộc tính: Lực lượng +1, phòng ngự +1】</p><p>Có được hệ thống mưa đạn, chỉ cần nàng sớm thay đổi vận mệnh chính mình cùng người nhà, hệ thống liền cấp khen thưởng, bằng vào bàn tay vàng chính mình trở nên cường đại, theo đuổi đại đạo trường sinh không thích sao?</p><p>Tống Cẩm Trữ quyết định lập chí, nghiêm túc tu luyện thành tiên, nam nhân cái gì đó toàn bộ đều cút sang một bên!</p><p>Nhưng mà nàng lại không nghĩ rằng, ca ca Tống Cẩm Mục nhà mình tính tình lạnh nhạt, lại canh cánh trong lòng vì nàng từ hôn, cả ngày muốn nhét mỹ nam cho nàng.</p><p>Tống Cẩm Trữ: “!!!”</p><p>Làm ơn điii, hiện tại nàng một lòng hướng đạo, thật sự vô tâm luyến ái a!</p>",
+            "StoryUpdateTime": "2025-02-20T04:41:38.6319242Z",
+            "StoryUpdateTimeTick": 638756212399584655,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 531,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tinh Tinh Mễ Lạp Nhi",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67b6aab301a79a15fc461967",
+                    "MongoId": "67b6aab301a79a15fc461967"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 487: Vị diện chúa tể (Đại kết cục)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Dã Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "da-su",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0c001a79a05c8ae5aeb",
+                    "MongoId": "6576b0c001a79a05c8ae5aeb"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Đồng Nhân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-nhan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131415c3c70808d2b7a7",
+                    "MongoId": "61d9131415c3c70808d2b7a7"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban-chuong-531",
+            "Keyword": "từ hôn về sau, tu tiên nữ phụ dựa vào mưa đạn lật bàn tu hon ve sau, tu tien nu phu dua vao mua dan lat ban",
+            "StoryView": 776,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 776,
+            "StoryViewInWeek": 3,
+            "StoryViewInMonth": 277,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "tu-hon-ve-sau-tu-tien-nu-phu-dua-vao-mua-dan-lat-ban-chuong-1",
+            "StoryIDFirstChap": "67b6afda01a79a15fc4627a6",
+            "SoChuong": 531,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Tống Cẩm Trữ tưởng rằng xuyên qua bình thường, kết quả lại là xuyên thành nữ pháo hôi ác độc bên trong một quyển sách tu tiên!\r\n\r\nKhông chỉ có cả nhà chết hết.\r\n\r\nCa ca còn thành vai đại ác!\r\n\r\nTống Cẩm Trữ hộc máu, bởi vì một nam nhân mà phải chịu kết cục như vậy, nàng ngốc à?\r\n\r\nTừ hôn, quyết đoán từ hôn!",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67b6aa7701a79a15fc461966",
+            "MongoId": "67b6aa7701a79a15fc461966"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67b6aa7701a79a15fc461966",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67b6afda01a79a15fc4627a6",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan.jpg",
+                "StoryName": "Năm Năm Huyện Lệnh, Triệu Cân Lương Khiếp Sợ Lý Thế Dân",
+                "StoryTitleLastChap": "Chương 512: Tương lai đảo tương lai, tương lai đảo hoan nghênh ngươi 2",
+                "StoryID": "67f4a79601a79a1af4813a06",
+                "StoryUpdateTime": "4/8/2025 7:46:14 AM",
+                "StoryNameK": "nam-nam-huyen-lenh-trieu-can-luong-khiep-so-ly-the-dan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-hiep-xin-dung-tay.jpg",
+                "StoryName": "Nữ Hiệp Xin Dừng Tay",
+                "StoryTitleLastChap": "Chương 536 Làm phiền phu nhân",
+                "StoryID": "67dcd55a01a79a177c350c43",
+                "StoryUpdateTime": "3/29/2025 7:24:20 AM",
+                "StoryNameK": "nu-hiep-xin-dung-tay"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuc-pham-van-tue-gia.jpg",
+                "StoryName": "Cực Phẩm Vạn Tuế Gia",
+                "StoryTitleLastChap": "Chương 4183: Phá cảnh Chí Đạo cảnh hậu kỳ",
+                "StoryID": "67a563f201a79a073c065a18",
+                "StoryUpdateTime": "3/25/2025 2:08:47 AM",
+                "StoryNameK": "cuc-pham-van-tue-gia"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-moi-tuan-ngau-nhien-mot-cai-nghe-nghiep-moi.jpg",
+                "StoryName": "Ta Mỗi Tuần Ngẫu Nhiên Một Cái Nghề Nghiệp Mới",
+                "StoryTitleLastChap": "Chương 3685: Yuderian gia tộc và Rockefeller gia tộc",
+                "StoryID": "67dd1bb901a79a177c35bc3f",
+                "StoryUpdateTime": "3/22/2025 7:55:30 AM",
+                "StoryNameK": "ta-moi-tuan-ngau-nhien-mot-cai-nghe-nghiep-moi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//theo-nguoi-o-re-den-nu-de-sung-than.jpg",
+                "StoryName": "Theo Người Ở Rể Đến Nữ Đế Sủng Thần",
+                "StoryTitleLastChap": "Chương 1302: Trò chơi mười người của Khúc Linh",
+                "StoryID": "67cfc29001a79a18d0ae2a4a",
+                "StoryUpdateTime": "3/17/2025 3:59:52 AM",
+                "StoryNameK": "theo-nguoi-o-re-den-nu-de-sung-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-do-thi-den-manh-nhat-vu-tru.jpg",
+                "StoryName": "Từ Đô Thị Đến Mạnh Nhất Vũ Trụ",
+                "StoryTitleLastChap": "Chương 1453: Vĩnh Hằng Chi Cảnh! (Đại kết cục) 2",
+                "StoryID": "67b4039e01a79a1348cd1b31",
+                "StoryUpdateTime": "2/18/2025 4:42:30 AM",
+                "StoryNameK": "tu-do-thi-den-manh-nhat-vu-tru"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-quoc-dai-phan-tac-(dich.jpg",
+                "StoryName": "Đế Quốc Đại Phản Tặc (Dịch)",
+                "StoryTitleLastChap": "Chương 2461: Công kích đại doanh!",
+                "StoryID": "670de6e001a79a0e208d4dcc",
+                "StoryUpdateTime": "12/12/2024 3:18:03 AM",
+                "StoryNameK": "de-quoc-dai-phan-tac-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trung-sinh-thuong-ngay-tu-tien-(dich.jpg",
+                "StoryName": "Trùng Sinh Thường Ngày Tu Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 1867: Mai Khai Nhị Độ (2)",
+                "StoryID": "67075c5d01a79a0c34b8ed74",
+                "StoryUpdateTime": "12/12/2024 3:14:37 AM",
+                "StoryNameK": "trung-sinh-thuong-ngay-tu-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-thau-dai-minh-(dich.jpg",
+                "StoryName": "Nhận Thầu Đại Minh (Dịch)",
+                "StoryTitleLastChap": "Chương 644: Từng bước xâm chiếm thôn tính",
+                "StoryID": "6720b31c01a79a0e083c9152",
+                "StoryUpdateTime": "11/29/2024 6:45:55 AM",
+                "StoryNameK": "nhan-thau-dai-minh-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tiet-gia-tieu-nuong-tu.jpg",
+                "StoryName": "Tiết Gia Tiểu Nương Tử",
+                "StoryTitleLastChap": "Chương 164: chương 101",
+                "StoryID": "67033e8701a79a1af09adf9c",
+                "StoryUpdateTime": "10/7/2024 7:01:04 AM",
+                "StoryNameK": "tiet-gia-tieu-nuong-tu"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67b6b14301a79a15fc4637c5",
+                "Name": "Chương 487: Vị diện chúa tể (Đại kết cục)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637c4",
+                "Name": "Chương 486: Vị diện tấn thăng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637c3",
+                "Name": "Chương 485: Phi thăng thông đạo mở ra",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637c2",
+                "Name": "Chương 484: Đáng ghét Ma tộc",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637c1",
+                "Name": "Chương 483: Thiêu hủy Ma vực",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637c0",
+                "Name": "Chương 482: Ma tôn —— vong",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637bf",
+                "Name": "Chương 481: Chiến hạm uy lực",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637be",
+                "Name": "Chương 480: Tỷ đệ gặp nhau",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637bd",
+                "Name": "Chương 479: Ma tộc Ma Châu",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b6b14301a79a15fc4637bc",
+                "Name": "Chương 478: Linh khí chiến hạm?",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

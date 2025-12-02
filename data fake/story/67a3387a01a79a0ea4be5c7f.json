@@ -1,0 +1,379 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Ta, Đao Kiếm Song Tuyệt, Các Ngươi Gọi Ta Mãng Kim Cương",
+            "StoryImage": "ta-dao-kiem-song-tuyet-cac-nguoi-goi-ta-mang-kim-cuong.jpg",
+            "StoryDescription": "<b> Lý Tín</b> mang theo trò chơi bàn quay khắc kim đại võ hiệp rút thưởng lớn xuyên đến dị giới, trở thành Hắc Phong trại chủ.<p>Khắc kim rút ra vô số thần công, thần binh lợi khí.</p><p>Long Tượng Bàn Nhược, Đại Lực Kim Cương Chưởng, Kim Cương Bất Hoại Thần Công, Kim Chung Tráo, Thiết Bố Sam!</p><p>Khi Lý Tín từng bước một trưởng thành, lại đột nhiên phát hiện danh xưng có chút không đúng, rõ ràng hắn đao kiếm song tuyệt, tại sao có thể có cái danh xưng mãng kim cương này?</p><p>Huynh đệ, ngươi nghe ta giải thích ta còn có thể Thiên Ngoại Phi Tiên, Thiên Đao tám thức, ta thật không mãng a!</p>",
+            "StoryUpdateTime": "2025-02-12T01:39:15.9894136Z",
+            "StoryUpdateTimeTick": 638743468747280182,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 598,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tưởng Thảng Bình Đương Hàm Ngư A",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "667552d001a79a086c134204",
+                    "MongoId": "667552d001a79a086c134204"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 598: Nguyên Chủ",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Giới",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-gioi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f124d01a79a0e30fce5fc",
+                    "MongoId": "655f124d01a79a0e30fce5fc"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Kiếm Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": null,
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "672082ee01a79a08680b6511",
+                    "MongoId": "672082ee01a79a08680b6511"
+                },
+                {
+                    "TenTheLoai": "Sảng Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sang-van",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "65a5004901a79a0db072b409",
+                    "MongoId": "65a5004901a79a0db072b409"
+                },
+                {
+                    "TenTheLoai": "Võ Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "vo-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f8315c3c512383c2f7b",
+                    "MongoId": "61d91f8315c3c512383c2f7b"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Sát Phạt Quyết Đoán",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main sát phạt quyết đoán, nên g.i.ế.t vẫn g.i.ế.t",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sat-phat-quyet-doan",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b3ed01a79b106c6504cc",
+                    "MongoId": "6561b3ed01a79b106c6504cc"
+                },
+                {
+                    "TenTheLoai": "Điềm Đạm",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "diem-dam",
+                    "gender": 1,
+                    "theloaitype": 3,
+                    "Id": "6576933e01a79a05c8ae5adf",
+                    "MongoId": "6576933e01a79a05c8ae5adf"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ta-dao-kiem-song-tuyet-cac-nguoi-goi-ta-mang-kim-cuong-chuong-598",
+            "Keyword": "ta, đao kiếm song tuyệt, các ngươi gọi ta mãng kim cương ta, dao kiem song tuyet, cac nguoi goi ta mang kim cuong",
+            "StoryView": 1637,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ta-dao-kiem-song-tuyet-cac-nguoi-goi-ta-mang-kim-cuong",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 1637,
+            "StoryViewInWeek": 514,
+            "StoryViewInMonth": 773,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ta-dao-kiem-song-tuyet-cac-nguoi-goi-ta-mang-kim-cuong-chuong-1",
+            "StoryIDFirstChap": "67a45fd901a79a0ea4bfc9b4",
+            "SoChuong": 598,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lý Tín mang theo trò chơi bàn quay khắc kim đại võ hiệp rút thưởng lớn xuyên đến dị giới, trở thành Hắc Phong trại chủ.\r\nKhắc kim rút ra vô số thần công, thần binh lợi khí.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67a3387a01a79a0ea4be5c7f",
+            "MongoId": "67a3387a01a79a0ea4be5c7f"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67a3387a01a79a0ea4be5c7f",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67a45fd901a79a0ea4bfc9b4",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung.jpg",
+                "StoryName": "Thiên Long : Vị Bang Chủ Cái Bang Này Có Chút Không Đúng",
+                "StoryTitleLastChap": "Chương 305: Kiều Phong chột dạ, có chút túng quẫn?",
+                "StoryID": "67e3a95601a79a155c29a835",
+                "StoryUpdateTime": "4/25/2025 3:00:49 AM",
+                "StoryNameK": "thien-long-vi-bang-chu-cai-bang-nay-co-chut-khong-dung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-(dich.jpg",
+                "StoryName": "Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường (Dịch)",
+                "StoryTitleLastChap": "Chương 996 Không muộn",
+                "StoryID": "67441ba501a79a10e8dcef37",
+                "StoryUpdateTime": "4/25/2025 2:56:00 AM",
+                "StoryNameK": "ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//loan-the-tu-chieu-co-tau-tau-bat-dau-tu-hanh.jpg",
+                "StoryName": "Loạn Thế: Từ Chiếu Cố Tẩu Tẩu Bắt Đầu Tu Hành",
+                "StoryTitleLastChap": "Chương 1106",
+                "StoryID": "67be988a01a79a14d896ae87",
+                "StoryUpdateTime": "4/15/2025 8:12:55 AM",
+                "StoryNameK": "loan-the-tu-chieu-co-tau-tau-bat-dau-tu-hanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tong-vo-ta-lay-giang-ho-dong-trieu-dinh.jpg",
+                "StoryName": "Tổng Võ: Ta Lấy Giang Hồ Động Triều Đình",
+                "StoryTitleLastChap": "Chương 1131: Thiên Nhân cửu tầng",
+                "StoryID": "67aad2b801a79a19981882cd",
+                "StoryUpdateTime": "4/5/2025 4:50:06 AM",
+                "StoryNameK": "tong-vo-ta-lay-giang-ho-dong-trieu-dinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve.jpg",
+                "StoryName": "Tận Thế: Nữ Nhân Tiêu Hao Vật Tư, Vạn Lần Trả Về!",
+                "StoryTitleLastChap": "Chương 547 Cách mạng từ trên xuống dưới! Trảm yêu!",
+                "StoryID": "67de15ca01a79a177c3883ff",
+                "StoryUpdateTime": "3/31/2025 1:33:57 AM",
+                "StoryNameK": "tan-the-nu-nhan-tieu-hao-vat-tu-van-lan-tra-ve"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nu-hiep-xin-dung-tay.jpg",
+                "StoryName": "Nữ Hiệp Xin Dừng Tay",
+                "StoryTitleLastChap": "Chương 536 Làm phiền phu nhân",
+                "StoryID": "67dcd55a01a79a177c350c43",
+                "StoryUpdateTime": "3/29/2025 7:24:20 AM",
+                "StoryNameK": "nu-hiep-xin-dung-tay"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-quy-truong-sinh-tu-do-te-bat-dau-them-diem-tu-tien.jpg",
+                "StoryName": "Thần Quỷ Trường Sinh: Từ Đồ Tể Bắt Đầu Thêm Điểm Tu Tiên!",
+                "StoryTitleLastChap": "Chương 857: Đan thành, đột phá!",
+                "StoryID": "67a5b85601a79a073c06e4e8",
+                "StoryUpdateTime": "3/24/2025 1:55:43 AM",
+                "StoryNameK": "than-quy-truong-sinh-tu-do-te-bat-dau-them-diem-tu-tien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-tien-chinh-la-nhu-vay.jpg",
+                "StoryName": "Tu Tiên Chính Là Như Vậy",
+                "StoryTitleLastChap": "Chương 3661: Đã Đến Lân Thú Quốc",
+                "StoryID": "67bbd57801a79a01b816e211",
+                "StoryUpdateTime": "3/13/2025 9:36:23 AM",
+                "StoryNameK": "tu-tien-chinh-la-nhu-vay"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-cao-vo.jpg",
+                "StoryName": "Toàn Cầu Cao Võ (Dịch)",
+                "StoryTitleLastChap": "Chương 3560 Nhân Vương trở về - END",
+                "StoryID": "65581bf601a79a07bcae717d",
+                "StoryUpdateTime": "3/6/2025 10:46:12 AM",
+                "StoryNameK": "toan-cau-cao-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chu-thien-tu-tong-vo-the-gioi-bat-dau.jpg",
+                "StoryName": "Chư Thiên Từ Tổng Võ Thế Giới Bắt Đầu",
+                "StoryTitleLastChap": "Chương 1066: Là ngươi, giết con ta?",
+                "StoryID": "67a5d51501a79a073c07c7df",
+                "StoryUpdateTime": "3/6/2025 8:27:33 AM",
+                "StoryNameK": "chu-thien-tu-tong-vo-the-gioi-bat-dau"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67abfb5401a79a185887aeb9",
+                "Name": "Chương 598: Nguyên Chủ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb8",
+                "Name": "Chương 597: Cuộc chiến cuối cùng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb7",
+                "Name": "Chương 596: Ngươi là Thiên?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb6",
+                "Name": "Chương 595: Thiên địa thật có phần cuối?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb5",
+                "Name": "Chương 594: Sau cùng một kỷ nguyên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb4",
+                "Name": "Chương 593: Luyện hóa đệ nhị đạo bản nguyên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb3",
+                "Name": "Chương 592: Đóng cửa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb2",
+                "Name": "Chương 591: Thiên ra tay",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb1",
+                "Name": "Chương 590: Thiên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67abfb5401a79a185887aeb0",
+                "Name": "Chương 589: Táng Thiên cung",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

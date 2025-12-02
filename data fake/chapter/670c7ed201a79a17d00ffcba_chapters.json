@@ -1,0 +1,617 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "670c9aa301a79a17d00ffe04",
+            "Name": "Chương 102: Ngoại Truyện (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9aa001a79a17d00ffe01",
+            "Name": "Chương 101: Ngoại Truyện (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9e01a79a17d00ffdfe",
+            "Name": "Chương 100: Kết Thúc (Hoàn Chính Văn)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9b01a79a17d00ffdfb",
+            "Name": "Chương 99: Nhà Máy Nước",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9901a79a17d00ffdf8",
+            "Name": "Chương 98: Tin Tức Bùng Nổ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9701a79a17d00ffdf5",
+            "Name": "Chương 97: Kết Hôn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9401a79a17d00ffdf2",
+            "Name": "Chương 96: Công Ty",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9201a79a17d00ffdef",
+            "Name": "Chương 95: Danh Tiếng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a9001a79a17d00ffdec",
+            "Name": "Chương 94: Khai Trương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8d01a79a17d00ffde9",
+            "Name": "Chương 93: Tiệc Tối (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8b01a79a17d00ffde6",
+            "Name": "Chương 92: Tiệc Tối",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8901a79a17d00ffde3",
+            "Name": "Chương 91: Yêu Đương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8601a79a17d00ffde0",
+            "Name": "Chương 90: Thích",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8401a79a17d00ffddd",
+            "Name": "Chương 89: Bắt Đầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a8101a79a17d00ffdda",
+            "Name": "Chương 88: Tình Yêu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7f01a79a17d00ffdd7",
+            "Name": "Chương 87: Phòng Ở",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7d01a79a17d00ffdd4",
+            "Name": "Chương 86: Báo Danh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7a01a79a17d00ffdd1",
+            "Name": "Chương 85: Bắc Kinh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7801a79a17d00ffdce",
+            "Name": "Chương 84: Đi Bắc Kinh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7601a79a17d00ffdcb",
+            "Name": "Chương 83: Thủ Khoa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7301a79a17d00ffdc8",
+            "Name": "Chương 82: Kỳ Thi Tuyển Sinh Đại Học (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a7101a79a17d00ffdc5",
+            "Name": "Chương 81: Kỳ Thi Tuyển Sinh Đại Học (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6f01a79a17d00ffdc2",
+            "Name": "Chương 80: Món Ăn Mới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6c01a79a17d00ffdbf",
+            "Name": "Chương 79: Manh Mối",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6a01a79a17d00ffdbc",
+            "Name": "Chương 78: Tươi Cười",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6801a79a17d00ffdb9",
+            "Name": "Chương 77: Là Anh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6501a79a17d00ffdb6",
+            "Name": "Chương 76: Hợp Tác",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6301a79a17d00ffdb3",
+            "Name": "Chương 75: Mỹ Vị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a6001a79a17d00ffdb0",
+            "Name": "Chương 74: Lạnh Tâm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a5e01a79a17d00ffdad",
+            "Name": "Chương 73: Bão Tố",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a5b01a79a17d00ffdaa",
+            "Name": "Chương 72: TV Màu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a5701a79a17d00ffda7",
+            "Name": "Chương 71: Ti Vi Màu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a5501a79a17d00ffda4",
+            "Name": "Chương 70: Kỳ Nghỉ Đông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a5101a79a17d00ffda1",
+            "Name": "Chương 69: Sinh Nhật",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4e01a79a17d00ffd9e",
+            "Name": "Chương 68: Chuẩn Bị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4b01a79a17d00ffd9b",
+            "Name": "Chương 67: Bất Ngờ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4801a79a17d00ffd98",
+            "Name": "Chương 66: Nghiền Áp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4601a79a17d00ffd95",
+            "Name": "Chương 65: Trận Đấu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4401a79a17d00ffd92",
+            "Name": "Chương 64: Lẩu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a4101a79a17d00ffd8f",
+            "Name": "Chương 63: Làm Sáng Tỏ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3e01a79a17d00ffd8c",
+            "Name": "Chương 62: Bại Lộ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3a01a79a17d00ffd89",
+            "Name": "Chương 61: Cây Thuốc Phiện (Cây Anh Túc)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3801a79a17d00ffd86",
+            "Name": "Chương 60: Hợp Tác",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3601a79a17d00ffd83",
+            "Name": "Chương 59: Bán Thảm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3301a79a17d00ffd80",
+            "Name": "Chương 58: Bữa Tiệc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a3001a79a17d00ffd7c",
+            "Name": "Chương 57: Công Khai Xét Cử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2e01a79a17d00ffd79",
+            "Name": "Chương 56: Điều Tra",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2c01a79a17d00ffd76",
+            "Name": "Chương 55: Bắt Cóc (3)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2901a79a17d00ffd73",
+            "Name": "Chương 54: Bắt Cóc (2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2701a79a17d00ffd70",
+            "Name": "Chương 53: Bắt Cóc (1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2501a79a17d00ffd6d",
+            "Name": "Chương 52: Mục Tiêu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2201a79a17d00ffd6a",
+            "Name": "Chương 51: Theo Dõi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a2001a79a17d00ffd67",
+            "Name": "Chương 50: Tuyển Dụng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1e01a79a17d00ffd64",
+            "Name": "Chương 49: Học Thần",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1b01a79a17d00ffd61",
+            "Name": "Chương 48: Trung Học Phổ Thông",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1901a79a17d00ffd5e",
+            "Name": "Chương 47: Nguyện Vọng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1601a79a17d00ffd5c",
+            "Name": "Chương 46: Ngâm Đồ Chua",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1401a79a17d00ffd59",
+            "Name": "Chương 45: So Sánh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a1201a79a17d00ffd56",
+            "Name": "Chương 44: Cậu Mợ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0f01a79a17d00ffd53",
+            "Name": "Chương 43: Tết Nguyên Đán - P3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0d01a79a17d00ffd50",
+            "Name": "Chương 42: Tết Nguyên Đán - P2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0b01a79a17d00ffd4d",
+            "Name": "Chương 41: Tết Nguyên Đán - P1",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0901a79a17d00ffd4a",
+            "Name": "Chương 40: Anh Trai",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0601a79a17d00ffd47",
+            "Name": "Chương 39: Kết Án",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0401a79a17d00ffd44",
+            "Name": "Chương 38: Điều Tra",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0201a79a17d00ffd41",
+            "Name": "Chương 37: Tiết Lộ Bí Mật",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c9a0001a79a17d00ffd3e",
+            "Name": "Chương 36: Hoài Nghi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99fd01a79a17d00ffd3b",
+            "Name": "Chương 35: Súp Cá",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99fb01a79a17d00ffd38",
+            "Name": "Chương 34: Thăm Dò",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99f801a79a17d00ffd35",
+            "Name": "Chương 33: Bữa Tối",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99f601a79a17d00ffd32",
+            "Name": "Chương 32: Thăm Bệnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99f401a79a17d00ffd2f",
+            "Name": "Chương 31: Bị Bệnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99f201a79a17d00ffd2c",
+            "Name": "Chương 30: Tranh Cãi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ef01a79a17d00ffd29",
+            "Name": "Chương 29: Thịt Dê",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ed01a79a17d00ffd26",
+            "Name": "Chương 28: Thành Tích",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ea01a79a17d00ffd23",
+            "Name": "Chương 27: Quần Áo Mới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99e801a79a17d00ffd20",
+            "Name": "Chương 26: Kỳ Thi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99e601a79a17d00ffd1d",
+            "Name": "Chương 25: Súp Xương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99e401a79a17d00ffd1a",
+            "Name": "Chương 24: Giấy Phép",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99e101a79a17d00ffd17",
+            "Name": "Chương 23: Náo Nhiệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ca01a79a17d00ffd01",
+            "Name": "Chương 22: Kinh Doanh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99c701a79a17d00ffcfe",
+            "Name": "Chương 21: Cáo Trạng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99c501a79a17d00ffcfb",
+            "Name": "Chương 20: Mở Cửa Tiệm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99c301a79a17d00ffcf8",
+            "Name": "Chương 19: Kết Thúc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99c001a79a17d00ffcf5",
+            "Name": "Chương 18: Ly Hôn(2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99be01a79a17d00ffcf2",
+            "Name": "Chương 17: Ly Hôn(1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99bc01a79a17d00ffcef",
+            "Name": "Chương 16: Buôn Bán Đắt Hàng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ba01a79a17d00ffcec",
+            "Name": "Chương 15: Ám Chỉ(2)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99b701a79a17d00ffce9",
+            "Name": "Chương 14: Ám Chỉ(1)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99b501a79a17d00ffce6",
+            "Name": "Chương 13: Ăn Ngon",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99b301a79a17d00ffce3",
+            "Name": "Chương 12: Buôn Bán",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99b001a79a17d00ffce0",
+            "Name": "Chương 11: Căn tin",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ae01a79a17d00ffcdd",
+            "Name": "Chương 10: Cơm Hộp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99ac01a79a17d00ffcda",
+            "Name": "Chương 9: Chợ Đen",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99a901a79a17d00ffcd7",
+            "Name": "Chương 8: Lòng Tham",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99a701a79a17d00ffcd4",
+            "Name": "Chương 7: Trả Thù",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99a501a79a17d00ffcd1",
+            "Name": "Chương 6: Cơm Trộn(Bibimbap)",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99a201a79a17d00ffcce",
+            "Name": "Chương 5: Hút Thuốc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c99a001a79a17d00ffccb",
+            "Name": "Chương 4: Bạn Học",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c999d01a79a17d00ffcc8",
+            "Name": "Chương 3: Bày Hàng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c999a01a79a17d00ffcc5",
+            "Name": "Chương 2: Tra Nam",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "670c999801a79a17d00ffcc3",
+            "Name": "Chương 1: Cháo Gà",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

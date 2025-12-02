@@ -1,0 +1,384 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+            "StoryImage": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim.jpg",
+            "StoryDescription": "<b>Lý Hiên</b> chẩn đoán bị bệnh tâm thần!<p>Nguyên nhân là hai tháng trước hắn bắt đầu gặp ác mộng, một khi ngủ ý thức liền sẽ tiến vào một thế giới song song khác.</p><p>Mà thế giới này, tận thế thiên tai đã kéo dài ròng rã hai tháng.</p><p>Đồng dạng có một Lý Hiên, trong tận thế đã trải qua cực hàn, cực nhiệt, mưa axit, chấn động, núi lửa bộc phát, virus lây nhiễm, đáng sợ hơn là, Zombie bạo phát.</p><p>Trật tự triệt để sụp đổ, pháp luật không còn sót lại chút gì, đạo đức bị chà đạp vô tình.</p><p>Lý Hiên trong tận thế sống đau khổ vùng vẫy hai tháng, thì Lý Hiên ở đô thị liền bị ác mộng hành hạ cũng hai tháng.</p><p>Cuối cùng, làm cho Lý Hiên ở trong tận thế ngoài ý muốn lần đầu tiên giết chết một Zombie, sau đó ăn hết tinh hạch,  thức tỉnh không gian dị năng.</p><p>Làm cho Lý Hiên trong tận thế đem hoàng kim châu báu chứa vào không gian, sáng ngày thứ hai sau đó Lý Hiên ở đô thị sau khi tỉnh lại, khiếp sợ không gì sánh nổi phát hiện, nguyên lai không phải là mộng.</p><p>Mà hoàng kim châu báu trong không gian thật sự có thể lấy ra ở thực tế.</p><p>Mà ở đô thị mua xương sườn, bánh mì, mì ăn liền, hoa quả, nước khoáng, cũng có thể được thu vào không gian.</p><p>Hai Lý Hiên ở hai thế giới song song, có thể qua cảnh trong mơ trong không gian mà chia sẻ vật chất cho nhau.</p><p>Như vậy đối với Lý Hiên mà nói, thật là tuyện vời?</p><p><b>Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim</b> - Tác giả: <b>Phiên Gia Đệ Nhất Soái Ca</b> - #ĐôThị #Xuyên Không</p>",
+            "StoryUpdateTime": "2025-04-25T02:15:40.2298333Z",
+            "StoryUpdateTimeTick": 638731275059549512,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 643,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Phiên Gia Đệ Nhất Soái Ca",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65fa826001a79a19643d35af",
+                    "MongoId": "65fa826001a79a19643d35af"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 643: Lý Hiên xuất thủ",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Sảng Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sang-van",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "65a5004901a79a0db072b409",
+                    "MongoId": "65a5004901a79a0db072b409"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim-chuong-643",
+            "Keyword": "bạn gái chê ta bệnh tâm thần, ta tại tận thế nhặt hoàng kim ban gai che ta benh tam than, ta tai tan the nhat hoang kim",
+            "StoryView": 5379,
+            "NumberUserFollow": 11,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 5379,
+            "StoryViewInWeek": 383,
+            "StoryViewInMonth": 2431,
+            "NumberReview": 0,
+            "NumberComment": 2,
+            "StoryNameKFirstChap": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim-chuong-1",
+            "StoryIDFirstChap": "6790cdf401a79b1a68d96916",
+            "SoChuong": 643,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 23,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lý Hiên, một chàng trai bình thường, bị bạn gái nghi ngờ mắc bệnh tâm thần khi liên tục kể về những giấc mơ kỳ lạ về một thế giới tận thế. Thực tế, những giấc mơ đó không phải là ảo giác mà là một thế giới song song thực sự.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67909d5101a79b1a68d8b747",
+            "MongoId": "67909d5101a79b1a68d8b747"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67909d5101a79b1a68d8b747",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6790cdf401a79b1a68d96916",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 2,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-quan-gia-la-ma-hoang.jpg",
+                "StoryName": "Đại Quản Gia Là Ma Hoàng",
+                "StoryTitleLastChap": "Chương 1956: Đại kết cục",
+                "StoryID": "650a597301a79a0ea810ce1e",
+                "StoryUpdateTime": "1/23/2025 7:07:01 AM",
+                "StoryNameK": "dai-quan-gia-la-ma-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-90-nghin-ty-tien-liem-cau.jpg",
+                "StoryName": "Ta Có 90 Nghìn Tỷ Tiền Liếm Cẩu (Dịch)",
+                "StoryTitleLastChap": "Chương 2156: Đại kết cục!!!",
+                "StoryID": "65fa825101a79a19643d35ae",
+                "StoryUpdateTime": "12/26/2024 5:06:14 AM",
+                "StoryNameK": "ta-co-90-nghin-ty-tien-liem-cau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-2.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 2",
+                "StoryTitleLastChap": "Chương 4378: Thần Hoàng Hạ Thiên (Đại kết cục) (03)",
+                "StoryID": "65655ddb01a79a0f946ccb58",
+                "StoryUpdateTime": "2/25/2025 12:55:43 PM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-cao-vo.jpg",
+                "StoryName": "Toàn Cầu Cao Võ (Dịch)",
+                "StoryTitleLastChap": "Chương 3560 Nhân Vương trở về - END",
+                "StoryID": "65581bf601a79a07bcae717d",
+                "StoryUpdateTime": "3/6/2025 10:46:12 AM",
+                "StoryNameK": "toan-cau-cao-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khung-bo-song-lai.jpg",
+                "StoryName": "Khủng Bố Sống Lại (Dịch)",
+                "StoryTitleLastChap": "Chương 3694: Tiễn Họ Đoạn Đường Cuối - Hoàn",
+                "StoryID": "65669e8a01a79a0c74828308",
+                "StoryUpdateTime": "12/5/2024 9:42:27 AM",
+                "StoryNameK": "khung-bo-song-lai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-y-tro-lai.jpg",
+                "StoryName": "Thần Y Trở Lại",
+                "StoryTitleLastChap": "Chương 6769: Đây là nơi nào?",
+                "StoryID": "6622352201a79a1a7c87bec5",
+                "StoryUpdateTime": "9/14/2024 6:55:25 AM",
+                "StoryNameK": "than-y-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tinh-mon.jpg",
+                "StoryName": "Tinh Môn (Dịch)",
+                "StoryTitleLastChap": "Chương 3635 - Giang hồ ở trong lòng (HOÀN CHÍNH VĂN). HẾT.",
+                "StoryID": "65a505f501a79a0db072b410",
+                "StoryUpdateTime": "1/18/2024 9:43:49 AM",
+                "StoryNameK": "tinh-mon-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-chong-giau-co-nhu-nhuoc-cua-toi.jpg",
+                "StoryName": "Người Chồng Giàu Có Nhu Nhược Của Tôi",
+                "StoryTitleLastChap": "Chương 10: Chương 10 (Hoàn)",
+                "StoryID": "67f9f1a901a79c10ec346b1c",
+                "StoryUpdateTime": "4/12/2025 5:08:30 AM",
+                "StoryNameK": "nguoi-chong-giau-co-nhu-nhuoc-cua-toi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            }
+        ],
+        "topcomment": [
+            {
+                "StoryID": "67909d5101a79b1a68d8b747",
+                "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+                "TypeID": 3,
+                "LinkUrl": "/ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim-0.html",
+                "UserNameComment": "phancucmk.270195",
+                "UserIdComment": "67a9dcef01a79a04e4502b36",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2025-03-19T06:20:37.2038569Z",
+                "CommentContent": "đề nghị tác khi đưa truyện lên có thể đừng để khoảng trống lớn thế không. có mỗi 1  đoạn mà kéo dài ra thế để lzi.",
+                "UserLevel": {
+                    "SoThuTu": 6,
+                    "DangCapName": "Tiên Thiên Võ Giả",
+                    "TriKinhNghiem": 1200,
+                    "CongHienYeuCau": 0,
+                    "Id": "61430d6215c3c513e8741b4b",
+                    "MongoId": "61430d6215c3c513e8741b4b"
+                },
+                "UserAvatar": "phancucmk-270195.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "Id": "67d9ffc501a79a19d4394939",
+                "MongoId": "67d9ffc501a79a19d4394939"
+            },
+            {
+                "StoryID": "67909d5101a79b1a68d8b747",
+                "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+                "TypeID": 3,
+                "LinkUrl": "/ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim-0.html",
+                "UserNameComment": "phancucmk.270195",
+                "UserIdComment": "67a9dcef01a79a04e4502b36",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2025-02-10T21:53:29.3235987Z",
+                "CommentContent": "k biết mở khoá chương thế nào.xu m cũng nạp r mà k mở khoá đc",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Bất Nhập Lưu Võ Giả",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "61430cff15c3c513e8741b46",
+                    "MongoId": "61430cff15c3c513e8741b46"
+                },
+                "UserAvatar": "phancucmk-270195.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "Id": "67aa12e901a79a04e4502dc0",
+                "MongoId": "67aa12e901a79a04e4502dc0"
+            }
+        ],
+        "last10chap": [
+            {
+                "Id": "680af03801a79a07c0e5c29b",
+                "Name": "Chương 643: Lý Hiên xuất thủ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680af03801a79a07c0e5c29a",
+                "Name": "Chương 642: Vẫn Đế Chung",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808f5ce01a79a16f00c7a54",
+                "Name": "Chương 641: Tối cường Vũ Trụ Đại Đế giá lâm",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808f5cd01a79a16f00c7a53",
+                "Name": "Chương 640: Hiên Viên Vô Cực không thừa nhận",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680860ee01a79a15389679c7",
+                "Name": "Chương 639: Quỷ tộc kéo đến, hơn một trăm Vũ Trụ Đại Đế!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680860ee01a79a15389679c6",
+                "Name": "Chương 638: Về Phía Hướng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806f83a01a79a166cdf6291",
+                "Name": "Chương 637: Đơn thuần là một sự trùng hợp ngoài ý muốn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806f83a01a79a166cdf6290",
+                "Name": "Chương 636: Hiên Viên Vô Cực Đại Đế trở về",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6804716901a79a17e8c65089",
+                "Name": "Chương 635: Của hồi môn phù dâu",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6801b45001a79a170c5e555a",
+                "Name": "Chương 634: Vì cái gì cưới không phải ta",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

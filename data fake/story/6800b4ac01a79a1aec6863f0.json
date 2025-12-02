@@ -1,0 +1,336 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Kẻ Thứ Ba",
+            "StoryImage": "ke-thu-ba.jpg",
+            "StoryDescription": "Tôi là con gái một của một gia tộc giàu có, đã dùng nguồn lực của gia đình để đưa vị hôn phu của mình trở thành một nhân vật mới nổi trong giới thượng lưu của kinh đô.<p>Nhưng vào ngày cưới, kẻ thứ ba lại dám đến quấy phá hôn lễ và đòi hỏi một danh phận.</p><p>Cô ta ôm đứa bé đang khóc thét trong tay, mắt ngấn lệ, oán hận nói:<p>\"Tôi đã sinh cho nhà họ Hứa một đứa con trai, tại sao lại không cho nó nhận tổ nhận tông?\"<p>\"Người đàn bà độc ác này không chỉ cấm <b>Hứa Văn Viễn</b> chu cấp tiền sinh hoạt cho mẹ con tôi, mà còn liên tục sai người đến đe dọa, thậm chí còn muốn làm gãy chân con trai tôi! Cô làm như vậy chẳng phải là muốn ép chết tôi sao?\"</p><p>Trước mặt các doanh nhân tiếng tăm và vô số phóng viên, cô ta tố cáo tôi đã đe dọa đến tính mạng của cô ta và yêu cầu tôi phải bồi thường toàn bộ tài sản cho cô ta.</p><p>Tôi cười lạnh lùng, hóa ra bọn họ nghĩ tôi là một đứa trẻ mồ côi nên muốn chiếm đoạt tài sản của tôi.</p><p>Nhưng bọn họ đã lầm to rồi, bởi vì tất cả những chuyện này chỉ là một thử thách mà bố tôi đặt ra cho anh ta mà thôi!</p></p></p>",
+            "StoryUpdateTime": "2025-04-17T08:02:14.2474113Z",
+            "StoryUpdateTimeTick": 638804735162471694,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 8,
+            "StoryAuthorInfo": [],
+            "StoryTitleLastChap": "Chương 8: HOÀN",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nu",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0b001a79a05c8ae5aea",
+                    "MongoId": "6576b0b001a79a05c8ae5aea"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Ngược",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nguoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b1",
+                    "MongoId": "61d9251d15c3c512383c32b1"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ke-thu-ba-chuong-8",
+            "Keyword": "kẻ thứ ba ke thu ba",
+            "StoryView": 5399,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ke-thu-ba",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 5399,
+            "StoryViewInWeek": 304,
+            "StoryViewInMonth": 5399,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ke-thu-ba-chuong-1",
+            "StoryIDFirstChap": "6800b57501a79a1aec6863f1",
+            "SoChuong": 8,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Họ nghĩ tôi là trẻ mồ côi nên muốn chiếm đoạt tài sản của tôi, nhưng tất cả chỉ là một thử thách mà bố tôi đặt ra mà thôi!",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6800b4ac01a79a1aec6863f0",
+            "MongoId": "6800b4ac01a79a1aec6863f0"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6800b4ac01a79a1aec6863f0",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6800b57501a79a1aec6863f1",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-xuyen-thanh-nu-xung-nien-dai-van-vung-bien-gioi-(dich.jpg",
+                "StoryName": "Thập niên 70: Xuyên Thành Nữ Xứng Niên Đại Văn Vùng Biên Giới (Dịch)",
+                "StoryTitleLastChap": "Chương 733. Phiên Ngoại Hoàn",
+                "StoryID": "66bdc39b01a79a0728fe51c8",
+                "StoryUpdateTime": "8/15/2024 10:07:00 AM",
+                "StoryNameK": "thap-nien-70-xuyen-thanh-nu-xung-nien-dai-van-vung-bien-gioi-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//[lam-giau]-thien-kim-gia-ve-que-lam-ruong-(dich.jpg",
+                "StoryName": "[Làm Giàu] Thiên Kim Giả Về Quê Làm Ruộng (Dịch)",
+                "StoryTitleLastChap": "Chương 508: Kế Tiếp (5) Hoàn",
+                "StoryID": "66aca28201a79a050c11556f",
+                "StoryUpdateTime": "8/2/2024 10:20:03 AM",
+                "StoryNameK": "lam-giau-thien-kim-gia-ve-que-lam-ruong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngu-ty-lao-su.jpg",
+                "StoryName": "Ngự Tỷ Lão Sư",
+                "StoryTitleLastChap": "Chương 72 Phiên Ngoại 3",
+                "StoryID": "65f2b7ec01a79a0e4cb8b2a1",
+                "StoryUpdateTime": "3/14/2024 9:03:50 AM",
+                "StoryNameK": "ngu-ty-lao-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//du-la-thu-cung-hay-de-vuong-deu-la-cua-ta.jpg",
+                "StoryName": "Dù Là Thú Cưng Hay Đế Vương, Đều Là Của Ta",
+                "StoryTitleLastChap": "Chương 24: Phiên ngoại - Về nữ chính",
+                "StoryID": "68060fa001a79a166cdd54f6",
+                "StoryUpdateTime": "4/21/2025 9:34:57 AM",
+                "StoryNameK": "du-la-thu-cung-hay-de-vuong-deu-la-cua-ta"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tan-the-la-game-toi-la-trum-server.jpg",
+                "StoryName": "Tận Thế Là Game, Tôi Là Trùm Server",
+                "StoryTitleLastChap": "Chương 19: Ngoại truyện",
+                "StoryID": "67fe08c401a79a1684575134",
+                "StoryUpdateTime": "4/15/2025 7:31:45 AM",
+                "StoryNameK": "tan-the-la-game-toi-la-trum-server"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhat-ky-lam-qua-tien-truong-sinh.jpg",
+                "StoryName": "Nhật Ký Làm Quả Tiên Trường Sinh",
+                "StoryTitleLastChap": "Chương 11:",
+                "StoryID": "67ff5fe501a79a01f40909f2",
+                "StoryUpdateTime": "4/16/2025 10:28:44 AM",
+                "StoryNameK": "nhat-ky-lam-qua-tien-truong-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dem-cuoi-cung-truoc-khi-roi-dai.jpg",
+                "StoryName": "Đêm Cuối Cùng Trước Khi Rơi Đài",
+                "StoryTitleLastChap": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+                "StoryID": "680755e801a79a1538906fe2",
+                "StoryUpdateTime": "4/23/2025 3:06:50 AM",
+                "StoryNameK": "dem-cuoi-cung-truoc-khi-roi-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//anh-nuoi-khong-tron-duoc-nua-dau.jpg",
+                "StoryName": "Anh Nuôi, Không Trốn Được Nữa Đâu",
+                "StoryTitleLastChap": "Chương 16",
+                "StoryID": "68035b6301a79a17e8c5c950",
+                "StoryUpdateTime": "4/19/2025 8:23:38 AM",
+                "StoryNameK": "anh-nuoi-khong-tron-duoc-nua-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mang-thai-xuyen-sach-gap-lai-nam-chinh-mat-tri-nho.jpg",
+                "StoryName": "Mang Thai Xuyên Sách Gặp Lại Nam Chính Mất Trí Nhớ",
+                "StoryTitleLastChap": "Chương 15: Phiên ngoại:《Cảm nhận về tiểu thuyết của Phó Trì Nghiễn》",
+                "StoryID": "6805a98801a79a166cd89752",
+                "StoryUpdateTime": "4/21/2025 2:18:05 AM",
+                "StoryNameK": "mang-thai-xuyen-sach-gap-lai-nam-chinh-mat-tri-nho"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dung-day-con-bang-cach-lam-con-dau.jpg",
+                "StoryName": "Đừng Dạy Con Bằng Cách Làm Con Đau",
+                "StoryTitleLastChap": "Chương 11",
+                "StoryID": "67fe141301a79a168458becd",
+                "StoryUpdateTime": "4/15/2025 8:12:28 AM",
+                "StoryNameK": "dung-day-con-bang-cach-lam-con-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hoa-no-chon-khong-nguoi.jpg",
+                "StoryName": "Hoa Nở Chốn Không Người",
+                "StoryTitleLastChap": "Chương 16",
+                "StoryID": "6807060101a79a166ce0c9a4",
+                "StoryUpdateTime": "4/22/2025 3:03:40 AM",
+                "StoryNameK": "hoa-no-chon-khong-nguoi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-duoc-kim-chu-bao-nuoi-3-nam.jpg",
+                "StoryName": "Tôi Được Kim Chủ Bao Nuôi 3 Năm",
+                "StoryTitleLastChap": "Chương 13: Ngoại truyện Lương Tiêu",
+                "StoryID": "680706e701a79a166ce0e793",
+                "StoryUpdateTime": "4/22/2025 6:37:39 AM",
+                "StoryNameK": "toi-duoc-kim-chu-bao-nuoi-3-nam"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6800b57601a79a1aec6863f8",
+                "Name": "Chương 8: HOÀN",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f7",
+                "Name": "Chương 7:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f6",
+                "Name": "Chương 6:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f5",
+                "Name": "Chương 5:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f4",
+                "Name": "Chương 4:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f3",
+                "Name": "Chương 3:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57601a79a1aec6863f2",
+                "Name": "Chương 2:",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6800b57501a79a1aec6863f1",
+                "Name": "Chương 1:",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

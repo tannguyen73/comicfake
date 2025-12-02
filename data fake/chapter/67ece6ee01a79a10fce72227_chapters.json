@@ -1,0 +1,1943 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "680b01af01a79a07c0e6ee05",
+            "Name": "Chương 323: Đến lục phẩm cơ duyên, mười hai vạn khí vận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680b01af01a79a07c0e6ee04",
+            "Name": "Chương 322: Đến lục phẩm cơ duyên, mười hai vạn khí vận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68099c6a01a79a16f00da5d4",
+            "Name": "Chương 321: Kiếp nạn tái hiện, Huyền Quy Hộ Thân Phù thuần thục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "68099c6a01a79a16f00da5d3",
+            "Name": "Chương 320: Kiếp nạn tái hiện, Huyền Quy Hộ Thân Phù thuần thục",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6808962e01a79a1538984ba9",
+            "Name": "Chương 319: Khí vận che chở, đến Kim Đan gia tộc",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "6808962e01a79a1538984ba8",
+            "Name": "Chương 318: Khí vận hộ thân, đến Kim Đan thế gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb23",
+            "Name": "Chương 317: Thoát khỏi Vạn Thú sơn mạch, Hắc Long hải vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb22",
+            "Name": "Chương 316 Thoát khỏi Vạn Thú sơn mạch, Hắc Long hải vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb21",
+            "Name": "Chương 315 Nhẹ nhõm độ kiếp, lại được lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb20",
+            "Name": "Chương 314 Nhẹ nhõm độ kiếp, lại được lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1f",
+            "Name": "Chương 313 Thoát khỏi Kim Đan động phủ, đại kiếp đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1e",
+            "Name": "Chương 312 Thoát khỏi Kim Đan động phủ, đại kiếp đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1d",
+            "Name": "Chương 311 Vân Mộng Mê Tung Phù, Hỗn Nguyên Phù Tông nội tình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1c",
+            "Name": "Chương 310 Vân Mộng Mê Tung Phù, Hỗn Nguyên Phù Tông nội tình",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1b",
+            "Name": "Chương 309 Thuận lợi độ kiếp, Kim Đan một tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb1a",
+            "Name": "Chương 308 Thuận lợi độ kiếp, Kim Đan một tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb19",
+            "Name": "Chương 307 Kim Đan ba cửa ải, Vực Ngoại Thiên Ma",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb18",
+            "Name": "Chương 306 Kim Đan ba cửa ải, Vực Ngoại Thiên Ma",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb17",
+            "Name": "Chương 305 Nhẹ nhõm độ kiếp, đến lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb16",
+            "Name": "Chương 304 Nhẹ nhõm độ kiếp, đến lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb15",
+            "Name": "Chương 303 Điềm đại hung, Kim Đan nhân kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb14",
+            "Name": "Chương 302 Điềm đại hung, Kim Đan nhân kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb13",
+            "Name": "Chương 301 Đến tam giai linh mạch, Trúc Cơ viên mãn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb12",
+            "Name": "Chương 300 Đến tam giai linh mạch, Trúc Cơ viên mãn!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb11",
+            "Name": "Chương 299 Tứ phẩm cơ duyên và Đại Nhật Như Lai Kính!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb10",
+            "Name": "Chương 298 Cơ duyên tứ phẩm, Đại Nhật Như Lai Kính!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0f",
+            "Name": "Chương 297 Đại Nhật Kiếm Tông hủy diệt, kiếp nạn bộc phát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0e",
+            "Name": "Chương 296 Đại Nhật Kiếm Tông hủy diệt, kiếp nạn bộc phát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0d",
+            "Name": "Chương 295 Huyết mạch thần thông mới, bốn nghìn năm thọ nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0c",
+            "Name": "Chương 294 Huyết mạch thần thông mới, bốn ngàn năm thọ nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0b",
+            "Name": "Chương 293 Đằng Xà công Kim Đan thiên, thai nghén Kim Đan pháp vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb0a",
+            "Name": "Chương 292 Đằng Xà công Kim Đan thiên, thai nghén Kim Đan pháp vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb09",
+            "Name": "Chương 291 Đến Long Huyết thảo, Đằng Xà công đột phá cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb08",
+            "Name": "Chương 290 Đến Long Huyết thảo, Đằng Xà công đột phá cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb07",
+            "Name": "Chương 289 Xu cát tị hung, đến lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb06",
+            "Name": "Chương 288 Xu cát tị hung, đến lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb05",
+            "Name": "Chương 287 Đại Nhật Kiếm Tông nội chiến, kiếp nạn bộc phát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb04",
+            "Name": "Chương 286 Đại Nhật Kiếm Tông nội chiến, kiếp nạn bộc phát!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb03",
+            "Name": "Chương 285 Hữu kinh vô hiểm kiếp nạn, đến thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb02",
+            "Name": "Chương 284 Hữu kinh vô hiểm kiếp nạn, đến thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb01",
+            "Name": "Chương 283 Lần nữa xu cát tị hung, rung chuyển Vạn Thú sơn mạch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fb00",
+            "Name": "Chương 282 Lần nữa xu cát tị hung, rung chuyển Vạn Thú sơn mạch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faff",
+            "Name": "Chương 281 Lấy được Kim Đan linh dược, Kết Đan ba cửa ải",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fafe",
+            "Name": "Chương 280 Lấy được Kim Đan linh dược, Kết Đan ba cửa ải.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fafd",
+            "Name": "Chương 279 Tránh né kiếp nạn, đến lục phẩm cơ duyên.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fafc",
+            "Name": "Chương 278 Tránh né kiếp nạn, đến lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fafb",
+            "Name": "Chương 277 Thoát khỏi Thất Tinh phong, kiếp nạn ập đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fafa",
+            "Name": "Chương 276 Thoát đi Thất Tinh phong, kiếp nạn tiến đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf9",
+            "Name": "Chương 275 Tấn thăng Trúc Cơ chín tầng, Khô Mộc Phùng Xuân Phù.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf8",
+            "Name": "Chương 274 Tấn thăng Trúc Cơ chín tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf7",
+            "Name": "Chương 273 Nhẹ nhõm độ kiếp, đến tam giai linh dược.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf6",
+            "Name": "Chương 272 Nhẹ nhõm độ kiếp, đến tam giai linh dược.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf5",
+            "Name": "Chương 271 Bản mệnh thần thông: Súc Địa Thành Thốn, đạt được lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf4",
+            "Name": "Chương 270 Bản mệnh thần thông: Súc Địa Thành Thốn, và cơ duyên lục phẩm.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf3",
+            "Name": "Chương 269 Linh căn thuế biến, tấn thăng Thiên linh căn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf2",
+            "Name": "Chương 268 Linh căn biến đổi, tấn thăng Thiên linh căn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf1",
+            "Name": "Chương 267 Lại được Bổ Thiên hoa, lấy được ngũ phẩm cơ duyên.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faf0",
+            "Name": "Chương 266 Lại được Bổ Thiên hoa, lấy được ngũ phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faef",
+            "Name": "Chương 265 Mở ra Thái Hư Chi Môn, cơ duyên lớn đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faee",
+            "Name": "Chương 264 Mở ra Thái Hư Chi Môn, cơ duyên lớn đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faed",
+            "Name": "Chương 263 Thứ Tiên Khí Thái Hư Chi Môn, Thái Hư giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faec",
+            "Name": "Chương 262 Thứ Tiên Khí Thái Hư Chi Môn, Thái Hư giới!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faeb",
+            "Name": "Chương 261 Đại thu hoạch, đến tam phẩm cơ duyên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408faea",
+            "Name": "Chương 260 Đại thu hoạch, đến tam phẩm cơ duyên!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fae9",
+            "Name": "Chương 259 Xu cát tị hung, đại cát hiện ra",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fae8",
+            "Name": "Chương 258 Xu cát tị hung, đại cát hiện ra",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fae7",
+            "Name": "Chương 257 Đại kiếp đến, Huyền Thiên kiếm tông bị công phá.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574101a79a01f408fae6",
+            "Name": "Chương 256 Đại kiếp đến, Huyền Thiên kiếm tông bị công phá.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574001a79a01f408fae5",
+            "Name": "Chương 255 Khí vận che chở, tấn thăng Trúc Cơ tám tầng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574001a79a01f408fae4",
+            "Name": "Chương 254 Khí vận che chở, tấn thăng Trúc Cơ tám tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574001a79a01f408fae3",
+            "Name": "Chương 253 Đến ngũ phẩm cơ duyên, nhẹ nhõm độ kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ff574001a79a01f408fae2",
+            "Name": "Chương 252 Đến ngũ phẩm cơ duyên, nhẹ nhõm độ kiếp.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d74",
+            "Name": "Chương 251 Thu hoạch Bổ Thiên Hoa, linh vật tăng cường linh căn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d73",
+            "Name": "Chương 250 Thu hoạch Bổ Thiên hoa, tăng lên linh căn tư chất linh vật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d72",
+            "Name": "Chương 249 Lần nữa xu cát tị hung, tác động đến đại lục, địa mạch chấn động dữ dội.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d71",
+            "Name": "Chương 248 Lần nữa xu cát tị hung, tác động đến đại lục địa mạch chấn động.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d70",
+            "Name": "Chương 247 Thu hoạch thất phẩm cơ duyên, chiến tranh kết thúc.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6f",
+            "Name": "Chương 246 Thu hoạch thất phẩm cơ duyên, chiến tranh kết thúc.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6e",
+            "Name": "Chương 245 Thoát khỏi Di Lăng đảo quần, tránh né kiếp nạn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6d",
+            "Name": "Chương 244 Thoát khỏi Di Lăng đảo quần, tránh né tai ương",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6c",
+            "Name": "Chương 243 Tô Vi Vi tấn thăng Trúc Cơ, đại kiếp tiến đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6b",
+            "Name": "Chương 242 Tô Vi Vi tấn thăng Trúc Cơ, đại kiếp tiến đến.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729e01a79a13f4b41d6a",
+            "Name": "Chương 241 Bản mạng phù lục: Ngũ Hành Phá Trận Phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d69",
+            "Name": "Chương 240 Bản mạng phù lục: Ngũ Hành Phá Trận Phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d68",
+            "Name": "Chương 239 Nuốt Thanh Diễm đan, tấn thăng Trúc Cơ bảy tầng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d67",
+            "Name": "Chương 238 Nuốt Thanh Diễm đan, tấn thăng Trúc Cơ thất tầng.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d66",
+            "Name": "Chương 237 Đại phát hoành tài, thu hoạch lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d65",
+            "Name": "Chương 236 Đại phát hoành tài, thu hoạch lục phẩm cơ duyên.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d64",
+            "Name": "Chương 235 Thuận lợi độ kiếp, tai nạn chưa từng gia thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d63",
+            "Name": "Chương 234 Thuận lợi độ kiếp, tai nạn chưa từng gia thân",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d62",
+            "Name": "Chương 233 Viên mãn cấp Thiên Lôi Phù, điềm đại hung xuất hiện.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d61",
+            "Name": "Chương 232 Thiên Lôi Phù viên mãn, điềm đại hung xuất hiện.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d60",
+            "Name": "Chương 231 Xích Kình đạo nhân chạy trốn, nhẹ nhõm độ kiếp.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5f",
+            "Name": "Chương 230 Xích Kình đạo nhân đường chạy, nhẹ nhõm độ kiếp.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5e",
+            "Name": "Chương 229 Nguyên Anh linh vật, đại kiếp tiến đến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5d",
+            "Name": "Chương 228 Nguyên Anh linh vật, đại kiếp tiến đến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5c",
+            "Name": "Chương 227 Đằng Xà công đột phá, thọ nguyên hai ngàn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5b",
+            "Name": "Chương 226 Đằng Xà công đột phá, thọ nguyên hai ngàn.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d5a",
+            "Name": "Chương 225 Thu hoạch được lục phẩm cơ duyên, tam giai Hùng Vương Huyền gan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d59",
+            "Name": "Chương 224 Thu hoạch được lục phẩm cơ duyên, tam giai Hùng Vương huyền gan.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d58",
+            "Name": "Chương 223 Lần nữa xu cát tị hung, tiên hạ thủ vi cường.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d57",
+            "Name": "Chương 222 Lần nữa xu cát tị hung, tiên hạ thủ vi cường.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d56",
+            "Name": "Chương 221 Vạn Kiếm Triều Tông phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d55",
+            "Name": "Chương 220 Huyền Thủy đan và bước đột phá Trúc Cơ tầng sáu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d54",
+            "Name": "Chương 219 Diệt Thần Nông môn Trúc Cơ, cơ duyên từ trước đến nay phác trạch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d53",
+            "Name": "Chương 218 Cổ bảo Linh Lung tháp, không gian chi bảo",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d52",
+            "Name": "Chương 217 Vượt qua kiếp nạn, đến ngũ phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d51",
+            "Name": "Chương 216 Thiên đại cơ duyên, Di Lăng bí cảnh xuất thế!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d50",
+            "Name": "Chương 215 Thất phẩm cơ duyên và Xích Huyết linh quả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4f",
+            "Name": "Chương 214 Xích Kình đảo chiến thắng, thu hoạch được Huyền Quang ẩn nặc trận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4e",
+            "Name": "Chương 213 Thuận lợi độ kiếp, thu hoạch thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4d",
+            "Name": "Chương 212 Lần nữa xu cát tị hung, vận mệnh lựa chọn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4c",
+            "Name": "Chương 211 Tấn thăng Trúc Cơ năm tầng, tuyên khắc Băng Đống phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4b",
+            "Name": "Chương 210 Vượt qua kiếp nạn, thu hoạch lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d4a",
+            "Name": "Chương 209 Thu hoạch được thượng cổ kỳ trùng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d49",
+            "Name": "Chương 208 Tấn thăng nhị giai trung phẩm Phù sư, chiến tranh cận kề",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d48",
+            "Name": "Chương 207 Lấy được Đằng Xà công Kim Đan thiên, quả nhiên là đại cát đại lợi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f8729d01a79a13f4b41d47",
+            "Name": "Chương 206 Cơ duyên đến, thu hoạch lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c4a",
+            "Name": "Chương 205 Gia nhập Xích Kình đảo, cuộc sống mới",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c49",
+            "Name": "Chương 204 Xu cát tị hung, lần nữa đại cát chi tượng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c48",
+            "Name": "Chương 203 Thu hoạch được Tiên Thiên phù văn, Huyền Quy Hộ Thân Phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c47",
+            "Name": "Chương 202 Kiếp nạn không thêm thân, được cơ duyên thất phẩm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c46",
+            "Name": "Chương 201 Điềm đại hung, thoát đi Huyền Thiên kiếm tông cương vực",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c45",
+            "Name": "Chương 200 Tấn thăng Trúc Cơ bốn tầng, tuyên khắc Thổ Độn phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c44",
+            "Name": "Chương 199 Thu hoạch lục phẩm cơ duyên, linh dược Hồn Anh quả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c43",
+            "Name": "Chương 198 Dễ dàng độ kiếp, thiên lôi diệt ma tu tại Tiên cổ khu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c42",
+            "Name": "Chương 197 Thất Tinh phong đại kiếp, lần nữa vận mệnh lựa chọn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c41",
+            "Name": "Chương 196 Đằng Xà công đột phá, thọ nguyên tăng thêm hai trăm năm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c40",
+            "Name": "Chương 195 Thu hoạch lục phẩm cơ duyên, tam giai linh dược Phật Diễm Căn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c3f",
+            "Name": "Chương 194 Tam giai phá vỡ tâm ma, sinh tử chi kiếp!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb401a79a0338ad6c3e",
+            "Name": "Chương 193 Đại cát đại lợi chi tượng, hữu kinh vô hiểm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c3d",
+            "Name": "Chương 192 Lần nữa xu cát tị hung, kiếp nạn kiếm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c3c",
+            "Name": "Chương 191 Tấn thăng Trúc Cơ ba tầng, Thất Tinh phong gặp nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c3b",
+            "Name": "Chương 190 Rời đi tị nạn, thu hoạch linh dược Tử Kim Linh Chi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c3a",
+            "Name": "Chương 189 Nguyên Anh tông môn chiến tranh, lần nữa vận mệnh lựa chọn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c39",
+            "Name": "Chương 188 Vân Lai đạo nhân ngã xuống, Vạn Thú sơn mạch chi kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c38",
+            "Name": "Chương 187 Thu hoạch ngũ phẩm cơ duyên, cổ bảo Đãng Ma Chung (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c37",
+            "Name": "Chương 186 Thu hoạch ngũ phẩm cơ duyên, cổ bảo Đãng Ma Chung (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c36",
+            "Name": "Chương 185 Thuê linh mạch cấp hai, tao ngộ Trúc Cơ kiếp tu tên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c35",
+            "Name": "Chương 184 Dễ dàng độ kiếp, thu hoạch nhị giai Hậu Thổ đan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c34",
+            "Name": "Chương 183 Lần nữa xu cát tị hung, kiếp nạn không thêm thân (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c33",
+            "Name": "Chương 182 Lần nữa xu cát tị hung, kiếp nạn không thêm thân (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c32",
+            "Name": "Chương 181 Tìm tới cổ lão truyền tống trận, rời đi Vạn Thú sơn mạch (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c31",
+            "Name": "Chương 180 Tìm tới cổ lão truyền tống trận, rời đi Vạn Thú sơn mạch (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c30",
+            "Name": "Chương 179 Điềm đại hung, thoát ly Vân Lai thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2f",
+            "Name": "Chương 178 Tấn thăng Trúc Cơ tầng hai, Vân Lai đạo nhân trở về (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2e",
+            "Name": "Chương 177 Tấn thăng Trúc Cơ tầng hai, Vân Lai đạo nhân trở về (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2d",
+            "Name": "Chương 176 Nhị giai thể tu, tám trăm thọ nguyên, có thể so với Bành Tổ (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2c",
+            "Name": "Chương 175 Nhị giai thể tu, tám trăm thọ nguyên, có thể so với Bành Tổ (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2b",
+            "Name": "Chương 174 Đằng Xà Công đột phá, thai nghén huyết mạch Thần Thông",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f61fb301a79a0338ad6c2a",
+            "Name": "Chương 173 Thu hoạch được lục phẩm cơ duyên, bình yên độ kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b0a",
+            "Name": "Chương 172 Trúc Cơ đan, cơ hội hủy diệt Ngô gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b09",
+            "Name": "Chương 171 Tiến vào Vân Lai thành tị kiếp, trong cơn tai nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b08",
+            "Name": "Chương 170 Tấn thăng Nhị giai Phù sư, khu nhà lều kiếp nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b07",
+            "Name": "Chương 169 Biết trước, chân không bước ra khỏi nhà cũng có thể đến cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b06",
+            "Name": "Chương 168 Cơ duyên đã tới, thu hoạch Trúc Cơ linh dược",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b05",
+            "Name": "Chương 167 Luyện hóa Hỗn Nguyên phù bút, Thiên Lôi phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cd01a79a1af4815b04",
+            "Name": "Chương 166 Thần Thông: Thiên Tử Vọng Khí, năm trăm thọ nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815b03",
+            "Name": "Chương 165 Nghe đạo Trúc Cơ, linh lực hoá lỏng nạp tiền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815b02",
+            "Name": "Chương 164 Vận khí nghịch thiên, cơ duyên không ngừng nạp tiền",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815b01",
+            "Name": "Chương 163 Thoát khỏi khu nhà tranh, tránh né tai kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815b00",
+            "Name": "Chương 162 Trúc Cơ cơ duyên, Linh Khê bí cảnh mở ra (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aff",
+            "Name": "Chương 161 Trúc Cơ cơ duyên, Linh Khê bí cảnh mở ra (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815afe",
+            "Name": "Chương 160 Diệt trừ uy hiếp, thu hoạch được lục phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815afd",
+            "Name": "Chương 159 Giết đến tận cửa, diệt Hổ Nha bang!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815afc",
+            "Name": "Chương 158 Kiếp nạn lại nổi lên, trị an hỗn loạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815afb",
+            "Name": "Chương 157 Thu hoạch trăm năm linh dược, Đằng Xà công đột phá, thọ nguyên ba trăm năm",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815afa",
+            "Name": "Chương 156 Bình yên độ kiếp, Ngô gia co đầu rút cổ, Vân Lai đạo nhân rời đi môn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af9",
+            "Name": "Chương 155 Tiên hạ thủ vi cường, ám sát Ngô gia tu sĩ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af8",
+            "Name": "Chương 154 Tấn thăng Luyện Khí chín tầng, Trúc Cơ tam quan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af7",
+            "Name": "Chương 153 Trúc Cơ gia tộc lại như thế nào, một dạng phải chết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af6",
+            "Name": "Chương 152 Gặp lại Ngô Phong, báo thù rửa hận",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af5",
+            "Name": "Chương 151 Bị Ngô gia truy nã, hỗn loạn ảnh hưởng đến Vân Lai thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af4",
+            "Name": "Chương 150 Trăm năm Thanh Long sâm, gia tăng sáu mươi thọ nguyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af3",
+            "Name": "Chương 149 Nhị giai độn quang phù, thu hoạch được thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af2",
+            "Name": "Chương 148 Lừa giết tán tu, tội đáng chết vạn lần!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af1",
+            "Name": "Chương 147 Mới ra cửa liền đoàn diệt, gặp gỡ Kim Lân thú cấp hai",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815af0",
+            "Name": "Chương 146 Thoát khỏi Thanh Lâm phường thị, vượt qua sinh tử đại kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aef",
+            "Name": "Chương 145 Tấn thăng Luyện khí tám tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aee",
+            "Name": "Chương 144 Thu hoạch được cổ bảo Vạn Hóa Đan Lô, đến từ Nguyên Anh cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aed",
+            "Name": "Chương 143 Thu hoạch ngũ phẩm cơ duyên, thượng phẩm Ất Mộc đan",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aec",
+            "Name": "Chương 142 Đại Nhật kiếm tông tính là gì, như cũ giết!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aeb",
+            "Name": "Chương 141 Buôn bán khử độc phù, đại phát tài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f4c5cc01a79a1af4815aea",
+            "Name": "Chương 140 Vô pháp rời đi, phi thuyền không có chỗ cho tán tu",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaead",
+            "Name": "Chương 139 Thời buổi rối loạn, Kim Đan tông môn tụ tập Thanh Lâm phường thị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaeac",
+            "Name": "Chương 138 Âm Dương uyên ương phù, Nguyên Anh động phủ xuất thế",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaeab",
+            "Name": "Chương 137 Tấn thăng Luyện Khí thất tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaeaa",
+            "Name": "Chương 136 Người đi nhà trống, lần nữa mua sắm linh dịch.",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea9",
+            "Name": "Chương 135 Đột phá tuổi thọ cực hạn, tán tu trở về Thanh Lâm phường thị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea8",
+            "Name": "Chương 134 Lục phẩm cơ duyên, lấy được Đằng Xà công đến tiếp sau công pháp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea7",
+            "Name": "Chương 133 Thú triều bùng nổ, dục huyết phấn chiến!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea6",
+            "Name": "Chương 132 Lục Dực độc phong ấp, mùa đông đến gần",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea5",
+            "Name": "Chương 131 Chiến tranh kết thúc, trùng kiến Thanh Lâm phường thị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea4",
+            "Name": "Chương 130 Tấn thăng Luyện khí sáu tầng, tuyên khắc Định Thân phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea3",
+            "Name": "Chương 129 Tông môn đệ tử, giết không tha!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea2",
+            "Name": "Chương 128 Phù lục thuế biến, Thanh Liên Địa Hỏa Phù, tao ngộ Đại Nhật kiếm tông đệ tử",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea1",
+            "Name": "Chương 127 Lục phẩm cơ duyên, thu hoạch được Thanh Liên Địa Hỏa",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfaea0",
+            "Name": "Chương 126 Thoát khỏi phường thị, thong dong tị nạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9f",
+            "Name": "Chương 125 Kim Đan tông môn chiến tranh, Thanh Lâm phường thị bị diệt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9e",
+            "Name": "Chương 124 Tấn thăng Luyện khí năm tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9d",
+            "Name": "Chương 123 Một đêm chợt giàu, năm ngàn linh thạch, mua sắm linh dịch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9c",
+            "Name": "Chương 122 Đánh giết kiếp tu, chợ đen dương danh!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9b",
+            "Name": "Chương 121 Thương vong thảm trọng, Ích Tà phù giá cả tăng vọt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae9a",
+            "Name": "Chương 120 Yêu tà tập kích Thanh Lâm phường thị, kiếp nạn ập đến",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae99",
+            "Name": "Chương 119 Thu hoạch được thượng cổ kỳ trùng... Lục Dực độc phong",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae98",
+            "Name": "Chương 118 Tấn thăng luyện khí bốn tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae97",
+            "Name": "Chương 117 Giết gà giật mình khỉ, khu nhà lều dương danh",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae96",
+            "Name": "Chương 116 Ác khách tới cửa, mạnh mượn linh thạch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae95",
+            "Name": "Chương 115 Đại Nhật kiếm tông bá đạo, tán tu đều là pháo hôi",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae94",
+            "Name": "Chương 114 Thuần thục bản mạng phù lục, tiền thuê nhà tăng cao",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae93",
+            "Name": "Chương 113 Quả thứ ba bản mạng phù lục: Liễm tức phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae92",
+            "Name": "Chương 112 Tấn thăng Luyện Khí ba tầng",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae91",
+            "Name": "Chương 111 Sinh hoạt gian nan, nội quyển Phù sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae90",
+            "Name": "Chương 110 Tấn thăng hạ phẩm Phù sư (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67f097b601a79a0940dfae8f",
+            "Name": "Chương 109 Tấn thăng hạ phẩm Phù sư (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4e3",
+            "Name": "Chương 108 Lấy được Tử Linh quả, đi tới Thanh Lâm phường thị",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4e2",
+            "Name": "Chương 107 Diệt sát yêu tà, lấy được thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4e1",
+            "Name": "Chương 106 Tấn thăng Luyện Khí tầng hai",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4e0",
+            "Name": "Chương 105 Chém giết kiếp tu, vạn pháp Phù sư (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4df",
+            "Name": "Chương 104 Chém giết kiếp tu, vạn pháp Phù sư (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4de",
+            "Name": "Chương 103 Thai nghén Hỗn Nguyên linh lực, tuyệt thế thiên tài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4dd",
+            "Name": "Chương 102 Tuyệt thế công pháp: Hỗn Nguyên Phù Kinh, một phù năm vạn phù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4dc",
+            "Name": "Chương 101 Thông qua sát hạch, thượng phẩm Linh bảo Hỗn Nguyên phù bút",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4db",
+            "Name": "Chương 100 Tiên Thiên oai, giết Tông Sư như giết gà",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4da",
+            "Name": "Chương 99 Thai nghén linh căn tư chất",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d9",
+            "Name": "Chương 98 Tấn thăng Tiên Thiên, thai nghén linh căn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d8",
+            "Name": "Chương 97 Bình yên độ kiếp, lấy được ngũ phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d7",
+            "Name": "Chương 96 Diệt Kim Tiền bang, Vân Trạch thành thất thủ, đại kiếp tiến đến (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d6",
+            "Name": "Chương 95 Diệt Kim Tiền bang, Vân Trạch thành thất thủ, đại kiếp tiến đến (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d5",
+            "Name": "Chương 94 Sớm chạy trốn, thong dong tị kiếp",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d4",
+            "Name": "Chương 93 Bắt lính, khổ không thể tả, không thể nhịn được nữa (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d3",
+            "Name": "Chương 92 Bắt lính, khổ không thể tả, không thể nhịn được nữa (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d2",
+            "Name": "Chương 91 Lý gia diệt môn, lĩnh ngộ kiếm ý",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d1",
+            "Name": "Chương 90 Diệt Lý gia, vì ngư dân báo thù",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4d0",
+            "Name": "Chương 89 Huyết Hổ đan, kim kiếm phù, đại thu hoạch",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4cf",
+            "Name": "Chương 88 Tấn thăng Tông Sư, cách không giết người, khí nhập đan điền (4)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4ce",
+            "Name": "Chương 87 Tấn thăng Tông Sư, cách không giết người, khí nhập đan điền (3)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4cd",
+            "Name": "Chương 86 Tấn thăng Tông Sư, cách không giết người, khí nhập đan điền (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4cc",
+            "Name": "Chương 85 Tấn thăng Tông Sư, cách không giết người, khí nhập đan điền (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4cb",
+            "Name": "Chương 84 Chém giết thế gia chó săn, thu hoạch được thất phẩm cơ duyên (4)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4ca",
+            "Name": "Chương 83 Chém giết thế gia chó săn, thu hoạch được thất phẩm cơ duyên (3)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c9",
+            "Name": "Chương 82 Chém giết thế gia chó săn, thu hoạch được thất phẩm cơ duyên (2)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c8",
+            "Name": "Chương 81 Chém giết thế gia chó săn, thu hoạch được thất phẩm cơ duyên (1)",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c7",
+            "Name": "Chương 80 Người mang lợi khí, sát tâm tự lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c6",
+            "Name": "Chương 79 Trắng trợn cướp đoạt dân nữ",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c5",
+            "Name": "Chương 78 Suy bại Lý gia",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c4",
+            "Name": "Chương 77 Phúc họa song hành, khí vận dẫn dắt",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c3",
+            "Name": "Chương 76 Chém giết Bành Uy, báo thù rửa hận!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c2",
+            "Name": "Chương 75 Bắt lấy Huyết Nô",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c1",
+            "Name": "Chương 74 Tử vong của Tông sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4c0",
+            "Name": "Chương 73 Nhập vi cấp độ kiếm thuật",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4bf",
+            "Name": "Chương 72 Cảm giác lòng người, bắt chẹt tiền tài",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4be",
+            "Name": "Chương 71 Quan phỉ một thể, thu thuế đến ba mươi năm sau",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4bd",
+            "Name": "Chương 70: Ác nghiệp Kim Tiền bang",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4bc",
+            "Name": "Chương 69: Nắm giữ khí kình, chính là Võ Đạo tông sư",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4bb",
+            "Name": "Chương 68: Tấn thăng Luyện Tạng cảnh, thuật dịch dung đại thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4ba",
+            "Name": "Chương 67: Diệt trừ hậu hoạn",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b9",
+            "Name": "Chương 66: Chiến loạn lại nổi lên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b8",
+            "Name": "Chương 65: Dùng võ nhập đạo, Tiên Thiên võ giả",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b7",
+            "Name": "Chương 64: Đại thu hoạch, tu tiên công pháp: Thanh Mộc quyết",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b6",
+            "Name": "Chương 63: Định cư Vân Trạch thành",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b5",
+            "Name": "Chương 62: Thu hoạch được thất phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67edea1901a79a10fce8b4b4",
+            "Name": "Chương 61: Chém tận giết tuyệt!",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e45",
+            "Name": "Chương 60: Không cho đường sống, giết sạch quan binh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e44",
+            "Name": "Chương 59: Quan phỉ một nhà, sát cơ ngập trời!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e43",
+            "Name": "Chương 58: Tai họa tới",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e42",
+            "Name": "Chương 57: Xích Mi quân tan tác",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e41",
+            "Name": "Chương 56: Giết cường đạo!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e40",
+            "Name": "Chương 55: Long Vương bang dư nghiệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3f",
+            "Name": "Chương 54: Tống Phú Quý một nhà chết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3e",
+            "Name": "Chương 53: Tấn thăng Đoán Cốt cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3d",
+            "Name": "Chương 52: Thần bí lệnh bài, Hổ Báo đan",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3c",
+            "Name": "Chương 51: Tiên nhân đã chết!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3b",
+            "Name": "Chương 50: Hai tay chuẩn bị, lực là anh hùng gan",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e3a",
+            "Name": "Chương 49: Rủi ro cản tai",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e39",
+            "Name": "Chương 48: Thông Hà huyện thảm trạng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e38",
+            "Name": "Chương 47: Tinh thông Cực Quang kiếm pháp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e37",
+            "Name": "Chương 46: Long Vương bang hủy diệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e36",
+            "Name": "Chương 45: Giết thế gia!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e35",
+            "Name": "Chương 44: Không mắc quả mà mắc không đồng đều",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e34",
+            "Name": "Chương 43: Đại thu hoạch, ba trăm khí vận điểm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e33",
+            "Name": "Chương 42: Giết La Tranh!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e32",
+            "Name": "Chương 41: Cho ngươi mặt mũi!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e31",
+            "Name": "Chương 40: Khinh người quá đáng!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e30",
+            "Name": "Chương 39: Ăn cây táo, rào cây sung",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2f",
+            "Name": "Chương 38: Ta mới là kẻ nghèo, không bằng mượn lương cho ta",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2e",
+            "Name": "Chương 37: Đạo đức bắt cóc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2d",
+            "Name": "Chương 36: Cửu phẩm cơ duyên, thọ nguyên tám mươi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2c",
+            "Name": "Chương 35: Tấn thăng Cường Gân cảnh võ giả",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2b",
+            "Name": "Chương 34: Chém giết cường đạo",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e2a",
+            "Name": "Chương 33: Trị an ác liệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e29",
+            "Name": "Chương 32: Chiếm lấy cơ duyên, đắc tội Lý gia",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e28",
+            "Name": "Chương 31: Cực Quang kiếm pháp, thần binh lợi nhận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e27",
+            "Name": "Chương 30: Cho thể diện mà không cần!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e26",
+            "Name": "Chương 29: Ác khách đăng môn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e25",
+            "Name": "Chương 28: Phát sáng nấu ăn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e24",
+            "Name": "Chương 27: Ép mua ép bán",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e23",
+            "Name": "Chương 26: Tiên gia bảo vật, không gian giới chỉ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e22",
+            "Name": "Chương 25: Lưu dân tăng nhiều, giá cả leo thang",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e21",
+            "Name": "Chương 24: Ác nhân tự có ác nhân trị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e20",
+            "Name": "Chương 23: Hung thủ là hái hoa tặc Tào Tuấn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1f",
+            "Name": "Chương 22: Tinh thông độc thuật",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1e",
+            "Name": "Chương 21: Tấn thăng Luyện Nhục cảnh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1d",
+            "Name": "Chương 20: Thất khiếu chảy máu, toàn diện hạ độc chết",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1c",
+            "Name": "Chương 19: Độc chết!",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1b",
+            "Name": "Chương 18: Mua nhà ngươi nương tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e1a",
+            "Name": "Chương 17: Đi sài lang, lại tới hổ báo",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e19",
+            "Name": "Chương 16: Tào Thị Độc Kinh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e18",
+            "Name": "Chương 15: Bát phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e17",
+            "Name": "Chương 14: Nhất định phải tập võ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e16",
+            "Name": "Chương 13: Ép mua ép bán",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e15",
+            "Name": "Chương 12: Tô Vi Vi thể chất đặc thù",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e14",
+            "Name": "Chương 11: Thiên Công tốt, lại một đạo bát phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e13",
+            "Name": "Chương 10: Báo thù rửa hận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e12",
+            "Name": "Chương 9: Ăn hắn cả đời",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e11",
+            "Name": "Chương 8: Thông Hà huyện",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e10",
+            "Name": "Chương 7: Tiền không thể để lộ ra",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0f",
+            "Name": "Chương 6: Thối Bì cảnh võ giả",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0e",
+            "Name": "Chương 5: Đằng Xà Công",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0d",
+            "Name": "Chương 4: Được bảo",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0c",
+            "Name": "Chương 3: Thà làm thái bình chó",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0b",
+            "Name": "Chương 2: Bát phẩm cơ duyên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "67ecea1701a79a10fce74e0a",
+            "Name": "Chương 1: Mệnh cách Hồng Phúc Tề Thiên",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

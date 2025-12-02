@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trở Về Năm 1988",
+            "StoryImage": "tro-ve-nam-1988.jpg",
+            "StoryDescription": "Văn án:<p>Sau khi cha mẹ ra đi, Cao Lương vì muốn em gái, em trai được sống tốt hơn, rời xa quê hương đi tới phía nam, nhưng lại nhận lấy kết quả cốt nhục chia lìa, cửa nát nhà tan, cuối cùng chính mình cũng ôm nỗi ân hận mà chết.</p><p>Ai ngờ cô được sống lại một lần nữa, Cao Lương trở lại mùa hè năm 1988, trở lại thời khắc quyết định vận mệnh, cô quyết định không thể giẫm lên vết xe đổ, muốn ở lại cùng người nhà, thật cẩn thận mà bảo vệ gia đình này, bảo vệ em gái, em trai nhỏ thật tốt, chỉ mong cả nhà bình an lớn lên, từng người an khang.</p><p>Cao Lương chỉ mong một đời an ổn, nhưng ai biết được chữ ngờ, dựa vào quán ăn nhỏ bán rau trộn mà đi tới đỉnh cao nhân sinh, cũng thu hoạch được một tình yêu đẹp.</p><p>Bổn văn lại danh 《 Trọng sinh chi lạnh vị nhân sinh 》, một câu chuyện xưa có mỹ thực.</p>",
+            "StoryUpdateTime": "2024-05-27T09:27:18.7273125Z",
+            "StoryUpdateTimeTick": 638523931511165099,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tầm Hương Tung",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66543be901a79a02740da358",
+                    "MongoId": "66543be901a79a02740da358"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 182: Phiên ngoại",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132615c3c70808d2b7b4",
+                    "MongoId": "61d9132615c3c70808d2b7b4"
+                },
+                {
+                    "TenTheLoai": "Mỹ Thực",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "my-thuc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b12201a79a05c8ae5af1",
+                    "MongoId": "6576b12201a79a05c8ae5af1"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "tro-ve-nam-1988-chuong-182",
+            "Keyword": "trở về năm 1988 tro ve nam 1988",
+            "StoryView": 5158,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "tro-ve-nam-1988",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 5158,
+            "StoryViewInWeek": 88,
+            "StoryViewInMonth": 731,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "tro-ve-nam-1988-chuong-1",
+            "StoryIDFirstChap": "66544ee801a79a02740e085e",
+            "SoChuong": 182,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": null,
+            "StoryMetaDescription": null,
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "66543bbf01a79a02740da348",
+            "MongoId": "66543bbf01a79a02740da348"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66543bbf01a79a02740da348",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66544ee801a79a02740e085e",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-do-bo-mot-van-nam-sau.jpg",
+                "StoryName": "Cao Võ: Đổ Bộ Một Vạn Năm Sau",
+                "StoryTitleLastChap": "Chương 420",
+                "StoryID": "6807187701a79a15388eabe8",
+                "StoryUpdateTime": "4/24/2025 10:20:24 AM",
+                "StoryNameK": "cao-vo-do-bo-mot-van-nam-sau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//guong-vo-kho-lanh.jpg",
+                "StoryName": "Gương Võ Khó Lành",
+                "StoryTitleLastChap": "Chương 15: Hoàn",
+                "StoryID": "6809b29901a79a16f00f1dd1",
+                "StoryUpdateTime": "4/24/2025 3:44:54 AM",
+                "StoryNameK": "guong-vo-kho-lanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//va-mat-ban-cung-phong-co-duyen-voi-phat.jpg",
+                "StoryName": "Vả Mặt Bạn Cùng Phòng Có Duyên Với Phật",
+                "StoryTitleLastChap": "Chương 20: Hoàn",
+                "StoryID": "6808dc5401a79a16f00c6b49",
+                "StoryUpdateTime": "4/23/2025 12:30:29 PM",
+                "StoryNameK": "va-mat-ban-cung-phong-co-duyen-voi-phat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thuo-ay-tuoi-con-xanh.jpg",
+                "StoryName": "Thuở Ấy Tuổi Còn Xanh",
+                "StoryTitleLastChap": "Chương 13: Hoàn",
+                "StoryID": "6808b5df01a79a16f00c2f44",
+                "StoryUpdateTime": "4/23/2025 9:44:53 AM",
+                "StoryNameK": "thuo-ay-tuoi-con-xanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//do-choi-lat-minh-lam-chu.jpg",
+                "StoryName": "Đồ Chơi Lật Mình Làm Chủ",
+                "StoryTitleLastChap": "Chương 10: Hoàn",
+                "StoryID": "680897e301a79a1538986992",
+                "StoryUpdateTime": "4/23/2025 7:50:16 AM",
+                "StoryNameK": "do-choi-lat-minh-lam-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong.jpg",
+                "StoryName": "Thủ Phụ Đại Nhân, Ngài Có Muốn Lấy Vợ Không?",
+                "StoryTitleLastChap": "Chương 11",
+                "StoryID": "6808707401a79a1538975a90",
+                "StoryUpdateTime": "4/23/2025 6:30:22 AM",
+                "StoryNameK": "thu-phu-dai-nhan-ngai-co-muon-lay-vo-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai.jpg",
+                "StoryName": "Thê Tử Bạch Nguyệt Quang Đã Mất Của Thủ Phụ Đã Trở Lại",
+                "StoryTitleLastChap": "Chương 86: HOÀN",
+                "StoryID": "6808589a01a79a153894b7d6",
+                "StoryUpdateTime": "4/23/2025 4:45:31 AM",
+                "StoryNameK": "the-tu-bach-nguyet-quang-da-mat-cua-thu-phu-da-tro-lai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-su-noi-neu-muon-song-phai-ngu-voi-anh.jpg",
+                "StoryName": "Đại Sư Nói, Nếu Muốn Sống Phải Ngủ Với Anh",
+                "StoryTitleLastChap": "Chương 11: Phiên ngoại",
+                "StoryID": "68076f2901a79a153892d5ac",
+                "StoryUpdateTime": "4/23/2025 3:07:22 AM",
+                "StoryNameK": "dai-su-noi-neu-muon-song-phai-ngu-voi-anh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dem-cuoi-cung-truoc-khi-roi-dai.jpg",
+                "StoryName": "Đêm Cuối Cùng Trước Khi Rơi Đài",
+                "StoryTitleLastChap": "Chương 15: Ngoại truyện Tiêu Hạc (3)",
+                "StoryID": "680755e801a79a1538906fe2",
+                "StoryUpdateTime": "4/23/2025 3:06:50 AM",
+                "StoryNameK": "dem-cuoi-cung-truoc-khi-roi-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mong-dao-hoa.jpg",
+                "StoryName": "Mộng Đào Hoa",
+                "StoryTitleLastChap": "Chương 9: Hoàn",
+                "StoryID": "6807994e01a79a153893029f",
+                "StoryUpdateTime": "4/22/2025 1:40:50 PM",
+                "StoryNameK": "mong-dao-hoa"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhat-ky-cua-do-chi-dep.jpg",
+                "StoryName": "Nhật Ký Cưa Đổ Chị Đẹp",
+                "StoryTitleLastChap": "Chương 16:",
+                "StoryID": "68034d0001a79a17e8c59bee",
+                "StoryUpdateTime": "4/22/2025 10:28:47 AM",
+                "StoryNameK": "nhat-ky-cua-do-chi-dep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//su-tra-thu-cua-chu-nha.jpg",
+                "StoryName": "Sự Trả Thù Của Chủ Nhà",
+                "StoryTitleLastChap": "Chương 12: Hoàn",
+                "StoryID": "680766c801a79a153892b79f",
+                "StoryUpdateTime": "4/22/2025 10:26:35 AM",
+                "StoryNameK": "su-tra-thu-cua-chu-nha"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "665451ce01a79a02740e54d3",
+                "Name": "Chương 182: Phiên ngoại",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451cc01a79a02740e54d1",
+                "Name": "Chương 181: Kết thúc (2)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451c901a79a02740e54cf",
+                "Name": "Chương 180: Kết thúc (1)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451c701a79a02740e54cd",
+                "Name": "Chương 179: Di truyền nhan khống",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451c501a79a02740e54cb",
+                "Name": "Chương 178: Mùa xuân tới",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451c201a79a02740e54c9",
+                "Name": "Chương 177: Nữ nhi nô",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451bf01a79a02740e4a21",
+                "Name": "Chương 176: Phát triển không ngừng",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451bd01a79a02740e4a1f",
+                "Name": "Chương 175: Giáo dục con",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451ba01a79a02740e4a1d",
+                "Name": "Chương 174: Bạn cũ tụ họp",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "665451b801a79a02740e4a1b",
+                "Name": "Chương 173: Thiên kim tới",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

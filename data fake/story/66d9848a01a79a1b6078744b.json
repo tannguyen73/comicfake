@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Ta Là Chuyên Gia Tháo Dỡ Nóc Nhà (Dịch)",
+            "StoryImage": "ta-la-chuyen-gia-thao-do-noc-nha-(dich.jpg",
+            "StoryDescription": "<b>Ta Là Chuyên Gia Tháo Dỡ Nóc Nhà</b> - Một paparazzi tài năng bất ngờ xuyên không vào thế giới của những ngôi sao. Từ một tay săn ảnh, cô trở thành một ngôi sao bị ghét nhất. Nhưng với bản tính thẳng thắn và sự thông minh của mình, <b>Hạ Trừng Trừng</b> quyết định thay đổi hình tượng.&nbsp;<p>Liệu cô có thể vượt qua những rào cản để trở thành một ngôi sao sáng giá?</p>",
+            "StoryUpdateTime": "2024-09-06T03:04:47.8888901Z",
+            "StoryUpdateTimeTick": 638611280748996513,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Chư Cát Hàm Ngư",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66b8a86601a79a14ac301325",
+                    "MongoId": "66b8a86601a79a14ac301325"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 597. Kết thúc toàn văn",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132615c3c70808d2b7b4",
+                    "MongoId": "61d9132615c3c70808d2b7b4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ta-la-chuyen-gia-thao-do-noc-nha-dich-chuong-597-ket-thuc-toan-van",
+            "Keyword": "ta là chuyên gia tháo dỡ nóc nhà (dịch) ta la chuyen gia thao do noc nha (dich)",
+            "StoryView": 7153,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ta-la-chuyen-gia-thao-do-noc-nha-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 7153,
+            "StoryViewInWeek": 96,
+            "StoryViewInMonth": 492,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ta-la-chuyen-gia-thao-do-noc-nha-dich-chuong-1-",
+            "StoryIDFirstChap": "66d98b5801a79a1b6078744c",
+            "SoChuong": 597,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66d9848a01a79a1b6078744b",
+            "MongoId": "66d9848a01a79a1b6078744b"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66d9848a01a79a1b6078744b",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66d98b5801a79a1b6078744c",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trong-sinh-chi-toi-cuong-kiem-than.jpg",
+                "StoryName": "Trọng Sinh Chi Tối Cường Kiếm Thần",
+                "StoryTitleLastChap": "Chương 4728: Tân thế giới (đại kết cục) (10)",
+                "StoryID": "656597ca01a79a07c8c7cbda",
+                "StoryUpdateTime": "4/26/2024 8:44:52 AM",
+                "StoryNameK": "trong-sinh-chi-toi-cuong-kiem-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-lien-chi-dinh.jpg",
+                "StoryName": "Thanh Liên Chi Đỉnh",
+                "StoryTitleLastChap": "Chương 7354: Thanh Liên đỉnh (Đại kết cục) (2) HẾT.",
+                "StoryID": "6567087701a79a04c07c99ea",
+                "StoryUpdateTime": "1/18/2024 8:54:38 AM",
+                "StoryNameK": "thanh-lien-chi-dinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta!-thien-menh-dai-phan-phai.jpg",
+                "StoryName": "Ta! Thiên Mệnh Đại Phản Phái",
+                "StoryTitleLastChap": "Chương 2705. Thiên địa yên tĩnh",
+                "StoryID": "65548abbf30be075b8f45eb7",
+                "StoryUpdateTime": "11/17/2023 3:43:01 AM",
+                "StoryNameK": "ta-thien-menh-dai-phan-phai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-ban-thuong-100-trieu-mang.jpg",
+                "StoryName": "Bắt Đầu Ban Thưởng 100 Triệu Mạng",
+                "StoryTitleLastChap": "Chương 2693: Đại kết cục",
+                "StoryID": "6555ce97f30be00b14cd85f5",
+                "StoryUpdateTime": "11/16/2023 8:29:39 AM",
+                "StoryNameK": "bat-dau-ban-thuong-100-trieu-mang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-toi-cuong-tong.jpg",
+                "StoryName": "Vạn Cổ Tối Cường Tông",
+                "StoryTitleLastChap": "Chương 2016. Mùi vị quen thuộc",
+                "StoryID": "655739cb01a79a03c44b4d0b",
+                "StoryUpdateTime": "11/17/2023 10:15:07 AM",
+                "StoryNameK": "van-co-toi-cuong-tong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chu-gioi-tan-the-online.jpg",
+                "StoryName": "Chư Giới Tận Thế Online",
+                "StoryTitleLastChap": "Chương 3150. Quán bar Huyết Hải. Hết",
+                "StoryID": "65096f5e01a79a11087e2f15",
+                "StoryUpdateTime": "12/20/2023 3:41:51 AM",
+                "StoryNameK": "chu-gioi-tan-the-online"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ho-hoa-cao-thu-tai-do-thi-phan-1.jpg",
+                "StoryName": "Hộ Hoa Cao Thủ Tại Đô Thị Phần 1",
+                "StoryTitleLastChap": "Chương 3929: Nhìn thấy bổn tiên, tại sao không bái?",
+                "StoryID": "65669ce501a79a0c74828306",
+                "StoryUpdateTime": "11/29/2023 4:02:32 AM",
+                "StoryNameK": "ho-hoa-cao-thu-tai-do-thi-phan-1"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-danh-bong-dem---de-nhat-danh-sach-2.jpg",
+                "StoryName": "Nhân Danh Bóng Đêm - Đệ Nhất Danh Sách 2",
+                "StoryTitleLastChap": "Chương 2700: Tiểu Khánh Trần",
+                "StoryID": "6566a06e01a79a0c7482830e",
+                "StoryUpdateTime": "12/16/2024 2:17:20 AM",
+                "StoryNameK": "nhan-danh-bong-dem-de-nhat-danh-sach-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thi-ra-ta-la-tuyet-the-vo-than.jpg",
+                "StoryName": "Thì Ra Ta Là Tuyệt Thế Võ Thần",
+                "StoryTitleLastChap": "Chương 2451 - Nghênh đón cuộc sống mới (Đại kết cục)",
+                "StoryID": "6556f2be01a79b1678f19ec8",
+                "StoryUpdateTime": "11/17/2023 5:27:39 AM",
+                "StoryNameK": "thi-ra-ta-la-tuyet-the-vo-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguy-quan-tu-thay-chet-khong-son.jpg",
+                "StoryName": "Ngụy Quân Tử Thấy Chết Không Sờn",
+                "StoryTitleLastChap": "Chương 1890. Hậu ký (2). Hết.",
+                "StoryID": "650fb88c01a79a13c448b081",
+                "StoryUpdateTime": "1/8/2024 10:28:52 AM",
+                "StoryNameK": "nguy-quan-tu-thay-chet-khong-son"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//di-gioi-trieu-hoan-thien-co-quan-hung.jpg",
+                "StoryName": "Dị Giới Triệu Hoán Thiên Cổ Quần Hùng",
+                "StoryTitleLastChap": "Chương 2581: Đại kết cục! (3)",
+                "StoryID": "6582a0f501a79a06fc8b2ea7",
+                "StoryUpdateTime": "12/20/2023 8:46:44 AM",
+                "StoryNameK": "di-gioi-trieu-hoan-thien-co-quan-hung"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66d98baf01a79a1b60788231",
+                "Name": "Chương 597. Kết thúc toàn văn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b60788230",
+                "Name": "Chương 596. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822f",
+                "Name": "Chương 595. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822e",
+                "Name": "Chương 594. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822d",
+                "Name": "Chương 593. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822c",
+                "Name": "Chương 592. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822b",
+                "Name": "Chương 591. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b6078822a",
+                "Name": "Chương 590. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b60788229",
+                "Name": "Chương 589. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d98baf01a79a1b60788228",
+                "Name": "Chương 588. -",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "68079f1a01a79a1538936b85",
+            "Name": "Chương 12: Chương 12 - Hoàn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f1701a79a1538936b84",
+            "Name": "Chương 11: Chương 11",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f1501a79a1538936b83",
+            "Name": "Chương 10: Chương 10",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f1201a79a1538936b82",
+            "Name": "Chương 9: Chương 9",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f1001a79a1538936b81",
+            "Name": "Chương 8: Chương 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0d01a79a1538935c8d",
+            "Name": "Chương 7: Chương 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0a01a79a1538935c8c",
+            "Name": "Chương 6: Chương 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0701a79a1538935c8b",
+            "Name": "Chương 5: Chương 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0501a79a1538935c8a",
+            "Name": "Chương 4: Chương 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0201a79a1538935c89",
+            "Name": "Chương 3: Chương 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079f0001a79a1538935c88",
+            "Name": "Chương 2: Chương 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "68079efd01a79a1538935c87",
+            "Name": "Chương 1: Chương 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

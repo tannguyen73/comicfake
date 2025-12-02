@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Luật Sư: Bạo Lực Học Đường Vô Tội? Ta Cãi Phán Hắn Tử Hình",
+            "StoryImage": "luat-su-bao-luc-hoc-duong-vo-toi-ta-cai-phan-han-tu-hinh.jpg",
+            "StoryDescription": "Lâm Mặc – một luật sư kim bài với tỷ lệ thắng kiện 100% – vô tình xuyên đến một thế giới song song.  \r\n\r\nVừa đặt chân đến, anh đã phải đối mặt với một vụ án bắt nạt học đường nghiêm trọng, nhưng mọi người xung quanh lại bó tay không thể giải quyết.  \r\n🔹 **Bắt nạt học đường:** \"Bắt nạt thì sao? Luật pháp bảo vệ trẻ vị thành niên, chúng tôi vô tội! Mấy anh cứ tiếp tục chơi nhạc và nhảy múa đi!\"  \r\n🔹 **Lâm Mặc:** \"Ha ha.\"  \r\n🔹 **Kết quả:** Bọn bắt nạt bị phán tử hình!  \r\n🔹 **Bắt nạt học đường (hoảng loạn):** \"Chúng tôi đã biết lỗi! Xin tha mạng...\"  \r\n\r\nChưa dừng lại ở đó, anh còn gặp một vụ lừa gạt hôn nhân trắng trợn.  \r\n🔹 **Người phụ nữ lợi dụng nữ quyền:** \"Chỉ cần ly hôn là ta có thể được chia mấy trăm vạn sao? Sao? Ta vô sỉ à? Có giỏi thì kiện ta đi!\"  \r\n🔹 **Lâm Mặc:** \"Ha ha.\"  \r\n🔹 **Kết quả:** Bị kết án tội lừa đảo!  \r\n🔹 **Kẻ gian (hoảng sợ):** \"A? Sao tôi lại bị phán tội lừa đảo? Luật sư! Luật sư của tôi đâu?!\"  \r\n🔹 **Luật sư của hắn:** \"Đừng gọi nữa, ta cũng bị bắt rồi...\"  \r\n\r\nTrong một vụ án phản kháng chống lại kẻ áp bức, tất cả đều nghĩ chàng trai trẻ kia sẽ bị kết án tử hình.  \r\n🔹 **Lâm Mặc:** \"Đây là hành động tự vệ chính đáng. Cậu ấy vô tội.\"  \r\n🔹 **Kết quả:** Chàng trai được tuyên bố trắng án, tòa tuyên bố phóng thích!  \r\n\r\nVới những chiến thắng không tưởng, Lâm Mặc nhanh chóng trở thành một hiện tượng trong giới luật pháp, khiến cả thế giới phải chấn động.  \r\n\r\n🔹 **Lão thẩm phán tức giận đập bàn:** \"Lâm Mặc rốt cuộc từ đâu xuất hiện?! Hắn đang đùa giỡn với luật pháp sao?!\"  \r\n🔹 **Một đại pháp quan lo lắng:** \"Ta không dám nói gì cả… Sợ bị hắn tống vào tù mất…\"  \r\n🔹 **Đối thủ luật sư phẫn nộ:** \"Lâm Mặc đúng là kẻ điên! Còn có vương pháp hay không?!\"  \r\n🔹 **Luật sư kỳ cựu thở dài:** \"So với Lâm Mặc, ta chẳng khác nào tân binh non nớt!\"  \r\n🔹 **Nhân dân tung hô:** \"Cuồng nhân của giới luật, quỷ tài luật sư, anh hùng của nhân dân!\"  \r\n\r\nLâm Mặc – vị luật sư nghịch thiên, chuyên xử lý những vụ án tưởng chừng không thể xoay chuyển! 🚀⚖️",
+            "StoryUpdateTime": "2025-04-24T14:47:28.7041183Z",
+            "StoryUpdateTimeTick": 638741907545290967,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 636,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Huân Văn",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67a0d6e901a79a14f0afaa16",
+                    "MongoId": "67a0d6e901a79a14f0afaa16"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 636 Vào nghề thôi mà, đơn giản ấy mà, trực tiếp xây một tòa nhà máy chẳng phải tốt hơn sao?",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d822201a79a23501fa4d1",
+                    "MongoId": "674d822201a79a23501fa4d1"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "luat-su-bao-luc-hoc-duong-vo-toi-ta-cai-phan-han-tu-hinh-chuong-637",
+            "Keyword": "luật sư: bạo lực học đường vô tội? ta cãi phán hắn tử hình luat su: bao luc hoc duong vo toi? ta cai phan han tu hinh",
+            "StoryView": 4768,
+            "NumberUserFollow": 12,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "luat-su-bao-luc-hoc-duong-vo-toi-ta-cai-phan-han-tu-hinh",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 4768,
+            "StoryViewInWeek": 434,
+            "StoryViewInMonth": 1420,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "luat-su-bao-luc-hoc-duong-vo-toi-ta-cai-phan-han-tu-hinh-chuong-1",
+            "StoryIDFirstChap": "67a0d93e01a79a14f0afaa17",
+            "SoChuong": 636,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lâm Mặc – một luật sư kim bài với tỷ lệ thắng kiện 100% – vô tình xuyên đến một thế giới song song.  Vừa đặt chân đến, anh đã phải đối mặt với một vụ án bắt nạt học đường nghiêm trọng, nhưng mọi người xung quanh lại bó tay không thể giải quyết.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67a0d6a201a79a14f0afaa15",
+            "MongoId": "67a0d6a201a79a14f0afaa15"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67a0d6a201a79a14f0afaa15",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67a0d93e01a79a14f0afaa17",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-tu-tien-gioi-xu-cat-ti-hung.jpg",
+                "StoryName": "Ta Tại Tu Tiên Giới Xu Cát Tị Hung",
+                "StoryTitleLastChap": "Chương 323: Đến lục phẩm cơ duyên, mười hai vạn khí vận",
+                "StoryID": "67ece6ee01a79a10fce72227",
+                "StoryUpdateTime": "4/25/2025 3:30:28 AM",
+                "StoryNameK": "ta-tai-tu-tien-gioi-xu-cat-ti-hung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao.jpg",
+                "StoryName": "Góp Vốn Xây Đại Học, Ta Thật Không Phải Lừa Đảo",
+                "StoryTitleLastChap": "Chương 812 Đến chậm! Lẽ nào Lương lão đã mất?",
+                "StoryID": "67bee19301a79a14d89861b3",
+                "StoryUpdateTime": "4/25/2025 2:59:01 AM",
+                "StoryNameK": "gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh.jpg",
+                "StoryName": "Khắc Mệnh Tu Hành: Từ Cẩm Y Vệ Bắt Đầu Trường Sinh",
+                "StoryTitleLastChap": "Chương 810: Một điểm chân linh bất diệt, hóa thành bất diệt linh quang!",
+                "StoryID": "67bebced01a79a14d896f7c0",
+                "StoryUpdateTime": "4/25/2025 2:57:24 AM",
+                "StoryNameK": "khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-(dich.jpg",
+                "StoryName": "Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường (Dịch)",
+                "StoryTitleLastChap": "Chương 996 Không muộn",
+                "StoryID": "67441ba501a79a10e8dcef37",
+                "StoryUpdateTime": "4/25/2025 2:56:00 AM",
+                "StoryNameK": "ta-mo-that-su-la-co-nhi-vien-khong-phai-sat-thu-duong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc.jpg",
+                "StoryName": "Bắt Đầu Hỗn Độn Kiếm Thể, Chế Tạo Bất Hủ Tiên Tộc",
+                "StoryTitleLastChap": "Chương 1218 Bình Dương thị tộc",
+                "StoryID": "67923c1201a79e18bcbec34a",
+                "StoryUpdateTime": "4/25/2025 2:43:14 AM",
+                "StoryNameK": "bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon.jpg",
+                "StoryName": "Bắt Đầu Đánh Dấu Tiên Vương Tu Vi, Thành Lập Vô Thượng Tông Môn",
+                "StoryTitleLastChap": "Chương 715 Thiên kiêu nhân kiệt đại chiến, các phương thiên kiêu đại bại",
+                "StoryID": "6790a4dd01a79b1a68d8b821",
+                "StoryUpdateTime": "4/25/2025 2:30:08 AM",
+                "StoryNameK": "bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-moi-ngay-danh-dau-1-uc.jpg",
+                "StoryName": "Thần Hào: Mỗi Ngày Đánh Dấu 1 Ức",
+                "StoryTitleLastChap": "Chương 544: Giả lập hiện thực kỹ thuật",
+                "StoryID": "67f9dc1b01a79a10ec4592de",
+                "StoryUpdateTime": "4/25/2025 2:15:16 AM",
+                "StoryNameK": "than-hao-moi-ngay-danh-dau-1-uc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-muoi-lien-rut-trieu-hoan-ta-sang-tao-van-co-than-trieu.jpg",
+                "StoryName": "Bắt Đầu Mười Liên Rút Triệu Hoán, Ta Sáng Tạo Vạn Cổ Thần Triều",
+                "StoryTitleLastChap": "Chương 760: Hắc vực",
+                "StoryID": "67e1114c01a79a1378e724ce",
+                "StoryUpdateTime": "4/25/2025 2:03:00 AM",
+                "StoryNameK": "bat-dau-muoi-lien-rut-trieu-hoan-ta-sang-tao-van-co-than-trieu"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680a4ddc01a79a07c0e3e305",
+                "Name": "Chương 636 Vào nghề thôi mà, đơn giản ấy mà, trực tiếp xây một tòa nhà máy chẳng phải tốt hơn sao?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680a4ddc01a79a07c0e3e304",
+                "Name": "Chương 635 Bộ phận nhập chức? Toàn viên nhập chức!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680906f001a79a16f00d3ce2",
+                "Name": "Chương 634 Mã Quang nổi điên, rốt cuộc Lâm Mặc đang làm cái gì?!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680906f001a79a16f00d3ce1",
+                "Name": "Chương 633 Lâm Mặc và tình thương của cha, Cao Chính cảm động rơi lệ, muốn gọi \"Ba ba!\"",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68085c0301a79a1538957ae9",
+                "Name": "Chương 632 Lời thuyết phục khiến Vương Thắng hưng phấn tột độ, đánh cược toàn bộ gia sản!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68085c0301a79a1538957ae8",
+                "Name": "Chương 631 Điều kiện tốt đến kinh người, vượt quá dự kiến của Vương Thắng!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680701ed01a79a166ce05177",
+                "Name": "Chương 630 Lấy đổi kiêm cứu tế, lưỡng nan tự giải!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805ba9801a79a166cda2b01",
+                "Name": "Chương 629 Cao Chính: \"Ta thật là đáng chết a!\"",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805ba9801a79a166cda2b00",
+                "Name": "Chương 628 Giờ phút này Cao Chính mới nhận ra mình và Lâm Mặc khác nhau",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805ba9801a79a166cda2aff",
+                "Name": "Chương 627 Mâu thuẫn nổi bật: Công việc quái đản của Lâm Mặc?",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

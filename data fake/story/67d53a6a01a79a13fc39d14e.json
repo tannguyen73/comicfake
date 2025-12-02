@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Triệu Thị Hổ Tử",
+            "StoryImage": "trieu-thi-ho-tu.jpg",
+            "StoryDescription": "Ngày đó, hổ con mất ổ, bất đắc dĩ rèn luyện nanh vuốt, tìm kiếm chỗ ẩn thân.\r\n\r\nNgày đó, hổ con hơi lớn, cắn chết Lang Vương, chiếm lang huyệt, trở thành đàn sói đứng đầu.\r\n\r\nNgày đó...\r\n",
+            "StoryUpdateTime": "2025-04-13T07:47:21.5107926Z",
+            "StoryUpdateTimeTick": 638776241705455590,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 995,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Tiện Tông Thủ Tịch Đệ Tử",
+                    "GioiThieu": "",
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "674835a301a79a06bc0b71f4",
+                    "MongoId": "674835a301a79a06bc0b71f4"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 995 Xúi giục (1)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Lịch Sử",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lich-su",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a3",
+                    "MongoId": "61d9131015c3c70808d2b7a3"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Xây Dựng Thế Lực",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại thuần xây dựng thế lực, đánh chiếm địa bàn",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xay-dung-the-luc",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b36101a79b106c650459",
+                    "MongoId": "6561b36101a79b106c650459"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                },
+                {
+                    "TenTheLoai": "Sát Phạt Quyết Đoán",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main sát phạt quyết đoán, nên g.i.ế.t vẫn g.i.ế.t",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sat-phat-quyet-doan",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b3ed01a79b106c6504cc",
+                    "MongoId": "6561b3ed01a79b106c6504cc"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "trieu-thi-ho-tu-chuong-995",
+            "Keyword": "triệu thị hổ tử trieu thi ho tu",
+            "StoryView": 2954,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "trieu-thi-ho-tu",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2954,
+            "StoryViewInWeek": 198,
+            "StoryViewInMonth": 1181,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "trieu-thi-ho-tu-chuong-1",
+            "StoryIDFirstChap": "67d5487b01a79a13fc3a44a4",
+            "SoChuong": 995,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 93,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Ngày đó, hổ con mất ổ, bất đắc dĩ rèn luyện nanh vuốt, tìm kiếm chỗ ẩn thân.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67d53a6a01a79a13fc39d14e",
+            "MongoId": "67d53a6a01a79a13fc39d14e"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67d53a6a01a79a13fc39d14e",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67d5487b01a79a13fc3a44a4",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//song-bang-tan-the-ta-tru-hang-chuc-ty-vat-tu.jpg",
+                "StoryName": "Toàn Cầu Băng Phong : Ta Chế Tạo Phòng An Toàn Tại  Tận Thế",
+                "StoryTitleLastChap": "Chương 2756 Tập kết tại Bắc Phi",
+                "StoryID": "65dfe22501a79a19302eb531",
+                "StoryUpdateTime": "4/22/2025 1:42:10 PM",
+                "StoryNameK": "toan-cau-bang-phong-ta-che-tao-phong-an-toan-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-dua-vao-ngu-thu-quyet-chi-tu-cuong.jpg",
+                "StoryName": "Ta Dựa Vào Ngự Thú Quyết Chí Tự Cường",
+                "StoryTitleLastChap": "Chương 808: Vạn năm (2)",
+                "StoryID": "6561bab601a79b106c651ce1",
+                "StoryUpdateTime": "6/25/2024 9:38:27 AM",
+                "StoryNameK": "ta-dua-vao-ngu-thu-quyet-chi-tu-cuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-thanh-thanh-tu-hoa-qua-son.jpg",
+                "StoryName": "Bắt Đầu Thành Thánh Từ Hoa Quả Sơn",
+                "StoryTitleLastChap": "Chương 867: Hỗn Độn bên trên, cũng không vĩnh hằng (Đại kết cục)",
+                "StoryID": "6561b54701a79b106c6505dc",
+                "StoryUpdateTime": "1/13/2025 10:55:40 AM",
+                "StoryNameK": "bat-dau-thanh-thanh-tu-hoa-qua-son"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//lang-tieu-chi-thuong.jpg",
+                "StoryName": "Lăng Tiêu Chi Thượng",
+                "StoryTitleLastChap": "Chương 72: Tâm mát",
+                "StoryID": "65683eac01a79a1404422423",
+                "StoryUpdateTime": "11/30/2023 10:14:24 AM",
+                "StoryNameK": "lang-tieu-chi-thuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tien-quoc-dai-de.jpg",
+                "StoryName": "Tiên Quốc Đại Đế",
+                "StoryTitleLastChap": "Chương 1449: Người người như rồng (HẾT)",
+                "StoryID": "6568362101a79a140441fed1",
+                "StoryUpdateTime": "7/6/2024 2:58:02 AM",
+                "StoryNameK": "tien-quoc-dai-de"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-bat-tu.jpg",
+                "StoryName": "Trường Sinh Bất Tử",
+                "StoryTitleLastChap": "Quyển 12 Chương 55: Lục áp mưu đồ",
+                "StoryID": "656834ca01a79a140441fa5f",
+                "StoryUpdateTime": "11/30/2023 7:38:43 AM",
+                "StoryNameK": "truong-sinh-bat-tu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ke-tan-nhan-tan-the-bat-dau-tich-tru-hang-ty-tan-vat-tu.jpg",
+                "StoryName": "Kẻ tàn nhẫn tận thế, bắt đầu tích trữ hàng tỷ tấn vật tư",
+                "StoryTitleLastChap": "Chương 422: Mối quan hệ giữa Ngải Vi Nhi và Thành Chủ (hết)",
+                "StoryID": "663d993901a79a1304859561",
+                "StoryUpdateTime": "7/12/2024 2:16:13 AM",
+                "StoryNameK": "ke-tan-nhan-tan-the-bat-dau-tich-tru-hang-ty-tan-vat-tu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quoc-vuong-(dich.jpg",
+                "StoryName": "Quốc Vương (Dịch)",
+                "StoryTitleLastChap": "Chương 2150: Đặt Tên",
+                "StoryID": "66c98d3701a79a09a868bb68",
+                "StoryUpdateTime": "8/24/2024 9:36:16 AM",
+                "StoryNameK": "quoc-vuong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//mat-the-ta-co-kho-vat-tu-vo-han.jpg",
+                "StoryName": "Mạt Thế: Ta Có Kho Vật Tư Vô Hạn (Dịch)",
+                "StoryTitleLastChap": "Chương 1157: Một Cái Kết Khác 3",
+                "StoryID": "666ff8e601a79a1b681844ce",
+                "StoryUpdateTime": "11/29/2024 9:02:18 AM",
+                "StoryNameK": "mat-the-ta-co-kho-vat-tu-vo-han-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-quoc-dai-phan-tac-(dich.jpg",
+                "StoryName": "Đế Quốc Đại Phản Tặc (Dịch)",
+                "StoryTitleLastChap": "Chương 2461: Công kích đại doanh!",
+                "StoryID": "670de6e001a79a0e208d4dcc",
+                "StoryUpdateTime": "12/12/2024 3:18:03 AM",
+                "StoryNameK": "de-quoc-dai-phan-tac-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//huyen-giam-tien-toc.jpg",
+                "StoryName": "Huyền Giám Tiên Tộc (Dịch)",
+                "StoryTitleLastChap": "Chương 1612: Thái Ất (2)",
+                "StoryID": "65dfe38101a79a19302eb533",
+                "StoryUpdateTime": "12/13/2024 4:01:53 AM",
+                "StoryNameK": "huyen-giam-tien-toc-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dau-tu-thien-menh-toc-nhan-thuc-luc-cua-ta-la-toan-toc-tong-hoa-(dich.jpg",
+                "StoryName": "Đầu Tư Thiên Mệnh Tộc Nhân, Thực Lực Của Ta Là Toàn Tộc Tổng Hòa (Dịch)",
+                "StoryTitleLastChap": "Chương 1275: Đến nơi (2)",
+                "StoryID": "6745882f01a79a10e8e88c7d",
+                "StoryUpdateTime": "11/26/2024 10:31:49 AM",
+                "StoryNameK": "dau-tu-thien-menh-toc-nhan-thuc-luc-cua-ta-la-toan-toc-tong-hoa-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67fb6bd001a79a14fc3b1971",
+                "Name": "Chương 995 Xúi giục (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b1970",
+                "Name": "Chương 994 Tuyệt vọng phá vây (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196f",
+                "Name": "Chương 993 Tuyệt vọng phá vây (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196e",
+                "Name": "Chương 992 Cách đối phó (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196d",
+                "Name": "Chương 991 Cách đối phó (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196c",
+                "Name": "Chương 990 Thôi Tống Soạn (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196b",
+                "Name": "Chương 989 Thôi Tống Soạn (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b196a",
+                "Name": "Chương 988 Vây quanh (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b1969",
+                "Name": "Chương 987 Vây quanh (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fb6bd001a79a14fc3b1968",
+                "Name": "Chương 986 Dương bại dụ địch (4)",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

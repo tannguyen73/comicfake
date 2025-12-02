@@ -1,0 +1,101 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "680706ce01a79a166ce0e792",
+            "Name": "Chương 16",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e791",
+            "Name": "Chương 15",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e790",
+            "Name": "Chương 14",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e78f",
+            "Name": "Chương 13",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e78e",
+            "Name": "Chương 12",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e78d",
+            "Name": "Chương 11",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e78c",
+            "Name": "Chương 10",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706ce01a79a166ce0e78b",
+            "Name": "Chương 9",
+            "isBuy": 0,
+            "iChapVip": 1
+        },
+        {
+            "Id": "680706c101a79a166ce0d8a2",
+            "Name": "Chương 8",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d8a1",
+            "Name": "Chương 7",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d8a0",
+            "Name": "Chương 6",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d89f",
+            "Name": "Chương 5",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d89e",
+            "Name": "Chương 4",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d89d",
+            "Name": "Chương 3",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d89c",
+            "Name": "Chương 2",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680706c101a79a166ce0d89b",
+            "Name": "Chương 1",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

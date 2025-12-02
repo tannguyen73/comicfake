@@ -1,0 +1,575 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": "6807135c01a79a15388e8db2",
+            "Name": "Chương 95: Ngoại Truyện: Hiện Đại",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807135a01a79a15388e8db1",
+            "Name": "Chương 94: Kết Cục",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807135801a79a15388e8db0",
+            "Name": "Chương 93: Dạ Cơ Thật",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807135601a79a15388e8daf",
+            "Name": "Chương 92: Bug Lấy Máu Nghiệm Thân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807135301a79a15388e8dae",
+            "Name": "Chương 91: Ta Quay Lại Rồi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807135101a79a15388e8dad",
+            "Name": "Chương 90: Bằng Chứng Từng Tồn Tại",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134f01a79a15388e8dac",
+            "Name": "Chương 89: Nàng Đi Đi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134d01a79a15388e8dab",
+            "Name": "Chương 88: Chuyển Biến Bất Ngờ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134a01a79a15388e8daa",
+            "Name": "Chương 87: Trận Thắng Đầu Tiên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134801a79a15388e8da9",
+            "Name": "Chương 86: Mây Đen Vần Vũ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134601a79a15388e8da8",
+            "Name": "Chương 85: Nhưng Phe Mình Có Gundam",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134401a79a15388e8da7",
+            "Name": "Chương 84: Ngài Cũng Là Bao Tay Trắng Của Thiếp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807134201a79a15388e8da6",
+            "Name": "Chương 83: Bọ Ngựa Bắt Ve, Chim Sẻ Rình Sau Lưng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133f01a79a15388e8da5",
+            "Name": "Chương 82: Đây Là Do Huynh Lựa Chọn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133d01a79a15388e8da4",
+            "Name": "Chương 81: Cháy Nhà Mới Ra Mặt Chuột",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133b01a79a15388e8da3",
+            "Name": "Chương 80: An Ngọc Noãn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133901a79a15388e8da2",
+            "Name": "Chương 79: Phong Gian Nguyệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133701a79a15388e8da1",
+            "Name": "Chương 78: Đàm Phán Gian Nan",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133401a79a15388e8da0",
+            "Name": "Chương 77: Thành Vạn Quỷ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133201a79a15388e8d9f",
+            "Name": "Chương 76: Hủy Diệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807133001a79a15388e8d9e",
+            "Name": "Chương 75: Sét Đánh Giữa Trời Quang",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132e01a79a15388e8d9d",
+            "Name": "Chương 74: Kích Hoạt Hoa Kính Thêm Lần Nữa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132b01a79a15388e8d9c",
+            "Name": "Chương 73: Tình Hình Nghiêm Trọng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132901a79a15388e8d9b",
+            "Name": "Chương 72: Di Ngôn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132701a79a15388e8d9a",
+            "Name": "Chương 71: Chó Cùng Rứt Giậu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132501a79a15388e8d99",
+            "Name": "Chương 70: Gặp Riêng Lão Quốc Chủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132301a79a15388e8d98",
+            "Name": "Chương 69: Rạn Nứt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807132001a79a15388e8d97",
+            "Name": "Chương 68: Mảnh Ghép Hình",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131e01a79a15388e8d96",
+            "Name": "Chương 67: Thử Nghiệm Thất Bại",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131c01a79a15388e8d95",
+            "Name": "Chương 66: Điều Tra Thôn Dã",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131a01a79a15388e8d93",
+            "Name": "Chương 65: Nhiệm Vụ Cuối Cùng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131701a79a15388e8d92",
+            "Name": "Chương 64: Đêm Giao Thừa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131501a79a15388e8d91",
+            "Name": "Chương 63: Vợ Chồng Nghèo Khổ, Trăm Chuyện Sầu",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131301a79a15388e8d90",
+            "Name": "Chương 62: Miếu Ôn Nương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807131101a79a15388e8d8f",
+            "Name": "Chương 61: Núi Non Trùng Điệp",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130f01a79a15388e8d8e",
+            "Name": "Chương 60: Nhện Tình",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130d01a79a15388e8d8d",
+            "Name": "Chương 59: Ai Mới Là Người Ngoài?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130a01a79a15388e8d8c",
+            "Name": "Chương 58: Ép Hôn",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130801a79a15388e8d8b",
+            "Name": "Chương 57: Thuyết Thư Tiên Sinh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130601a79a15388e8d8a",
+            "Name": "Chương 56: Đêm Đó Đã Xảy Ra Chuyện Gì?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130401a79a15388e8d89",
+            "Name": "Chương 55: Phụ Thân Và Mẫu Thân Ta",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807130201a79a15388e8d88",
+            "Name": "Chương 54: Cắt Đứt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ff01a79a15388e8d86",
+            "Name": "Chương 53: Đúng Là Con Người Có Nguyên Tắc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712fd01a79a15388e8d85",
+            "Name": "Chương 52: Bao Tay Trắng Và Huyết Trích Tử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712fb01a79a15388e8d84",
+            "Name": "Chương 51: Quả Là Mỹ Nhân Có Độc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712f901a79a15388e8d83",
+            "Name": "Chương 50: Quay Về Lối Cũ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712f701a79a15388e8d82",
+            "Name": "Chương 49: Déjà Vu Kỳ Lạ Gì Vậy?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712f501a79a15388e8d81",
+            "Name": "Chương 48: Cực Kỳ Hoang Đường",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712f201a79a15388e8d80",
+            "Name": "Chương 47: Tế Thần Phượng Hoàng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712f001a79a15388e8d7f",
+            "Name": "Chương 46: Bọn Ta Là Cùng Một Kiểu Người",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ee01a79a15388e8d7e",
+            "Name": "Chương 45: Ta Biết Mình Đã Xong Đời Rồi",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ec01a79a15388e8d7d",
+            "Name": "Chương 44: Bệnh Cảm Sinh Ly Tử Biệt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ea01a79a15388e8d7c",
+            "Name": "Chương 43: Chân Tướng Vụ Giết Cha",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712e801a79a15388e8d7b",
+            "Name": "Chương 42: Lục Gia Tiến Cử Yến Oanh",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712e501a79a15388e8d7a",
+            "Name": "Chương 41: Sao Ngươi Biết Ta Không Lấy Được Chứ?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712e301a79a15388e8d79",
+            "Name": "Chương 40: Bạn Đời Của Ta Là Bậc Thầy Nữ Trang",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712e101a79a15388e8d78",
+            "Name": "Chương 39: Ơn Lớn Thành Thù",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712df01a79a15388e8d77",
+            "Name": "Chương 38: Biến Lợn Lành Thành Lợn Què",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712dc01a79a15388e8d76",
+            "Name": "Chương 37: Mắc Kẹt Trong Địa Lao",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712da01a79a15388e8d75",
+            "Name": "Chương 36: Trời Nước Như Gương",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712d801a79a15388e8d74",
+            "Name": "Chương 35: Đảo Chủ Đảo Lưu Tiên",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712d601a79a15388e8d73",
+            "Name": "Chương 34: Thế Giới Nhìn Mặt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712d401a79a15388e8d72",
+            "Name": "Chương 33: Dạ Hoa Phu Nhân",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712d201a79a15388e8d71",
+            "Name": "Chương 32: Hóa Ra Hai Người Là Bằng Hữu Sao?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712cf01a79a15388e8d70",
+            "Name": "Chương 31: Hắn Vẫn Đến",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712cd01a79a15388e8d6f",
+            "Name": "Chương 30: Quả Nhiên Không Làm Được Người Tốt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712cb01a79a15388e8d6e",
+            "Name": "Chương 29: Cần Đến Ta Động Thủ À?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712c901a79a15388e8d6d",
+            "Name": "Chương 28: Chúng Ta Đúng Là Có Duyên Phận",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712c701a79a15388e8d6c",
+            "Name": "Chương 27: Kế Hoạch Trâm Hoa",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712c401a79a15388e8d6b",
+            "Name": "Chương 26: Tên Này Còn Kể Chuyện Cười À",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712c201a79a15388e8d6a",
+            "Name": "Chương 25: Liều Mạng Xây Dựng Hình Tượng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712c001a79a15388e8d69",
+            "Name": "Chương 24: Vấn Đề Sai Sót Trong Lịch Sử",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712be01a79a15388e8d68",
+            "Name": "Chương 23: Nghìn Lẻ Một Đêm",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712bc01a79a15388e8d67",
+            "Name": "Chương 22: Nơi Công Cộng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ba01a79a15388e8d66",
+            "Name": "Chương 21: Tấn Công Và Phòng Thủ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712b701a79a15388e8d65",
+            "Name": "Chương 20: Tế Thú Đại Hội Lần Này",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712b501a79a15388e8d64",
+            "Name": "Chương 19: Cách Trị Nấc Cụt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712b301a79a15388e8d63",
+            "Name": "Chương 18: Cuộc Gặp Thất Vọng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712b101a79a15388e8d62",
+            "Name": "Chương 17: Thì Ra Là Thế",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712af01a79a15388e8d61",
+            "Name": "Chương 16: Tiếp Tay Cho Giặc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712ad01a79a15388e8d60",
+            "Name": "Chương 15: Thôn Thập Hoang",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712aa01a79a15388e8d5f",
+            "Name": "Chương 14: Cô Nương Tướng Mạo Kỳ Dị",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712a801a79a15388e8d5e",
+            "Name": "Chương 13: Kết Thành Khế Ước",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712a601a79a15388e8d5d",
+            "Name": "Chương 12: Con Người Sinh Ra Phải Có Giá Trị Lợi Dụng",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712a401a79a15388e8d5c",
+            "Name": "Chương 11: Kế Hoạch Thâm Sâu Đến Nhường Nào",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "680712a101a79a15388e8d5b",
+            "Name": "Chương 10: Chẳng Trách Không Bao Giờ Thấy Hắn Vừa Mắt",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129f01a79a15388e8d5a",
+            "Name": "Chương 9: Nữ Chính Nguyên Tác",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129c01a79a15388e8d59",
+            "Name": "Chương 8: Dưới Cầu Sóng Xanh, Thiếu Niên Chuyện Cũ",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129a01a79a15388e8d58",
+            "Name": "Chương 7: Phu Thê Ân Ái, Phân Phòng Để Ở",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129701a79a15388e8d57",
+            "Name": "Chương 6: Hắn Tin Thật?",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129401a79a15388e8d56",
+            "Name": "Chương 5: Lý Luận Thích Của Ta",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807129201a79a15388e8d55",
+            "Name": "Chương 4: Kẻ Bát Quái Trong Truyện",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807128f01a79a15388e8d54",
+            "Name": "Chương 3: Lý Do Khó Nói: Ta Chính Là Đọc Lậu Mà Không Đủ Tình Tiết...",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807128d01a79a15388e8d53",
+            "Name": "Chương 2: Bạch Nguyệt Quang Của Nam Chính Tất Nhiên Không Dễ Chọc",
+            "isBuy": 0,
+            "iChapVip": 0
+        },
+        {
+            "Id": "6807128b01a79a15388e8d52",
+            "Name": "Chương 1: Trò Xuyên Không Này Đâu Hơn Một Tấc So Với Mấy Bộ Truyện Cười Cũ Rích",
+            "isBuy": 0,
+            "iChapVip": 0
+        }
+    ]
+}

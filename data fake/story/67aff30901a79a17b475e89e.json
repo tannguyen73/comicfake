@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Cuồng Thám",
+            "StoryImage": "cuong-tham.jpg",
+            "StoryDescription": "<b>Triệu Ngọc</b> cứ tưởng rằng mũi thuốc độc trên chiếc ghế tử hình kia đã chấm dứt sinh mạng của hắn, nào ngờ, mở mắt ra đã thấy mình sống lại trong một hình hài khác ở một thế giới khác.<p>Hắn vẫn là Triệu Ngọc, nhưng Triệu Ngọc ở thế giới này không còn là một gã côn đồ sống trên lưỡi đao mũi kiếm nữa mà là một cảnh sát điều tra chính hiệu ba không: không gái gú, không cờ bạc, không rượu chè.</p><p>Để cảm ơn chủ nhân cơ thể mới, việc đầu tiên hắn làm chính là tạt cà phê vào mặt tên đội phó luôn ức hiếp nguyên chủ, việc thứ hai là đi ăn chơi sung sướng một phen. Nào ngờ chỉ một chuyến đi đến khu đèn đỏ lại giúp hắn khởi động được hệ thống Kỳ Ngộ, còn đụng độ cả tên nghi phạm mà cả đội Trọng án đang truy bắt.</p><p>Hệ thống Kỳ Ngộ đó là gì? Vì sao nó vừa xuất hiện, Triệu Ngọc đã gặp được tên nghi phạm của vụ án? Điều gì sẽ xảy ra khi một gã côn đồ lại sống lại trong hình hài của một cảnh sát điều tra chân chính?</p>",
+            "StoryUpdateTime": "2025-02-15T02:51:24.7656791Z",
+            "StoryUpdateTimeTick": 638751810652484114,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 2687,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Khoáng Hải Vong Hồ",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67aff32901a79a17b475e89f",
+                    "MongoId": "67aff32901a79a17b475e89f"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 2682: Cuối cùng cũng thành thân thuộc (HẾT)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Tiểu Thuyết",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tieu-thuyet",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65f2baf101a79a0e4cb8bb89",
+                    "MongoId": "65f2baf101a79a0e4cb8bb89"
+                },
+                {
+                    "TenTheLoai": "Trinh Thám",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trinh-tham",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f121801a79a0e30fce5f8",
+                    "MongoId": "655f121801a79a0e30fce5f8"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "cuong-tham-chuong-2687",
+            "Keyword": "cuồng thám cuong tham",
+            "StoryView": 6159,
+            "NumberUserFollow": 6,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "cuong-tham",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 6159,
+            "StoryViewInWeek": 23,
+            "StoryViewInMonth": 994,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "cuong-tham-chuong-1",
+            "StoryIDFirstChap": "67affc5901a79a084c67c2d1",
+            "SoChuong": 2687,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Triệu Ngọc cứ tưởng rằng mũi thuốc độc trên chiếc ghế tử hình kia đã chấm dứt sinh mạng của hắn, nào ngờ, mở mắt ra đã thấy mình sống lại trong một hình hài khác ở một thế giới khác.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 1",
+                "Gia": 1500000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7RVAC6XfdjKxqGpJ3SnxLWrUR71hz_UrkecmVhCRiqmpI-kMdsyy4P38efrZn8urPyoOAt9rxLV4nRzn7mcnM4tbx0yeUFynW7fI828q1y19J_vB8IR-OQ9BwlItkgNx3MEIjJTFulmCQ7VntxvYXyE0SYRptkJfaR1x7pvzltMu7uGYzQVD-jrWPchw/s1600/2.pn",
+                "ColorNickName": "#895023",
+                "Description": "Đẳng cấp vip 1\r\n- Đọc hết các truyện dành cho Vip 1, vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip 1\r\n- Màu tên nick đậm, màu đồng",
+                "ModNumber": 1,
+                "xuthem": 0,
+                "Id": "675aad6201a79b126ccffba8",
+                "MongoId": "675aad6201a79b126ccffba8"
+            },
+            "Id": "67aff30901a79a17b475e89e",
+            "MongoId": "67aff30901a79a17b475e89e"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67aff30901a79a17b475e89e",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67affc5901a79a084c67c2d1",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//32-ke-the-than.jpg",
+                "StoryName": "32 Kẻ Thế Thân",
+                "StoryTitleLastChap": "Chương 15",
+                "StoryID": "6807639201a79a153892a89d",
+                "StoryUpdateTime": "4/23/2025 1:22:56 AM",
+                "StoryNameK": "32-ke-the-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//song-bang-tan-the-ta-tru-hang-chuc-ty-vat-tu.jpg",
+                "StoryName": "Toàn Cầu Băng Phong : Ta Chế Tạo Phòng An Toàn Tại  Tận Thế",
+                "StoryTitleLastChap": "Chương 2756 Tập kết tại Bắc Phi",
+                "StoryID": "65dfe22501a79a19302eb531",
+                "StoryUpdateTime": "4/22/2025 1:42:10 PM",
+                "StoryNameK": "toan-cau-bang-phong-ta-che-tao-phong-an-toan-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nhan-the-bien-di.jpg",
+                "StoryName": "Nhân Thể Biến Dị",
+                "StoryTitleLastChap": "Chương 15. Kết thúc",
+                "StoryID": "6800c95f01a79a1aec6950ea",
+                "StoryUpdateTime": "4/17/2025 9:30:40 AM",
+                "StoryNameK": "nhan-the-bien-di"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thanh-quy-ky-su.jpg",
+                "StoryName": "Thanh Quỷ Kỷ Sự",
+                "StoryTitleLastChap": "Chương 961: Chàng trai nhiệt huyết",
+                "StoryID": "67b69feb01a79a15fc46126f",
+                "StoryUpdateTime": "3/17/2025 5:03:00 AM",
+                "StoryNameK": "thanh-quy-ky-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thay-doi-mo.jpg",
+                "StoryName": "Thầy Dời Mộ",
+                "StoryTitleLastChap": "Chương 604. Đại kết cục",
+                "StoryID": "67b42ade01a79a1348cd4587",
+                "StoryUpdateTime": "3/17/2025 4:44:40 AM",
+                "StoryNameK": "thay-doi-mo"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hanh-tau-am-duong.jpg",
+                "StoryName": "Hành Tẩu Âm Dương",
+                "StoryTitleLastChap": "Chương 250: Thi tổ Hạn Bạt",
+                "StoryID": "67b0381201a79a084c687961",
+                "StoryUpdateTime": "2/15/2025 7:26:46 AM",
+                "StoryNameK": "hanh-tau-am-duong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-khung-bo-song-lai-danh-dau.jpg",
+                "StoryName": "Ta Tại Khủng Bố Sống Lại Đánh Dấu",
+                "StoryTitleLastChap": "Chương 1582: Làm hậu thế mở thái bình (2) - Kết",
+                "StoryID": "678e23a701a79b11d0fb253a",
+                "StoryUpdateTime": "1/21/2025 10:21:52 AM",
+                "StoryNameK": "ta-tai-khung-bo-song-lai-danh-dau"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quy-xa-(dich.jpg",
+                "StoryName": "Quỷ Xá (Dịch)",
+                "StoryTitleLastChap": "Chương 1002: Thế giới mới (Kết thúc)",
+                "StoryID": "6744447901a79a10e8de15c9",
+                "StoryUpdateTime": "1/21/2025 2:36:53 AM",
+                "StoryNameK": "quy-xa-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-choi-so-4-(dich.jpg",
+                "StoryName": "Người Chơi Số 4 (Dịch)",
+                "StoryTitleLastChap": "Chương 1169: Lục Minh (Hoàn) 2",
+                "StoryID": "674d74f901a79a0f041ef7d0",
+                "StoryUpdateTime": "1/21/2025 2:11:07 AM",
+                "StoryNameK": "nguoi-choi-so-4-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc.jpg",
+                "StoryName": "Lừa Bán Nữ Quỷ, Thân Phận Quỷ Buôn Lậu Của Ta Không Giấu Được",
+                "StoryTitleLastChap": "Chương 802: Trên đảo nhỏ Kim Tự Tháp.",
+                "StoryID": "676a0a4401a79b0d80272dca",
+                "StoryUpdateTime": "12/25/2024 3:52:56 AM",
+                "StoryNameK": "lua-ban-nu-quy-than-phan-quy-buon-lau-cua-ta-khong-giau-duoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trung-sinh-thuong-ngay-tu-tien-(dich.jpg",
+                "StoryName": "Trùng Sinh Thường Ngày Tu Tiên (Dịch)",
+                "StoryTitleLastChap": "Chương 1867: Mai Khai Nhị Độ (2)",
+                "StoryID": "67075c5d01a79a0c34b8ed74",
+                "StoryUpdateTime": "12/12/2024 3:14:37 AM",
+                "StoryNameK": "trung-sinh-thuong-ngay-tu-tien-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bao-nguoi-lam-tro-choi-nguoi-lai-lam-video-cg.jpg",
+                "StoryName": "Bảo Ngươi Làm Trò Chơi, Ngươi Lại Làm Video CG? (Dịch)",
+                "StoryTitleLastChap": "Chương 702: Nếu Còn Truyền Bá Nữa Thì Phòng Livestream Của Cô Sẽ Không Còn Đâu (1)",
+                "StoryID": "6663e2df01a79a19ecc92685",
+                "StoryUpdateTime": "11/28/2024 10:17:58 AM",
+                "StoryNameK": "bao-nguoi-lam-tro-choi-nguoi-lai-lam-video-cg-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67b000a301a79a084c67cd4f",
+                "Name": "Chương 2682: Cuối cùng cũng thành thân thuộc (HẾT)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd4e",
+                "Name": "Chương 2681: Nhiệm vụ chính",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd4d",
+                "Name": "Chương 2680: Giữ bí mật cho tôi",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd4c",
+                "Name": "Chương 2679: Cầu hôn mà không tỏ ra ngầu (3)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd4b",
+                "Name": "Chương 2678: Cầu hôn mà không tỏ ra ngầu (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd4a",
+                "Name": "Chương 2677: Cầu hôn mà không tỏ ra ngầu (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd49",
+                "Name": "Chương 2676: Phần thưởng siêu cấp",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd48",
+                "Name": "Chương 2675: Lý tưởng ban đầu",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd47",
+                "Name": "Chương 2674: Thu hoạch toàn thắng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67b000a301a79a084c67cd46",
+                "Name": "Chương 2673: Bay lượn tàng hình",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

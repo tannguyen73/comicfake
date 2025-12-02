@@ -1,0 +1,313 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trường Sinh Bất Tử Từ Trảm Yêu Trừ Ma (Dịch)",
+            "StoryImage": "truong-sinh-bat-tu-tu-tram-yeu-tru-ma-(dich.jpg",
+            "StoryDescription": "Trong một thế giới hỗn loạn, nơi yêu ma hoành hành, Trầm Nghi - một người phàm tu luyện võ học với một mục tiêu duy nhất: trường sinh bất tử. Hắn ta tiêu hao tuổi thọ của mình để đổi lấy sức mạnh, rồi lại cướp đoạt tuổi thọ của yêu ma để bù đắp. Trường đao trong tay hắn như một lưỡi hái tử thần, gặt hái mạng sống của những kẻ thù, đồng thời kéo dài tuổi thọ của chính mình. Liệu một con người có thể đi ngược lại quy luật tự nhiên, đạt đến cảnh giới trường sinh bất tử?",
+            "StoryUpdateTime": "2025-04-24T14:24:49.2171478Z",
+            "StoryUpdateTimeTick": 638654463167092626,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1651,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Lục Nguyệt Thập Cửu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "671b68f901a79a15a020eba5",
+                    "MongoId": "671b68f901a79a15a020eba5"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1651 Bản tọa cảm thấy, hắn vô tội",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Đông Phương",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-phuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131e15c3c70808d2b7af",
+                    "MongoId": "61d9131e15c3c70808d2b7af"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "truong-sinh-bat-tu-tu-tram-yeu-tru-ma-dich-chuong-1651",
+            "Keyword": "trường sinh bất tử từ trảm yêu trừ ma (dịch) truong sinh bat tu tu tram yeu tru ma (dich)",
+            "StoryView": 16321,
+            "NumberUserFollow": 17,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "truong-sinh-bat-tu-tu-tram-yeu-tru-ma-dich",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 16321,
+            "StoryViewInWeek": 592,
+            "StoryViewInMonth": 2800,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "truong-sinh-bat-tu-tu-tram-yeu-tru-ma-dich-chuong-1-tham-bo-dau",
+            "StoryIDFirstChap": "671b6cfe01a79a15a02105e5",
+            "SoChuong": 1651,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 221,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trầm Nghi, một kẻ tu luyện điên cuồng, không ngừng săn lùng yêu ma để kéo dài tuổi thọ. Hắn ta sở hữu những võ công tuyệt đỉnh, khiến cho cả yêu giới khiếp sợ. Tuy nhiên, đằng sau vẻ ngoài lạnh lùng, Trầm Nghi lại ẩn chứa một nỗi cô đơn sâu sắc. Liệu hắn ta có thể tìm được câu trả lời cho những câu hỏi về cuộc sống và cái chết?",
+            "IsTruyenConvert": 0,
+            "RefID": "662c9a2ca722112af2a75ab8",
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "671b68ac01a79a15a020eb61",
+            "MongoId": "671b68ac01a79a15a020eb61"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "671b68ac01a79a15a020eb61",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "671b6cfe01a79a15a02105e5",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-tuong-chi-vuong.jpg",
+                "StoryName": "Vạn Tướng Chi Vương",
+                "StoryTitleLastChap": "Chương 1636 Năm Đầu Ma Ảnh",
+                "StoryID": "67f4f5b901a79a0338a9d053",
+                "StoryUpdateTime": "4/25/2025 3:02:24 AM",
+                "StoryNameK": "van-tuong-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh.jpg",
+                "StoryName": "Khắc Mệnh Tu Hành: Từ Cẩm Y Vệ Bắt Đầu Trường Sinh",
+                "StoryTitleLastChap": "Chương 810: Một điểm chân linh bất diệt, hóa thành bất diệt linh quang!",
+                "StoryID": "67bebced01a79a14d896f7c0",
+                "StoryUpdateTime": "4/25/2025 2:57:24 AM",
+                "StoryNameK": "khac-menh-tu-hanh-tu-cam-y-ve-bat-dau-truong-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack.jpg",
+                "StoryName": "Cao Võ: Phân Thân Tu Luyện Quá Chăm Chỉ, Ta Bị Tố Cáo Bật Hack",
+                "StoryTitleLastChap": "Chương 538: Quỷ dị huyết tế đàn! Rốt cuộc thứ gì bị phong ấn trong thạch quan?",
+                "StoryID": "6793acbf01a79a12ec6f0f8f",
+                "StoryUpdateTime": "4/25/2025 2:44:47 AM",
+                "StoryNameK": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc.jpg",
+                "StoryName": "Bắt Đầu Hỗn Độn Kiếm Thể, Chế Tạo Bất Hủ Tiên Tộc",
+                "StoryTitleLastChap": "Chương 1218 Bình Dương thị tộc",
+                "StoryID": "67923c1201a79e18bcbec34a",
+                "StoryUpdateTime": "4/25/2025 2:43:14 AM",
+                "StoryNameK": "bat-dau-hon-don-kiem-the-che-tao-bat-hu-tien-toc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//long-tang.jpg",
+                "StoryName": "Long Tàng",
+                "StoryTitleLastChap": "Chương 694: Tiên thăng",
+                "StoryID": "67f625bb01a79a0338ad9776",
+                "StoryUpdateTime": "4/25/2025 2:38:54 AM",
+                "StoryNameK": "long-tang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon.jpg",
+                "StoryName": "Bắt Đầu Đánh Dấu Tiên Vương Tu Vi, Thành Lập Vô Thượng Tông Môn",
+                "StoryTitleLastChap": "Chương 715 Thiên kiêu nhân kiệt đại chiến, các phương thiên kiêu đại bại",
+                "StoryID": "6790a4dd01a79b1a68d8b821",
+                "StoryUpdateTime": "4/25/2025 2:30:08 AM",
+                "StoryNameK": "bat-dau-danh-dau-tien-vuong-tu-vi-thanh-lap-vo-thuong-tong-mon"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680a497501a79a07c0e3a725",
+                "Name": "Chương 1651 Bản tọa cảm thấy, hắn vô tội",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809049801a79a16f00d0100",
+                "Name": "Chương 1650 Bao che cho con Kim Tiên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680857f801a79a15389499ed",
+                "Name": "Chương 1649 Nhường Ngươi Tới, Ngươi Liền Đến Sao?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806fede01a79a166cdff7bf",
+                "Name": "Chương 1648 Lại tới?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805b62401a79a166cd9d0bb",
+                "Name": "Chương 1647 Ngươi là Linh Hư động đại đệ tử, cái kia Thẩm mỗ là ai?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805b62401a79a166cd9d0ba",
+                "Name": "Chương 1646 Linh Hư động phản công",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "68030bbc01a79a170c639f60",
+                "Name": "Chương 1645 Ai là Bắc châu đệ nhất",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6801c27701a79a170c5f9b6d",
+                "Name": "Chương 1644 Chó cùng rứt giậu",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67ff215001a79a01f406ab7b",
+                "Name": "Chương 1643 Ai có thể vì Bắc châu đệ tử ra mặt?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67fe0fc001a79a1684582cc4",
+                "Name": "Chương 1642 Thành việc lớn, không câu nệ tiểu tiết",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

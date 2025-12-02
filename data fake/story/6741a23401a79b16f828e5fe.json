@@ -1,0 +1,368 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Mạt Thế Năm Thứ Mười (Dịch)",
+            "StoryImage": "mat-the-nam-thu-muoi-(dich.jpg",
+            "StoryDescription": "<b>Mạt Thế Năm Thứ Mười</b> - #NgônTình #Đô Thị #Khoa Huyễn #Sủng #Mạt Thế #Trọng Sinh<p><br></p><p>Năm thứ mười của mạt thế, khi hy vọng gần như đã tắt, tôi lại mang trong mình một sinh linh bé nhỏ. Trong thế giới hỗn loạn, đầy rẫy hiểm nguy này, việc nuôi dưỡng một đứa trẻ là một thử thách vô cùng lớn. Nhưng tình mẫu tử mãnh liệt đã giúp tôi vượt qua mọi khó khăn, bảo vệ con mình.</p><p>Hàng ngày, tôi phải đối mặt với những khó khăn để kiếm thức ăn, nước uống và bảo vệ con mình khỏi những mối nguy hiểm rình rập. Những con zombie đói khát luôn là mối đe dọa thường trực, chưa kể đến những nhóm người sống sót khác, luôn sẵn sàng tranh giành mọi thứ.</p><p>Tuy nhiên, giữa những khó khăn đó, tôi vẫn tìm thấy những niềm vui nhỏ bé. Đó là nụ cười của con khi được tôi kể chuyện, là những khoảnh khắc ấm áp khi chúng tôi cùng nhau đốt lửa sưởi ấm. Tình mẫu tử đã giúp tôi vượt qua mọi khó khăn, cho tôi sức mạnh để tiếp tục sống.</p><p>Câu chuyện của tôi là câu chuyện về sự sống và cái chết, về tình yêu và hy vọng. Đó là hành trình của một người mẹ đơn thân, cố gắng tạo ra một thế giới an toàn cho con mình giữa những tàn tích của một thế giới đã sụp đổ. Liệu tôi có thể bảo vệ con mình và cùng nhau sống sót?</p>",
+            "StoryUpdateTime": "2024-11-23T09:47:50.5583128Z",
+            "StoryUpdateTimeTick": 638679514127223116,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 208,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Phù Hoa",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6651a4fc01a79a17f82f5766",
+                    "MongoId": "6651a4fc01a79a17f82f5766"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 208",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Khoa Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "khoa-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132e15c3c70808d2b7b9",
+                    "MongoId": "61d9132e15c3c70808d2b7b9"
+                },
+                {
+                    "TenTheLoai": "Mạt Thế",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "mat-the",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9200b15c3c512383c2fce",
+                    "MongoId": "61d9200b15c3c512383c2fce"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Trọng Sinh",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trong-sinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee8",
+                    "MongoId": "61d90ebb15c3c608085daee8"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "mat-the-nam-thu-muoi-(dich-chuong-208",
+            "Keyword": "mạt thế năm thứ mười (dịch) mat the nam thu muoi (dich)",
+            "StoryView": 2972,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "mat-the-nam-thu-muoi-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 2972,
+            "StoryViewInWeek": 6,
+            "StoryViewInMonth": 254,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "mat-the-nam-thu-muoi-(dich-chuong-1",
+            "StoryIDFirstChap": "6741a49301a79b16f828e5ff",
+            "SoChuong": 208,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Năm thứ mười của mạt thế, khi hy vọng gần như đã tắt, tôi lại mang trong mình một sinh linh bé nhỏ. Trong thế giới hỗn loạn, đầy rẫy hiểm nguy này, việc nuôi dưỡng một đứa trẻ là một thử thách vô cùng lớn. Nhưng tình mẫu tử mãnh liệt đã giúp tôi vượt qua mọi khó khăn, bảo vệ con mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6741a23401a79b16f828e5fe",
+            "MongoId": "6741a23401a79b16f828e5fe"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6741a23401a79b16f828e5fe",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6741a49301a79b16f828e5ff",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sieu-cap-than-co-nhan.jpg",
+                "StoryName": "Siêu Cấp Thần Cơ Nhân",
+                "StoryTitleLastChap": "Chương 3468. Ngoại truyện 2: Vũ trụ của ta ở đó (2)",
+                "StoryID": "650fba9201a79a13c448bc80",
+                "StoryUpdateTime": "9/24/2023 4:37:50 AM",
+                "StoryNameK": "sieu-cap-than-co-nhan-2"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-canh-hanh-gia.jpg",
+                "StoryName": "Linh Cảnh Hành Giả (Dịch)",
+                "StoryTitleLastChap": "Chương 3250: Lời cuối sách (20)",
+                "StoryID": "65573e3001a79a03c44b67b0",
+                "StoryUpdateTime": "4/22/2024 4:01:34 AM",
+                "StoryNameK": "linh-canh-hanh-gia-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//david-sieu-pham.jpg",
+                "StoryName": "David Siêu Phàm",
+                "StoryTitleLastChap": "Chương 2820: Hết truyện (3)",
+                "StoryID": "65570a1f01a79a03c44ab12a",
+                "StoryUpdateTime": "11/17/2023 6:53:49 AM",
+                "StoryNameK": "david-sieu-pham"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thàn-ma-hẹ-thóng.jpg",
+                "StoryName": "Thần Ma Hệ Thống",
+                "StoryTitleLastChap": "Chương 1662: Toàn trí toàn năng (Đại kết cục) (2)",
+                "StoryID": "663358f401a79a059c7395e2",
+                "StoryUpdateTime": "5/3/2024 6:55:55 AM",
+                "StoryNameK": "than-ma-he-thong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-cuong-than-thoai-de-hoang.jpg",
+                "StoryName": "Tối Cường Thần Thoại Đế Hoàng",
+                "StoryTitleLastChap": "Chương 2382: Trẫm tức hết thảy (*Đại Kết Cục) (2)",
+                "StoryID": "650822ef01a79a0d5c482da2",
+                "StoryUpdateTime": "9/24/2023 11:07:00 AM",
+                "StoryNameK": "toi-cuong-than-thoai-de-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tha-nu-phu-thuy-kia-ra.jpg",
+                "StoryName": "Thả Nữ Phù Thủy Kia Ra",
+                "StoryTitleLastChap": "Chương 1498",
+                "StoryID": "650a9c1501a79a0d64b8a9e3",
+                "StoryUpdateTime": "11/21/2023 6:48:21 AM",
+                "StoryNameK": "tha-nu-phu-thuy-kia-ra"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thon-phe-tinh-khong.jpg",
+                "StoryName": "Thôn Phệ Tinh Không",
+                "StoryTitleLastChap": "Chương 36 - Siêu Thoát Luân Hồi - Hạ",
+                "StoryID": "650aadbc01a79a0d64b8bcf6",
+                "StoryUpdateTime": "9/24/2023 8:43:01 AM",
+                "StoryNameK": "thon-phe-tinh-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sieu-cap-thien-phu.jpg",
+                "StoryName": "Siêu Cấp Thiên Phú",
+                "StoryTitleLastChap": "Chương 1539: Kim Quang Kiếm Tôn",
+                "StoryID": "655c58bd01a79a149028b149",
+                "StoryUpdateTime": "11/21/2023 8:12:29 AM",
+                "StoryNameK": "sieu-cap-thien-phu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vinh-da-than-hanh.jpg",
+                "StoryName": "Vĩnh Dạ Thần Hành",
+                "StoryTitleLastChap": "Chương 1143: Đại Kết Cục!",
+                "StoryID": "6556f9dc01a79b1678f1b2c8",
+                "StoryUpdateTime": "11/17/2023 5:44:51 AM",
+                "StoryNameK": "vinh-da-than-hanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vu-tru-chuc-nghiep-tuyen-thu.jpg",
+                "StoryName": "Vũ Trụ Chức Nghiệp Tuyển Thủ",
+                "StoryTitleLastChap": "Chương 1453: [Kết Thúc]",
+                "StoryID": "6577d13a01a79a134437baca",
+                "StoryUpdateTime": "12/12/2023 4:20:07 AM",
+                "StoryNameK": "vu-tru-chuc-nghiep-tuyen-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tan-the-tan-the-gioi.jpg",
+                "StoryName": "Tận Thế Tân Thế Giới",
+                "StoryTitleLastChap": "Chương 209: Phá giới mà ra",
+                "StoryID": "657a749d01a79a1608445232",
+                "StoryUpdateTime": "12/14/2023 4:18:44 AM",
+                "StoryNameK": "tan-the-tan-the-gioi"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6741a4ac01a79b16f828e6ce",
+                "Name": "Chương 208",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6cd",
+                "Name": "Chương 207",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6cc",
+                "Name": "Chương 206",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6cb",
+                "Name": "Chương 205",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6ca",
+                "Name": "Chương 204",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6c9",
+                "Name": "Chương 203",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6c8",
+                "Name": "Chương 202",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6c7",
+                "Name": "Chương 201",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6c6",
+                "Name": "Chương 200",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6741a4ac01a79b16f828e6c5",
+                "Name": "Chương 199",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

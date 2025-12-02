@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Bạch Nguyệt Quang Của Phu Quân Giết Tới Nơi Rồi",
+            "StoryImage": "bach-nguyet-quang-cua-phu-quan-giet-toi-noi-roi.jpg",
+            "StoryDescription": "Lúc đưa thư hòa ly cho Phương Tư Viễn, ta bình tâm đến lạ.<p>Người từng lén lút ra khỏi nhà nhìn trộm khi hắn đỗ trạng nguyên đã c h ế t trong cuộc hôn nhân bảy năm qua.</p><p>Vị tiểu cô nương ra sức lấy lòng hắn bị Phương phủ rộng lớn này bóp chặt đến nghẹt thở.</p><p>Phu quân ta trừng lớn hai mắt nhìn ta, như không tưởng nổi chính miệng ta sẽ thốt ra những lời này. Lời nói thất vọng bao nhiêu, là vẻ mặt ta lại có bấy nhiêu lạnh lẽo.</p>",
+            "StoryUpdateTime": "2025-04-21T13:25:16.2643578Z",
+            "StoryUpdateTimeTick": 638808365566239341,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 25,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Hồng Nhan Thệ: Do Ký Tình Nùng Hoạ My Thì",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "68063f0c01a79a166cde36bb",
+                    "MongoId": "68063f0c01a79a166cde36bb"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 25: Chương 25 (Hoàn)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Đông Phương",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-phuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131e15c3c70808d2b7af",
+                    "MongoId": "61d9131e15c3c70808d2b7af"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Truyện ngắn",
+                    "GioiThieu": "Truyện Ngắn dành cho nữ tầm 30-60 chương 1 bộ",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-ngan",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "67f76ef301a79a12340060e6",
+                    "MongoId": "67f76ef301a79a12340060e6"
+                },
+                {
+                    "TenTheLoai": "Truyện Nữ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "bach-hop",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "65f2b8c601a79a0e4cb8b2a3",
+                    "MongoId": "65f2b8c601a79a0e4cb8b2a3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "bach-nguyet-quang-cua-phu-quan-giet-toi-noi-roi-chuong-25",
+            "Keyword": "bạch nguyệt quang của phu quân giết tới nơi rồi bach nguyet quang cua phu quan giet toi noi roi",
+            "StoryView": 214,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "bach-nguyet-quang-cua-phu-quan-giet-toi-noi-roi",
+            "HasAudio": true,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 214,
+            "StoryViewInWeek": 214,
+            "StoryViewInMonth": 214,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "bach-nguyet-quang-cua-phu-quan-giet-toi-noi-roi-chuong-1",
+            "StoryIDFirstChap": "6806453801a79a166cde36bd",
+            "SoChuong": 25,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Lúc đưa thư hòa ly cho Phương Tư Viễn, ta bình tâm đến lạ.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "68063ecc01a79a166cde36ba",
+            "MongoId": "68063ecc01a79a166cde36ba"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "68063ecc01a79a166cde36ba",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6806453801a79a166cde36bd",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-tuong-chi-vuong.jpg",
+                "StoryName": "Vạn Tướng Chi Vương",
+                "StoryTitleLastChap": "Chương 1636 Năm Đầu Ma Ảnh",
+                "StoryID": "67f4f5b901a79a0338a9d053",
+                "StoryUpdateTime": "4/25/2025 3:02:24 AM",
+                "StoryNameK": "van-tuong-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//long-tang.jpg",
+                "StoryName": "Long Tàng",
+                "StoryTitleLastChap": "Chương 694: Tiên thăng",
+                "StoryID": "67f625bb01a79a0338ad9776",
+                "StoryUpdateTime": "4/25/2025 2:38:54 AM",
+                "StoryNameK": "long-tang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cam-y-ve-sat-tinh-hoang-de-cau-ta-tinh-tao.jpg",
+                "StoryName": "Cẩm Y Vệ Sát Tinh, Hoàng Đế Cầu Ta Tỉnh Táo",
+                "StoryTitleLastChap": "Chương 567: Thực lực bạo tăng, siêu việt thần cấp đao pháp! Thiên Đao thức thứ mười ba!",
+                "StoryID": "67dd119801a79a177c35ad81",
+                "StoryUpdateTime": "4/25/2025 2:02:13 AM",
+                "StoryNameK": "cam-y-ve-sat-tinh-hoang-de-cau-ta-tinh-tao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem.jpg",
+                "StoryName": "Võ Đạo Trường Sinh,  Ta Tu Hành Có Kinh Nghiệm",
+                "StoryTitleLastChap": "Chương 523: Va chạm bản sứ, tội lỗi khó dung!",
+                "StoryID": "67ebb67a01a79a18a4b035ba",
+                "StoryUpdateTime": "4/25/2025 2:00:23 AM",
+                "StoryNameK": "vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-duyen-cua-nguoi-rat-tot-ta-vui-long-nhan.jpg",
+                "StoryName": "Cơ Duyên Của Ngươi Rất Tốt, Ta Vui Lòng Nhận",
+                "StoryTitleLastChap": "Chương 5354: Ngượng ngùng",
+                "StoryID": "6794948801a79a12ec70eb4d",
+                "StoryUpdateTime": "4/24/2025 2:55:41 PM",
+                "StoryNameK": "co-duyen-cua-nguoi-rat-tot-ta-vui-long-nhan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-ton-cau-den-vo-dich-vo-han-phan-than-che-ba-tien-gioi.jpg",
+                "StoryName": "Bản Tôn Cẩu Đến Vô Địch, Vô Hạn Phân Thân Xưng Bá Tiên Giới",
+                "StoryTitleLastChap": "Chương 1518: Đường lui? Bảo tháp mở cửa!",
+                "StoryID": "6787110101a79a094cf4dec0",
+                "StoryUpdateTime": "4/24/2025 2:37:29 PM",
+                "StoryNameK": "ban-ton-cau-den-vo-dich-vo-han-phan-than-xung-ba-tien-gioi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-bat-tu-tu-tram-yeu-tru-ma-(dich.jpg",
+                "StoryName": "Trường Sinh Bất Tử Từ Trảm Yêu Trừ Ma (Dịch)",
+                "StoryTitleLastChap": "Chương 1651 Bản tọa cảm thấy, hắn vô tội",
+                "StoryID": "671b68ac01a79a15a020eb61",
+                "StoryUpdateTime": "4/24/2025 2:24:49 PM",
+                "StoryNameK": "truong-sinh-bat-tu-tu-tram-yeu-tru-ma-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//yen-lang-18-nam-ta-mot-kiem-chem-xuong-hoang-trieu-lao-to.jpg",
+                "StoryName": "Yên Lặng 18 Năm, Ta Một Kiếm Chém Xuống Hoàng Triều Lão Tổ",
+                "StoryTitleLastChap": "Chương 435: Tiêu Dao phó tông đối đầu Xích Hồng Dị Vực yêu ma",
+                "StoryID": "6789b65301a79a10e88fe05e",
+                "StoryUpdateTime": "4/24/2025 1:31:32 PM",
+                "StoryNameK": "yen-lang-18-nam-ta-mot-kiem-chem-xuong-hoang-trieu-lao-to"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//theo-mot-con-ga-bat-dau-che-tao-tien-thon.jpg",
+                "StoryName": "Theo Một Con Gà Bắt Đầu Chế Tạo Tiên Thôn",
+                "StoryTitleLastChap": "Chương 574: Kẻ diệt rồng ắt hóa thành ác long",
+                "StoryID": "6776525e01a79b1c7ce8da08",
+                "StoryUpdateTime": "4/24/2025 1:28:14 PM",
+                "StoryNameK": "theo-mot-con-ga-bat-dau-che-tao-tien-thon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//de-nguoi-lam-nhan-tan-pho-ma-nguoi-thanh-chi-cuong-vo-thanh.jpg",
+                "StoryName": "Để Ngươi Làm Nhàn Tản Phò Mã, Ngươi Thành Chí Cường Võ Thánh",
+                "StoryTitleLastChap": "Chương 548: Long Chất",
+                "StoryID": "6777585b01a79b1c7ce908be",
+                "StoryUpdateTime": "4/24/2025 1:22:19 PM",
+                "StoryNameK": "de-nguoi-lam-nhan-tan-pho-ma-nguoi-thanh-chi-cuong-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-ngu-linh-linh-sung-cua-ta-la-nu-cuong-thi.jpg",
+                "StoryName": "Toàn Dân Ngự Linh, Linh Sủng Của Ta Là Nữ Cương Thi",
+                "StoryTitleLastChap": "Chương 549: Tỉnh lại, tin tức phong tỏa",
+                "StoryID": "67e1338301a79a1378e8c3fd",
+                "StoryUpdateTime": "4/24/2025 10:27:19 AM",
+                "StoryNameK": "toan-dan-ngu-linh-linh-sung-cua-ta-la-nu-cuong-thi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-kiem-vo-dich.jpg",
+                "StoryName": "Thần Kiếm Vô Địch",
+                "StoryTitleLastChap": "Chương 699: Được đến không mất chút công phu",
+                "StoryID": "67de3dac01a79a177c3a5d6e",
+                "StoryUpdateTime": "4/24/2025 10:16:48 AM",
+                "StoryNameK": "than-kiem-vo-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6806457701a79a166cde36d5",
+                "Name": "Chương 25: Chương 25 (Hoàn)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806457301a79a166cde36d4",
+                "Name": "Chương 24: Chương 24",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806457001a79a166cde36d3",
+                "Name": "Chương 23: Chương 23",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456e01a79a166cde36d2",
+                "Name": "Chương 22: Chương 22",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456b01a79a166cde36d1",
+                "Name": "Chương 21: Chương 21",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456901a79a166cde36d0",
+                "Name": "Chương 20: Chương 20",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456601a79a166cde36cf",
+                "Name": "Chương 19: Chương 19",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456401a79a166cde36ce",
+                "Name": "Chương 18: Chương 18",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806456201a79a166cde36cd",
+                "Name": "Chương 17: Chương 17",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "6806455f01a79a166cde36cc",
+                "Name": "Chương 16: Chương 16",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Trường Sinh: Từ Luyện Chế Khôi Lỗi Thay Ta Tu Hành Bắt Đầu",
+            "StoryImage": "truong-sinh-tu-luyen-che-khoi-loi-thay-ta-tu-hanh-bat-dau.jpg",
+            "StoryDescription": "<b style=\"height: 316px;\">Trường Sinh: Từ Luyện Chế Khôi Lỗi Thay Ta Tu Hành Bắt Đầu</b><p>Tác giả: <b>Khủng Long Khí Cầu</b></p><p><br></p><p>[Búp bê tĩnh tọa bên trong đang tu luyện, pháp lực của ngươi có chút tiến bộ.]</p><p>[Mộc Linh tôi tớ phát hiện có ma tu đang đến gần...]</p><p>[Chim ruồi khôi lỗi đã tấn công dồn dập, tiêu diệt hoàn toàn kẻ địch...]</p><p>...</p><p>Người thượng đẳng thì khổ về thể xác, người trung đẳng thì khổ về trí óc, người hạ đẳng thì khổ về lao động chân tay.</p><p><b>Tô Thanh</b>, một Khôi Lỗi Sư, không phải là đại lão trong giới tu tiên, cũng không có tu sĩ để sai khiến. Hắn chỉ có thể dựa vào việc bóc lột sức lao động của đám khôi lỗi để tìm kiếm sự trường sinh trong cái giới tu tiên đầy rẫy nguy hiểm này.</p><p>Ta là một khôi lỗi sư, dùng khôi lỗi để chiến đấu thì có gì quá đáng đâu?</p><p>Dùng khôi lỗi để cải thiện cuộc sống thì sao? Tu tiên đâu phải là chịu khổ, sống không tốt thì trường sinh để làm gì?</p><p>Cái gì?</p><p>Tu hành á?</p><p>Hơn mười con búp bê tĩnh tọa của ta ngày đêm miệt mài tu hành cho ta, chúng nó làm việc đến bốc khói rồi. Nếu bản thân ta cũng tu hành thì chẳng phải là không tôn trọng thành quả lao động của chúng nó sao!</p>",
+            "StoryUpdateTime": "2025-04-11T07:30:29.7719883Z",
+            "StoryUpdateTimeTick": 638799427314601564,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 846,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Khủng Long Khí Cầu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67f89b7d01a79a13f4b6369c",
+                    "MongoId": "67f89b7d01a79a13f4b6369c"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 663: Tự có đại nho vì ta phân biệt trải qua",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Góc Nhìn Nam",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "goc-nhin-nam",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0a801a79a05c8ae5ae9",
+                    "MongoId": "6576b0a801a79a05c8ae5ae9"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Huyền Ảo",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-ao",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daee9",
+                    "MongoId": "61d90ebb15c3c608085daee9"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Đông Phương",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-phuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131e15c3c70808d2b7af",
+                    "MongoId": "61d9131e15c3c70808d2b7af"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": " Cơ Trí",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "-co-tri",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "67473e3701a79d17e0394a19",
+                    "MongoId": "67473e3701a79d17e0394a19"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "truong-sinh-tu-luyen-che-khoi-loi-thay-ta-tu-hanh-bat-dau-chuong-846",
+            "Keyword": "trường sinh: từ luyện chế khôi lỗi thay ta tu hành bắt đầu truong sinh: tu luyen che khoi loi thay ta tu hanh bat dau",
+            "StoryView": 975,
+            "NumberUserFollow": 5,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "truong-sinh-tu-luyen-che-khoi-loi-thay-ta-tu-hanh-bat-dau",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 975,
+            "StoryViewInWeek": 119,
+            "StoryViewInMonth": 975,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "truong-sinh-tu-luyen-che-khoi-loi-thay-ta-tu-hanh-bat-dau-chuong-1",
+            "StoryIDFirstChap": "67f89d7b01a79a13f4b6714a",
+            "SoChuong": 846,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Tô Thanh, một Khôi Lỗi Sư cô độc trong giới tu tiên nguy hiểm, dựa vào các khôi lỗi của mình để chiến đấu và cải thiện cuộc sống, thậm chí để chúng tu hành thay vì bản thân phải lao động. Hắn cảm thấy việc bản thân tu hành là không tôn trọng công sức của đám khôi lỗi đã ngày đêm làm việc cho mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 99000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67f89b4b01a79a13f4b63646",
+            "MongoId": "67f89b4b01a79a13f4b63646"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67f89b4b01a79a13f4b63646",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "67f89d7b01a79a13f4b6714a",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-chi-ton.jpg",
+                "StoryName": "Vạn Cổ Chí Tôn",
+                "StoryTitleLastChap": "Chương 3822: Thiên tái phong vân một tiếng cười",
+                "StoryID": "6622237a01a79a1a7c87ba07",
+                "StoryUpdateTime": "4/20/2024 7:10:42 AM",
+                "StoryNameK": "van-co-chi-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vu-luyen-dien-phong.jpg",
+                "StoryName": "Vũ Luyện Điên Phong",
+                "StoryTitleLastChap": "Chương 2900",
+                "StoryID": "657929fa01a79a0b3879951b",
+                "StoryUpdateTime": "12/13/2023 4:44:53 AM",
+                "StoryNameK": "vu-luyen-dien-phong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-co-nhat-kiem.jpg",
+                "StoryName": "Ta Có Nhất Kiếm (Dịch)",
+                "StoryTitleLastChap": "Chương 4279: Đại kết cuộc",
+                "StoryID": "6666c64e01a79a0ff828156d",
+                "StoryUpdateTime": "6/10/2024 10:20:47 AM",
+                "StoryNameK": "ta-co-nhat-kiem-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-kieu-chien-ky.jpg",
+                "StoryName": "Thiên Kiêu Chiến Kỷ",
+                "StoryTitleLastChap": "Chương 3229: HẾT.",
+                "StoryID": "6578266501a79a1344387623",
+                "StoryUpdateTime": "1/17/2024 8:46:20 AM",
+                "StoryNameK": "thien-kieu-chien-ky"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thai-co-than-vuong.jpg",
+                "StoryName": "Thái Cổ Thần Vương",
+                "StoryTitleLastChap": "Chương 2238: Kết cục. HẾT.",
+                "StoryID": "657965e901a79a0b387a246f",
+                "StoryUpdateTime": "1/24/2024 7:20:22 AM",
+                "StoryNameK": "thai-co-than-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tuyet-the-vu-than.jpg",
+                "StoryName": "Tuyệt Thế Vũ Thần",
+                "StoryTitleLastChap": "Chương 2464: Đại kết cục",
+                "StoryID": "6687a9e301a79a1a9c81351c",
+                "StoryUpdateTime": "7/11/2024 9:30:33 AM",
+                "StoryNameK": "tuyet-the-vu-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//wechat-cua-ta-thong-tam-gioi.jpg",
+                "StoryName": "Wechat Của Ta Thông Tam Giới",
+                "StoryTitleLastChap": "Chương 2465: Hôm nay, Lâm Hải ta độ Thiên kiếp!",
+                "StoryID": "6566e81e01a79a04c07c4ff4",
+                "StoryUpdateTime": "11/6/2024 9:11:21 AM",
+                "StoryNameK": "wechat-cua-ta-thong-tam-gioi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chua-te-chi-vuong.jpg",
+                "StoryName": "Chúa Tể Chi Vương",
+                "StoryTitleLastChap": "Chương 1584: Thủ đoạn đông đảo",
+                "StoryID": "65082b0d01a79b0d5cbe2751",
+                "StoryUpdateTime": "9/19/2023 4:34:29 PM",
+                "StoryNameK": "chua-te-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuu-tinh-thien-than-quyet.jpg",
+                "StoryName": "Cửu Tinh Thiên Thần Quyết",
+                "StoryTitleLastChap": "Chương 1628: Đại kết cục.",
+                "StoryID": "657c14d501a79a08a8347f08",
+                "StoryUpdateTime": "12/15/2023 9:24:34 AM",
+                "StoryNameK": "cuu-tinh-thien-than-quyet"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-de-nhat-de.jpg",
+                "StoryName": "Vạn Cổ Đệ Nhất Đế",
+                "StoryTitleLastChap": "Chương 1182: Nhất Thống (Đại kết cục)",
+                "StoryID": "6581470801a79a17747a650d",
+                "StoryUpdateTime": "12/20/2023 2:07:10 AM",
+                "StoryNameK": "van-co-de-nhat-de"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tat-ca-de-tu-cua-ta-deu-co-tu-chat-dai-de.jpg",
+                "StoryName": "Tất Cả Đệ Tử Của Ta Đều Có Tư Chất Đại Đế (Dịch)",
+                "StoryTitleLastChap": "Chương 1894: Đệ cửu trọng lôi kiếp, Luân Hồi Bách Luyện!",
+                "StoryID": "6662c6e801a79a1930d5d902",
+                "StoryUpdateTime": "4/23/2025 2:53:03 AM",
+                "StoryNameK": "tat-ca-de-tu-cua-ta-deu-co-tu-chat-dai-de-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trach-thien-ky.jpg",
+                "StoryName": "Trạch Thiên Ký",
+                "StoryTitleLastChap": "Quyển 7 - Chương 141: Thần Ẩn chi lộ (Chương kết)",
+                "StoryID": "6508253201a79a0d5c482f80",
+                "StoryUpdateTime": "9/24/2023 4:30:23 AM",
+                "StoryNameK": "trach-thien-ky"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67f89eac01a79a13f4b67497",
+                "Name": "Chương 663: Tự có đại nho vì ta phân biệt trải qua",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67496",
+                "Name": "Chương 662: Hỏng rồi, lại là kế sách thâm độc của Tô Thanh!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67495",
+                "Name": "Chương 661: Hiên Viên cung",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67494",
+                "Name": "Chương 660: Bốn phần tạo hóa, Thanh Hà được bảo",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67493",
+                "Name": "Chương 659: Mở Động Thiên, kết quả bất ngờ",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67492",
+                "Name": "Chương 658: Mở Động Thiên",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67491",
+                "Name": "Chương 657: Tranh giành tổ sư, nói về phát triển",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b67490",
+                "Name": "Chương 656: Thanh Hà, ngươi đến không chịu thua kém a!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b6748f",
+                "Name": "Chương 655: Ba hũ biển sẽ đại thần tạo hóa",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67f89eac01a79a13f4b6748e",
+                "Name": "Chương 654: Nói đều là lợi ích",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

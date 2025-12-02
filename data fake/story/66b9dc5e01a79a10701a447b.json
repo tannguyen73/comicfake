@@ -1,0 +1,434 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Sống Lại Trước Mạt Thế, Nữ Phụ Điên Cuồng Tích Trữ Hàng Hóa, Một Đường Thẳng Tiến! (Dịch)",
+            "StoryImage": "song-lai-truoc-mat-the-nu-phu-dien-cuong-tich-tru-hang-hoa-mot-duong-thang-tien!-(dich.jpg",
+            "StoryDescription": "<b>Tạ Thiên Cách</b>, một cô gái từng trải qua những đau khổ tột cùng trong mạt thế, được trọng sinh trở lại một tháng trước khi thảm họa xảy ra.&nbsp;<p>Với kinh nghiệm xương máu, cô quyết tâm không để lịch sử lặp lại. Lần này, cô sẽ chuẩn bị chu đáo mọi thứ, tích trữ đủ nguồn cung cấp và trở thành người sống sót mạnh mẽ nhất.</p>",
+            "StoryUpdateTime": "2024-08-13T06:43:47.2113818Z",
+            "StoryUpdateTimeTick": 638590534062916060,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Ngải Trì",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66b9dcae01a79a10701a447c",
+                    "MongoId": "66b9dcae01a79a10701a447c"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 699: F (HẾT)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9135815c3c70808d2b7d1",
+                    "MongoId": "61d9135815c3c70808d2b7d1"
+                },
+                {
+                    "TenTheLoai": "Gia Đấu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "gia-dau",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b11501a79a05c8ae5af0",
+                    "MongoId": "6576b11501a79a05c8ae5af0"
+                },
+                {
+                    "TenTheLoai": "Hiện Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Hài Hước",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "hai-huoc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9134215c3c70808d2b7c6",
+                    "MongoId": "61d9134215c3c70808d2b7c6"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132615c3c70808d2b7b4",
+                    "MongoId": "61d9132615c3c70808d2b7b4"
+                },
+                {
+                    "TenTheLoai": "Khoa Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "khoa-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132e15c3c70808d2b7b9",
+                    "MongoId": "61d9132e15c3c70808d2b7b9"
+                },
+                {
+                    "TenTheLoai": "Mạt Thế",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "mat-the",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9200b15c3c512383c2fce",
+                    "MongoId": "61d9200b15c3c512383c2fce"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Cường",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "nu-cuong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9208315c3c512383c3016",
+                    "MongoId": "61d9208315c3c512383c3016"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Trinh Thám",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "trinh-tham",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "655f121801a79a0e30fce5f8",
+                    "MongoId": "655f121801a79a0e30fce5f8"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "song-lai-truoc-mat-the-nu-phu-dien-cuong-tich-tru-hang-hoa-mot-duong-thang-tien-dich-chuong-699-f",
+            "Keyword": "sống lại trước mạt thế, nữ phụ điên cuồng tích trữ hàng hóa, một đường thẳng tiến! (dịch) song lai truoc mat the, nu phu dien cuong tich tru hang hoa, mot duong thang tien! (dich)",
+            "StoryView": 6914,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "song-lai-truoc-mat-the-nu-phu-dien-cuong-tich-tru-hang-hoa-mot-duong-thang-tien-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 6914,
+            "StoryViewInWeek": 18,
+            "StoryViewInMonth": 1500,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "song-lai-truoc-mat-the-nu-phu-dien-cuong-tich-tru-hang-hoa-mot-duong-thang-tien-dich-chuong-44",
+            "StoryIDFirstChap": "66baff7901a79a156cee3678",
+            "SoChuong": 637,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66b9dc5e01a79a10701a447b",
+            "MongoId": "66b9dc5e01a79a10701a447b"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66b9dc5e01a79a10701a447b",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66baff7901a79a156cee3678",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu.jpg",
+                "StoryName": "Sau Khi Tự Do Tài Chính, Họ Đã Dâng Hiến Rất Nhiều",
+                "StoryTitleLastChap": "Chương 993 Lê Mộng, ngươi đang giở trò gì vậy? (2)",
+                "StoryID": "67c0887001a79a16b494e1f6",
+                "StoryUpdateTime": "4/25/2025 3:07:36 AM",
+                "StoryNameK": "sau-khi-tu-do-tai-chinh-ho-da-dang-hien-rat-nhieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao.jpg",
+                "StoryName": "Góp Vốn Xây Đại Học, Ta Thật Không Phải Lừa Đảo",
+                "StoryTitleLastChap": "Chương 812 Đến chậm! Lẽ nào Lương lão đã mất?",
+                "StoryID": "67bee19301a79a14d89861b3",
+                "StoryUpdateTime": "4/25/2025 2:59:01 AM",
+                "StoryNameK": "gop-von-xay-dai-hoc-ta-that-khong-phai-lua-dao"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-ly-hon-bat-dau-vui-choi-giai-tri.jpg",
+                "StoryName": "Từ ly hôn bắt đầu vui chơi giải trí",
+                "StoryTitleLastChap": "Chương 2010 Thu hoạch giải thưởng quốc tế lớn",
+                "StoryID": "678f75a101a79b18b85dbafe",
+                "StoryUpdateTime": "4/25/2025 2:53:25 AM",
+                "StoryNameK": "tu-ly-hon-bat-dau-vui-choi-giai-tri"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack.jpg",
+                "StoryName": "Cao Võ: Phân Thân Tu Luyện Quá Chăm Chỉ, Ta Bị Tố Cáo Bật Hack",
+                "StoryTitleLastChap": "Chương 538: Quỷ dị huyết tế đàn! Rốt cuộc thứ gì bị phong ấn trong thạch quan?",
+                "StoryID": "6793acbf01a79a12ec6f0f8f",
+                "StoryUpdateTime": "4/25/2025 2:44:47 AM",
+                "StoryNameK": "cao-vo-phan-than-tu-luyen-qua-cham-chi-ta-bi-to-cao-bat-hack"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim.jpg",
+                "StoryName": "Bạn Gái Chê Ta Bệnh Tâm Thần, Ta Tại Tận Thế Nhặt Hoàng Kim",
+                "StoryTitleLastChap": "Chương 643: Lý Hiên xuất thủ",
+                "StoryID": "67909d5101a79b1a68d8b747",
+                "StoryUpdateTime": "4/25/2025 2:15:40 AM",
+                "StoryNameK": "ban-gai-che-ta-benh-tam-than-ta-tai-tan-the-nhat-hoang-kim"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-moi-ngay-danh-dau-1-uc.jpg",
+                "StoryName": "Thần Hào: Mỗi Ngày Đánh Dấu 1 Ức",
+                "StoryTitleLastChap": "Chương 544: Giả lập hiện thực kỹ thuật",
+                "StoryID": "67f9dc1b01a79a10ec4592de",
+                "StoryUpdateTime": "4/25/2025 2:15:16 AM",
+                "StoryNameK": "than-hao-moi-ngay-danh-dau-1-uc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-chuyen-chuc-tu-linh-phap-su!-ta-tuc-la-thien-tai-(dich.jpg",
+                "StoryName": "Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai (Dịch)",
+                "StoryTitleLastChap": "Chương 5091 Càng xa càng tốt",
+                "StoryID": "66b1987301a79a0f18020225",
+                "StoryUpdateTime": "4/25/2025 2:14:16 AM",
+                "StoryNameK": "toan-dan-chuyen-chuc-tu-linh-phap-su-ta-tuc-la-thien-tai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trung-sinh-he-thong-con-tai-tan-the.jpg",
+                "StoryName": "Trùng Sinh, Hệ Thống Còn Tại Tận Thế?",
+                "StoryTitleLastChap": "Chương 242: Thông quan Địa Ngục phó bản",
+                "StoryID": "67ebaf5001a79a18a4b01873",
+                "StoryUpdateTime": "4/25/2025 2:03:44 AM",
+                "StoryNameK": "trung-sinh-he-thong-con-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-ta-co-the-hap-thu-diem-kinh-nghiem.jpg",
+                "StoryName": "Cao Võ: Ta Có Thể Hấp Thu Điểm Kinh Nghiệm",
+                "StoryTitleLastChap": "Chương 720: Quan ấn gia trì",
+                "StoryID": "67c9044a01a79a179ce72b0b",
+                "StoryUpdateTime": "4/24/2025 3:48:20 PM",
+                "StoryNameK": "cao-vo-ta-co-the-hap-thu-diem-kinh-nghiem"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-tu-giet-ga-bat-dau-quet-ngang-tinh-khong.jpg",
+                "StoryName": "Cao Võ: Từ Giết Gà Bắt Đầu Quét Ngang Tinh Không",
+                "StoryTitleLastChap": "Chương 1040: Cơ sở quan, Cao cấp quan, Truyền thừa quan!",
+                "StoryID": "67a321b301a79a198001ae8a",
+                "StoryUpdateTime": "4/24/2025 3:37:03 PM",
+                "StoryNameK": "cao-vo-tu-giet-ga-bat-dau-quet-ngang-tinh-khong"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66bafff801a79a156cee4442",
+                "Name": "Chương 699: F (HẾT)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee4441",
+                "Name": "Chương 698: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee4440",
+                "Name": "Chương 697: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443f",
+                "Name": "Chương 696: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443e",
+                "Name": "Chương 695: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443d",
+                "Name": "Chương 694: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443c",
+                "Name": "Chương 693: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443b",
+                "Name": "Chương 692: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee443a",
+                "Name": "Chương 691: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66bafff801a79a156cee4439",
+                "Name": "Chương 690: F",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

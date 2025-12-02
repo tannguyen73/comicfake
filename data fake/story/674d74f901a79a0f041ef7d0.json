@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Người Chơi Số 4 (Dịch)",
+            "StoryImage": "nguoi-choi-so-4-(dich.jpg",
+            "StoryDescription": "<b>Người Chơi Số 4</b><p>Tác giả: <b>Hắc Tâm Đại Bạch&nbsp;</b></p><p><br></p><p>Thăng cấp lưu Hệ thống phó bản toàn cầu mở ra.&nbsp;</p><p>Tai nạn xuất hiện lan tràn trong phó bản.&nbsp;</p><p>Thế giới kỳ lạ.&nbsp;</p><p>Sự liên kết giữa phó bản và thực tế Ngày tận thế kéo dài mười hai tuần Còn ta, <b>Lục Minh</b>, mọi người gọi là: Người chơi số 4.&nbsp;</p><p>Một con quái vật vô cảm.&nbsp;</p><p>#DịNăng #KinhDị #ĐôThị #HuyềnHuyễn</p>",
+            "StoryUpdateTime": "2025-01-21T02:11:07.9177304Z",
+            "StoryUpdateTimeTick": 638687514655504488,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 1169,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Hắc Tâm Đại Bạch",
+                    "GioiThieu": "",
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "674d74f901a79a0f041ef7ce",
+                    "MongoId": "674d74f901a79a0f041ef7ce"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 1169: Lục Minh (Hoàn) 2",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d822201a79a23501fa4d1",
+                    "MongoId": "674d822201a79a23501fa4d1"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Kinh Dị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "hien-dai",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b0d201a79a05c8ae5aec",
+                    "MongoId": "6576b0d201a79a05c8ae5aec"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "Hắc Tâm Đại Bạch",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nguoi-choi-so-4-(dich-chuong-1169",
+            "Keyword": "người chơi số 4 (dịch) nguoi choi so 4 (dich)",
+            "StoryView": 3560,
+            "NumberUserFollow": 3,
+            "NumberRate": 0,
+            "StoryCreateID": null,
+            "StoryCreateType": null,
+            "Tags": "",
+            "StoryNameK": "nguoi-choi-so-4-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3560,
+            "StoryViewInWeek": 105,
+            "StoryViewInMonth": 796,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "nguoi-choi-so-4-(dich-chuong-1",
+            "StoryIDFirstChap": "674d751b01a79a0f041ef7d1",
+            "SoChuong": 1170,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Thăng cấp lưu Hệ thống phó bản toàn cầu mở ra. Tai nạn xuất hiện lan tràn trong phó bản. Thế giới kỳ lạ. Sự liên kết giữa phó bản và thực tế Ngày tận thế kéo dài mười hai tuần Còn ta, Lục Minh, mọi người gọi là: Người chơi số 4. Một con quái vật vô cảm.",
+            "IsTruyenConvert": 0,
+            "RefID": "65f8dbcce0cf61eef2d2c994",
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "674d74f901a79a0f041ef7d0",
+            "MongoId": "674d74f901a79a0f041ef7d0"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "674d74f901a79a0f041ef7d0",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "674d751b01a79a0f041ef7d1",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc.jpg",
+                "StoryName": "Bắt Đầu Làm Thần Hào Từ Sau Khi Thi Đại Học ",
+                "StoryTitleLastChap": "Chương 4868 - Phổ biến Hạ Quốc tệ!",
+                "StoryID": "6668152801a79a17c05f7189",
+                "StoryUpdateTime": "6/11/2024 9:58:31 AM",
+                "StoryNameK": "bat-dau-lam-than-hao-tu-sau-khi-thi-dai-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//so-13-pho-mink.jpg",
+                "StoryName": "Số 13 Phố Mink",
+                "StoryTitleLastChap": "Chương 3252: Kết (3) - HẾT.",
+                "StoryID": "65a5053801a79a0db072b40f",
+                "StoryUpdateTime": "11/19/2024 2:02:00 AM",
+                "StoryNameK": "so-13-pho-mink"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//song-bang-tan-the-ta-tru-hang-chuc-ty-vat-tu.jpg",
+                "StoryName": "Toàn Cầu Băng Phong : Ta Chế Tạo Phòng An Toàn Tại  Tận Thế",
+                "StoryTitleLastChap": "Chương 2756 Tập kết tại Bắc Phi",
+                "StoryID": "65dfe22501a79a19302eb531",
+                "StoryUpdateTime": "4/22/2025 1:42:10 PM",
+                "StoryNameK": "toan-cau-bang-phong-ta-che-tao-phong-an-toan-tai-tan-the"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thi-muoi.jpg",
+                "StoryName": "Thi Muội",
+                "StoryTitleLastChap": "Chương 2621: HẾT.",
+                "StoryID": "6625c11a01a79a072833e3b1",
+                "StoryUpdateTime": "4/22/2024 4:40:57 AM",
+                "StoryNameK": "thi-muoi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//choc-tuc-vo-yeu---mua-mot-tang-mot.jpg",
+                "StoryName": "Chọc Tức Vợ Yêu - Mua Một Tặng Một",
+                "StoryTitleLastChap": "Chương 2165: Ngoại truyện 9. Trái tim nhỏ bé của cháu",
+                "StoryID": "6644896d01a79a13fc6ae029",
+                "StoryUpdateTime": "5/16/2024 5:00:06 AM",
+                "StoryNameK": "choc-tuc-vo-yeu-mua-mot-tang-mot"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dinh-nui-nha-toi-thong-nien-dai.jpg",
+                "StoryName": "Đỉnh Núi Nhà Tôi Thông Niên Đại",
+                "StoryTitleLastChap": "Chương 905: Kết phiên ngoại 7-toàn văn hoàn",
+                "StoryID": "6576c65801a79a05c8ae9bdd",
+                "StoryUpdateTime": "12/11/2023 9:20:44 AM",
+                "StoryNameK": "dinh-nui-nha-toi-thong-nien-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//no-am-kho-thoat.jpg",
+                "StoryName": "Nợ Âm Khó Thoát",
+                "StoryTitleLastChap": "Chương 857 Tôi trở về rồi. HẾT.",
+                "StoryID": "66078d3201a79a1608c7bc75",
+                "StoryUpdateTime": "3/30/2024 9:52:26 AM",
+                "StoryNameK": "no-am-kho-thoat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vu-tru-chuc-nghiep-tuyen-thu.jpg",
+                "StoryName": "Vũ Trụ Chức Nghiệp Tuyển Thủ",
+                "StoryTitleLastChap": "Chương 1453: [Kết Thúc]",
+                "StoryID": "6577d13a01a79a134437baca",
+                "StoryUpdateTime": "12/12/2023 4:20:07 AM",
+                "StoryNameK": "vu-tru-chuc-nghiep-tuyen-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chien-ham-cua-ta-co-the-thang-cap.jpg",
+                "StoryName": "Chiến Hạm Của Ta Có Thể Thăng Cấp",
+                "StoryTitleLastChap": "Chương 5: Nghiền ép",
+                "StoryID": "657a87c001a79a1608448ade",
+                "StoryUpdateTime": "12/14/2023 7:37:15 AM",
+                "StoryNameK": "chien-ham-cua-ta-co-the-thang-cap"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-den-tu-the-void-(tha-lai-tu-hu-khong.jpg",
+                "StoryName": "Hắn Đến Từ The Void (Tha Lai Tự Hư Không)",
+                "StoryTitleLastChap": "Chương 754 : Giành giật từng giây, nháy mắt vạn năm.",
+                "StoryID": "6581024e01a79a17747a17a9",
+                "StoryUpdateTime": "12/19/2023 3:15:13 AM",
+                "StoryNameK": "han-den-tu-the-void-tha-lai-tu-hu-khong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chu-tich-nguy-hiem--sung-co-vo-nho-(dich.jpg",
+                "StoryName": "Chủ Tịch Nguy Hiểm , Sủng Cô Vợ Nhỏ (Dịch)",
+                "StoryTitleLastChap": "Chương 3299: Kết thúc văn chính.",
+                "StoryID": "66cc30c001a79a0538cfa583",
+                "StoryUpdateTime": "8/28/2024 4:22:40 AM",
+                "StoryNameK": "chu-tich-nguy-hiem-sung-co-vo-nho-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "678f010301a79a18b8732c3d",
+                "Name": "Chương 1169: Lục Minh (Hoàn) 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c3c",
+                "Name": "Chương 1168: Lục Minh (Hoàn) 1",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c3b",
+                "Name": "Chương 1167: Hi Vọng 3",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c3a",
+                "Name": "Chương 1166: Hi Vọng 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c39",
+                "Name": "Chương 1165: Hi Vọng 1",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c38",
+                "Name": "Chương 1164: Sự hồi sinh tối cao 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c37",
+                "Name": "Chương 1163: Sự hồi sinh tối cao 1",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c36",
+                "Name": "Chương 1162: Người con có hiếu! 3",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c35",
+                "Name": "Chương 1161: Người con có hiếu! 2",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "678f010301a79a18b8732c34",
+                "Name": "Chương 1160: Người con có hiếu! 1",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

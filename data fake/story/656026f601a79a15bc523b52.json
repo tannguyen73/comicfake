@@ -1,0 +1,324 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Ác Ma Pháp Tắc",
+            "StoryImage": "ac-ma-phap-tac.jpg",
+            "StoryDescription": "\"<b>Ác Ma Pháp Tắc</b>\" - một kiệt tác đang làm mưa làm gió tại Bạch Mã Thư Viện, hứa hẹn sẽ đưa bạn đến một thế giới cổ đại kỳ ảo chưa từng có. Với ngòi bút điêu luyện và trí tưởng tượng phong phú, tác giả đã xây dựng nên một bức tranh toàn cảnh về một thế giới đầy màu sắc, nơi mà những kỵ sĩ oai hùng, những pháp sư quyền năng, những quái vật đáng sợ cùng tồn tại.<p>Khác với những tác phẩm cùng thể loại, \"Ác Ma Pháp Tắc\" không hề vội vàng. Tác giả dành nhiều thời gian để miêu tả chi tiết về thế giới, từ những khung cảnh hùng vĩ, những phong tục tập quán độc đáo cho đến những suy nghĩ nội tâm phức tạp của nhân vật. Mỗi chi tiết nhỏ đều được chăm chút tỉ mỉ, giúp người đọc có cái nhìn sâu sắc và chân thực về cuộc sống của những con người trong thế giới này.</p><p>Bạn sẽ được chứng kiến những cuộc chiến tranh khốc liệt, những âm mưu chính trị phức tạp, và những câu chuyện tình yêu đầy trắc trở. Tác giả không chỉ kể về những trận chiến hoành tráng mà còn đi sâu vào tâm lý của từng nhân vật, giúp bạn hiểu rõ hơn về động cơ và lý tưởng của họ.</p><p>Tuy nhiên, chính vì sự tỉ mỉ và chi tiết này mà một số độc giả có thể cảm thấy một vài chương truyện hơi chậm rãi. Nhưng hãy kiên nhẫn, bởi khi kết nối tất cả các mảnh ghép lại, bạn sẽ có được một bức tranh toàn cảnh vô cùng tráng lệ và ấn tượng.</p><p>\"Ác Ma Pháp Tắc\" không chỉ là một câu chuyện giải trí mà còn là một tác phẩm nghệ thuật, một bức tranh lịch sử sống động. Nếu bạn là người yêu thích những câu chuyện kỳ ảo, thích khám phá những thế giới mới và đam mê những chi tiết nhỏ nhặt, thì đây chắc chắn là một cuốn sách dành cho bạn.</p>",
+            "StoryUpdateTime": "2024-07-30T07:07:33.8509269Z",
+            "StoryUpdateTimeTick": 638363970463907504,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Khiêu Vũ",
+                    "GioiThieu": "",
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "65082c2401a79b0d5cbe285d",
+                    "MongoId": "65082c2401a79b0d5cbe285d"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 668: Đại Kết Cục",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9132615c3c70808d2b7b4",
+                    "MongoId": "61d9132615c3c70808d2b7b4"
+                },
+                {
+                    "TenTheLoai": "Kỳ Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "ky-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f0015c3c512383c2f2d",
+                    "MongoId": "61d91f0015c3c512383c2f2d"
+                },
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "ac-ma-phap-tac-chuong-799",
+            "Keyword": "ác ma pháp tắc ac ma phap tac",
+            "StoryView": 14551,
+            "NumberUserFollow": 5,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "ac-ma-phap-tac",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 14551,
+            "StoryViewInWeek": 53,
+            "StoryViewInMonth": 245,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "ac-ma-phap-tac-chuong-1",
+            "StoryIDFirstChap": "6560554b01a79a11c8fee914",
+            "SoChuong": 799,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 3,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Trong một thế giới cổ đại đầy phép thuật, một chàng trai trẻ với số phận bí ẩn đã bị cuốn vào những cuộc chiến tranh khốc liệt. Với một sức mạnh tiềm ẩn và một ý chí sắt đá, cậu ta phải đối mặt với những thử thách cam go để bảo vệ những người mình yêu thương và khám phá những bí mật về quá khứ của mình.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "656026f601a79a15bc523b52",
+            "MongoId": "656026f601a79a15bc523b52"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "656026f601a79a15bc523b52",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6560554b01a79a11c8fee914",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vu-thien-ha.jpg",
+                "StoryName": "Linh Vũ Thiên Hạ",
+                "StoryTitleLastChap": "Chương 5024: Đại kết cục",
+                "StoryID": "65081e4f01a79a0d5c482650",
+                "StoryUpdateTime": "12/19/2023 1:55:54 AM",
+                "StoryNameK": "linh-vu-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-tan-dan-dien.jpg",
+                "StoryName": "Vô Tận Đan Điền",
+                "StoryTitleLastChap": "Chương 3633: 100 châu",
+                "StoryID": "650823b701a79a0d5c482e58",
+                "StoryUpdateTime": "9/24/2023 7:07:27 AM",
+                "StoryNameK": "vo-tan-dan-dien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-do-thu-quan.jpg",
+                "StoryName": "Thiên Đạo Đồ Thư Quán",
+                "StoryTitleLastChap": "Chương 3576: Hắn ngộ đến (2)",
+                "StoryID": "650823c301a79a0d5c482e65",
+                "StoryUpdateTime": "9/24/2023 5:57:47 AM",
+                "StoryNameK": "thien-dao-do-thu-quan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sung-mi.jpg",
+                "StoryName": "Sủng Mị",
+                "StoryTitleLastChap": "Chương 1858: Mạc Tà ở thời không nào? HẾT",
+                "StoryID": "6508287301a79a0d5c4831b8",
+                "StoryUpdateTime": "11/8/2024 4:54:53 AM",
+                "StoryNameK": "sung-mi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-cuong-than-thoai-de-hoang.jpg",
+                "StoryName": "Tối Cường Thần Thoại Đế Hoàng",
+                "StoryTitleLastChap": "Chương 2382: Trẫm tức hết thảy (*Đại Kết Cục) (2)",
+                "StoryID": "650822ef01a79a0d5c482da2",
+                "StoryUpdateTime": "9/24/2023 11:07:00 AM",
+                "StoryNameK": "toi-cuong-than-thoai-de-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vuc.jpg",
+                "StoryName": "Linh Vực",
+                "StoryTitleLastChap": "Chương 2115: Phản kích cuối cùng",
+                "StoryID": "650828c101a79a0d5c4831f2",
+                "StoryUpdateTime": "9/20/2023 1:34:05 PM",
+                "StoryNameK": "linh-vuc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-khong-thien-ha.jpg",
+                "StoryName": "Thần Khống Thiên Hạ",
+                "StoryTitleLastChap": "Chương 2672: Ta có lẽ còn chưa xem như vô địch! (1)",
+                "StoryID": "6508287d01a79a0d5c4831c5",
+                "StoryUpdateTime": "9/20/2023 5:18:24 PM",
+                "StoryNameK": "than-khong-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vinh-sinh.jpg",
+                "StoryName": "Vĩnh Sinh",
+                "StoryTitleLastChap": "Chương 1565: Cho các ngươi một cơ hội!",
+                "StoryID": "650825fb01a79a0d5c48302a",
+                "StoryUpdateTime": "9/23/2023 3:38:09 PM",
+                "StoryNameK": "vinh-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//duoc-than.jpg",
+                "StoryName": "Dược Thần",
+                "StoryTitleLastChap": "Chương 1882: 1882: Siêu Thoát Luân Hồi3 (Hết)",
+                "StoryID": "6508291c01a79a0d5c483235",
+                "StoryUpdateTime": "7/30/2024 6:46:55 AM",
+                "StoryNameK": "duoc-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tao-hoa-chi-mon.jpg",
+                "StoryName": "Tạo Hóa Chi Môn",
+                "StoryTitleLastChap": "Chương 1536: Tạo hóa ngoại truyện 3: Cút!",
+                "StoryID": "6508288401a79a0d5c4831cd",
+                "StoryUpdateTime": "11/16/2023 8:50:41 AM",
+                "StoryNameK": "tao-hoa-chi-mon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tuyet-ung-linh-chu.jpg",
+                "StoryName": "Tuyết Ưng Lĩnh Chủ",
+                "StoryTitleLastChap": "Chương 1948: Lĩnh chủ (Đại kết cục hạ) (7)",
+                "StoryID": "6508237801a79a0d5c482e20",
+                "StoryUpdateTime": "6/3/2024 7:20:36 AM",
+                "StoryNameK": "tuyet-ung-linh-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gia-thien.jpg",
+                "StoryName": "Già Thiên",
+                "StoryTitleLastChap": "Chương 1895:  đại kết cục",
+                "StoryID": "650829b401a79a0d5c4832a2",
+                "StoryUpdateTime": "9/20/2023 6:50:13 AM",
+                "StoryNameK": "gia-thien"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6560597f01a79a11c8feec32",
+                "Name": "Chương 668: Đại Kết Cục",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec31",
+                "Name": "Chương 667",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec30",
+                "Name": "Chương 666",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2f",
+                "Name": "Chương 665",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2e",
+                "Name": "Chương 664",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2d",
+                "Name": "Chương 663",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2c",
+                "Name": "Chương 662",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2b",
+                "Name": "Chương 661",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec2a",
+                "Name": "Chương 660",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6560597f01a79a11c8feec29",
+                "Name": "Chương 659",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

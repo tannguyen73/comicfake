@@ -1,0 +1,305 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Thần Ấn Vương Tọa",
+            "StoryImage": "than-an-vuong-toa.jpg",
+            "StoryDescription": "Giới thiệu Truyện<br/><br/>Vào thời khắc mà Ma Tộc cường thế và nhân loại đang bên bờ của sự diệt vong thì Lục Đại Thánh Điện quật khởi mang theo hi vọng dẫn dắt nhân loại bảo vệ mảnh lãnh thổ cuối cùng.<br/><br/> - Một thiếu niên vì cứu mẫu thân của mình mà gia nhập Kỵ Sĩ Thánh Điện, kỳ tích, quỷ kế không ngừng xoay quanh hắn. Trong con đường để giải cứu nhân loại và tìm đến đỉnh cao của sự tu luyện hắn đã đi tìm và giải đáp rất nhiều bí ẩn của đại lục.<br/><br/> - Tại cái thế giới hỗn loạn mà nhân loại Lục Đại Thánh Điện cùng Ma Tộc Thất Thập Nhị Trụ Ma Thần đấu đá lẫn nhau này, hắn có thể đi lên vương tọa tượng trưng cho sự vinh quang cao nhất của kỵ sĩ hay không? Và liệu đỉnh cao của sự tu luyện có hay không chỉ dừng ở đại lục này hay còn vị diện khác cao cấp hơn.<br/><br/> - Đây là một tác phẩm hứa hẹn của Đường Tam. Nó là sự kết tinh của tác giả sau khi viết nhiều bộ của mình.Đặc biệt bộ này Đường Tam viết ngắn gọn súc tích không ướt át nhiều về tình cảm. Theo cảm quan riêng của các trang web của trung quốc như qidian … thì tác phẩm Thần Ấn Vương Tọa có thể sánh với Bàn Long.<br/><br/> - Tags: than an vuong toa prc full<br/><br/>",
+            "StoryUpdateTime": "2024-06-03T07:19:52.6798575Z",
+            "StoryUpdateTimeTick": 638306563011910626,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Đường Gia Tam Thiếu",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [
+                        "620539c50631ac3ca8437490",
+                        "6205f0190631ac486c34c383"
+                    ],
+                    "Id": "620539f70631ac3ca8437491",
+                    "MongoId": "620539f70631ac3ca8437491"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 334: Hạo Nguyệt, ta chuộc tội cho ngươi (Hết)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": null,
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "kỳ huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": null,
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "61d91f0015c3c512383c2f2d",
+                    "MongoId": "61d91f0015c3c512383c2f2d"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "Đường Gia Tam Thiếu",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "truyen-chu-than-an-vuong-toa-1-chuong-334",
+            "Keyword": "thần ấn vương tọa than an vuong toa",
+            "StoryView": 11359,
+            "NumberUserFollow": 0,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "XX_DI_XXhttps://truyenfull.vn/than-an-vuong-toa/chuong-1/",
+            "StoryNameK": "than-an-vuong-toa",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 11359,
+            "StoryViewInWeek": 43,
+            "StoryViewInMonth": 352,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "truyen-chu-than-an-vuong-toa-1-chuong-1",
+            "StoryIDFirstChap": "65082bbd01a79b0d5cbe2801",
+            "SoChuong": 334,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": null,
+            "StoryMetaDescription": null,
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "65082bbd01a79b0d5cbe27fe",
+            "MongoId": "65082bbd01a79b0d5cbe27fe"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "65082bbd01a79b0d5cbe27fe",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "65082bbd01a79b0d5cbe2801",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vu-thien-ha.jpg",
+                "StoryName": "Linh Vũ Thiên Hạ",
+                "StoryTitleLastChap": "Chương 5024: Đại kết cục",
+                "StoryID": "65081e4f01a79a0d5c482650",
+                "StoryUpdateTime": "12/19/2023 1:55:54 AM",
+                "StoryNameK": "linh-vu-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-tan-dan-dien.jpg",
+                "StoryName": "Vô Tận Đan Điền",
+                "StoryTitleLastChap": "Chương 3633: 100 châu",
+                "StoryID": "650823b701a79a0d5c482e58",
+                "StoryUpdateTime": "9/24/2023 7:07:27 AM",
+                "StoryNameK": "vo-tan-dan-dien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-do-thu-quan.jpg",
+                "StoryName": "Thiên Đạo Đồ Thư Quán",
+                "StoryTitleLastChap": "Chương 3576: Hắn ngộ đến (2)",
+                "StoryID": "650823c301a79a0d5c482e65",
+                "StoryUpdateTime": "9/24/2023 5:57:47 AM",
+                "StoryNameK": "thien-dao-do-thu-quan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sung-mi.jpg",
+                "StoryName": "Sủng Mị",
+                "StoryTitleLastChap": "Chương 1858: Mạc Tà ở thời không nào? HẾT",
+                "StoryID": "6508287301a79a0d5c4831b8",
+                "StoryUpdateTime": "11/8/2024 4:54:53 AM",
+                "StoryNameK": "sung-mi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toi-cuong-than-thoai-de-hoang.jpg",
+                "StoryName": "Tối Cường Thần Thoại Đế Hoàng",
+                "StoryTitleLastChap": "Chương 2382: Trẫm tức hết thảy (*Đại Kết Cục) (2)",
+                "StoryID": "650822ef01a79a0d5c482da2",
+                "StoryUpdateTime": "9/24/2023 11:07:00 AM",
+                "StoryNameK": "toi-cuong-than-thoai-de-hoang"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//linh-vuc.jpg",
+                "StoryName": "Linh Vực",
+                "StoryTitleLastChap": "Chương 2115: Phản kích cuối cùng",
+                "StoryID": "650828c101a79a0d5c4831f2",
+                "StoryUpdateTime": "9/20/2023 1:34:05 PM",
+                "StoryNameK": "linh-vuc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-khong-thien-ha.jpg",
+                "StoryName": "Thần Khống Thiên Hạ",
+                "StoryTitleLastChap": "Chương 2672: Ta có lẽ còn chưa xem như vô địch! (1)",
+                "StoryID": "6508287d01a79a0d5c4831c5",
+                "StoryUpdateTime": "9/20/2023 5:18:24 PM",
+                "StoryNameK": "than-khong-thien-ha"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vinh-sinh.jpg",
+                "StoryName": "Vĩnh Sinh",
+                "StoryTitleLastChap": "Chương 1565: Cho các ngươi một cơ hội!",
+                "StoryID": "650825fb01a79a0d5c48302a",
+                "StoryUpdateTime": "9/23/2023 3:38:09 PM",
+                "StoryNameK": "vinh-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//duoc-than.jpg",
+                "StoryName": "Dược Thần",
+                "StoryTitleLastChap": "Chương 1882: 1882: Siêu Thoát Luân Hồi3 (Hết)",
+                "StoryID": "6508291c01a79a0d5c483235",
+                "StoryUpdateTime": "7/30/2024 6:46:55 AM",
+                "StoryNameK": "duoc-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tao-hoa-chi-mon.jpg",
+                "StoryName": "Tạo Hóa Chi Môn",
+                "StoryTitleLastChap": "Chương 1536: Tạo hóa ngoại truyện 3: Cút!",
+                "StoryID": "6508288401a79a0d5c4831cd",
+                "StoryUpdateTime": "11/16/2023 8:50:41 AM",
+                "StoryNameK": "tao-hoa-chi-mon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tuyet-ung-linh-chu.jpg",
+                "StoryName": "Tuyết Ưng Lĩnh Chủ",
+                "StoryTitleLastChap": "Chương 1948: Lĩnh chủ (Đại kết cục hạ) (7)",
+                "StoryID": "6508237801a79a0d5c482e20",
+                "StoryUpdateTime": "6/3/2024 7:20:36 AM",
+                "StoryNameK": "tuyet-ung-linh-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//gia-thien.jpg",
+                "StoryName": "Già Thiên",
+                "StoryTitleLastChap": "Chương 1895:  đại kết cục",
+                "StoryID": "650829b401a79a0d5c4832a2",
+                "StoryUpdateTime": "9/20/2023 6:50:13 AM",
+                "StoryNameK": "gia-thien"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "650948c901a79a11087e0508",
+                "Name": "Chương 334: Hạo Nguyệt, ta chuộc tội cho ngươi (Hết)",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c701a79a11087e0507",
+                "Name": "Chương 333: Cuộc chiến cuối cùng",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c701a79a11087e0506",
+                "Name": "Chương 332: Nghịch lân của Hạo Nguyệt",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c501a79a11087e0505",
+                "Name": "Chương 331: Thần Thiên Tru, chín đầu Kỳ Mỹ Lạp",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c401a79a11087e0504",
+                "Name": "Chương 330: Bí ẩn thân thế của Long Hạo Thần",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c301a79a11087e0503",
+                "Name": "Chương 329: Tử Kim Hạo Nguyệt kiếm tám đầu",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c201a79a11087e0502",
+                "Name": "Chương 328: Ngọn lửa đen của có dược ca",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c101a79a11087e0501",
+                "Name": "Chương 327: Bức Tranh Sáng Thế",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948c001a79a11087e0500",
+                "Name": "Chương 326: Kinh Sợ và Bi Thương vận luật",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "650948be01a79a11087e04ff",
+                "Name": "Chương 325: Long Phượng Hỏa Thần Trụ",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Nữ Chính Từ Trong Sách Chạy Ra Ngoài Rồi Phải Làm Sao Đây? (Dịch)",
+            "StoryImage": "nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-(dich.jpg",
+            "StoryDescription": "<b>Sở Qua</b>, một nhà văn chuyên viết truyện ngôn tình, đã tạo ra một nhân vật nữ cường mạnh mẽ đến mức... cô ấy quyết định tự mình bước ra khỏi trang sách! Với thanh kiếm kề cổ, nữ tông chủ xinh đẹp nhưng lại vô cùng nghiêm túc đã khiến cuộc sống của Sở Qua đảo lộn hoàn toàn.&nbsp;<p>Liệu anh chàng tác giả có thể thuyết phục được nữ tông chủ trở lại thế giới truyện hay sẽ phải đối mặt với những hậu quả khôn lường?<br></p>",
+            "StoryUpdateTime": "2024-09-06T04:34:33.6180886Z",
+            "StoryUpdateTimeTick": 638606026777024338,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Cơ Xoa",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "667b90ee01a79a0ce41d631f",
+                    "MongoId": "667b90ee01a79a0ce41d631f"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 690: Đêm giáng sinh (2)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Dị Năng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "di-nang",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9135815c3c70808d2b7d1",
+                    "MongoId": "61d9135815c3c70808d2b7d1"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Xuyên Sách",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-sach",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6576b09501a79a05c8ae5ae8",
+                    "MongoId": "6576b09501a79a05c8ae5ae8"
+                },
+                {
+                    "TenTheLoai": "Đô Thị",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "do-thi",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131915c3c70808d2b7ac",
+                    "MongoId": "61d9131915c3c70808d2b7ac"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-dich-chuong-690-dem-giang-sinh-2",
+            "Keyword": "nữ chính từ trong sách chạy ra ngoài rồi phải làm sao đây? (dịch) nu chinh tu trong sach chay ra ngoai roi phai lam sao day? (dich)",
+            "StoryView": 9012,
+            "NumberUserFollow": 3,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 9012,
+            "StoryViewInWeek": 30,
+            "StoryViewInMonth": 939,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "nu-chinh-tu-trong-sach-chay-ra-ngoai-roi-phai-lam-sao-day-dich-chuong-1-viet-lach-1",
+            "StoryIDFirstChap": "66d1867901a79a1210e8d682",
+            "SoChuong": 690,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Một nữ tông chủ kiêu hãnh và một nhà văn tài năng, hai thế giới hoàn toàn khác nhau, nhưng lại giao nhau một cách bất ngờ. Liệu tình yêu có thể nở rộ giữa một người thực và một nhân vật trong truyện? Câu chuyện hài hước và lãng mạn này sẽ đưa bạn đến một thế giới đầy bất ngờ và thú vị.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "66d1803501a79a1210e8d681",
+            "MongoId": "66d1803501a79a1210e8d681"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66d1803501a79a1210e8d681",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66d1867901a79a1210e8d682",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-tu-tien-gioi-xu-cat-ti-hung.jpg",
+                "StoryName": "Ta Tại Tu Tiên Giới Xu Cát Tị Hung",
+                "StoryTitleLastChap": "Chương 323: Đến lục phẩm cơ duyên, mười hai vạn khí vận",
+                "StoryID": "67ece6ee01a79a10fce72227",
+                "StoryUpdateTime": "4/25/2025 3:30:28 AM",
+                "StoryNameK": "ta-tai-tu-tien-gioi-xu-cat-ti-hung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cau-tha-thanh-thanh-nhan-tien-quan-trieu-ta-cham-ngua-(dich.jpg",
+                "StoryName": "Cẩu Thả Thành Thánh Nhân, Tiên Quan Triệu Ta Chăm Ngựa (Dịch)",
+                "StoryTitleLastChap": "Chương 1328 Tôn Tiên chi Thượng",
+                "StoryID": "6743fb4201a79e108c7c0d51",
+                "StoryUpdateTime": "4/25/2025 2:47:19 AM",
+                "StoryNameK": "cau-tha-thanh-thanh-nhan-tien-quan-trieu-ta-cham-ngua-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-tai-tu-tien-gioi-co-tai-nhung-thanh-dat-muon-(dich.jpg",
+                "StoryName": "Ta Tại Tu Tiên Giới Có Tài Nhưng Thành Đạt Muộn",
+                "StoryTitleLastChap": "Chương 135: Cung gia bí bảo, Ma đạo tu sĩ",
+                "StoryID": "67457e2501a79a10e8e81f75",
+                "StoryUpdateTime": "4/25/2025 2:08:19 AM",
+                "StoryNameK": "ta-tai-tu-tien-gioi-co-tai-nhung-thanh-dat-muon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-co-de-nhat-than.jpg",
+                "StoryName": "Vạn Cổ Đệ Nhất Thần",
+                "StoryTitleLastChap": "Chương 6717 Một tên cũng không để lại!",
+                "StoryID": "66754d5801a79a086c13227f",
+                "StoryUpdateTime": "4/24/2025 3:50:40 PM",
+                "StoryNameK": "van-co-de-nhat-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi.jpg",
+                "StoryName": "Người ở Tiệt Giáo, Vị Sư Huynh Này Quá Cẩn Trọng Rồi",
+                "StoryTitleLastChap": "Chương 641: Quanh đi quẩn lại, vẫn là Côn Bằng ngậm bồ hòn làm ngọt.",
+                "StoryID": "67a237c101a79a1980fb2d9c",
+                "StoryUpdateTime": "4/24/2025 3:16:15 PM",
+                "StoryNameK": "nguoi-o-tiet-giao-vi-su-huynh-nay-qua-can-trong-roi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-khuynh-chi-hau-dich.jpg",
+                "StoryName": "Thiên Khuynh Chi Hậu (Dịch)",
+                "StoryTitleLastChap": "Chương 1066 Nửa đường chặn giết",
+                "StoryID": "67456eb401a79a10e8e80d01",
+                "StoryUpdateTime": "4/24/2025 3:14:16 PM",
+                "StoryNameK": "thien-khuynh-chi-hau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hoang-co-thanh-the.jpg",
+                "StoryName": "Hoang Cổ Thánh Thể (Dịch)",
+                "StoryTitleLastChap": "Chương 4977 Đều là những tương lai bất phàm, chẳng lẽ có thể chiếu rọi ra Chân Tiên?",
+                "StoryID": "666d3fe001a79a1a3475836b",
+                "StoryUpdateTime": "4/24/2025 3:00:24 PM",
+                "StoryNameK": "hoang-co-thanh-the-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-hai-nhi-bat-dau-nhap-dao-(dich.jpg",
+                "StoryName": "Từ Hài Nhi Bắt Đầu Nhập Đạo (Dịch)",
+                "StoryTitleLastChap": "Chương 1749 Top 100 (2)",
+                "StoryID": "66c6fa3301a79a0afcbe2cac",
+                "StoryUpdateTime": "4/24/2025 2:28:22 PM",
+                "StoryNameK": "tu-hai-nhi-bat-dau-nhap-dao-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tuyet-canh-hac-da-(dich.jpg",
+                "StoryName": "Tuyệt Cảnh Hắc Dạ (Dịch)",
+                "StoryTitleLastChap": "Chương 1170 Dẫn Dắt (2)",
+                "StoryID": "6745722e01a79a10e8e81142",
+                "StoryUpdateTime": "4/24/2025 9:06:08 AM",
+                "StoryNameK": "tuyet-canh-hac-da-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-tien-nhan-bien-mat.jpg",
+                "StoryName": "Sau Khi Tiên Nhân Biến Mất",
+                "StoryTitleLastChap": "Chương 765: Sử thượng đơn giản nhất diệt ve",
+                "StoryID": "67f0fafa01a79b09404a53e5",
+                "StoryUpdateTime": "4/24/2025 8:44:10 AM",
+                "StoryNameK": "sau-khi-tien-nhan-bien-mat"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quang-am-chi-ngoai.jpg",
+                "StoryName": "Quang Âm Chi Ngoại (Dịch)",
+                "StoryTitleLastChap": "Chương 2767: Tiểu A Thanh, chúng ta về nhà thôi",
+                "StoryID": "6566a26101a79a0c74828310",
+                "StoryUpdateTime": "4/23/2025 10:24:04 AM",
+                "StoryNameK": "quang-am-chi-ngoai-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-the-chua-cho-nu-chu-mot-con-duong-song-khong.jpg",
+                "StoryName": "Có Thể Chừa cho Nữ Chủ Một Con Đường Sống Không?",
+                "StoryTitleLastChap": "Chương 62 [Phiên ngoại] \"Chúng ta sẽ không bao giờ xa nhau nữa.\"",
+                "StoryID": "67fa06d901a79c10ec34882b",
+                "StoryUpdateTime": "4/21/2025 10:09:12 AM",
+                "StoryNameK": "co-the-chua-cho-nu-chu-mot-con-duong-song-khong"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66d1871601a79a1210e8d932",
+                "Name": "Chương 690: Đêm giáng sinh (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d931",
+                "Name": "Chương 689: Đêm giáng sinh (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d930",
+                "Name": "Chương 688: Ký ức mãnh liệt nhất của Thu Thu (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92f",
+                "Name": "Chương 687: Ký ức mãnh liệt nhất của Thu Thu (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92e",
+                "Name": "Chương 686: Lại tìm Thanh Long (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92d",
+                "Name": "Chương 685: Lại tìm Thanh Long (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92c",
+                "Name": "Chương 684: Nguyệt Ảnh của hiện tại (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92b",
+                "Name": "Chương 683: Nguyệt Ảnh của hiện tại (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d92a",
+                "Name": "Chương 682: Sở đảo chủ (2)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "66d1871601a79a1210e8d929",
+                "Name": "Chương 681: Sở đảo chủ (1)",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

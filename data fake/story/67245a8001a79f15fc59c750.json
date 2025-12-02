@@ -1,0 +1,359 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Toàn dân thần chỉ : Ta hiến tế hàng tỉ sinh linh thành thần (Dịch)",
+            "StoryImage": "toan-dan-than-chi--ta-hien-te-hang-ti-sinh-linh-thanh-than-(dich.jpg",
+            "StoryDescription": "Hàn Vũ xuyên không đến một thế giới nơi mọi người đều có thể trở thành thần và nhận được khả năng hiến tế sinh mệnh. Khởi đầu với một gia tộc tầm thường, anh ta hiến tế để nghịch chuyển vận mệnh. Không quyền, không thế, không tiền, anh ta vẫn có thể hiến tế để vươn tới đỉnh cao. Chỉ cần có đủ gia tộc, anh ta có thể trở nên mạnh mẽ không giới hạn nhờ hiến tế, trở thành chủ thần, thần trên mọi thần!",
+            "StoryUpdateTime": "2024-11-03T11:17:45.2238711Z",
+            "StoryUpdateTimeTick": 638660325129335372,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 111,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Phi Tường Đích Đại Tây Qua",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "67245ae001a79f15fc59c751",
+                    "MongoId": "67245ae001a79f15fc59c751"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 111 các quốc gia bồi thường",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Ngự Thú",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại ngự thú",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngu-thu",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b34101a79b106c650440",
+                    "MongoId": "6561b34101a79b106c650440"
+                },
+                {
+                    "TenTheLoai": "Xây Dựng Thế Lực",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại thuần xây dựng thế lực, đánh chiếm địa bàn",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xay-dung-the-luc",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b36101a79b106c650459",
+                    "MongoId": "6561b36101a79b106c650459"
+                },
+                {
+                    "TenTheLoai": "Sát Phạt Quyết Đoán",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại main sát phạt quyết đoán, nên g.i.ế.t vẫn g.i.ế.t",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sat-phat-quyet-doan",
+                    "gender": 0,
+                    "theloaitype": 3,
+                    "Id": "6561b3ed01a79b106c6504cc",
+                    "MongoId": "6561b3ed01a79b106c6504cc"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [
+                {
+                    "SoDienThoai": null,
+                    "Password": null,
+                    "TenNhomDich": "Bản Dịch Thô",
+                    "GioiThieuNhom": null,
+                    "Avatar": "noimage.jpg",
+                    "Leader": null,
+                    "MailCuaNhom": null,
+                    "nhomdichwallpaper": null,
+                    "Stories": [],
+                    "DSThanhVien": [],
+                    "Capdobanghoi": 1,
+                    "Status": 1,
+                    "SoThanhVien": 0,
+                    "SoTruyen": 0,
+                    "LuotXem": 0,
+                    "Donate": null,
+                    "Id": "67245b0301a79f15fc59c753",
+                    "MongoId": "67245b0301a79f15fc59c753"
+                }
+            ],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "toan-dan-than-chi--ta-hien-te-hang-ti-sinh-linh-thanh-than-dich-chuong-111-cac-quoc-gia-boi-thuong",
+            "Keyword": "Toàn dân thần chỉ Ta hiến tế hàng tỉ sinh linh thành thần toan dan than chi ta hien te hang ti sinh linh thanh than Toàn dân thần chỉ : Ta hiến tế hàng tỉ sinh linh thành thần toan dan than chi : ta hien te hang ti sinh linh thanh than",
+            "StoryView": 3039,
+            "NumberUserFollow": 4,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "toan-dan-than-chi-ta-hien-te-hang-ti-sinh-linh-thanh-than-dich",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3039,
+            "StoryViewInWeek": 14,
+            "StoryViewInMonth": 569,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "toan-dan-than-chi--ta-hien-te-hang-ti-sinh-linh-thanh-than-dich-1",
+            "StoryIDFirstChap": "672460e501a79f15fc59c754",
+            "SoChuong": 111,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Hàn Vũ xuyên không đến một thế giới nơi mọi người đều có thể trở thành thần và nhận được khả năng hiến tế sinh mệnh. Khởi đầu với một gia tộc tầm thường, anh ta hiến tế để nghịch chuyển vận mệnh. Không quyền, không thế, không tiền, anh ta vẫn có thể hiến tế để vươn tới đỉnh cao",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "67245a8001a79f15fc59c750",
+            "MongoId": "67245a8001a79f15fc59c750"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "67245a8001a79f15fc59c750",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "672460e501a79f15fc59c754",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngu-thu-bat-dau-ap-trung-thai-co-long-chung.jpg",
+                "StoryName": "Ngự Thú: Bắt Đầu Ấp Trứng Thái Cổ Long Chủng",
+                "StoryTitleLastChap": "Chương 99: Trời giáng vận may",
+                "StoryID": "6807044e01a79a166ce0605f",
+                "StoryUpdateTime": "4/24/2025 9:16:48 AM",
+                "StoryNameK": "ngu-thu-bat-dau-ap-trung-thai-co-long-chung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngu-thu-ta-ton-hai-nam-dem-thien-phu-tien-hoa-thanh-than-cap.jpg",
+                "StoryName": "Ngự Thú: Ta Tốn Hai Năm Đem Thiên Phú Tiến Hóa Thành Thần Cấp",
+                "StoryTitleLastChap": "Chương 717: Đại thu hoạch",
+                "StoryID": "67e1226401a79a1378e86d9b",
+                "StoryUpdateTime": "4/3/2025 6:46:33 AM",
+                "StoryNameK": "ngu-thu-ta-ton-hai-nam-dem-thien-phu-tien-hoa-thanh-than-cap"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cao-vo-cu-thu-thien-tai-ta-duy-nhat-ngu-thu-su.jpg",
+                "StoryName": "Cao võ: Cự Thú Thiên Tai? Ta Duy Nhất Ngự Thú Sư!",
+                "StoryTitleLastChap": "Chương 391: Thái Cổ Mộng Lộc? Quy Khư? Nguyên Thần đều tới!",
+                "StoryID": "67e4f3de01a79a18603b79eb",
+                "StoryUpdateTime": "3/31/2025 4:48:14 AM",
+                "StoryNameK": "cao-vo-cu-thu-thien-tai-ta-duy-nhat-ngu-thu-su"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sau-khi-doan-tuyet-quan-he-ta-trieu-hoan-thu-tat-ca-deu-la-sinh-vat-hac-am.jpg",
+                "StoryName": "Sau Khi Đoạn Tuyệt Quan Hệ, Ta Triệu Hoán Thú Tất Cả Đều Là Sinh Vật Hắc Ám",
+                "StoryTitleLastChap": "Chương 169: Lấy cả bản nguyên chi lực giúp nó bước vào cấp độ thần thoại",
+                "StoryID": "67db942a01a79a15dc2d0d14",
+                "StoryUpdateTime": "3/20/2025 4:44:22 AM",
+                "StoryNameK": "sau-khi-doan-tuyet-quan-he-ta-trieu-hoan-thu-tat-ca-deu-la-sinh-vat-hac-am"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-cau-ngu-thu-ta-co-the-trong-thay-tien-hoa-lo-tuyen.jpg",
+                "StoryName": "Toàn Cầu Ngự Thú: Ta Có Thể Trông Thấy Tiến Hóa Lộ Tuyến",
+                "StoryTitleLastChap": "Chương 872: Đại kết cục",
+                "StoryID": "67c66fb801a79a180cffe804",
+                "StoryUpdateTime": "3/7/2025 9:41:25 AM",
+                "StoryNameK": "toan-cau-ngu-thu-ta-co-the-trong-thay-tien-hoa-lo-tuyen"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngu-thu-ta-co-the-chiet-xuat-huyen-thu-huyet-mach.jpg",
+                "StoryName": "Ngự Thú Ta Có Thể Chiết Xuất Huyễn Thú Huyết Mạch",
+                "StoryTitleLastChap": "Chương 531: Tám đạo phân thân, thật thật giả giả.",
+                "StoryID": "67ac126401a79a1858886514",
+                "StoryUpdateTime": "2/12/2025 8:24:30 AM",
+                "StoryNameK": "ngu-thu-ta-co-the-chiet-xuat-huyen-thu-huyet-mach"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngu-thu-chi-vuong-(dich.jpg",
+                "StoryName": "Ngự Thú Chi Vương (Dịch)",
+                "StoryTitleLastChap": "Chương 1368: Phiên ngoại 3: Lâm Tu Trúc (1)",
+                "StoryID": "66c854c301a79a1aec256952",
+                "StoryUpdateTime": "12/4/2024 4:07:08 AM",
+                "StoryNameK": "ngu-thu-chi-vuong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-ngu-thu-ta-co-the-chung-kien-tin-tuc-an-giau-(dich.jpg",
+                "StoryName": "Toàn Dân Ngự Thú: Ta Có Thể Chứng Kiến Tin Tức Ẩn Giấu (Dịch)",
+                "StoryTitleLastChap": "Chương 2425: Không còn bất cẩn nữa",
+                "StoryID": "674a896901a79a0880010410",
+                "StoryUpdateTime": "12/1/2024 4:14:05 AM",
+                "StoryNameK": "toan-dan-ngu-thu-ta-co-the-chung-kien-tin-tuc-an-giau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-dua-vao-ngu-thu-quyet-chi-tu-cuong.jpg",
+                "StoryName": "Ta Dựa Vào Ngự Thú Quyết Chí Tự Cường",
+                "StoryTitleLastChap": "Chương 808: Vạn năm (2)",
+                "StoryID": "6561bab601a79b106c651ce1",
+                "StoryUpdateTime": "6/25/2024 9:38:27 AM",
+                "StoryNameK": "ta-dua-vao-ngu-thu-quyet-chi-tu-cuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sung-thu-su.jpg",
+                "StoryName": "Sủng Thú Sư",
+                "StoryTitleLastChap": "Chương 52 Hải Sa Thành.",
+                "StoryID": "65efc9b901a79a05340042b0",
+                "StoryUpdateTime": "3/12/2024 3:34:02 AM",
+                "StoryNameK": "sung-thu-su"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "67275bd901a79c17485a16ce",
+                "Name": "Chương 111 các quốc gia bồi thường",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67275ad901a79c17485a16cd",
+                "Name": "Chương 110 Chỗ Tốt khi tấn thăng Bán Thần tại Ngoại Vực",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "67275a2b01a79c17485a16cc",
+                "Name": "Chương 109 Đại Quân Khô Lâu khuếch trương",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6727597501a79c17485a16cb",
+                "Name": "Chương 108 Đối Chiến Thế Lực Nhân Loại",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6727592301a79c17485a16ca",
+                "Name": "Chương 107 ma nhân A Nô",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6727587b01a79c17485a16c9",
+                "Name": "Chương 106 Hang Động Quặng Hỏa Tinh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672757b201a79c17485a16c8",
+                "Name": "Chương 105 phù văn chi ngữ: Dã tính",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6727565201a79c17485a16c7",
+                "Name": "Chương 104 phù văn văn minh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672753d801a79c17485a16c6",
+                "Name": "Chương 103 ngoại vực chiến tranh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "672752e501a79c17485a16c5",
+                "Name": "Chương 102 thành tích bình định",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

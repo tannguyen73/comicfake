@@ -1,0 +1,324 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Bắt Đầu Giác Tỉnh SSS Cấp Rút Ra Thiên Phú",
+            "StoryImage": "bat-dau-giac-tinh-sss-cap-rut-ra-thien-phu.jpg",
+            "StoryDescription": "<b> Giang Phong</b> xuyên đến thế giới huyền huyễn, nắm giữ SSS cấp rút ra cùng đốn ngộ hai loại thiên phú, thế gian công pháp hắn vừa xem liền hiểu, thần binh cùng bảo vật sờ một cái liền có thể ngẫu nhiên rút ra!<p>Ngẫu nhiên rút ra tuyệt thế thiên kiêu, căn cốt 800, võ đạo tư chất đề thăng!</p><p>Ngẫu nhiên rút ra cổ kiếm kỵ binh sông băng, thu được Huyền Băng kiếm ý!<p>Ngẫu nhiên rút ra một tờ kiếm đạo tàn thiên, thu được Thiên giai kiếm thuật!</p><p>Ngẫu nhiên rút ra Thái Cổ đế kiếm, thu được diệt thế Kiếm Vực!</p><p>.......</p><p>Hắn có thể rút ra hết thảy!</p><p>Bao quát rút ra vạn giới tiên phật cùng chư thiên thần ma!</p><p>Cuối cùng sẽ có một ngày, Giang Phong đứng tại phía trên tuế nguyệt trường hà, đối mặt với đại đạo.</p><p>Ngẫu nhiên rút ra thiên địa đại đạo, thu được đại đạo pháp tắc!</p><p>Từ đây, <b>Giang Phong </b>bắt đầu vô hạn thu hoạch chi lộ.....</p><p><b>Bắt Đầu Giác Tỉnh SSS Cấp Rút Ra Thiên Phú</b> - Tác giả: <b>Đạo Hào Linh Bảo</b> - #HuyềnHuyễn #Xuyên Không</p></p>",
+            "StoryUpdateTime": "2025-01-22T09:14:44.2425734Z",
+            "StoryUpdateTimeTick": 638731252815320020,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 150,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Đạo Hào Linh Bảo",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "679094e901a79b1a68d8b5c3",
+                    "MongoId": "679094e901a79b1a68d8b5c3"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 129: Giang Phong Lĩnh Vực chi lực! Thần hồ kỳ kỹ! Toàn trường đều hóa đá!",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Kỳ Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "ky-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d91f0015c3c512383c2f2d",
+                    "MongoId": "61d91f0015c3c512383c2f2d"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "bat-dau-giac-tinh-sss-cap-rut-ra-thien-phu-chuong-150",
+            "Keyword": "bắt đầu giác tỉnh sss cấp rút ra thiên phú bat dau giac tinh sss cap rut ra thien phu",
+            "StoryView": 965,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "bat-dau-giac-tinh-sss-cap-rut-ra-thien-phu",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 965,
+            "StoryViewInWeek": 58,
+            "StoryViewInMonth": 302,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "bat-dau-giac-tinh-sss-cap-rut-ra-thien-phu-chuong-1",
+            "StoryIDFirstChap": "6790b64201a79b1a68d8cc47",
+            "SoChuong": 150,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Giang Phong, một người xuyên không vào thế giới tu tiên, đã may mắn sở hữu một lúc hai thiên phú SSS cấp: chiết xuất và đốn ngộ. Với khả năng tùy ý rút ra mọi thứ, từ võ công, pháp thuật cho đến thần khí, Giang Phong nhanh chóng trở thành một cường giả vô địch.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "679094a101a79b1a68d8b5c2",
+            "MongoId": "679094a101a79b1a68d8b5c2"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "679094a101a79b1a68d8b5c2",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6790b64201a79b1a68d8cc47",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-tuong-chi-vuong.jpg",
+                "StoryName": "Vạn Tướng Chi Vương",
+                "StoryTitleLastChap": "Chương 1636 Năm Đầu Ma Ảnh",
+                "StoryID": "67f4f5b901a79a0338a9d053",
+                "StoryUpdateTime": "4/25/2025 3:02:24 AM",
+                "StoryNameK": "van-tuong-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tram-yeu-tru-ma-bat-dau-thu-hoach-duoc-sau-muoi-nam-cong-luc.jpg",
+                "StoryName": "Trảm Yêu Trừ Ma, Bắt Đầu Thu Hoạch Được Sáu Mươi Năm Công Lực",
+                "StoryTitleLastChap": "Chương 449: Tương lai mới (Đại kết cục)",
+                "StoryID": "67c2af7d01a79a154892c756",
+                "StoryUpdateTime": "4/14/2025 7:00:19 AM",
+                "StoryNameK": "tram-yeu-tru-ma-bat-dau-thu-hoach-duoc-sau-muoi-nam-cong-luc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-than-huyet-mach.jpg",
+                "StoryName": "Võ Thần Huyết Mạch",
+                "StoryTitleLastChap": "Chương 5342: Từ nơi sâu xa tự có thiên ý, mới Thiên Đạo",
+                "StoryID": "67ee5c2601a79a159825d10f",
+                "StoryUpdateTime": "4/4/2025 6:32:41 AM",
+                "StoryNameK": "vo-than-huyet-mach"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//im-mieng-di-ac-long-ta-khong-muon-tiep-tuc-sinh-con-cung-nguoi-nua.jpg",
+                "StoryName": "Im miệng đi! Ác Long, Ta Không muốn tiếp tục sinh con cùng ngươi nữa",
+                "StoryTitleLastChap": "Chương 760 Suona chính là nghệ thuật! (2)",
+                "StoryID": "67d0575c01a79a14984b75ca",
+                "StoryUpdateTime": "3/31/2025 9:27:07 AM",
+                "StoryNameK": "im-mieng-di-ac-long-ta-khong-muon-tiep-tuc-sinh-con-cung-nguoi-nua"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-vuc-chi-vuong.jpg",
+                "StoryName": "Vạn Vực Chi Vương",
+                "StoryTitleLastChap": "Chương 3115: Phong giới mười vạn năm! (Hết) (3)",
+                "StoryID": "67b8446b01a79a079c5072fd",
+                "StoryUpdateTime": "3/17/2025 7:56:00 AM",
+                "StoryNameK": "van-vuc-chi-vuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//toan-dan-thuc-tinh-bat-dau-than-thoai-cap-thien-phu.jpg",
+                "StoryName": "Toàn Dân Thức Tỉnh: Bắt Đầu Thần Thoại Cấp Thiên Phú",
+                "StoryTitleLastChap": "Chương 548: Tương lai tập đoàn đệ Ngũ Thiếu, Cố Viêm!",
+                "StoryID": "67a6c87201a79a17dc4e7307",
+                "StoryUpdateTime": "3/14/2025 7:50:50 AM",
+                "StoryNameK": "toan-dan-thuc-tinh-bat-dau-than-thoai-cap-thien-phu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-tien-nu-phu-cam-kich-ban-long-ngao-thien.jpg",
+                "StoryName": "Tu Tiên Nữ Phụ Cầm Kịch Bản Long Ngạo Thiên",
+                "StoryTitleLastChap": "Chương 921: Đấu chân long",
+                "StoryID": "67b454d601a79a1348ced9e0",
+                "StoryUpdateTime": "2/19/2025 4:22:19 AM",
+                "StoryNameK": "tu-tien-nu-phu-cam-kich-ban-long-ngao-thien"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//doc-doan-van-co.jpg",
+                "StoryName": "Độc Đoán Vạn Cổ",
+                "StoryTitleLastChap": "Chương 630: Ta nói không cô rồi",
+                "StoryID": "6793466701a79a0244e093ca",
+                "StoryUpdateTime": "1/24/2025 8:48:11 AM",
+                "StoryNameK": "doc-doan-van-co"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chien-lat-cao-khong-(dich.jpg",
+                "StoryName": "Chiến Lật Cao Không (Dịch)",
+                "StoryTitleLastChap": "Chương 694: Giải Thích (2)",
+                "StoryID": "674a9a7a01a79a0880016431",
+                "StoryUpdateTime": "12/1/2024 4:15:11 AM",
+                "StoryNameK": "chien-lat-cao-khong-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sung-mi.jpg",
+                "StoryName": "Sủng Mị",
+                "StoryTitleLastChap": "Chương 1858: Mạc Tà ở thời không nào? HẾT",
+                "StoryID": "6508287301a79a0d5c4831b8",
+                "StoryUpdateTime": "11/8/2024 4:54:53 AM",
+                "StoryNameK": "sung-mi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hon-nguyen-vo-ton.jpg",
+                "StoryName": "Hỗn Nguyên Võ Tôn",
+                "StoryTitleLastChap": "Chương 687: Chí cao cảnh giới – cuối",
+                "StoryID": "65082c0401a79b0d5cbe283f",
+                "StoryUpdateTime": "11/8/2024 4:51:42 AM",
+                "StoryNameK": "hon-nguyen-vo-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//quoc-vuong-(dich.jpg",
+                "StoryName": "Quốc Vương (Dịch)",
+                "StoryTitleLastChap": "Chương 2150: Đặt Tên",
+                "StoryID": "66c98d3701a79a09a868bb68",
+                "StoryUpdateTime": "8/24/2024 9:36:16 AM",
+                "StoryNameK": "quoc-vuong-dich"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "6790b67101a79b1a68d8ccdc",
+                "Name": "Chương 129: Giang Phong Lĩnh Vực chi lực! Thần hồ kỳ kỹ! Toàn trường đều hóa đá!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccdb",
+                "Name": "Chương 128: Thập trọng ý cảnh! Đại viên mãn! Lĩnh vực chi lực!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccda",
+                "Name": "Chương 127: Giang Phong chúc phúc! Bắc vực cùng dính mưa!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd9",
+                "Name": "Chương 126: Lạc Cách… Ngươi tin ta sao? Được ăn cả ngã về không!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd8",
+                "Name": "Chương 125: Kiếm trảm lôi kiếp! Giang Phong điên rồi!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd7",
+                "Name": "Chương 124: Đệ nhất thiên kiêu! Đơn giản thô bạo! Chín lần thiên kiếp!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd6",
+                "Name": "Chương 123: Cửu phẩm luyện dược sư! Khiếp sợ Thánh Địa! Đột phá gông cùm xiềng xích!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd5",
+                "Name": "Chương 122: Giang Phong quả nhiên giàu có! Thánh Chủ kinh hãi!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd4",
+                "Name": "Chương 121: Giang Phong oai! Còn không lui xuống cho ta! Khiếp sợ toàn trường!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6790b67101a79b1a68d8ccd3",
+                "Name": "Chương 120: Phoenix! Lại giả mạo một lần! Cửu thành hỏa diễm ý cảnh!",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

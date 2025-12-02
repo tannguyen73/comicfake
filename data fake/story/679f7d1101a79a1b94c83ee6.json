@@ -1,0 +1,346 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Cái Gì, Trong Mộng Nương Tử Đều Là Thật",
+            "StoryImage": "cai-gi-trong-mong-nuong-tu-deu-la-that.jpg",
+            "StoryDescription": "<b>Diệp Vũ</b> xuyên đến thế giới huyền huyễn.Thức tỉnh hệ thống mô phỏng mộng cảnh.<p>Mỗi lần kết thúc mộng cảnh, cũng có thể ngẫu nhiên ở trong giấc mộng thu được một cái năng lực.</p><p>Nguyên bản Diệp Vũ dự định cứ như vậy chậm rãi trở nên mạnh mẽ, thẳng đến khi quét ngang toàn bộ thế giới.</p><p>Theo thời gian trôi qua.Diệp Vũ thể nghiệm mộng cảnh cũng càng ngày càng nhiều, mới phát hiện.</p><p>Trong mộng, nương tử đều là thật sự tồn tại .Bởi vì cái gọi là có một người bạn gái phong hiểm, có rất nhiều bạn gái nguy hiểm.</p><p>Thời điểm từng người nhóm những nữ ma đầu cùng nữ đế thực lực thông thiên này tìm tới cửa.</p><p>Phản ứng đầu tiên Diệp Vũ, chính là muốn chạy trốn.</p>",
+            "StoryUpdateTime": "2025-04-24T15:40:37.3338895Z",
+            "StoryUpdateTimeTick": 638741022894844236,
+            "IsDisplay": 1,
+            "IsFull": 0,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 802,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Bôn Tẩu Đích Tiểu Lãng",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "679f7df801a79a1b94c83ee7",
+                    "MongoId": "679f7df801a79a1b94c83ee7"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 802: Tam Nữ Tề Tụ Ắt Có Thành",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Cổ Đại",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "co-dai",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "65eeb44801a79a17bca79573",
+                    "MongoId": "65eeb44801a79a17bca79573"
+                },
+                {
+                    "TenTheLoai": "Huyền Huyễn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "huyen-huyen",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeeb",
+                    "MongoId": "61d90ebb15c3c608085daeeb"
+                },
+                {
+                    "TenTheLoai": "Hệ Thống",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": "noimage.jpg",
+                    "namek": "he-thong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "674d74f901a79a0f041ef7cf",
+                    "MongoId": "674d74f901a79a0f041ef7cf"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Đồng Nhân",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "dong-nhan",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131415c3c70808d2b7a7",
+                    "MongoId": "61d9131415c3c70808d2b7a7"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "cai-gi-trong-mong-nuong-tu-deu-la-that-chuong-802",
+            "Keyword": "cái gì, trong mộng nương tử đều là thật cai gi, trong mong nuong tu deu la that",
+            "StoryView": 5860,
+            "NumberUserFollow": 12,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "cai-gi-trong-mong-nuong-tu-deu-la-that",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 5860,
+            "StoryViewInWeek": 290,
+            "StoryViewInMonth": 1997,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "cai-gi-trong-mong-nuong-tu-deu-la-that-chuong-1",
+            "StoryIDFirstChap": "679f7fbe01a79a1b94c83ee8",
+            "SoChuong": 802,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 36,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Diệp Vũ thể nghiệm mộng cảnh cũng càng ngày càng nhiều, mới phát hiện.\r\nTrong mộng, nương tử đều là thật sự tồn tại .\r\nBởi vì cái gọi là có một người bạn gái phong hiểm, có rất nhiều bạn gái nguy hiểm.\r\nThời điểm từng người nhóm những nữ ma đầu cùng nữ đế thực lực thông thiên này tìm tới cửa.\r\nPhản ứng đầu tiên Diệp Vũ, chính là muốn chạy trốn.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "679f7d1101a79a1b94c83ee6",
+            "MongoId": "679f7d1101a79a1b94c83ee6"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "679f7d1101a79a1b94c83ee6",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "679f7fbe01a79a1b94c83ee8",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-hiep-thanh-than.jpg",
+                "StoryName": "Võ Hiệp Thành Thần",
+                "StoryTitleLastChap": "Chương 477 Phi Thăng Thành Thần? HẾT.",
+                "StoryID": "65fab6cd01a79a0f9879c2a9",
+                "StoryUpdateTime": "3/21/2024 3:00:03 AM",
+                "StoryNameK": "vo-hiep-thanh-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//van-gioi-phap-than.jpg",
+                "StoryName": "Vạn Giới Pháp Thần",
+                "StoryTitleLastChap": "Chương 565: Tấn công chưa dừng lại",
+                "StoryID": "665d7ef701a79a0f1cffb917",
+                "StoryUpdateTime": "6/3/2024 9:19:16 AM",
+                "StoryNameK": "van-gioi-phap-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dai-tuyen-vo-thanh-(dich.jpg",
+                "StoryName": "Đại Tuyên Võ Thánh",
+                "StoryTitleLastChap": "Chương 735: Siêu Thoát (Kết)",
+                "StoryID": "674fbe5b01a79a07f05d5b4b",
+                "StoryUpdateTime": "4/17/2025 1:51:44 AM",
+                "StoryNameK": "dai-tuyen-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vong-du-chi-vo-lam-ba-do-(dich.jpg",
+                "StoryName": "Võng Du Chi Võ Lâm Bá Đồ (Dịch)",
+                "StoryTitleLastChap": "Chương 614 - Lao đầu vào hang hổ - HẾT -",
+                "StoryID": "66c8512c01a79a1aec256950",
+                "StoryUpdateTime": "11/7/2024 3:13:21 AM",
+                "StoryNameK": "vong-du-chi-vo-lam-ba-do-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ten-uchiha-nay-qua-can-than.jpg",
+                "StoryName": "Tên Uchiha Này Quá Cẩn Thận",
+                "StoryTitleLastChap": "Chương 772: Cuối cùng Nhẫn Giới (Đại kết cục)",
+                "StoryID": "67cb021901a79a157c96fdaf",
+                "StoryUpdateTime": "3/25/2025 11:33:52 AM",
+                "StoryNameK": "ten-uchiha-nay-qua-can-than"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//phat-song-truc-tiep-doan-menh-dia-phu-tai-tro-gay-dung-su-nghiep.jpg",
+                "StoryName": "Phát Sóng Trực Tiếp Đoán Mệnh: Địa Phủ Tài Trợ Gây Dựng Sự Nghiệp",
+                "StoryTitleLastChap": "Chương 1609. Ngoại truyện 4",
+                "StoryID": "678f111b01a79b18b85b295d",
+                "StoryUpdateTime": "1/21/2025 5:57:30 AM",
+                "StoryNameK": "phat-song-truc-tiep-doan-menh-dia-phu-tai-tro-gay-dung-su-nghiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//hokage-diem-day-nhuc-the-ta-pha-le-vo-dich.jpg",
+                "StoryName": "hokage: điểm đầy nhục thể ta, phá lệ vô địch",
+                "StoryTitleLastChap": "Chương 281: Orochimaru mới là tương lai của đế quốc",
+                "StoryID": "67208a3001a79a08680b7046",
+                "StoryUpdateTime": "10/29/2024 7:18:06 AM",
+                "StoryNameK": "hokage-diem-day-nhuc-the-ta-pha-le-vo-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dau-pha-thuong-khung-chi-ma-de-tieu-viem.jpg",
+                "StoryName": "Đấu Phá Thương Khung Chi Ma Đế Tiêu Viêm",
+                "StoryTitleLastChap": "Chương 479: Về hưu, chớ nhọc",
+                "StoryID": "6776476701a79a1c7c215743",
+                "StoryUpdateTime": "1/2/2025 8:41:00 AM",
+                "StoryNameK": "dau-pha-thuong-khung-chi-ma-de-tieu-viem"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dragon-ball-bat-dau-them-1-tu-moi-giay-chien-luc.jpg",
+                "StoryName": "Dragon Ball Bắt Đầu Thêm 1 Từ Mỗi Giây Chiến Lực",
+                "StoryTitleLastChap": "Chương 593: Một giấc mộng dài, luân hồi không ngừng! (Đại kết cục)",
+                "StoryID": "67cbc9db01a79a16fc090fdc",
+                "StoryUpdateTime": "4/3/2025 1:28:58 AM",
+                "StoryNameK": "dragon-ball-bat-dau-them-1-tu-moi-giay-chien-luc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nguoi-tai-hai-tac-bat-dau-tiet-ho-ope-ope-no-mi.jpg",
+                "StoryName": "người tại hải tặc: bắt đầu tiệt hồ ope ope no mi",
+                "StoryTitleLastChap": "Chương 129: Rinen băng hải tặc chân chính thực lực",
+                "StoryID": "6720739601a79a08680b4c64",
+                "StoryUpdateTime": "10/29/2024 5:36:17 AM",
+                "StoryNameK": "nguoi-tai-hai-tac-bat-dau-tiet-ho-ope-ope-no-mi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truc-tuyen-cong-cuoc-keo-dai-mang-song-cua-nu-chinh.jpg",
+                "StoryName": "Trực Tuyến Công Cuộc Kéo Dài Mạng Sống Của Nữ Chính",
+                "StoryTitleLastChap": "Chương 77: Xuyên sách (10) HOÀN",
+                "StoryID": "664efd6301a79a0728d9e805",
+                "StoryUpdateTime": "5/23/2024 9:31:49 AM",
+                "StoryNameK": "truc-tuyen-cong-cuoc-keo-dai-mang-song-cua-nu-chinh"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "680a5b6101a79a07c0e496a9",
+                "Name": "Chương 802: Tam Nữ Tề Tụ Ắt Có Thành",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "680a5b6101a79a07c0e496a8",
+                "Name": "Chương 801: Sư tôn ngươi, người không ra gì!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809aa7301a79a16f00e77fa",
+                "Name": "Chương 800: Phế vật",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6809aa7301a79a16f00e77f9",
+                "Name": "Chương 799: Ta tự mình đến Tam Thi Điện đòi một lời giải thích",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808652801a79a153896e286",
+                "Name": "Chương 798: Bước Vào Tiên Quân Cảnh",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6808652801a79a153896e285",
+                "Name": "Chương 797: Nàng là một kẻ nắm giữ lớp da Đại Sư lừa đảo!",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806f9c501a79a166cdf8f5e",
+                "Name": "Chương 796: Yêu khí bắt giữ khí",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6806f9c501a79a166cdf8f5d",
+                "Name": "Chương 795: Nhân Số Không Đúng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805adfd01a79a166cd93bb1",
+                "Name": "Chương 794: Thiên Giới có quỷ vật",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6805adfd01a79a166cd93bb0",
+                "Name": "Chương 793: Hoàng Phủ, giúp ta phi thăng",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}

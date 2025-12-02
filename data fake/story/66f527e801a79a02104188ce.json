@@ -1,0 +1,335 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Mang Thai Với Cha Của Vai Ác",
+            "StoryImage": "mang-thai-voi-cha-cua-vai-ac.jpg",
+            "StoryDescription": "Ai ngờ một đêm say xỉn lại đưa cô nàng Hứa Hàm vào một cuộc phiêu lưu kỳ lạ đến thế! Từ một độc giả bình thường, cô bỗng chốc trở thành mẹ đơn thân của con trai một đại Boss phản diện trong truyện. Vừa mang bầu, vừa phải đối mặt với tương lai bất định, Hứa Hàm quyết định: \"Thôi thì mang theo con về quê làm ruộng, nuôi dạy con thành người tốt!\" Một câu chuyện hài hước, ấm áp và đầy bất ngờ đang chờ đón bạn.",
+            "StoryUpdateTime": "2024-09-26T10:12:11.515876Z",
+            "StoryUpdateTimeTick": 638629393682953605,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Điềm Tức Chính Nghĩa",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66f5283001a79a02104188cf",
+                    "MongoId": "66f5283001a79a02104188cf"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 116: Ngoại truyện 5",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Nữ Phụ",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "nu-phu",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0ff01a79a05c8ae5aef",
+                    "MongoId": "6576b0ff01a79a05c8ae5aef"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "mang-thai-voi-cha-cua-vai-ac-chuong-116",
+            "Keyword": "mang thai với cha của vai ác mang thai voi cha cua vai ac",
+            "StoryView": 3909,
+            "NumberUserFollow": 1,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "mang-thai-voi-cha-cua-vai-ac",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3909,
+            "StoryViewInWeek": 179,
+            "StoryViewInMonth": 573,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "mang-thai-voi-cha-cua-vai-ac-chuong-1",
+            "StoryIDFirstChap": "66f5302601a79a02104188d7",
+            "SoChuong": 116,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Một cú click chuột đưa Hứa Hàm từ thế giới hiện đại xuyên không vào một thế giới khác, trở thành \"mẹ đơn thân\" của con trai một nhân vật phản diện. Liệu cô có thể nuôi dạy đứa trẻ này thành người tốt, tránh cho cậu ta lặp lại những sai lầm của cha? Câu chuyện không chỉ là một cuộc phiêu lưu hài hước mà còn là một hành trình đầy ý nghĩa về tình mẫu tử.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "66f527e801a79a02104188ce",
+            "MongoId": "66f527e801a79a02104188ce"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66f527e801a79a02104188ce",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66f5302601a79a02104188d7",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//sinh-hoat-binh-thuong-cua-tiep-dan-gia.jpg",
+                "StoryName": "Sinh Hoạt Bình Thường Của Tiếp Dẫn Giả",
+                "StoryTitleLastChap": "Chương 1527: Ngoại truyện 57: Mau Mau Lớn Lên. HẾT.",
+                "StoryID": "65a504b701a79a0db072b40d",
+                "StoryUpdateTime": "1/18/2024 4:27:20 AM",
+                "StoryNameK": "sinh-hoat-binh-thuong-cua-tiep-dan-gia"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dinh-nui-nha-toi-thong-nien-dai.jpg",
+                "StoryName": "Đỉnh Núi Nhà Tôi Thông Niên Đại",
+                "StoryTitleLastChap": "Chương 905: Kết phiên ngoại 7-toàn văn hoàn",
+                "StoryID": "6576c65801a79a05c8ae9bdd",
+                "StoryUpdateTime": "12/11/2023 9:20:44 AM",
+                "StoryNameK": "dinh-nui-nha-toi-thong-nien-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau.jpg",
+                "StoryName": "Xuyên Thành Nha Hoàn Của Nữ Chính, Ta Nằm Yên Làm Giàu (Dịch)",
+                "StoryTitleLastChap": "Chương 670: Phiên ngoại 16. HẾT.",
+                "StoryID": "65b86df401a79a1118f69209",
+                "StoryUpdateTime": "8/20/2024 9:36:01 AM",
+                "StoryNameK": "xuyen-thanh-nha-hoan-cua-nu-chinh-ta-nam-yen-lam-giau-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//bia-do-dan-phan-cong.jpg",
+                "StoryName": "Bia Đỡ Đạn Phản Công",
+                "StoryTitleLastChap": "Chương 1350: Thanh mai trúc mã 18 end",
+                "StoryID": "66558dcf01a79a0eb8f73730",
+                "StoryUpdateTime": "5/28/2024 9:47:15 AM",
+                "StoryNameK": "bia-do-dan-phan-cong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chan-nuoi-toan-nhan-loai.jpg",
+                "StoryName": "Chăn Nuôi Toàn Nhân Loại",
+                "StoryTitleLastChap": "Chương 967 - Tin Tức Đáng Sợ 2",
+                "StoryID": "6669412b01a79a1adc17ac1b",
+                "StoryUpdateTime": "6/12/2024 7:33:04 AM",
+                "StoryNameK": "chan-nuoi-toan-nhan-loai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-me-ke-xinh-dep-(dich.jpg",
+                "StoryName": "Thập Niên 70: Mẹ Kế Xinh Đẹp (Dịch)",
+                "StoryTitleLastChap": "Chương 1560: Toàn văn hoàn",
+                "StoryID": "66bda8a701a79a0728fe51c3",
+                "StoryUpdateTime": "8/15/2024 9:55:14 AM",
+                "StoryNameK": "thap-nien-70-me-ke-xinh-dep-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-90-trong-sinh-treu-gheo-nam-than-(dich.jpg",
+                "StoryName": "Thập Niên 90: Trọng Sinh Trêu Ghẹo Nam Thần (Dịch)",
+                "StoryTitleLastChap": "Chương 1741 Hứa yêu em ba kiếp 5 [Hoàn Truyện]",
+                "StoryID": "66c05ff801a79a0fdc6a21ff",
+                "StoryUpdateTime": "8/17/2024 9:42:30 AM",
+                "StoryNameK": "thap-nien-90-trong-sinh-treu-gheo-nam-than-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho.jpg",
+                "StoryName": "Ngẫu Nhiên Bày Quầy Bán Hàng, Khách Hàng Đuổi Theo Tôi Mười Con Phố (Dịch)",
+                "StoryTitleLastChap": "Chương 1040: Đại kết cục",
+                "StoryID": "65f0131d01a79a0534006e62",
+                "StoryUpdateTime": "11/28/2024 10:14:21 AM",
+                "StoryNameK": "ngau-nhien-bay-quay-ban-hang-khach-hang-duoi-theo-toi-muoi-con-pho-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tro-choi-doi-khat-cau-sinh.jpg",
+                "StoryName": "Trò Chơi Đói Khát Cầu Sinh",
+                "StoryTitleLastChap": "Chương 444: Sống lại 22. Hết",
+                "StoryID": "657966e601a79a0b387a2471",
+                "StoryUpdateTime": "1/8/2024 7:52:26 AM",
+                "StoryNameK": "tro-choi-doi-khat-cau-sinh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thap-nien-70-gia-dinh-cuc-pham-(dich.jpg",
+                "StoryName": "Thập Niên 70: Gia Đình Cực Phẩm (Dịch)",
+                "StoryTitleLastChap": "Chương 1182 - Ngoại truyện 4",
+                "StoryID": "66b08d1301a79a0f1801a040",
+                "StoryUpdateTime": "8/5/2024 10:28:24 AM",
+                "StoryNameK": "thap-nien-70-gia-dinh-cuc-pham-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//trong-sinh-tieu-dia-chu.jpg",
+                "StoryName": "Trọng Sinh Tiểu Địa Chủ",
+                "StoryTitleLastChap": "Chương 1023: Phiên ngoại 8",
+                "StoryID": "664d9d6701a79a0ee04ee895",
+                "StoryUpdateTime": "5/22/2024 8:57:22 AM",
+                "StoryNameK": "trong-sinh-tieu-dia-chu"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66f5313c01a79a02104189bd",
+                "Name": "Chương 116: Ngoại truyện 5",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5313901a79a02104189bb",
+                "Name": "Chương 115: Ngoại truyện 4",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5313701a79a02104189b9",
+                "Name": "Chương 114: Ngoại truyện 3",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5313401a79a02104189b7",
+                "Name": "Chương 113: Ngoại truyện 2",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5313201a79a02104189b5",
+                "Name": "Chương 112: Ngoại truyện 1",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5313001a79a02104189b3",
+                "Name": "Chương 111: Kết thúc - Hoàn chính văn",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5312d01a79a02104189b1",
+                "Name": "Chương 110: Thư mời",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5312b01a79a02104189af",
+                "Name": "Chương 109: Thơm thơm",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5312801a79a02104189ad",
+                "Name": "Chương 108: Không nghe lời",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f5312501a79a02104189ab",
+                "Name": "Chương 107",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

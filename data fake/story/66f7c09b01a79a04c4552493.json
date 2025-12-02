@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Nhà Tú Tài Có Nữ Nhi Bận Rộn Làm Ruộng",
+            "StoryImage": "nha-tu-tai-co-nu-nhi-ban-ron-lam-ruong.jpg",
+            "StoryDescription": "Nhà Tú Tài Có Nữ Nhi Bận Rộn Làm Ruộng - Từ một cô tiểu thư sang chảnh, Liễu Nha Nhi xuyên không trở thành con gái của một nhà tú tài nghèo. Cuộc sống của nàng bỗng chốc đảo lộn 180 độ khi phải đối mặt với những khó khăn của cuộc sống nông dân. Liệu nàng có thể từ bỏ cuộc sống nhung lụa để thích nghi với cuộc sống mới? Và bí mật đằng sau những loại cỏ dại mà nàng vô tình phát hiện sẽ là gì?",
+            "StoryUpdateTime": "2024-09-28T09:33:50.6414215Z",
+            "StoryUpdateTimeTick": 638631095317908592,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 0,
+            "StoryLastChap": 0,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Nhất Chỉ Nga Nga",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "66f7c14d01a79a04c4552494",
+                    "MongoId": "66f7c14d01a79a04c4552494"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 202: Hoàn",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Làm Giàu",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "lam-giau",
+                    "gender": 1,
+                    "theloaitype": 1,
+                    "Id": "6578277701a79a1344387627",
+                    "MongoId": "6578277701a79a1344387627"
+                },
+                {
+                    "TenTheLoai": "Mỹ Thực",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "my-thuc",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b12201a79a05c8ae5af1",
+                    "MongoId": "6576b12201a79a05c8ae5af1"
+                },
+                {
+                    "TenTheLoai": "Ngôn Tình",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "ngon-tinh",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9238e15c3c512383c31d4",
+                    "MongoId": "61d9238e15c3c512383c31d4"
+                },
+                {
+                    "TenTheLoai": "Sủng",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "sung",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9251d15c3c512383c32b2",
+                    "MongoId": "61d9251d15c3c512383c32b2"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Điền Văn",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "dien-van",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "6576b0f401a79a05c8ae5aee",
+                    "MongoId": "6576b0f401a79a05c8ae5aee"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Free",
+                    "GioiThieu": "Nơi chứa tất cả các truyện free",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "free",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "677cd2bc01a7ab16685505b3",
+                    "MongoId": "677cd2bc01a7ab16685505b3"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "nha-tu-tai-co-nu-nhi-ban-ron-lam-ruong-chuong-202",
+            "Keyword": "nhà tú tài có nữ nhi bận rộn làm ruộng nha tu tai co nu nhi ban ron lam ruong",
+            "StoryView": 3614,
+            "NumberUserFollow": 2,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "nha-tu-tai-co-nu-nhi-ban-ron-lam-ruong",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 3614,
+            "StoryViewInWeek": 100,
+            "StoryViewInMonth": 477,
+            "NumberReview": 0,
+            "NumberComment": 0,
+            "StoryNameKFirstChap": "nha-tu-tai-co-nu-nhi-ban-ron-lam-ruong-chuong-1",
+            "StoryIDFirstChap": "66f7cb5301a79a04c455249a",
+            "SoChuong": 202,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 0,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Free",
+                "Gia": 0,
+                "DateEffect": 0,
+                "DisableAds": false,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlD2uubdzb-La8-MlawUq1AFLNyf4EGZYh63lLKNIMKzY5Z8VN-AAHjrK2ln4oFMXaY88abtvPabHbdF6P99cq6ZYUQKAVwSP1eIsSNXAH5Dc2MoBjFaYCM9iDKEemCvHVa0BKu-0o1qlcM2lPj6tCJRIYW8E7mt52UcAw448d0Dl1nPBxnMQSB0Ii-qg/s1600/free2.png",
+                "ColorNickName": "#000000",
+                "Description": "Khách thập phương\r\nLuôn có những truyện dành cho các vị khách thập phương",
+                "ModNumber": -1,
+                "xuthem": 0,
+                "Id": "6785f20201a79b0da8d4f483",
+                "MongoId": "6785f20201a79b0da8d4f483"
+            },
+            "Id": "66f7c09b01a79a04c4552493",
+            "MongoId": "66f7c09b01a79a04c4552493"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "66f7c09b01a79a04c4552493",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "66f7cb5301a79a04c455249a",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 0,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cung-chieu-co-vo-quan-nhan.jpg",
+                "StoryName": "Cưng Chiều Cô Vợ Quân Nhân",
+                "StoryTitleLastChap": "Chương 2593",
+                "StoryID": "66f6815101a79a1bb849e779",
+                "StoryUpdateTime": "10/2/2024 4:35:34 AM",
+                "StoryNameK": "cung-chieu-co-vo-quan-nhan"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-vo-ngot-ngao-co-chut-bat-luong.jpg",
+                "StoryName": "Cô Vợ Ngọt Ngào Có Chút Bất Lương",
+                "StoryTitleLastChap": "Chương 2489: Khúc nhạc dạo: Cuộc so đấu vô sỉ (Hoàn)",
+                "StoryID": "664d918201a79a0ee04ec43e",
+                "StoryUpdateTime": "5/22/2024 8:19:43 AM",
+                "StoryNameK": "co-vo-ngot-ngao-co-chut-bat-luong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nam-chu-benh-kieu-sung-len-troi.jpg",
+                "StoryName": "Nam Chủ Bệnh Kiều, Sủng Lên Trời",
+                "StoryTitleLastChap": "Chương 2128: 2128: Phiên Ngoại 10 Tô Cổ - Tiểu Hồng - Kết Thúc",
+                "StoryID": "6638954f01a79a1a00b23bc9",
+                "StoryUpdateTime": "5/7/2024 7:24:28 AM",
+                "StoryNameK": "nam-chu-benh-kieu-sung-len-troi"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//choc-tuc-vo-yeu---mua-mot-tang-mot.jpg",
+                "StoryName": "Chọc Tức Vợ Yêu - Mua Một Tặng Một",
+                "StoryTitleLastChap": "Chương 2165: Ngoại truyện 9. Trái tim nhỏ bé của cháu",
+                "StoryID": "6644896d01a79a13fc6ae029",
+                "StoryUpdateTime": "5/16/2024 5:00:06 AM",
+                "StoryNameK": "choc-tuc-vo-yeu-mua-mot-tang-mot"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//xuyen-den-nien-dai-duong-co-nai-nai.jpg",
+                "StoryName": "Xuyên Đến Niên Đại Đương Cô Nãi Nãi",
+                "StoryTitleLastChap": "Chương 899: Làm con rùa",
+                "StoryID": "67b6d40601a79a15fc468031",
+                "StoryUpdateTime": "2/21/2025 10:37:44 AM",
+                "StoryNameK": "xuyen-den-nien-dai-duong-co-nai-nai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-the-tu-tien-ta-chi-di-boi-duong-hon-sung.jpg",
+                "StoryName": "Không Thể Tu Tiên Ta Chỉ Đi Bồi Dưỡng Hồn Sủng",
+                "StoryTitleLastChap": "Chương 1417: Khí Tức Kinh Khủng! Thời Không Khác! (Hoàn Thành)",
+                "StoryID": "6576e49001a79a05c8af073c",
+                "StoryUpdateTime": "12/12/2023 2:29:48 AM",
+                "StoryNameK": "khong-the-tu-tien-ta-chi-di-boi-duong-hon-sung"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//co-vo-dang-gom-cua-lang-thieu.jpg",
+                "StoryName": "Cô Vợ Đáng Gờm Của Lăng Thiếu",
+                "StoryTitleLastChap": "Chương 1280",
+                "StoryID": "6623665f01a79a0f24e6ded0",
+                "StoryUpdateTime": "7/29/2024 3:31:19 AM",
+                "StoryNameK": "co-vo-dang-gom-cua-lang-thieu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//dinh-nui-nha-toi-thong-nien-dai.jpg",
+                "StoryName": "Đỉnh Núi Nhà Tôi Thông Niên Đại",
+                "StoryTitleLastChap": "Chương 905: Kết phiên ngoại 7-toàn văn hoàn",
+                "StoryID": "6576c65801a79a05c8ae9bdd",
+                "StoryUpdateTime": "12/11/2023 9:20:44 AM",
+                "StoryNameK": "dinh-nui-nha-toi-thong-nien-dai"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//cuoc-song-hang-ngay-cua-dai-su-huyen-hoc.jpg",
+                "StoryName": "Cuộc Sống Hàng Ngày Của Đại Sư Huyền Học",
+                "StoryTitleLastChap": "Chương 790: Kết phiên ngoại",
+                "StoryID": "6576c4db01a79a05c8ae95b6",
+                "StoryUpdateTime": "12/11/2023 9:15:21 AM",
+                "StoryNameK": "cuoc-song-hang-ngay-cua-dai-su-huyen-hoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//chu-tich-nguy-hiem--sung-co-vo-nho-(dich.jpg",
+                "StoryName": "Chủ Tịch Nguy Hiểm , Sủng Cô Vợ Nhỏ (Dịch)",
+                "StoryTitleLastChap": "Chương 3299: Kết thúc văn chính.",
+                "StoryID": "66cc30c001a79a0538cfa583",
+                "StoryUpdateTime": "8/28/2024 4:22:40 AM",
+                "StoryNameK": "chu-tich-nguy-hiem-sung-co-vo-nho-dich"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thiep-than-dac-cong.jpg",
+                "StoryName": "Thiếp Thân Đặc Công",
+                "StoryTitleLastChap": "Chương 1857: chúng nữ đắc ý tụ tập: sống hay chết",
+                "StoryID": "67035a0201a79a1af09adfa4",
+                "StoryUpdateTime": "10/9/2024 6:20:26 AM",
+                "StoryNameK": "thiep-than-dac-cong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-menh-chi-ton.jpg",
+                "StoryName": "Thiên Mệnh Chí Tôn",
+                "StoryTitleLastChap": "Chương 1800: Ông tới từ đâu thế",
+                "StoryID": "66fc9c1601a79a0c280792bb",
+                "StoryUpdateTime": "10/3/2024 4:49:59 AM",
+                "StoryNameK": "thien-menh-chi-ton"
+            }
+        ],
+        "topcomment": [],
+        "last10chap": [
+            {
+                "Id": "66f7cd6101a79a04c4553319",
+                "Name": "Chương 202: Hoàn",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5e01a79a04c4553316",
+                "Name": "Chương 201",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5c01a79a04c4553314",
+                "Name": "Chương 200",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5901a79a04c4553311",
+                "Name": "Chương 199",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5701a79a04c455330e",
+                "Name": "Chương 198",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5501a79a04c455330b",
+                "Name": "Chương 197",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5201a79a04c4553308",
+                "Name": "Chương 196",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd5001a79a04c4553305",
+                "Name": "Chương 195",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd4d01a79a04c4553302",
+                "Name": "Chương 194",
+                "isBuy": 0,
+                "iChapVip": 0
+            },
+            {
+                "Id": "66f7cd4b01a79a04c45532ff",
+                "Name": "Chương 193",
+                "isBuy": 0,
+                "iChapVip": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,373 @@
+{
+    "success": true,
+    "data": {
+        "story": {
+            "SoXuDayManh": 0,
+            "SoXuHienTai": 0,
+            "SoPhieuDeCu": 0,
+            "MenuID": 0,
+            "StoryName": "Bắt Đầu Thành Thánh Từ Hoa Quả Sơn",
+            "StoryImage": "bat-dau-thanh-thanh-tu-hoa-qua-son.jpg",
+            "StoryDescription": "<b>Tôn Viên</b>, một con người bình thường, bỗng chốc xuyên không đến thế giới Tây Du Ký, trở thành một chú khỉ con bình thường trên Hoa Quả Sơn.&nbsp;<p><br></p><p>Tôn Viên nhận được hệ thống mô phỏng, giúp anh có thể trải nghiệm vô số kiếp nhân sinh khác nhau trong thế giới Tây Du. Mỗi lần mô phỏng, Tôn Viên đều có thể bảo lưu tu vi, công pháp và kinh nghiệm, giúp anh dần dần tiến bộ và trở nên mạnh mẽ hơn.</p><p>Bất chấp những lần chết chóc và thử thách, Tôn Viên không ngừng nỗ lực, rèn luyện bản thân và cuối cùng đạt được mục tiêu thành thánh.</p><p>Tôn Viên trải qua vô số kiếp nhân sinh, từ con khỉ con bình thường đến đệ tử của các vị tiên nhân, thậm chí là yêu quái hung hãn.</p><p>Mỗi kiếp nhân sinh đều ẩn chứa những nguy hiểm và thử thách khác nhau, buộc Tôn Viên phải chiến đấu và sinh tồn.</p><p>Qua mỗi lần mô phỏng, Tôn Viên dần dần hiểu rõ thế giới Tây Du, biết được những bí mật và cách thức để sinh tồn và trở nên mạnh mẽ</p><p>Nhờ sự kiên trì và nỗ lực không ngừng, Tôn Viên cuối cùng đã đạt được cảnh giới Thánh, trở thành một trong những cường giả mạnh nhất thế giới Tây Du.</p><p>Nhờ kiến thức và kinh nghiệm từ các kiếp nhân sinh trước, Tôn Viên có thể thay đổi vận mệnh của bản thân và những người xung quanh, giúp họ tránh khỏi những tai họa và có một cuộc sống tốt đẹp hơn.</p><p>Tôn Viên trở thành vị Thánh nhân được mọi người kính ngưỡng, truyền bá đạo pháp và giúp đỡ chúng sinh.</p><p><b>Bắt Đầu Thành Thánh Từ Hoa Quả Sơn</b> là một câu chuyện phiêu lưu kỳ thú, hấp dẫn, mang đến cho người đọc những giây phút giải trí tuyệt vời và những bài học ý nghĩa về lòng kiên trì, nghị lực và sự quyết tâm theo đuổi ước mơ. Truyện phù hợp với những ai yêu thích thể loại tu tiên, huyền ảo và muốn khám phá thế giới Tây Du Ký theo một cách mới mẻ và độc đáo.<br></p>",
+            "StoryUpdateTime": "2025-01-13T10:55:40.8301987Z",
+            "StoryUpdateTimeTick": 638364990155825295,
+            "IsDisplay": 1,
+            "IsFull": 1,
+            "IsKhuyenKhichDoc": 1,
+            "StoryLastChap": 867,
+            "StoryAuthorInfo": [
+                {
+                    "TenTacGia": "Họa Họa Đích Lưu Liên",
+                    "GioiThieu": null,
+                    "HinhAnh": "noimage.jpg",
+                    "Stories": [],
+                    "Id": "6561b5b701a79b106c650634",
+                    "MongoId": "6561b5b701a79b106c650634"
+                }
+            ],
+            "StoryTitleLastChap": "Chương 867: Hỗn Độn bên trên, cũng không vĩnh hằng (Đại kết cục)",
+            "StoryTheLoai": [
+                {
+                    "TenTheLoai": "Tiên Hiệp",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "tien-hiep",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d90ebb15c3c608085daeea",
+                    "MongoId": "61d90ebb15c3c608085daeea"
+                },
+                {
+                    "TenTheLoai": "Xuyên Không",
+                    "GioiThieu": "",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xuyen-khong",
+                    "gender": 0,
+                    "theloaitype": 1,
+                    "Id": "61d9131015c3c70808d2b7a4",
+                    "MongoId": "61d9131015c3c70808d2b7a4"
+                },
+                {
+                    "TenTheLoai": "Truyện Dịch",
+                    "GioiThieu": "Nơi Tập Trung Những Truyện Dịch",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "truyen-dich",
+                    "gender": 0,
+                    "theloaitype": 0,
+                    "Id": "6561b30e01a79b106c650414",
+                    "MongoId": "6561b30e01a79b106c650414"
+                },
+                {
+                    "TenTheLoai": "Xa Lộ Dịch",
+                    "GioiThieu": "",
+                    "DisplayInMain": 1,
+                    "theloaiavatar": null,
+                    "namek": "xa-lo-dich",
+                    "gender": 1,
+                    "theloaitype": 0,
+                    "Id": "676cb55201a79a056cb4d182",
+                    "MongoId": "676cb55201a79a056cb4d182"
+                },
+                {
+                    "TenTheLoai": "Xây Dựng Thế Lực",
+                    "GioiThieu": "Nơi tập trung những truyện thể loại thuần xây dựng thế lực, đánh chiếm địa bàn",
+                    "DisplayInMain": 0,
+                    "theloaiavatar": null,
+                    "namek": "xay-dung-the-luc",
+                    "gender": 0,
+                    "theloaitype": 2,
+                    "Id": "6561b36101a79b106c650459",
+                    "MongoId": "6561b36101a79b106c650459"
+                }
+            ],
+            "StoryAuthor": "",
+            "StoryNhomDich": [],
+            "StarRate": 2.5,
+            "ListUserRate": [],
+            "StoryMark": 3.0,
+            "NameKLastChap": "bat-dau-thanh-thanh-tu-hoa-qua-son-chuong-867",
+            "Keyword": "bắt đầu thành thánh từ hoa quả sơn bat dau thanh thanh tu hoa qua son",
+            "StoryView": 27572,
+            "NumberUserFollow": 25,
+            "NumberRate": 0,
+            "StoryCreateID": "webadmin",
+            "StoryCreateType": "admin",
+            "Tags": "",
+            "StoryNameK": "bat-dau-thanh-thanh-tu-hoa-qua-son",
+            "HasAudio": false,
+            "SoChuongAudio": 0,
+            "LuotNgheAudio": 0,
+            "StoryViewInDay": 27572,
+            "StoryViewInWeek": 44,
+            "StoryViewInMonth": 1587,
+            "NumberReview": 0,
+            "NumberComment": 2,
+            "StoryNameKFirstChap": "bat-dau-thanh-thanh-tu-hoa-qua-son-chuong-1-thach-hau-xuat-the-he-thong-giang-lam-(1)",
+            "StoryIDFirstChap": "6564442b01a79b12f0c94b2a",
+            "SoChuong": 867,
+            "GiaMoAll": 0,
+            "TotalBuy": 0,
+            "SoLuotRate": 1,
+            "SoLuotMua": 1475,
+            "StoryMetaKeyword": "",
+            "StoryMetaDescription": "Bắt Đầu Thành Thánh Từ Hoa Quả Sơn: Hành trình phi thường của Tôn Viên\r\nTôn Viên, một con người bình thường, bỗng chốc xuyên không đến thế giới Tây Du Ký, trở thành một chú khỉ con bình thường trên Hoa Quả Sơn.",
+            "IsTruyenConvert": 0,
+            "RefID": null,
+            "VipYeuCau": {
+                "TenGoi": "Vip 0",
+                "Gia": 50000,
+                "DateEffect": 0,
+                "DisableAds": true,
+                "EnableComment": false,
+                "EnablePost": false,
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "BadgeImageVip": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8OECUTkduWke2-g9PwGTrFo81W_gt9BvIBiPGeJe0Ne2xxp5Fnm8EP43-C-FqaPGHl_BSrRN2LeQehLo63CpY1ubSfRyIf0Dj4WPOFRIbEcQAEaXnw9Ay525HfLDKO7zYWv-nhf3dUQqcu8coa9NnHSWyvW1gxD7rjdVOTUhmaIgYgLZwpnFAv3pF_Q/s1600/1.png",
+                "ColorNickName": "#000000",
+                "Description": "Đẳng cấp vip 0\r\n- Đọc hết các truyện dành cho vip 0, và khách thường\r\n- Tên khi hiển thị comment có phi phong vip thường\r\n- Màu tên nick đậm, màu đen",
+                "ModNumber": 0,
+                "xuthem": 0,
+                "Id": "6759329501a79b1144dd3152",
+                "MongoId": "6759329501a79b1144dd3152"
+            },
+            "Id": "6561b54701a79b106c6505dc",
+            "MongoId": "6561b54701a79b106c6505dc"
+        },
+        "urlimage": "https://admin.xalosach.com/Pictures/Truyen/Large",
+        "numreview": 0,
+        "isTheoDoi": 1,
+        "review": [
+            {
+                "rate5": 0,
+                "rate4": 0,
+                "rate3": 0,
+                "rate2": 0,
+                "rate1": 0,
+                "ratemedium": 0.0,
+                "numberuserrate": 0,
+                "storyid": "6561b54701a79b106c6505dc",
+                "Id": "000000000000000000000000",
+                "MongoId": "000000000000000000000000"
+            }
+        ],
+        "urluser": "https://admin.xalosach.com/Pictures/User",
+        "firstchap": {
+            "Id": "6564442b01a79b12f0c94b2a",
+            "Name": "Chapter 1",
+            "type": 0
+        },
+        "numcomment": 2,
+        "truyenlienquan": [
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//khong-khoa-hoc-ngu-thu.jpg",
+                "StoryName": "Không Khoa Học Ngự Thú",
+                "StoryTitleLastChap": "Chương 504: Thăng quan phát tài cưới Nữ Đế",
+                "StoryID": "67eb509701a79a18a4ae2188",
+                "StoryUpdateTime": "4/25/2025 7:32:17 AM",
+                "StoryNameK": "khong-khoa-hoc-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh.jpg",
+                "StoryName": "Thiên Đạo Thù Cần: Từ Hổ Hình Quyền Bắt Đầu Luyện Thành Võ Thánh",
+                "StoryTitleLastChap": "Chương 304: Bút ký! Quỷ dị!",
+                "StoryID": "67ff1dbe01a79a01f405ce5a",
+                "StoryUpdateTime": "4/25/2025 7:19:29 AM",
+                "StoryNameK": "thien-dao-thu-can-tu-ho-hinh-quyen-bat-dau-luyen-thanh-vo-thanh"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty.jpg",
+                "StoryName": "Thần Hào Trò Chơi Xâm Lấn: Tỏ Tình Giáo Hoa, Khen Thưởng 10 Tỷ!",
+                "StoryTitleLastChap": "Chương 592: Chụt, hôn anh một cái!",
+                "StoryID": "67f78f8201a79a123401867e",
+                "StoryUpdateTime": "4/25/2025 7:15:36 AM",
+                "StoryNameK": "than-hao-tro-choi-xam-lan-to-tinh-giao-hoa-khen-thuong-10-ty"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong-dich.jpg",
+                "StoryName": "Ta Chỉ Muốn Về Hưu, Lại Bị Ép Trở Thành Đại Tướng",
+                "StoryTitleLastChap": "Chương 839: Thế lực ngang nhau",
+                "StoryID": "674d790801a79a23501f468a",
+                "StoryUpdateTime": "4/25/2025 7:05:06 AM",
+                "StoryNameK": "ta-chi-muon-ve-huu-lai-bi-ep-tro-thanh-dai-tuong"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//han-so-voi-ta-hieu-pokemon.jpg",
+                "StoryName": "Hắn So Với Ta Hiểu Pokemon",
+                "StoryTitleLastChap": "Chương 1479 Ràng buộc chi lực, lửa mạnh!",
+                "StoryID": "67ee3a9a01a79a1598255677",
+                "StoryUpdateTime": "4/25/2025 7:03:18 AM",
+                "StoryNameK": "han-so-voi-ta-hieu-pokemon"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam.jpg",
+                "StoryName": "Vào Tù 10 Năm, Ai Còn Thấy Việc Nghĩa Là Hăng Hái Làm?",
+                "StoryTitleLastChap": "Chương 360: Nguyên lai là hỗn hắc đạo",
+                "StoryID": "6805cce201a79a166cdb29c0",
+                "StoryUpdateTime": "4/25/2025 7:00:29 AM",
+                "StoryNameK": "vao-tu-10-nam-ai-con-thay-viec-nghia-la-hang-hai-lam"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ai-bao-nguoi-nhu-the-ngu-thu.jpg",
+                "StoryName": "Ai Bảo Ngươi Như Thế Ngự Thú",
+                "StoryTitleLastChap": "Chương 924: Pháp bồi dưỡng thứ hai! Hoàn thiện loại phụ thể!",
+                "StoryID": "67e66a2301a79a1bd4737bc1",
+                "StoryUpdateTime": "4/25/2025 6:59:28 AM",
+                "StoryNameK": "ai-bao-nguoi-nhu-the-ngu-thu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//ly-tri-dung-nhu-nhuoc.jpg",
+                "StoryName": "Lý Trị Đừng Nhu Nhược",
+                "StoryTitleLastChap": "Chương 770: Vận trù duy ác",
+                "StoryID": "67f8b8e901a79a13f4b67498",
+                "StoryUpdateTime": "4/25/2025 6:48:12 AM",
+                "StoryNameK": "ly-tri-dung-nhu-nhuoc"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu.jpg",
+                "StoryName": "Nương Tử! Nàng Sẽ Không Định Hạ Độc Ta Đấy Chứ?",
+                "StoryTitleLastChap": "Chương 975: Nhữ Dương Vương: Cái này, cái này sao có thể, hắn làm sao có thể mạnh như vậy (4)",
+                "StoryID": "67f4ef7801a79a0338a9b345",
+                "StoryUpdateTime": "4/25/2025 6:41:49 AM",
+                "StoryNameK": "nuong-tu-nang-se-khong-dinh-ha-doc-ta-day-chu"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//tu-son-tac-bat-dau-vo-hiep.jpg",
+                "StoryName": "Từ Sơn Tặc Bắt Đầu Võ Hiệp",
+                "StoryTitleLastChap": "Chương 400: Kim Đan nhị chuyển!",
+                "StoryID": "6801b27401a79a170c5e4603",
+                "StoryUpdateTime": "4/25/2025 4:58:28 AM",
+                "StoryNameK": "tu-son-tac-bat-dau-vo-hiep"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//vo-thuong-thien-ton.jpg",
+                "StoryName": "Vô Thượng Thiên Tôn",
+                "StoryTitleLastChap": "Chương 80: Kết Duyên",
+                "StoryID": "669a3e2401a79a137018987a",
+                "StoryUpdateTime": "4/25/2025 4:27:52 AM",
+                "StoryNameK": "vo-thuong-thien-ton"
+            },
+            {
+                "StoryImage": "https://admin.xalosach.com/Pictures/tieuthuyet/Large//truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me.jpg",
+                "StoryName": "Trường Sinh Phản Phái: Hoành Đao Đoạt Ái Liền Trở Nên Mạnh Mẽ",
+                "StoryTitleLastChap": "Chương 112: Ôm Chiêm cô nương",
+                "StoryID": "680b051801a79a07c0e70bf2",
+                "StoryUpdateTime": "4/25/2025 4:25:03 AM",
+                "StoryNameK": "truong-sinh-phan-phai-hoanh-dao-doat-ai-lien-tro-nen-manh-me"
+            }
+        ],
+        "topcomment": [
+            {
+                "StoryID": "6561b54701a79b106c6505dc",
+                "StoryName": "Bắt Đầu Thành Thánh Từ Hoa Quả Sơn",
+                "TypeID": 3,
+                "LinkUrl": "/bat-dau-thanh-thanh-tu-hoa-qua-son-0.html",
+                "UserNameComment": "hoangtr004",
+                "UserIdComment": "65c0207101a79a130c2afe35",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2024-04-01T17:28:54.7837142Z",
+                "CommentContent": "sao không xem được vậy ạ",
+                "UserLevel": {
+                    "SoThuTu": 1,
+                    "DangCapName": "Bất Nhập Lưu Võ Giả",
+                    "TriKinhNghiem": 100,
+                    "CongHienYeuCau": 0,
+                    "Id": "61430cff15c3c513e8741b46",
+                    "MongoId": "61430cff15c3c513e8741b46"
+                },
+                "UserAvatar": "hoangtr004.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "Id": "660a8c6601a79a1284bb2c46",
+                "MongoId": "660a8c6601a79a1284bb2c46"
+            },
+            {
+                "StoryID": "6561b54701a79b106c6505dc",
+                "StoryName": "Bắt Đầu Thành Thánh Từ Hoa Quả Sơn",
+                "TypeID": 3,
+                "LinkUrl": "/bat-dau-thanh-thanh-tu-hoa-qua-son-0.html",
+                "UserNameComment": "seymour",
+                "UserIdComment": "65b9166001a79a1454238975",
+                "IdCommentParent": "0",
+                "CommentDatePost": "2024-03-18T13:22:31.3136205Z",
+                "CommentContent": "Truyện đăng thiếu mấy chap nên thành ra nội dung ko liền mạch, mong ad xem xét bổ sung các chap bị thiếu đi ạ",
+                "UserLevel": {
+                    "SoThuTu": 6,
+                    "DangCapName": "Tiên Thiên Võ Giả",
+                    "TriKinhNghiem": 1200,
+                    "CongHienYeuCau": 0,
+                    "Id": "61430d6215c3c513e8741b4b",
+                    "MongoId": "61430d6215c3c513e8741b4b"
+                },
+                "UserAvatar": "seymour.jpg",
+                "UserType": 0,
+                "DanhHieu": "Tu Sĩ Cấp Thấp",
+                "Id": "65f7dda701a79a183c9e112c",
+                "MongoId": "65f7dda701a79a183c9e112c"
+            }
+        ],
+        "last10chap": [
+            {
+                "Id": "6784ef0d01a79b0da8d46389",
+                "Name": "Chương 867: Hỗn Độn bên trên, cũng không vĩnh hằng (Đại kết cục)",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46388",
+                "Name": "Chương 866: Đánh lén Hồng Quân",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46387",
+                "Name": "Chương 865: Tân thế giới mở mang",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46386",
+                "Name": "Chương 864: Lấy kinh và cuộc đại loạn",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46385",
+                "Name": "Chương 863: Hệ thống cuối cùng công năng, chế giới mô phỏng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46384",
+                "Name": "Chương 862: Yêu Hoàng Lục Áp",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46383",
+                "Name": "Chương 861: Dung hợp, vẫn là siêu thoát?",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46382",
+                "Name": "Chương 860: Không có kẻ thống trị vĩnh hằng",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46381",
+                "Name": "Chương 859: Thủy Hoàng Đế trở về",
+                "isBuy": 0,
+                "iChapVip": 1
+            },
+            {
+                "Id": "6784ef0d01a79b0da8d46380",
+                "Name": "Chương 858: Hỗn Độn kiếm thành, thâm nhập Hỗn Độn",
+                "isBuy": 0,
+                "iChapVip": 1
+            }
+        ]
+    }
+}
